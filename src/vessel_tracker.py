@@ -81,7 +81,7 @@ with open(KNOWN_VESSELS_FILE, 'w') as file:
     json.dump(known_vessels, file, sort_keys=True, indent=2)
 
 # temporary slack channel for testing, normal channel is baked in the webhook
-# channel = '#test-vessel-tracker'
+channel = '#test-vessel-tracker'
 
 if new_or_returning_vessels:
     message = 'New vessels in the area:\n'
@@ -111,7 +111,7 @@ if new_or_returning_vessels:
 
     # Prepare the payload
     payload = {
-#        'channel': channel,
+        'channel': channel,
         'text': message,
     }
 
