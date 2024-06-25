@@ -22,7 +22,7 @@ jobs:
           git config --global user.email "bot@infrastructureclub.co.uk"
           git config --global user.name "Vessel notifier GitHub action"
 
-          git add thames-london.json
+          git add --all
           git commit -m "Automatic update of known vessels"
       - name: Push changes
         uses: ad-m/github-push-action@master
