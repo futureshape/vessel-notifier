@@ -17,23 +17,30 @@ if not SLACK_WEBHOOK_URL:
     raise Exception("No Slack webhook URL found, set SLACK_WEBHOOK_URL environment variable")
 
 BOUNDING_BOX = (51.425531, -0.382048, 51.529024, 0.039552)
-
-KNOWN_VESSELS_FILE = 'thames-london.json'
+VESSEL_DATA_DIR = 'thames-london'
 
 TIMEOUT = 60*60*24*30*3 # three months, to avoid vessels that just come out once every week or two
 
-try:
-    with open(KNOWN_VESSELS_FILE, 'r') as file:
-        known_vessels = json.load(file)
-except:
-    known_vessels = {}
+if not os.path.exists(VESSEL_DATA_DIR):
+    os.makedirs(VESSEL_DATA_DIR)
 
-def get_last_seen(vessel_id):
-    return known_vessels.get(vessel_id, None)
+def get_vessel_data(mmsi):
+    filename = os.path.join(VESSEL_DATA_DIR, f"{mmsi}.json")
+    if os.path.exists(filename):
+        with open(filename, 'r') as file:
+            return json.load(file)
+    return {"last_seen": None, "dates_seen": [], "last_full_data": {}}
 
-def update_last_seen(vessel_id):
-    now = datetime.utcnow().isoformat()
-    known_vessels[vessel_id] = now
+def update_vessel_data(mmsi, timestamp, vessel_data):
+    filename = os.path.join(VESSEL_DATA_DIR, f"{mmsi}.json")
+    data = get_vessel_data(mmsi)
+    data["last_seen"] = timestamp
+    date_seen = timestamp.split('T')[0]
+    if date_seen not in data["dates_seen"]:
+        data["dates_seen"].append(date_seen)
+    data["last_full_data"] = vessel_data
+    with open(filename, 'w') as file:
+        json.dump(data, file, sort_keys=True, indent=2)
 
 def get_vessels_in_area():
     url = f"https://data.aishub.net/ws.php?username={API_KEY}&format=1&output=json&latmin={BOUNDING_BOX[0]}&lonmin={BOUNDING_BOX[1]}&latmax={BOUNDING_BOX[2]}&lonmax={BOUNDING_BOX[3]}"
@@ -55,7 +62,8 @@ new_or_returning_vessels = []
 
 for vessel in current_vessels:
     mmsi = str(vessel['MMSI'])
-    last_seen = get_last_seen(mmsi)
+    vessel_data = get_vessel_data(mmsi)
+    last_seen = vessel_data["last_seen"]
     
     vessel['last_seen'] = last_seen
     vessel['received_by_stations'] = []
@@ -75,10 +83,8 @@ for vessel in current_vessels:
         print(f"New or timed out vessel. Full data: {vessel}")
         new_or_returning_vessels.append(vessel)
 
-    update_last_seen(mmsi)
-
-with open(KNOWN_VESSELS_FILE, 'w') as file:
-    json.dump(known_vessels, file, sort_keys=True, indent=2)
+    now = datetime.utcnow().isoformat()
+    update_vessel_data(mmsi, now, vessel)
 
 # temporary slack channel for testing, normal channel is baked in the webhook
 channel = '#test-vessel-tracker'
