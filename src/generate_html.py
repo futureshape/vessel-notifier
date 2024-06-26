@@ -1,6 +1,8 @@
 import os
 import json
 import datetime
+from collections import defaultdict
+from vessel_flags import vessel_flags
 
 VESSEL_DATA_DIR = 'thames-london'
 OUTPUT_HTML_FILE = 'vessel-report.html'
@@ -37,6 +39,7 @@ def generate_html(vessel_data):
     html = '''
     <html>
     <head>
+        <meta charset="UTF-8">
         <style>
             table {
                 border-collapse: collapse;
@@ -58,6 +61,7 @@ def generate_html(vessel_data):
                 left: 0;
                 background: #f2f2f2;
                 z-index: 1;
+                text-align: left;  /* Left align the first column */
             }
             .green {
                 background-color: green;
@@ -87,8 +91,11 @@ def generate_html(vessel_data):
     for data in vessel_data:
         mmsi = data['mmsi']
         vessel_name = data['last_full_data'].get('NAME', mmsi)
+        vessel_mid = int(str(mmsi)[:3])
+        flag = vessel_flags.get(vessel_mid, '')
+        vessel_name_with_flag = f"{flag} {vessel_name}"
         vessel_link = f"https://www.vesselfinder.com/?mmsi={mmsi}"
-        html += f'<tr><td><a href="{vessel_link}">{vessel_name}</a></td>'
+        html += f'<tr><td><a href="{vessel_link}">{vessel_name_with_flag}</a></td>'
         
         earliest_seen_date = datetime.datetime.strptime(data['dates_seen'][0], "%Y-%m-%d").date()
         for date in date_range:
@@ -117,7 +124,7 @@ vessel_data = read_vessel_data(VESSEL_DATA_DIR)
 html_content = generate_html(vessel_data)
 
 # Write the HTML content to a file
-with open(OUTPUT_HTML_FILE, 'w') as file:
+with open(OUTPUT_HTML_FILE, 'w', encoding='utf-8') as file:
     file.write(html_content)
 
 print(f"HTML report generated: {OUTPUT_HTML_FILE}")
