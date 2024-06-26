@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2024-06-25"
+    "2024-06-25",
+    "2024-06-26"
   ],
   "last_full_data": {
     "A": 4,
@@ -14,18 +15,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50134,
-    "LONGITUDE": -0.06175,
+    "LATITUDE": 51.50135,
+    "LONGITUDE": -0.06172,
     "MMSI": 235052123,
     "NAME": "MILLENNIUM CITY",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-06-25 19:08:59 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-06-26 08:27:42 GMT",
     "TYPE": 60,
-    "last_seen": "2024-06-25T18:42:01.910994",
+    "last_seen": "2024-06-25T19:33:38.615506",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-25T19:33:38.615506"
+  "last_seen": "2024-06-26T08:27:44.187660"
 }
