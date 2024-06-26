@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-25"
+    "2024-06-25",
+    "2024-06-26"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-25T13:21:30.312374"
+  "last_full_data": {
+    "A": 0,
+    "B": 28,
+    "C": 4,
+    "CALLSIGN": "MAKB5",
+    "COG": 74,
+    "D": 0,
+    "DEST": "LONDON",
+    "DRAUGHT": 1,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50707,
+    "LONGITUDE": -0.07801,
+    "MMSI": 232005500,
+    "NAME": "ALMERE 4",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0.1,
+    "TIME": "2024-06-26 06:31:09 GMT",
+    "TYPE": 53,
+    "last_seen": "2024-06-25T13:21:30.312374",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-06-26T06:31:13.193745"
 }
