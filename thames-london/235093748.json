@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-25"
+    "2024-06-25",
+    "2024-06-26"
   ],
   "last_full_data": {
     "A": 3,
     "B": 7,
     "C": 2,
     "CALLSIGN": "2FSB7",
-    "COG": 170,
+    "COG": 246.8,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.45878,
-    "LONGITUDE": -0.30871,
+    "LATITUDE": 51.4443,
+    "LONGITUDE": -0.32628,
     "MMSI": 235093748,
     "NAME": "ALFIE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-06-25 22:05:51 GMT",
+    "SOG": 3.5,
+    "TIME": "2024-06-26 01:07:42 GMT",
     "TYPE": 53,
-    "last_seen": "2024-06-25T19:33:38.607025",
+    "last_seen": "2024-06-25T22:23:46.784170",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-25T22:23:46.784170"
+  "last_seen": "2024-06-26T01:35:22.591300"
 }

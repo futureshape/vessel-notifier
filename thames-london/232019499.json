@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-25"
+    "2024-06-25",
+    "2024-06-26"
   ],
   "last_full_data": {
     "A": 7,
     "B": 25,
     "C": 5,
     "CALLSIGN": "MEIW5",
-    "COG": 102.5,
+    "COG": 360,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50753,
-    "LONGITUDE": -0.08455,
+    "LATITUDE": 51.50727,
+    "LONGITUDE": 0.00656,
     "MMSI": 232019499,
     "NAME": "VENUS CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 11.5,
-    "TIME": "2024-06-25 21:21:08 GMT",
+    "SOG": 0,
+    "TIME": "2024-06-26 01:34:00 GMT",
     "TYPE": 40,
-    "last_seen": "2024-06-25T20:22:41.789196",
+    "last_seen": "2024-06-25T21:21:16.601708",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-25T21:21:16.601708"
+  "last_seen": "2024-06-26T01:35:22.598085"
 }

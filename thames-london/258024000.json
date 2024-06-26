@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-25"
+    "2024-06-25",
+    "2024-06-26"
   ],
   "last_full_data": {
     "A": 33,
     "B": 195,
     "C": 16,
     "CALLSIGN": "LARM8",
-    "COG": 99.3,
+    "COG": 350.6,
     "D": 16,
     "DEST": "GB GNW",
     "DRAUGHT": 6.8,
     "ETA": "06-24 20:00",
-    "HEADING": 95,
+    "HEADING": 96,
     "IMO": 9845922,
-    "LATITUDE": 51.48425,
-    "LONGITUDE": -0.01451,
+    "LATITUDE": 51.48426,
+    "LONGITUDE": -0.0145,
     "MMSI": 258024000,
     "NAME": "VIKING SATURN",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-06-25 23:19:58 GMT",
+    "TIME": "2024-06-26 01:34:58 GMT",
     "TYPE": 60,
-    "last_seen": "2024-06-25T22:23:46.791133",
+    "last_seen": "2024-06-25T23:21:19.194911",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-25T23:21:19.194911"
+  "last_seen": "2024-06-26T01:35:22.596181"
 }
