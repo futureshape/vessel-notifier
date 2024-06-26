@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-25"
+    "2024-06-25",
+    "2024-06-26"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-25T14:18:40.704649"
+  "last_full_data": {
+    "A": 12,
+    "B": 0,
+    "C": 2,
+    "CALLSIGN": "2AMF4",
+    "COG": 182.1,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 1,
+    "ETA": "00-00 24:60",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50612,
+    "LONGITUDE": -0.07327,
+    "MMSI": 235060961,
+    "NAME": "TIGER ONE",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 0.2,
+    "TIME": "2024-06-26 10:20:00 GMT",
+    "TYPE": 49,
+    "last_seen": "2024-06-25T14:18:40.704649",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-06-26T10:26:47.577491"
 }
