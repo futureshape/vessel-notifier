@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-24"
+    "2024-06-24",
+    "2024-06-26"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-24T05:18:06.421588"
+  "last_full_data": {
+    "A": 58,
+    "B": 0,
+    "C": 4,
+    "CALLSIGN": "MCWU6",
+    "COG": 360,
+    "D": 5,
+    "DEST": "THAMES___",
+    "DRAUGHT": 2.4,
+    "ETA": "10-29 10:30",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50429,
+    "LONGITUDE": -0.06943,
+    "MMSI": 232014850,
+    "NAME": "DISTRIBUTOR",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2024-06-26 12:42:49 GMT",
+    "TYPE": 89,
+    "last_seen": "2024-06-24T05:18:06.421588",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-06-26T12:42:50.237879"
 }
