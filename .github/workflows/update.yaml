@@ -18,7 +18,8 @@ jobs:
         run: |
           pip install -r src/requirements.txt
           python src/vessel_tracker.py
-
+          python src/generate_html.py
+          
           git config --global user.email "bot@infrastructureclub.co.uk"
           git config --global user.name "Vessel notifier GitHub action"
 
