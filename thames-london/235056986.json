@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-25"
+    "2024-06-25",
+    "2024-06-26"
   ],
   "last_full_data": {
     "A": 19,
     "B": 19,
     "C": 7,
     "CALLSIGN": "MVLW4",
-    "COG": 105.9,
+    "COG": 42.8,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 9451771,
-    "LATITUDE": 51.50697,
-    "LONGITUDE": 0.0074,
+    "LATITUDE": 51.50698,
+    "LONGITUDE": 0.00749,
     "MMSI": 235056986,
     "NAME": "TYPHOON CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-06-25 23:09:21 GMT",
+    "TIME": "2024-06-26 04:27:29 GMT",
     "TYPE": 45,
-    "last_seen": "2024-06-25T21:21:16.600780",
+    "last_seen": "2024-06-25T23:21:19.197345",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-25T23:21:19.197345"
+  "last_seen": "2024-06-26T04:27:31.869131"
 }
