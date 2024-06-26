@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-25"
+    "2024-06-25",
+    "2024-06-26"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-25T15:19:46.859782"
+  "last_full_data": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "MPEH5",
+    "COG": 360,
+    "D": 0,
+    "DEST": "DELFZIJL",
+    "DRAUGHT": 0,
+    "ETA": "00-00 24:60",
+    "HEADING": 511,
+    "IMO": 9963267,
+    "LATITUDE": 51.50887,
+    "LONGITUDE": -0.11905,
+    "MMSI": 232054955,
+    "NAME": "SCOT LEADER",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2024-06-26 07:20:08 GMT",
+    "TYPE": 0,
+    "last_seen": "2024-06-25T15:19:46.859782",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-06-26T07:20:14.658420"
 }
