@@ -8,7 +8,7 @@
     "B": 6,
     "C": 1,
     "CALLSIGN": "2EFA4",
-    "COG": 80.3,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -16,17 +16,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50345,
-    "LONGITUDE": -0.06606,
+    "LONGITUDE": -0.06609,
     "MMSI": 235084537,
     "NAME": "FRYSLAN",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2024-06-26 10:26:12 GMT",
+    "SOG": 0,
+    "TIME": "2024-06-26 11:18:11 GMT",
     "TYPE": 0,
-    "last_seen": "2024-06-26T09:25:27.389911",
+    "last_seen": "2024-06-26T10:26:47.580651",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T10:26:47.580651"
+  "last_seen": "2024-06-26T11:19:34.684871"
 }
