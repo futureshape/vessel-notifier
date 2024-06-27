@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-06-26"
+    "2024-06-26",
+    "2024-06-27"
   ],
   "last_full_data": {
     "A": 8,
     "B": 4,
     "C": 1,
     "CALLSIGN": "2HLV8",
-    "COG": 360,
+    "COG": 138.3,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "02-15 11:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50275,
-    "LONGITUDE": -0.12044,
+    "LATITUDE": 51.50631,
+    "LONGITUDE": -0.03121,
     "MMSI": 235104713,
     "NAME": "CAPTAIN ROCKET",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-06-26 12:42:27 GMT",
+    "SOG": 34.6,
+    "TIME": "2024-06-27 10:28:57 GMT",
     "TYPE": 40,
-    "last_seen": "2024-06-26T11:19:34.684155",
+    "last_seen": "2024-06-26T12:42:50.231114",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T12:42:50.231114"
+  "last_seen": "2024-06-27T10:28:59.958981"
 }

@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-23"
+    "2024-06-23",
+    "2024-06-27"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-23T18:23:09.899620"
+  "last_full_data": {
+    "A": 6,
+    "B": 29,
+    "C": 4,
+    "CALLSIGN": "MLCK7",
+    "COG": 360,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50242,
+    "LONGITUDE": -0.12307,
+    "MMSI": 235054304,
+    "NAME": "AVONTUUR IV",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0.3,
+    "TIME": "2024-06-27 10:28:56 GMT",
+    "TYPE": 60,
+    "last_seen": "2024-06-23T18:23:09.899620",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-06-27T10:28:59.946641"
 }
