@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-06-26"
+    "2024-06-26",
+    "2024-06-27"
   ],
   "last_full_data": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
+    "A": 13,
+    "B": 13,
+    "C": 5,
     "CALLSIGN": " MXOE5",
-    "COG": 93.5,
-    "D": 0,
+    "COG": 360,
+    "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 2.1,
     "ETA": "09-02 07:00",
-    "HEADING": 107,
+    "HEADING": 103,
     "IMO": 0,
-    "LATITUDE": 51.50926,
-    "LONGITUDE": -0.09219,
+    "LATITUDE": 51.49448,
+    "LONGITUDE": 0.0267,
     "MMSI": 235053647,
     "NAME": "REGAIN",
     "NAVSTAT": 0,
-    "PAC": 1,
-    "ROT": 127,
-    "SOG": 2.4,
-    "TIME": "2024-06-26 16:28:31 GMT",
+    "PAC": 0,
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2024-06-27 07:20:09 GMT",
     "TYPE": 99,
-    "last_seen": "2024-06-26T15:24:35.114262",
+    "last_seen": "2024-06-27T06:30:10.799803",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T16:28:33.303533"
+  "last_seen": "2024-06-27T07:20:14.849911"
 }

@@ -1,7 +1,8 @@
 {
   "dates_seen": [
     "2024-06-23",
-    "2024-06-25"
+    "2024-06-25",
+    "2024-06-26"
   ],
   "last_full_data": {
     "A": 9,
@@ -13,20 +14,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 511,
+    "HEADING": 253,
     "IMO": 0,
-    "LATITUDE": 51.48303,
-    "LONGITUDE": -0.16493,
+    "LATITUDE": 51.48288,
+    "LONGITUDE": -0.16482,
     "MMSI": 235033771,
     "NAME": "SIGRID OF CHELSEA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-06-25 20:58:40 GMT",
+    "SOG": 0.4,
+    "TIME": "2024-06-26 21:22:42 GMT",
     "TYPE": 37,
-    "last_seen": "2024-06-25T20:22:41.788663",
+    "last_seen": "2024-06-26T20:25:50.974576",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-25T21:21:16.599119"
+  "last_seen": "2024-06-26T21:22:53.405298"
 }

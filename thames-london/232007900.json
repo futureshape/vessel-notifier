@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-21"
+    "2024-06-21",
+    "2024-06-27"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-21T13:21:06.911225"
+  "last_full_data": {
+    "A": 14,
+    "B": 2,
+    "C": 1,
+    "CALLSIGN": "MAZN4",
+    "COG": 360,
+    "D": 7,
+    "DEST": "LONDON",
+    "DRAUGHT": 1,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.48795,
+    "LONGITUDE": -0.12612,
+    "MMSI": 232007900,
+    "NAME": "CHILI DOG",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 0.8,
+    "TIME": "2024-06-27 07:20:08 GMT",
+    "TYPE": 31,
+    "last_seen": "2024-06-27T06:30:10.789303",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-06-27T07:20:14.839314"
 }

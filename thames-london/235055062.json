@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-06-26"
+    "2024-06-26",
+    "2024-06-27"
   ],
   "last_full_data": {
     "A": 14,
     "B": 3,
     "C": 1,
     "CALLSIGN": "VSSC5",
-    "COG": 360,
+    "COG": 134.6,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50449,
-    "LONGITUDE": -0.06922,
+    "LATITUDE": 51.48532,
+    "LONGITUDE": -0.28265,
     "MMSI": 235055062,
     "NAME": "CONQUESTOR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-06-26 12:26:44 GMT",
+    "SOG": 6.4,
+    "TIME": "2024-06-27 07:19:18 GMT",
     "TYPE": 80,
-    "last_seen": "2024-06-26T11:19:34.679380",
+    "last_seen": "2024-06-27T06:30:10.786104",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T12:42:50.238103"
+  "last_seen": "2024-06-27T07:20:14.837367"
 }

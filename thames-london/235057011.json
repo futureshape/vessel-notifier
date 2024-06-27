@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-06-26"
+    "2024-06-26",
+    "2024-06-27"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MVMT6",
-    "COG": 126.4,
+    "COG": 169.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48812,
-    "LONGITUDE": -0.02421,
+    "LATITUDE": 51.48403,
+    "LONGITUDE": -0.00986,
     "MMSI": 235057011,
     "NAME": "MONSOON CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 10,
-    "TIME": "2024-06-26 16:28:31 GMT",
+    "SOG": 0,
+    "TIME": "2024-06-27 07:20:14 GMT",
     "TYPE": 0,
-    "last_seen": "2024-06-26T15:24:35.093353",
+    "last_seen": "2024-06-27T06:30:10.796050",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T16:28:33.312967"
+  "last_seen": "2024-06-27T07:20:14.846035"
 }
