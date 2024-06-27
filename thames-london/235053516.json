@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-06-26"
+    "2024-06-26",
+    "2024-06-27"
   ],
   "last_full_data": {
     "A": 24,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MMQZ7",
-    "COG": 113.9,
+    "COG": 360,
     "D": 8,
     "DEST": "",
     "DRAUGHT": 1.7,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50991,
-    "LONGITUDE": -0.11091,
+    "LATITUDE": 51.50995,
+    "LONGITUDE": -0.11596,
     "MMSI": 235053516,
     "NAME": "GOLDEN FLAME",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.3,
-    "TIME": "2024-06-26 21:22:43 GMT",
+    "SOG": 0,
+    "TIME": "2024-06-27 11:18:32 GMT",
     "TYPE": 37,
-    "last_seen": "2024-06-26T20:25:50.976419",
+    "last_seen": "2024-06-26T21:22:53.408243",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T21:22:53.408243"
+  "last_seen": "2024-06-27T11:18:41.954070"
 }

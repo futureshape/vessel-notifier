@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-06-26"
+    "2024-06-26",
+    "2024-06-27"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "2JEB6",
-    "COG": 301,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50743,
-    "LONGITUDE": -0.07866,
+    "LATITUDE": 51.50738,
+    "LONGITUDE": -0.07867,
     "MMSI": 235115155,
     "NAME": "ULTIMATE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-06-26 18:56:27 GMT",
+    "SOG": 0,
+    "TIME": "2024-06-27 11:18:41 GMT",
     "TYPE": 0,
-    "last_seen": "2024-06-26T18:28:40.990629",
+    "last_seen": "2024-06-26T19:18:42.080863",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T19:18:42.080863"
+  "last_seen": "2024-06-27T11:18:41.958243"
 }
