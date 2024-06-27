@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-25"
+    "2024-06-25",
+    "2024-06-27"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-25T17:17:30.461695"
+  "last_full_data": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "2HLH2",
+    "COG": 0,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "08-12 12:30",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50754,
+    "LONGITUDE": -0.0793,
+    "MMSI": 235104586,
+    "NAME": "EXHILARATION",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2024-06-27 08:26:58 GMT",
+    "TYPE": 99,
+    "last_seen": "2024-06-25T17:17:30.461695",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-06-27T08:27:01.713942"
 }
