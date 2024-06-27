@@ -1,14 +1,15 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-06-26"
+    "2024-06-26",
+    "2024-06-27"
   ],
   "last_full_data": {
     "A": 3,
     "B": 16,
     "C": 1,
     "CALLSIGN": "MRJT4",
-    "COG": 298.4,
+    "COG": 349.7,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -16,17 +17,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50113,
-    "LONGITUDE": -0.05977,
+    "LONGITUDE": -0.06171,
     "MMSI": 235052134,
     "NAME": "WESTMINSTER",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-06-26 13:08:27 GMT",
+    "TIME": "2024-06-27 09:23:40 GMT",
     "TYPE": 60,
-    "last_seen": "2024-06-26T12:42:50.239916",
+    "last_seen": "2024-06-26T13:24:55.649427",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T13:24:55.649427"
+  "last_seen": "2024-06-27T09:23:41.790091"
 }
