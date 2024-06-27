@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-06-26"
+    "2024-06-26",
+    "2024-06-27"
   ],
   "last_full_data": {
     "A": 3,
     "B": 8,
     "C": 1,
     "CALLSIGN": "",
-    "COG": 245,
+    "COG": 229.5,
     "D": 1,
     "DEST": "LONDON:OPS",
     "DRAUGHT": 0.1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.51045,
-    "LONGITUDE": -0.11492,
+    "LATITUDE": 51.48542,
+    "LONGITUDE": -0.13166,
     "MMSI": 235070805,
     "NAME": "WATCHDOG",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-06-26 14:22:20 GMT",
+    "SOG": 10.3,
+    "TIME": "2024-06-27 05:26:52 GMT",
     "TYPE": 99,
-    "last_seen": "2024-06-26T05:24:40.128775",
+    "last_seen": "2024-06-26T14:23:52.132350",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T14:23:52.132350"
+  "last_seen": "2024-06-27T05:27:00.673097"
 }
