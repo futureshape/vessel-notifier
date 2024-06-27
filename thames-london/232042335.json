@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-06-26"
+    "2024-06-26",
+    "2024-06-27"
   ],
   "last_full_data": {
     "A": 13,
     "B": 3,
     "C": 0,
     "CALLSIGN": "MLPR8",
-    "COG": 185.1,
+    "COG": 119.9,
     "D": 5,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 117,
+    "HEADING": 119,
     "IMO": 0,
-    "LATITUDE": 51.50497,
-    "LONGITUDE": -0.07093,
+    "LATITUDE": 51.50498,
+    "LONGITUDE": -0.07092,
     "MMSI": 232042335,
     "NAME": "ERRINGTON",
     "NAVSTAT": 15,
     "PAC": 1,
-    "ROT": -6,
+    "ROT": -5,
     "SOG": 0,
-    "TIME": "2024-06-26 23:22:04 GMT",
+    "TIME": "2024-06-27 01:35:34 GMT",
     "TYPE": 51,
-    "last_seen": "2024-06-26T22:25:14.050380",
+    "last_seen": "2024-06-26T23:22:07.507024",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T23:22:07.507024"
+  "last_seen": "2024-06-27T01:35:37.009907"
 }
