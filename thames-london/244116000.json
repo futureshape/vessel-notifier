@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-22"
+    "2024-06-22",
+    "2024-06-28"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-22T17:15:08.491297"
+  "last_full_data": {
+    "A": 100,
+    "B": 30,
+    "C": 11,
+    "CALLSIGN": "PGZK",
+    "COG": 273.4,
+    "D": 11,
+    "DEST": "GBLON",
+    "DRAUGHT": 7.7,
+    "ETA": "06-28 14:30",
+    "HEADING": 276,
+    "IMO": 9618240,
+    "LATITUDE": 51.49621,
+    "LONGITUDE": 0.02672,
+    "MMSI": 244116000,
+    "NAME": "REIMERSWAAL",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 1.8,
+    "TIME": "2024-06-28 14:23:54 GMT",
+    "TYPE": 33,
+    "last_seen": "2024-06-22T17:15:08.491297",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-06-28T14:23:59.229711"
 }
