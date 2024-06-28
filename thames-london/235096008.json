@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-25"
+    "2024-06-25",
+    "2024-06-28"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-25T14:18:40.704036"
+  "last_full_data": {
+    "A": 6,
+    "B": 4,
+    "C": 3,
+    "CALLSIGN": "2GBM3",
+    "COG": 0,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.4724,
+    "LONGITUDE": -0.18057,
+    "MMSI": 235096008,
+    "NAME": "SHAKEN NOT STIRRED",
+    "NAVSTAT": 8,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2024-06-28 16:27:16 GMT",
+    "TYPE": 0,
+    "last_seen": "2024-06-25T14:18:40.704036",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-06-28T16:27:22.332723"
 }

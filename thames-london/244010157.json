@@ -7,28 +7,25 @@
     "B": 1,
     "C": 1,
     "CALLSIGN": "PF4513",
-    "COG": 253.7,
+    "COG": 18.1,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49811,
-    "LONGITUDE": 0.03344,
+    "LATITUDE": 51.50625,
+    "LONGITUDE": -0.07215,
     "MMSI": 244010157,
     "NAME": "S/Y GINGER",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 6.8,
-    "TIME": "2024-06-28 15:22:47 GMT",
+    "SOG": 0.5,
+    "TIME": "2024-06-28 16:26:17 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      2843
-    ]
+    "last_seen": "2024-06-28T15:23:17.277595",
+    "received_by_stations": []
   },
-  "last_seen": "2024-06-28T15:23:17.277595"
+  "last_seen": "2024-06-28T16:27:22.345813"
 }

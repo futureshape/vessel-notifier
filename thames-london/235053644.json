@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-25",
     "2024-06-26",
-    "2024-06-27"
+    "2024-06-27",
+    "2024-06-28"
   ],
   "last_full_data": {
     "A": 9,
     "B": 17,
     "C": 2,
     "CALLSIGN": "MUMN",
-    "COG": 85.3,
+    "COG": 209.6,
     "D": 3,
     "DEST": "VIC DEEP",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49605,
-    "LONGITUDE": 0.03665,
+    "LATITUDE": 51.5064,
+    "LONGITUDE": -0.11983,
     "MMSI": 235053644,
     "NAME": "GPS VINCIA",
     "NAVSTAT": 11,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 9.7,
-    "TIME": "2024-06-27 06:29:43 GMT",
+    "SOG": 8.3,
+    "TIME": "2024-06-28 16:27:12 GMT",
     "TYPE": 52,
-    "last_seen": "2024-06-27T05:27:00.673370",
+    "last_seen": "2024-06-27T06:30:10.800283",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-27T06:30:10.800283"
+  "last_seen": "2024-06-28T16:27:22.337502"
 }
