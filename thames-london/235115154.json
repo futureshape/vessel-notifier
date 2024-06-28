@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-25",
     "2024-06-26",
-    "2024-06-27"
+    "2024-06-27",
+    "2024-06-28"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "2JEB5",
-    "COG": 271,
+    "COG": 248.8,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 1,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50761,
-    "LONGITUDE": -0.07946,
+    "LATITUDE": 51.5076,
+    "LONGITUDE": -0.07948,
     "MMSI": 235115154,
     "NAME": "ELIMINATOR",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-06-27 19:07:06 GMT",
+    "TIME": "2024-06-28 08:26:21 GMT",
     "TYPE": 0,
-    "last_seen": "2024-06-27T18:27:34.084704",
+    "last_seen": "2024-06-27T19:19:46.825762",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-27T19:19:46.825762"
+  "last_seen": "2024-06-28T08:26:28.256215"
 }

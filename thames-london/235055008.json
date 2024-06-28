@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-25",
     "2024-06-26",
-    "2024-06-27"
+    "2024-06-27",
+    "2024-06-28"
   ],
   "last_full_data": {
     "A": 10,
     "B": 15,
     "C": 2,
     "CALLSIGN": "MMQN7",
-    "COG": 210.7,
+    "COG": 96.2,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49835,
-    "LONGITUDE": -0.12137,
+    "LATITUDE": 51.49838,
+    "LONGITUDE": -0.12132,
     "MMSI": 235055008,
     "NAME": "HOLLYWOOD",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-06-27 17:59:15 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-06-28 08:26:22 GMT",
     "TYPE": 60,
-    "last_seen": "2024-06-27T17:25:16.962662",
+    "last_seen": "2024-06-27T18:27:34.084448",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-27T18:27:34.084448"
+  "last_seen": "2024-06-28T08:26:28.252678"
 }
