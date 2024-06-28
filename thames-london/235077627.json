@@ -7,27 +7,25 @@
     "B": 6,
     "C": 3,
     "CALLSIGN": "MLSH",
-    "COG": 261.3,
+    "COG": 313.5,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 261,
+    "HEADING": 313,
     "IMO": 0,
-    "LATITUDE": 51.49767,
-    "LONGITUDE": 0.02979,
+    "LATITUDE": 51.5049,
+    "LONGITUDE": -0.07184,
     "MMSI": 235077627,
     "NAME": "",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 8.2,
-    "TIME": "2024-06-28 16:26:46 GMT",
+    "SOG": 0,
+    "TIME": "2024-06-28 17:22:44 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2024-06-28T16:27:24.191413",
+    "received_by_stations": []
   },
-  "last_seen": "2024-06-28T16:27:24.191413"
+  "last_seen": "2024-06-28T17:24:31.944946"
 }

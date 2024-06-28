@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-16",
     "2024-06-26",
-    "2024-06-27"
+    "2024-06-27",
+    "2024-06-28"
   ],
   "last_full_data": {
     "A": 10,
     "B": 26,
     "C": 7,
     "CALLSIGN": "CQNK",
-    "COG": 336.4,
+    "COG": 351.7,
     "D": 4,
     "DEST": "HARB0UR TOWAGE",
     "DRAUGHT": 5.7,
     "ETA": "06-27 00:00",
-    "HEADING": 112,
+    "HEADING": 349,
     "IMO": 9547867,
-    "LATITUDE": 51.48488,
-    "LONGITUDE": -0.01783,
+    "LATITUDE": 51.50393,
+    "LONGITUDE": -0.02919,
     "MMSI": 255801590,
     "NAME": "VB BENELUX",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": -63,
-    "SOG": 0.6,
-    "TIME": "2024-06-27 16:28:20 GMT",
+    "ROT": -14,
+    "SOG": 6.9,
+    "TIME": "2024-06-28 17:24:26 GMT",
     "TYPE": 52,
-    "last_seen": "2024-06-27T15:24:45.425566",
+    "last_seen": "2024-06-27T16:28:21.369755",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-27T16:28:21.369755"
+  "last_seen": "2024-06-28T17:24:31.950587"
 }

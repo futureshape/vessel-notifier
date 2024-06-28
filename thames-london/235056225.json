@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-25",
     "2024-06-26",
-    "2024-06-27"
+    "2024-06-27",
+    "2024-06-28"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "ZQPE4",
-    "COG": 74,
+    "COG": 1.5,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50819,
-    "LONGITUDE": -0.08427,
+    "LATITUDE": 51.50756,
+    "LONGITUDE": -0.08023,
     "MMSI": 235056225,
     "NAME": "DUTCH MASTER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-06-27 22:15:58 GMT",
+    "TIME": "2024-06-28 17:24:22 GMT",
     "TYPE": 0,
-    "last_seen": "2024-06-27T21:20:51.168178",
+    "last_seen": "2024-06-27T22:24:16.701910",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-27T22:24:16.701910"
+  "last_seen": "2024-06-28T17:24:31.940993"
 }
