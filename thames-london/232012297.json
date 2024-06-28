@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-21",
     "2024-06-26",
-    "2024-06-27"
+    "2024-06-27",
+    "2024-06-28"
   ],
   "last_full_data": {
     "A": 32,
     "B": 6,
     "C": 4,
     "CALLSIGN": "DB4434",
-    "COG": 0,
+    "COG": 51.3,
     "D": 2,
     "DEST": "THAMES",
     "DRAUGHT": 2.5,
     "ETA": "01-01 00:00",
-    "HEADING": 296,
+    "HEADING": 52,
     "IMO": 8790259,
-    "LATITUDE": 51.50421,
-    "LONGITUDE": -0.06892,
+    "LATITUDE": 51.50512,
+    "LONGITUDE": -0.04953,
     "MMSI": 232012297,
     "NAME": "ARMADOR II",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2024-06-27 14:24:12 GMT",
+    "SOG": 9.7,
+    "TIME": "2024-06-28 12:41:26 GMT",
     "TYPE": 0,
-    "last_seen": "2024-06-26T13:24:55.647630",
+    "last_seen": "2024-06-27T14:24:20.904393",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-27T14:24:20.904393"
+  "last_seen": "2024-06-28T12:41:28.696582"
 }

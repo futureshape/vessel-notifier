@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-25"
+    "2024-06-25",
+    "2024-06-28"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-25T14:18:40.704086"
+  "last_full_data": {
+    "A": 4,
+    "B": 10,
+    "C": 4,
+    "CALLSIGN": "MQGX7",
+    "COG": 270.1,
+    "D": 1,
+    "DEST": "THAMES",
+    "DRAUGHT": 2,
+    "ETA": "00-00 24:60",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.48514,
+    "LONGITUDE": -0.14799,
+    "MMSI": 235108388,
+    "NAME": "PROGRESS",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2024-06-28 12:41:28 GMT",
+    "TYPE": 90,
+    "last_seen": "2024-06-25T14:18:40.704086",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-06-28T12:41:28.682852"
 }
