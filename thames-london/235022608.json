@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-18",
     "2024-06-26",
-    "2024-06-27"
+    "2024-06-27",
+    "2024-06-28"
   ],
   "last_full_data": {
     "A": 5,
     "B": 3,
     "C": 2,
     "CALLSIGN": "MLPB5",
-    "COG": 75,
+    "COG": 290.4,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 5,
     "ETA": "01-19 14:57",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.46217,
-    "LONGITUDE": -0.31657,
+    "LATITUDE": 51.47231,
+    "LONGITUDE": -0.25439,
     "MMSI": 235022608,
     "NAME": "RICHMOND",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 1.6,
-    "TIME": "2024-06-27 15:17:53 GMT",
+    "SOG": 4.2,
+    "TIME": "2024-06-28 06:30:19 GMT",
     "TYPE": 39,
-    "last_seen": "2024-06-27T14:24:20.889251",
+    "last_seen": "2024-06-27T15:24:44.006968",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-27T15:24:44.006968"
+  "last_seen": "2024-06-28T06:30:23.467968"
 }
