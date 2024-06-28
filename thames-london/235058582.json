@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-25",
     "2024-06-26",
-    "2024-06-27"
+    "2024-06-27",
+    "2024-06-28"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MBSF7",
-    "COG": 36.3,
+    "COG": 0,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48234,
-    "LONGITUDE": -0.2505,
+    "LATITUDE": 51.48233,
+    "LONGITUDE": -0.25057,
     "MMSI": 235058582,
     "NAME": "EQUITY",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-06-27 23:23:10 GMT",
+    "TIME": "2024-06-28 03:26:05 GMT",
     "TYPE": 99,
-    "last_seen": "2024-06-27T22:24:16.699233",
+    "last_seen": "2024-06-27T23:23:27.175686",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-27T23:23:27.175686"
+  "last_seen": "2024-06-28T03:26:14.620173"
 }
