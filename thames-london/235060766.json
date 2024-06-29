@@ -7,27 +7,25 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "2ALL7",
-    "COG": 23.3,
+    "COG": 120.9,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "06-01 21:42",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.469,
-    "LONGITUDE": -0.18151,
+    "LATITUDE": 51.50228,
+    "LONGITUDE": -0.06554,
     "MMSI": 235060766,
     "NAME": "NOORD STER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.9,
-    "TIME": "2024-06-29 09:22:58 GMT",
+    "SOG": 6.4,
+    "TIME": "2024-06-29 10:24:59 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2024-06-29T09:23:41.184077",
+    "received_by_stations": []
   },
-  "last_seen": "2024-06-29T09:23:41.184077"
+  "last_seen": "2024-06-29T10:25:19.049557"
 }
