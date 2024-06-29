@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-25",
     "2024-06-26",
-    "2024-06-27"
+    "2024-06-27",
+    "2024-06-29"
   ],
   "last_full_data": {
     "A": 15,
     "B": 2,
     "C": 3,
     "CALLSIGN": "GCSX",
-    "COG": 187.2,
+    "COG": 216.7,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49843,
-    "LONGITUDE": -0.12272,
+    "LATITUDE": 51.49185,
+    "LONGITUDE": -0.12463,
     "MMSI": 235054655,
     "NAME": "HURLINGHAM",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.8,
-    "TIME": "2024-06-27 23:23:24 GMT",
+    "SOG": 1.6,
+    "TIME": "2024-06-29 12:38:37 GMT",
     "TYPE": 60,
-    "last_seen": "2024-06-27T22:24:16.708817",
+    "last_seen": "2024-06-27T23:23:27.176260",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-27T23:23:27.176260"
+  "last_seen": "2024-06-29T12:38:42.823999"
 }
