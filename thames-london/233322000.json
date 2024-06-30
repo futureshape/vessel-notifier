@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-06-26"
+    "2024-06-26",
+    "2024-06-30"
   ],
   "last_full_data": {
     "A": 17,
     "B": 82,
     "C": 11,
     "CALLSIGN": "GKGF",
-    "COG": 274.3,
+    "COG": 270.6,
     "D": 6,
-    "DEST": "TILBURY",
-    "DRAUGHT": 4,
-    "ETA": "06-26 15:00",
-    "HEADING": 104,
+    "DEST": "CHARLTON",
+    "DRAUGHT": 6,
+    "ETA": "06-30 05:00",
+    "HEADING": 103,
     "IMO": 8806058,
     "LATITUDE": 51.49544,
-    "LONGITUDE": 0.02389,
+    "LONGITUDE": 0.02385,
     "MMSI": 233322000,
     "NAME": "CITY OF LONDON",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-06-26 13:24:55 GMT",
+    "TIME": "2024-06-30 05:21:50 GMT",
     "TYPE": 33,
-    "last_seen": "2024-06-26T12:42:50.246159",
+    "last_seen": "2024-06-26T13:24:55.656225",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T13:24:55.656225"
+  "last_seen": "2024-06-30T05:24:12.132264"
 }
