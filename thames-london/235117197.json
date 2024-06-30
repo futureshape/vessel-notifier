@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-05-08",
     "2024-06-28",
-    "2024-06-29"
+    "2024-06-29",
+    "2024-06-30"
   ],
   "last_full_data": {
     "A": 2,
     "B": 8,
     "C": 1,
     "CALLSIGN": "MWDD2",
-    "COG": 244,
+    "COG": 73.4,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.44494,
-    "LONGITUDE": -0.32399,
+    "LATITUDE": 51.44609,
+    "LONGITUDE": -0.31731,
     "MMSI": 235117197,
     "NAME": "PANACEA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 3.4,
-    "TIME": "2024-06-29 18:46:45 GMT",
+    "SOG": 3.2,
+    "TIME": "2024-06-30 07:19:50 GMT",
     "TYPE": 37,
-    "last_seen": "2024-06-29T18:27:12.651703",
+    "last_seen": "2024-06-29T19:16:41.561278",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-29T19:16:41.561278"
+  "last_seen": "2024-06-30T07:20:08.788006"
 }
