@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-24",
-    "2024-06-26"
+    "2024-06-26",
+    "2024-06-30"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MYEM6",
-    "COG": 165.8,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49444,
-    "LONGITUDE": -0.00251,
+    "LATITUDE": 51.48753,
+    "LONGITUDE": -0.00112,
     "MMSI": 235003828,
     "NAME": "EMILIA D",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7,
-    "TIME": "2024-06-26 23:21:58 GMT",
+    "SOG": 0.2,
+    "TIME": "2024-06-30 17:22:17 GMT",
     "TYPE": 52,
-    "last_seen": "2024-06-26T05:24:40.136114",
+    "last_seen": "2024-06-26T23:22:07.510343",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T23:22:07.510343"
+  "last_seen": "2024-06-30T17:22:23.505358"
 }
