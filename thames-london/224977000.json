@@ -7,29 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "EBCB",
-    "COG": 259.8,
+    "COG": 217.9,
     "D": 0,
     "DEST": "LONDON",
     "DRAUGHT": 7,
     "ETA": "07-30 20:30",
-    "HEADING": 311,
+    "HEADING": 284,
     "IMO": 8642567,
-    "LATITUDE": 51.50017,
-    "LONGITUDE": -0.00567,
+    "LATITUDE": 51.50128,
+    "LONGITUDE": -0.01505,
     "MMSI": 224977000,
     "NAME": "J.S. DE ELCANO",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 127,
-    "SOG": 0.6,
-    "TIME": "2024-06-30 19:17:35 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2024-06-30 20:22:15 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-06-30T19:17:40.530391",
+    "received_by_stations": []
   },
-  "last_seen": "2024-06-30T19:17:40.530391"
+  "last_seen": "2024-06-30T20:22:16.493653"
 }
