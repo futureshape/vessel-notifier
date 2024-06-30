@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2024-06-26"
+    "2024-06-26",
+    "2024-06-30"
   ],
   "last_full_data": {
     "A": 8,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 90,
+    "HEADING": 200,
     "IMO": 0,
-    "LATITUDE": 51.50765,
-    "LONGITUDE": -0.072,
+    "LATITUDE": 51.50622,
+    "LONGITUDE": -0.07226,
     "MMSI": 244022612,
     "NAME": "INTENSE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-06-26 15:23:37 GMT",
+    "TIME": "2024-06-30 06:27:57 GMT",
     "TYPE": 36,
-    "last_seen": "2024-06-26T14:23:52.783203",
+    "last_seen": "2024-06-26T15:24:35.104907",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T15:24:35.104907"
+  "last_seen": "2024-06-30T06:29:02.125337"
 }
