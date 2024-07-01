@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-25",
     "2024-06-26",
-    "2024-06-28"
+    "2024-06-28",
+    "2024-07-01"
   ],
   "last_full_data": {
     "A": 5,
     "B": 17,
     "C": 4,
     "CALLSIGN": "2HZA5",
-    "COG": 143.7,
+    "COG": 350.3,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 3.4,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50116,
-    "LONGITUDE": 0.01652,
+    "LATITUDE": 51.50158,
+    "LONGITUDE": 0.01601,
     "MMSI": 235108425,
     "NAME": "GPS CERVIA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-06-28 18:28:33 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-01 18:29:07 GMT",
     "TYPE": 52,
-    "last_seen": "2024-06-28T17:24:31.954386",
+    "last_seen": "2024-06-28T18:28:42.371122",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-28T18:28:42.371122"
+  "last_seen": "2024-07-01T18:29:09.731543"
 }
