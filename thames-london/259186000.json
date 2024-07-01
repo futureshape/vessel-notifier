@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-05-07",
-    "2024-06-30"
+    "2024-06-30",
+    "2024-07-01"
   ],
   "last_full_data": {
     "A": 43,
     "B": 185,
     "C": 17,
     "CALLSIGN": "LAYU7",
-    "COG": 271.6,
+    "COG": 252,
     "D": 17,
     "DEST": "GREENWICH U.K",
     "DRAUGHT": 6.9,
     "ETA": "06-30 01:00",
-    "HEADING": 90,
+    "HEADING": 91,
     "IMO": 9650420,
-    "LATITUDE": 51.4842,
-    "LONGITUDE": -0.01438,
+    "LATITUDE": 51.48416,
+    "LONGITUDE": -0.01439,
     "MMSI": 259186000,
     "NAME": "VIKING SKY",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-06-30 23:22:42 GMT",
+    "TIME": "2024-07-01 01:43:41 GMT",
     "TYPE": 60,
-    "last_seen": "2024-06-30T22:23:38.799452",
+    "last_seen": "2024-06-30T23:22:42.662641",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-30T23:22:42.662641"
+  "last_seen": "2024-07-01T01:45:37.385882"
 }
