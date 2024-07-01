@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-21",
     "2024-06-27",
-    "2024-06-30"
+    "2024-06-30",
+    "2024-07-01"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MNQH7",
-    "COG": 232.2,
+    "COG": 59.2,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 18.7,
     "ETA": "00-00 00:07",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50862,
-    "LONGITUDE": -0.11833,
+    "LATITUDE": 51.50938,
+    "LONGITUDE": -0.1184,
     "MMSI": 235094988,
     "NAME": "SILVER DARLING",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.4,
-    "TIME": "2024-06-30 20:22:13 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-01 13:26:00 GMT",
     "TYPE": 0,
-    "last_seen": "2024-06-30T19:17:40.011623",
+    "last_seen": "2024-06-30T20:22:16.484919",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-30T20:22:16.484919"
+  "last_seen": "2024-07-01T13:26:07.705847"
 }
