@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-02-08"
+    "2024-02-08",
+    "2024-07-02"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-02-08T12:30:27.984139"
+  "last_full_data": {
+    "A": 12,
+    "B": 7,
+    "C": 3,
+    "CALLSIGN": "VQRK3",
+    "COG": 51.1,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50698,
+    "LONGITUDE": -0.0713,
+    "MMSI": 235010244,
+    "NAME": "PLAY D'EAU",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2024-07-02 15:08:19 GMT",
+    "TYPE": 37,
+    "last_seen": "2024-02-08T12:30:27.984139",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-07-02T15:22:24.113156"
 }
