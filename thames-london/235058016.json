@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-05-20"
+    "2024-05-20",
+    "2024-07-02"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-05-20T10:20:15.640900"
+  "last_full_data": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "MCWS3",
+    "COG": 123.8,
+    "D": 0,
+    "DEST": "THAMES OPPS",
+    "DRAUGHT": 1,
+    "ETA": "00-00 24:60",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50396,
+    "LONGITUDE": 0.00757,
+    "MMSI": 235058016,
+    "NAME": "JACK D",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 3.9,
+    "TIME": "2024-07-02 06:31:04 GMT",
+    "TYPE": 0,
+    "last_seen": "2024-05-20T10:20:15.640900",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-07-02T06:31:11.493142"
 }
