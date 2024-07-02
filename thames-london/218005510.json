@@ -7,27 +7,25 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "DA8342",
-    "COG": 284.8,
+    "COG": 43.7,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 284,
+    "HEADING": 34,
     "IMO": 0,
-    "LATITUDE": 51.49727,
-    "LONGITUDE": 0.02423,
+    "LATITUDE": 51.50643,
+    "LONGITUDE": -0.07217,
     "MMSI": 218005510,
     "NAME": "ZEELAND 2 0",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 7.9,
-    "TIME": "2024-07-02 08:26:54 GMT",
+    "SOG": 0.7,
+    "TIME": "2024-07-02 09:22:30 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2024-07-02T08:27:12.156088",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-02T08:27:12.156088"
+  "last_seen": "2024-07-02T09:23:27.129438"
 }
