@@ -7,29 +7,25 @@
     "B": 5,
     "C": 1,
     "CALLSIGN": "2IWX2",
-    "COG": 234.4,
+    "COG": 336.1,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 234,
+    "HEADING": 336,
     "IMO": 0,
-    "LATITUDE": 51.504,
-    "LONGITUDE": -0.0532,
+    "LATITUDE": 51.50615,
+    "LONGITUDE": -0.07222,
     "MMSI": 235113452,
     "NAME": "BOADICEA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7,
-    "TIME": "2024-07-02 09:23:05 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-02 10:27:12 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-02T09:23:28.189278",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-02T09:23:28.189278"
+  "last_seen": "2024-07-02T10:27:17.442070"
 }
