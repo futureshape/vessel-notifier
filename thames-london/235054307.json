@@ -6,32 +6,33 @@
     "2024-06-28",
     "2024-06-29",
     "2024-06-30",
-    "2024-07-01"
+    "2024-07-01",
+    "2024-07-02"
   ],
   "last_full_data": {
     "A": 5,
     "B": 30,
     "C": 1,
     "CALLSIGN": "VSUR3",
-    "COG": 281,
+    "COG": 360,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50442,
-    "LONGITUDE": -0.1202,
+    "LATITUDE": 51.50197,
+    "LONGITUDE": -0.12312,
     "MMSI": 235054307,
     "NAME": "LONDON ROSE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0.1,
-    "TIME": "2024-07-01 17:58:59 GMT",
+    "TIME": "2024-07-02 11:19:08 GMT",
     "TYPE": 60,
-    "last_seen": "2024-07-01T17:24:33.508362",
+    "last_seen": "2024-07-01T18:29:09.720389",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-01T18:29:09.720389"
+  "last_seen": "2024-07-02T11:19:13.503460"
 }
