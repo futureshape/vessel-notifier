@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-13",
-    "2024-07-01"
+    "2024-07-01",
+    "2024-07-03"
   ],
   "last_full_data": {
     "A": 3,
     "B": 12,
     "C": 3,
     "CALLSIGN": "2CCM5",
-    "COG": 38.5,
+    "COG": 258.6,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48807,
-    "LONGITUDE": -0.00149,
+    "LATITUDE": 51.48545,
+    "LONGITUDE": -0.01049,
     "MMSI": 235076101,
     "NAME": "LAMBETH",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 11.1,
-    "TIME": "2024-07-01 13:26:06 GMT",
+    "SOG": 12,
+    "TIME": "2024-07-03 21:21:45 GMT",
     "TYPE": 53,
-    "last_seen": "2024-07-01T12:44:12.563628",
+    "last_seen": "2024-07-01T13:26:07.718501",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-01T13:26:07.718501"
+  "last_seen": "2024-07-03T21:22:01.415114"
 }
