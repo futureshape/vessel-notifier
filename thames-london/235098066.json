@@ -8,28 +8,25 @@
     "B": 16,
     "C": 4,
     "CALLSIGN": "2GKA2",
-    "COG": 311.4,
+    "COG": 101.1,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 2.7,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49449,
-    "LONGITUDE": 0.0231,
+    "LATITUDE": 51.49453,
+    "LONGITUDE": 0.02308,
     "MMSI": 235098066,
     "NAME": "GPS INDIA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-07-03 09:23:37 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-03 10:28:44 GMT",
     "TYPE": 52,
-    "last_seen": "2024-03-13T16:20:27.984729",
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-03T09:23:44.005238",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-03T09:23:44.005238"
+  "last_seen": "2024-07-03T10:28:51.233092"
 }

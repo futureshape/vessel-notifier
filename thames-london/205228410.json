@@ -7,28 +7,25 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "OR2284",
-    "COG": 231.7,
+    "COG": 301.7,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50685,
-    "LONGITUDE": -0.04911,
+    "LATITUDE": 51.50652,
+    "LONGITUDE": -0.07196,
     "MMSI": 205228410,
     "NAME": "NURSE-IT",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 7,
-    "TIME": "2024-07-03 09:23:18 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-07-03 10:24:38 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-03T09:23:42.810789",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-03T09:23:42.810789"
+  "last_seen": "2024-07-03T10:28:50.637120"
 }
