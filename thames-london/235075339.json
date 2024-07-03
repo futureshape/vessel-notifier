@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-02-24",
-    "2024-07-01"
+    "2024-07-01",
+    "2024-07-03"
   ],
   "last_full_data": {
     "A": 14,
     "B": 8,
     "C": 2,
     "CALLSIGN": "2CSG7",
-    "COG": 78.9,
+    "COG": 199,
     "D": 7,
-    "DEST": "THAMES OPPS",
+    "DEST": "GBLON",
     "DRAUGHT": 2.4,
-    "ETA": "07-01 05:00",
-    "HEADING": 337,
+    "ETA": "07-03 15:00",
+    "HEADING": 191,
     "IMO": 9570905,
-    "LATITUDE": 51.49511,
-    "LONGITUDE": -0.00012,
+    "LATITUDE": 51.50313,
+    "LONGITUDE": -0.00512,
     "MMSI": 235075339,
     "NAME": "JENNY D",
-    "NAVSTAT": 0,
+    "NAVSTAT": 3,
     "PAC": 0,
-    "ROT": 0,
-    "SOG": 0,
-    "TIME": "2024-07-01 09:27:43 GMT",
+    "ROT": -127,
+    "SOG": 3.5,
+    "TIME": "2024-07-03 16:28:43 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-01T08:28:15.392965",
+    "last_seen": "2024-07-01T09:27:49.335687",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-01T09:27:49.335687"
+  "last_seen": "2024-07-03T16:28:46.361115"
 }
