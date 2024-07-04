@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2024-07-04"
+  ],
+  "last_full_data": {
+    "A": 18,
+    "B": 25,
+    "C": 5,
+    "CALLSIGN": "9HB6585",
+    "COG": 272,
+    "D": 5,
+    "DEST": "LONDON",
+    "DRAUGHT": 3,
+    "ETA": "07-04 09:00",
+    "HEADING": 271,
+    "IMO": 0,
+    "LATITUDE": 51.50133,
+    "LONGITUDE": -0.01087,
+    "MMSI": 215224000,
+    "NAME": "AUDACE",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2024-07-04 09:26:02 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      2103,
+      2115,
+      2665,
+      2648
+    ]
+  },
+  "last_seen": "2024-07-04T09:26:13.950449"
+}
