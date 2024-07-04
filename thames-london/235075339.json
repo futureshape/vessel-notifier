@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-02-24",
     "2024-07-01",
-    "2024-07-03"
+    "2024-07-03",
+    "2024-07-04"
   ],
   "last_full_data": {
     "A": 14,
     "B": 8,
     "C": 2,
     "CALLSIGN": "2CSG7",
-    "COG": 252.5,
+    "COG": 248,
     "D": 7,
     "DEST": "GBLON",
     "DRAUGHT": 2.4,
     "ETA": "07-03 15:00",
-    "HEADING": 255,
+    "HEADING": 253,
     "IMO": 9570905,
-    "LATITUDE": 51.48408,
-    "LONGITUDE": -0.00868,
+    "LATITUDE": 51.48404,
+    "LONGITUDE": -0.00865,
     "MMSI": 235075339,
     "NAME": "JENNY D",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-07-03 23:22:16 GMT",
+    "TIME": "2024-07-04 01:34:14 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-03T22:25:21.838779",
+    "last_seen": "2024-07-03T23:24:05.082363",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-03T23:24:05.082363"
+  "last_seen": "2024-07-04T01:36:36.439043"
 }
