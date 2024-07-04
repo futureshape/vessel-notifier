@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-07-02"
+    "2024-07-02",
+    "2024-07-04"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "2IEE9",
-    "COG": 294,
+    "COG": 0,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 1,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50702,
-    "LONGITUDE": -0.07731,
+    "LATITUDE": 51.50733,
+    "LONGITUDE": -0.07853,
     "MMSI": 235109009,
     "NAME": "EXTERMINATOR",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.3,
-    "TIME": "2024-07-02 18:29:15 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-04 07:21:46 GMT",
     "TYPE": 0,
-    "last_seen": "2024-07-02T17:24:32.850120",
+    "last_seen": "2024-07-02T18:29:19.706619",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-02T18:29:19.706619"
+  "last_seen": "2024-07-04T07:21:47.629029"
 }
