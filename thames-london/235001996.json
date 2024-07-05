@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-20"
+    "2024-06-20",
+    "2024-07-05"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-20T17:16:16.518818"
+  "last_full_data": {
+    "A": 4,
+    "B": 5,
+    "C": 3,
+    "CALLSIGN": "MDYD9",
+    "COG": 327.1,
+    "D": 1,
+    "DEST": "THAMES OPERATIONS",
+    "DRAUGHT": 1,
+    "ETA": "02-17 18:30",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50471,
+    "LONGITUDE": 0.01016,
+    "MMSI": 235001996,
+    "NAME": "PREDATOR 3",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 5.5,
+    "TIME": "2024-07-05 16:27:28 GMT",
+    "TYPE": 60,
+    "last_seen": "2024-06-20T17:16:16.518818",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-07-05T16:27:35.830038"
 }

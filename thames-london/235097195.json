@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-22",
     "2024-07-03",
-    "2024-07-04"
+    "2024-07-04",
+    "2024-07-05"
   ],
   "last_full_data": {
     "A": 12,
     "B": 19,
     "C": 3,
     "CALLSIGN": "2GGM3",
-    "COG": 116.4,
+    "COG": 155.6,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50184,
-    "LONGITUDE": -0.12312,
+    "LATITUDE": 51.49256,
+    "LONGITUDE": -0.12422,
     "MMSI": 235097195,
     "NAME": "VISCOUNT",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-07-04 20:22:30 GMT",
+    "TIME": "2024-07-05 16:27:29 GMT",
     "TYPE": 60,
-    "last_seen": "2024-07-04T19:19:01.095827",
+    "last_seen": "2024-07-04T20:22:32.268409",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-04T20:22:32.268409"
+  "last_seen": "2024-07-05T16:27:35.813501"
 }
