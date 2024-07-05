@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-20",
-    "2024-07-04"
+    "2024-07-04",
+    "2024-07-05"
   ],
   "last_full_data": {
     "A": 2,
     "B": 8,
     "C": 1,
     "CALLSIGN": "MDKZ4",
-    "COG": 0,
+    "COG": 190.2,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1.5,
     "ETA": "07-20 19:36",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48015,
-    "LONGITUDE": -0.3025,
+    "LATITUDE": 51.46823,
+    "LONGITUDE": -0.32154,
     "MMSI": 235072057,
     "NAME": "SANFIONA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-07-04 23:17:30 GMT",
+    "SOG": 1,
+    "TIME": "2024-07-05 01:26:31 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-04T22:25:32.872120",
+    "last_seen": "2024-07-04T23:22:19.274720",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-04T23:22:19.274720"
+  "last_seen": "2024-07-05T01:36:08.570662"
 }
