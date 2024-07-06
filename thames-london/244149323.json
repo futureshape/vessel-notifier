@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-07-03"
+    "2024-07-03",
+    "2024-07-06"
   ],
   "last_full_data": {
     "A": 8,
     "B": 3,
     "C": 3,
     "CALLSIGN": "PC5263",
-    "COG": 217,
+    "COG": 36.8,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 91,
+    "HEADING": 89,
     "IMO": 0,
-    "LATITUDE": 51.50799,
-    "LONGITUDE": -0.07187,
+    "LATITUDE": 51.50797,
+    "LONGITUDE": -0.07146,
     "MMSI": 244149323,
     "NAME": "LUANA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-07-03 11:18:08 GMT",
+    "SOG": 0.7,
+    "TIME": "2024-07-06 11:16:11 GMT",
     "TYPE": 36,
-    "last_seen": "2024-07-03T10:28:50.056291",
+    "last_seen": "2024-07-03T11:18:57.291801",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-03T11:18:57.291801"
+  "last_seen": "2024-07-06T11:18:32.054961"
 }
