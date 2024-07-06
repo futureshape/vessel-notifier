@@ -16,7 +16,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MMTU8",
-    "COG": 224,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -24,17 +24,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50249,
-    "LONGITUDE": -0.05863,
+    "LONGITUDE": -0.05861,
     "MMSI": 232045194,
     "NAME": "JOHN HARRIOTT V",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2024-07-06 16:24:15 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-07-06 17:21:17 GMT",
     "TYPE": 55,
-    "last_seen": "2024-07-06T15:24:15.633268",
+    "last_seen": "2024-07-06T16:26:55.721046",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-06T16:26:55.721046"
+  "last_seen": "2024-07-06T17:21:31.028648"
 }
