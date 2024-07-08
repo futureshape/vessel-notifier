@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-07-02"
+    "2024-07-02",
+    "2024-07-08"
   ],
   "last_full_data": {
     "A": 5,
     "B": 5,
     "C": 1,
     "CALLSIGN": "2IWX2",
-    "COG": 319.8,
+    "COG": 201.8,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 319,
+    "HEADING": 201,
     "IMO": 0,
-    "LATITUDE": 51.5068,
-    "LONGITUDE": -0.06922,
+    "LATITUDE": 51.50682,
+    "LONGITUDE": -0.06928,
     "MMSI": 235113452,
     "NAME": "BOADICEA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-07-02 10:59:57 GMT",
+    "TIME": "2024-07-08 20:22:39 GMT",
     "TYPE": 37,
-    "last_seen": "2024-07-02T10:27:17.442070",
+    "last_seen": "2024-07-02T11:19:13.514839",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-02T11:19:13.514839"
+  "last_seen": "2024-07-08T20:24:08.880124"
 }
