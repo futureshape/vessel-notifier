@@ -20,7 +20,7 @@
     "B": 24,
     "C": 5,
     "CALLSIGN": "MWRT5",
-    "COG": 195.2,
+    "COG": 355.2,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -28,17 +28,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50126,
-    "LONGITUDE": -0.06236,
+    "LONGITUDE": -0.06237,
     "MMSI": 235052131,
     "NAME": "MILLENNIUM OF LONDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-07-08 14:26:33 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-08 15:24:16 GMT",
     "TYPE": 60,
-    "last_seen": "2024-07-08T13:27:36.133676",
+    "last_seen": "2024-07-08T14:26:35.976072",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-08T14:26:35.976072"
+  "last_seen": "2024-07-08T15:24:21.016680"
 }
