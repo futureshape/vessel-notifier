@@ -7,28 +7,25 @@
     "B": 6,
     "C": 3,
     "CALLSIGN": "MHOH7",
-    "COG": 56.5,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50895,
-    "LONGITUDE": -0.1156,
+    "LATITUDE": 51.50705,
+    "LONGITUDE": -0.07112,
     "MMSI": 232028275,
     "NAME": "M.T. POKET",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.4,
-    "TIME": "2024-07-08 15:23:26 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-08 16:17:26 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-08T15:24:21.008947",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-08T15:24:21.008947"
+  "last_seen": "2024-07-08T16:28:59.707823"
 }
