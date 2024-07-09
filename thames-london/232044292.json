@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-22",
     "2024-06-25",
-    "2024-07-03"
+    "2024-07-03",
+    "2024-07-09"
   ],
   "last_full_data": {
     "A": 4,
     "B": 3,
     "C": 2,
     "CALLSIGN": "MMKX2",
-    "COG": 281,
+    "COG": 62.5,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50767,
-    "LONGITUDE": -0.08332,
+    "LATITUDE": 51.50819,
+    "LONGITUDE": -0.11508,
     "MMSI": 232044292,
     "NAME": "ROMEO LIMA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 15.1,
-    "TIME": "2024-07-03 17:02:53 GMT",
+    "SOG": 11.3,
+    "TIME": "2024-07-09 12:42:14 GMT",
     "TYPE": 20,
-    "last_seen": "2024-07-03T16:28:46.344970",
+    "last_seen": "2024-07-03T17:22:58.917234",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-03T17:22:58.917234"
+  "last_seen": "2024-07-09T12:44:00.639824"
 }
