@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-07-03"
+    "2024-07-03",
+    "2024-07-09"
   ],
   "last_full_data": {
     "A": 6,
     "B": 8,
     "C": 1,
     "CALLSIGN": "MHPB9",
-    "COG": 88.9,
+    "COG": 261.5,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48464,
-    "LONGITUDE": -0.01407,
+    "LATITUDE": 51.48565,
+    "LONGITUDE": -0.01085,
     "MMSI": 232028424,
     "NAME": "STILL WATERS",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 10.1,
-    "TIME": "2024-07-03 13:25:19 GMT",
+    "SOG": 7.9,
+    "TIME": "2024-07-09 13:24:44 GMT",
     "TYPE": 37,
-    "last_seen": "2024-07-03T12:42:02.670944",
+    "last_seen": "2024-07-03T13:25:19.923958",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-03T13:25:19.923958"
+  "last_seen": "2024-07-09T13:25:03.705587"
 }
