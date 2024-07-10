@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-07-09"
+    "2024-07-09",
+    "2024-07-10"
   ],
   "last_full_data": {
     "A": 7,
     "B": 3,
     "C": 2,
     "CALLSIGN": "PH6324",
-    "COG": 340.3,
+    "COG": 56.4,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50784,
-    "LONGITUDE": -0.07233,
+    "LATITUDE": 51.50786,
+    "LONGITUDE": -0.07223,
     "MMSI": 244270943,
     "NAME": "VICS BLUE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-07-09 23:23:36 GMT",
+    "TIME": "2024-07-10 01:35:05 GMT",
     "TYPE": 36,
-    "last_seen": "2024-07-09T22:25:52.619050",
+    "last_seen": "2024-07-09T23:24:36.955969",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-09T23:24:36.955969"
+  "last_seen": "2024-07-10T01:38:00.018932"
 }
