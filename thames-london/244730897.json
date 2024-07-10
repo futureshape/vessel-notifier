@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2024-07-10"
+  ],
+  "last_full_data": {
+    "A": 7,
+    "B": 4,
+    "C": 1,
+    "CALLSIGN": "PB6315",
+    "COG": 258.7,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49758,
+    "LONGITUDE": 0.03006,
+    "MMSI": 244730897,
+    "NAME": "SUENO+",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 7.3,
+    "TIME": "2024-07-10 13:26:00 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2665,
+      2115,
+      2648,
+      2843
+    ]
+  },
+  "last_seen": "2024-07-10T13:26:03.478085"
+}
