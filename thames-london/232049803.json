@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-04-25"
+    "2024-04-25",
+    "2024-07-10"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-04-25T10:18:58.470198"
+  "last_full_data": {
+    "A": 10,
+    "B": 8,
+    "C": 2,
+    "CALLSIGN": "MOEF3",
+    "COG": 297.7,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50714,
+    "LONGITUDE": 0.00616,
+    "MMSI": 232049803,
+    "NAME": "CONTINUUM",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 4.8,
+    "TIME": "2024-07-10 12:42:38 GMT",
+    "TYPE": 37,
+    "last_seen": "2024-04-25T10:18:58.470198",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-07-10T12:42:55.305594"
 }
