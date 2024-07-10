@@ -7,31 +7,25 @@
     "B": 34,
     "C": 1,
     "CALLSIGN": "ORGC",
-    "COG": 360,
+    "COG": 54.4,
     "D": 8,
     "DEST": "SAFETY DISTANCE0.5NM",
     "DRAUGHT": 3.6,
     "ETA": "01-01 00:00",
-    "HEADING": 272,
+    "HEADING": 102,
     "IMO": 0,
-    "LATITUDE": 51.50107,
-    "LONGITUDE": -0.01085,
+    "LATITUDE": 51.50068,
+    "LONGITUDE": -0.0136,
     "MMSI": 205208000,
     "NAME": "BNS CROCUS",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-07-10 15:24:58 GMT",
+    "TIME": "2024-07-10 16:27:41 GMT",
     "TYPE": 35,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2103,
-      2665,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-10T15:25:02.503271",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-10T15:25:02.503271"
+  "last_seen": "2024-07-10T16:28:32.545102"
 }

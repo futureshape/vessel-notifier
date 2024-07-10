@@ -7,31 +7,25 @@
     "B": 34,
     "C": 1,
     "CALLSIGN": "ORGN",
-    "COG": 284.7,
+    "COG": 274.3,
     "D": 8,
     "DEST": "SEA",
     "DRAUGHT": 3.6,
     "ETA": "05-31 00:00",
-    "HEADING": 284,
+    "HEADING": 271,
     "IMO": 0,
-    "LATITUDE": 51.50116,
-    "LONGITUDE": -0.00801,
+    "LATITUDE": 51.50129,
+    "LONGITUDE": -0.01116,
     "MMSI": 205211000,
     "NAME": "BNS NARCIS",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 1.1,
-    "TIME": "2024-07-10 15:25:00 GMT",
+    "SOG": 2.3,
+    "TIME": "2024-07-10 16:28:31 GMT",
     "TYPE": 35,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2103,
-      2115,
-      2665,
-      2648
-    ]
+    "last_seen": "2024-07-10T15:25:04.134410",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-10T15:25:04.134410"
+  "last_seen": "2024-07-10T16:28:32.545594"
 }

@@ -7,31 +7,25 @@
     "B": 23,
     "C": 5,
     "CALLSIGN": "FIIA",
-    "COG": 283.9,
+    "COG": 102.9,
     "D": 5,
     "DEST": "GBLON",
     "DRAUGHT": 3.1,
     "ETA": "07-10 15:00",
-    "HEADING": 278,
+    "HEADING": 103,
     "IMO": 9682033,
-    "LATITUDE": 51.50103,
-    "LONGITUDE": -0.00969,
+    "LATITUDE": 51.5025,
+    "LONGITUDE": -0.0144,
     "MMSI": 228037900,
     "NAME": "ALMAK",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2024-07-10 15:25:00 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-07-10 16:28:31 GMT",
     "TYPE": 99,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2103,
-      2665,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-10T15:25:03.236618",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-10T15:25:03.236618"
+  "last_seen": "2024-07-10T16:28:32.544874"
 }
