@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-20",
     "2024-06-27",
-    "2024-07-09"
+    "2024-07-09",
+    "2024-07-10"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MSUH9",
-    "COG": 360,
+    "COG": 193.5,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48391,
-    "LONGITUDE": -0.01207,
+    "LATITUDE": 51.50294,
+    "LONGITUDE": -0.00572,
     "MMSI": 235022603,
     "NAME": "IMPULSE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-07-09 11:19:32 GMT",
+    "SOG": 7.3,
+    "TIME": "2024-07-10 08:28:24 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-09T10:27:12.304978",
+    "last_seen": "2024-07-09T11:19:35.083811",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-09T11:19:35.083811"
+  "last_seen": "2024-07-10T08:28:34.600073"
 }
