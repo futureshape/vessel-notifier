@@ -9,7 +9,7 @@
     "B": 9,
     "C": 2,
     "CALLSIGN": "",
-    "COG": 270.3,
+    "COG": 101.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -17,17 +17,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50969,
-    "LONGITUDE": -0.11727,
+    "LONGITUDE": -0.11726,
     "MMSI": 235090688,
     "NAME": "PATRICK COLQUHOUN II",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-07-11 09:25:52 GMT",
+    "SOG": 0.2,
+    "TIME": "2024-07-11 10:25:51 GMT",
     "TYPE": 55,
-    "last_seen": "2024-07-10T07:22:10.258274",
+    "last_seen": "2024-07-11T09:26:20.290764",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-11T09:26:20.290764"
+  "last_seen": "2024-07-11T10:26:48.951796"
 }
