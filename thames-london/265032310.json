@@ -7,28 +7,25 @@
     "B": 9,
     "C": 1,
     "CALLSIGN": "SG3422",
-    "COG": 232.4,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50365,
-    "LONGITUDE": -0.05446,
+    "LATITUDE": 51.50699,
+    "LONGITUDE": -0.07177,
     "MMSI": 265032310,
     "NAME": "DUCHESS",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.6,
-    "TIME": "2024-07-11 14:23:54 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-11 15:20:55 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-11T14:24:12.970762",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-11T14:24:12.970762"
+  "last_seen": "2024-07-11T15:23:44.827078"
 }
