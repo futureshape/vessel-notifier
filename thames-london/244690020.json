@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-20",
     "2024-06-27",
-    "2024-07-01"
+    "2024-07-01",
+    "2024-07-11"
   ],
   "last_full_data": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
+    "A": 50,
+    "B": 4,
+    "C": 3,
     "CALLSIGN": "PB6045",
-    "COG": 273.3,
-    "D": 0,
+    "COG": 88.6,
+    "D": 4,
     "DEST": "KALLO",
     "DRAUGHT": 1.4,
     "ETA": "02-13 16:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49387,
-    "LONGITUDE": 0.02827,
+    "LATITUDE": 51.50124,
+    "LONGITUDE": -0.00984,
     "MMSI": 244690020,
     "NAME": "SCHELDEMOND I",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-07-01 09:27:43 GMT",
+    "SOG": 0.2,
+    "TIME": "2024-07-11 06:30:11 GMT",
     "TYPE": 33,
-    "last_seen": "2024-07-01T08:28:15.394879",
+    "last_seen": "2024-07-01T09:27:49.337330",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-01T09:27:49.337330"
+  "last_seen": "2024-07-11T06:30:19.713246"
 }
