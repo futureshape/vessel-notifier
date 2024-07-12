@@ -4,32 +4,33 @@
     "2024-06-26",
     "2024-06-27",
     "2024-06-28",
-    "2024-06-30"
+    "2024-06-30",
+    "2024-07-12"
   ],
   "last_full_data": {
     "A": 5,
     "B": 12,
     "C": 1,
     "CALLSIGN": "MEYK5",
-    "COG": 237.6,
+    "COG": 128.5,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.44849,
-    "LONGITUDE": -0.30777,
+    "LATITUDE": 51.42654,
+    "LONGITUDE": -0.31071,
     "MMSI": 235102529,
     "NAME": "RICHMOND ROYALE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6,
-    "TIME": "2024-06-30 15:11:45 GMT",
+    "SOG": 3.5,
+    "TIME": "2024-07-12 13:19:09 GMT",
     "TYPE": 99,
-    "last_seen": "2024-06-28T17:24:31.931635",
+    "last_seen": "2024-06-30T15:23:13.787022",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-30T15:23:13.787022"
+  "last_seen": "2024-07-12T13:25:40.634433"
 }

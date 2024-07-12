@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-06-26"
+    "2024-06-26",
+    "2024-07-12"
   ],
   "last_full_data": {
     "A": 11,
     "B": 6,
     "C": 1,
     "CALLSIGN": "MFDJ4",
-    "COG": 360,
+    "COG": 126.3,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48513,
-    "LONGITUDE": -0.00555,
+    "LATITUDE": 51.50528,
+    "LONGITUDE": 0.00426,
     "MMSI": 232021710,
     "NAME": "ANITA",
     "NAVSTAT": 4,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2024-06-26 16:06:32 GMT",
+    "SOG": 5.1,
+    "TIME": "2024-07-12 13:25:31 GMT",
     "TYPE": 79,
-    "last_seen": "2024-06-26T15:24:35.101496",
+    "last_seen": "2024-06-26T16:28:33.314175",
     "received_by_stations": []
   },
-  "last_seen": "2024-06-26T16:28:33.314175"
+  "last_seen": "2024-07-12T13:25:40.653994"
 }
