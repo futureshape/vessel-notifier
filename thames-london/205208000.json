@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-07-10",
-    "2024-07-11"
+    "2024-07-11",
+    "2024-07-12"
   ],
   "last_full_data": {
     "A": 17,
     "B": 34,
     "C": 1,
     "CALLSIGN": "ORGC",
-    "COG": 360,
+    "COG": 93.2,
     "D": 8,
     "DEST": "SAFETY DISTANCE0.5NM",
     "DRAUGHT": 3.6,
     "ETA": "01-01 00:00",
     "HEADING": 102,
     "IMO": 0,
-    "LATITUDE": 51.50076,
-    "LONGITUDE": -0.01322,
+    "LATITUDE": 51.50099,
+    "LONGITUDE": -0.01301,
     "MMSI": 205208000,
     "NAME": "BNS CROCUS",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-07-11 23:22:01 GMT",
+    "TIME": "2024-07-12 01:36:37 GMT",
     "TYPE": 35,
-    "last_seen": "2024-07-11T22:25:11.080370",
+    "last_seen": "2024-07-11T23:24:00.776021",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-11T23:24:00.776021"
+  "last_seen": "2024-07-12T01:36:55.499759"
 }
