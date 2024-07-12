@@ -1,0 +1,34 @@
+{
+  "dates_seen": [
+    "2024-07-12"
+  ],
+  "last_full_data": {
+    "A": 6,
+    "B": 5,
+    "C": 2,
+    "CALLSIGN": "DC2061",
+    "COG": 267.9,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 267,
+    "IMO": 0,
+    "LATITUDE": 51.50891,
+    "LONGITUDE": -0.04112,
+    "MMSI": 218046180,
+    "NAME": "ALORA",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 6.9,
+    "TIME": "2024-07-12 15:24:00 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-07-12T15:24:12.504979"
+}
