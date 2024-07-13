@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-22",
     "2024-07-10",
-    "2024-07-11"
+    "2024-07-11",
+    "2024-07-13"
   ],
   "last_full_data": {
     "A": 12,
     "B": 0,
     "C": 2,
     "CALLSIGN": "2AMF3",
-    "COG": 311.5,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50618,
-    "LONGITUDE": -0.07357,
+    "LATITUDE": 51.50593,
+    "LONGITUDE": -0.07305,
     "MMSI": 235060959,
     "NAME": "TIGER TWO",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-07-11 10:03:44 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-13 09:21:31 GMT",
     "TYPE": 0,
-    "last_seen": "2024-07-11T09:26:20.300640",
+    "last_seen": "2024-07-11T10:26:48.955550",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-11T10:26:48.955550"
+  "last_seen": "2024-07-13T09:21:45.369105"
 }
