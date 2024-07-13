@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-03-13",
     "2024-07-03",
-    "2024-07-12"
+    "2024-07-12",
+    "2024-07-13"
   ],
   "last_full_data": {
     "A": 5,
     "B": 16,
     "C": 4,
     "CALLSIGN": "2GKA2",
-    "COG": 227.3,
+    "COG": 255.6,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 2.7,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49454,
-    "LONGITUDE": 0.02302,
+    "LATITUDE": 51.49449,
+    "LONGITUDE": 0.02309,
     "MMSI": 235098066,
     "NAME": "GPS INDIA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-07-12 19:17:26 GMT",
+    "TIME": "2024-07-13 04:26:00 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-12T18:31:49.211020",
+    "last_seen": "2024-07-12T19:18:05.654463",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-12T19:18:05.654463"
+  "last_seen": "2024-07-13T04:26:01.507470"
 }
