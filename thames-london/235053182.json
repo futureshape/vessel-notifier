@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-07-01"
+    "2024-07-01",
+    "2024-07-14"
   ],
   "last_full_data": {
     "A": 8,
     "B": 22,
     "C": 4,
     "CALLSIGN": "MKMC",
-    "COG": 77.6,
+    "COG": 358,
     "D": 1,
-    "DEST": "COWES",
+    "DEST": "RICHMOND",
     "DRAUGHT": 1.8,
-    "ETA": "07-03 21:30",
+    "ETA": "07-14 19:30",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50617,
-    "LONGITUDE": 0.00152,
+    "LATITUDE": 51.49579,
+    "LONGITUDE": -0.02907,
     "MMSI": 235053182,
     "NAME": "LILIAN",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 6.8,
-    "TIME": "2024-07-01 14:24:22 GMT",
+    "SOG": 7.3,
+    "TIME": "2024-07-14 15:32:24 GMT",
     "TYPE": 37,
-    "last_seen": "2024-07-01T13:26:07.712070",
+    "last_seen": "2024-07-01T14:24:23.538387",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-01T14:24:23.538387"
+  "last_seen": "2024-07-14T15:32:35.423787"
 }

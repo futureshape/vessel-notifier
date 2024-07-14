@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-05-29",
-    "2024-07-05"
+    "2024-07-05",
+    "2024-07-14"
   ],
   "last_full_data": {
     "A": 3,
     "B": 8,
     "C": 2,
     "CALLSIGN": "2CTA3",
-    "COG": 302,
+    "COG": 38.6,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49902,
-    "LONGITUDE": 0.01967,
+    "LATITUDE": 51.50423,
+    "LONGITUDE": 0.01194,
     "MMSI": 235075512,
     "NAME": "SIBERIAN",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.1,
-    "TIME": "2024-07-05 17:24:16 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-07-14 15:32:31 GMT",
     "TYPE": 52,
-    "last_seen": "2024-05-29T04:23:30.283977",
+    "last_seen": "2024-07-05T17:24:17.199615",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-05T17:24:17.199615"
+  "last_seen": "2024-07-14T15:32:35.427254"
 }
