@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2024-07-14"
+  ],
+  "last_full_data": {
+    "A": 10,
+    "B": 22,
+    "C": 8,
+    "CALLSIGN": "9HA4275",
+    "COG": 268.6,
+    "D": 5,
+    "DEST": "THAMES TOWAGE",
+    "DRAUGHT": 6.2,
+    "ETA": "02-15 00:00",
+    "HEADING": 254,
+    "IMO": 9454876,
+    "LATITUDE": 51.48446,
+    "LONGITUDE": -0.01295,
+    "MMSI": 249518000,
+    "NAME": "VB CHEETAH",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 127,
+    "SOG": 0.2,
+    "TIME": "2024-07-14 16:37:19 GMT",
+    "TYPE": 52,
+    "last_seen": null,
+    "received_by_stations": [
+      2103,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-07-14T16:37:24.277792"
+}
