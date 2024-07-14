@@ -7,29 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "C6YZ5 2",
-    "COG": 159,
+    "COG": 152.4,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49965,
-    "LONGITUDE": -0.0057,
+    "LATITUDE": 51.48299,
+    "LONGITUDE": -0.0138,
     "MMSI": 983110069,
     "NAME": "SEABOURN QUEST",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 1.9,
-    "TIME": "2024-07-14 04:28:53 GMT",
+    "SOG": 7.3,
+    "TIME": "2024-07-14 05:27:27 GMT",
     "TYPE": 53,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-14T04:29:22.478016",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-14T04:29:22.478016"
+  "last_seen": "2024-07-14T05:27:39.386769"
 }
