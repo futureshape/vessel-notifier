@@ -7,31 +7,25 @@
     "B": 21,
     "C": 6,
     "CALLSIGN": "ZCOY9",
-    "COG": 263.3,
+    "COG": 281.4,
     "D": 5,
     "DEST": "GB LON",
     "DRAUGHT": 3.5,
     "ETA": "07-15 05:30",
-    "HEADING": 261,
+    "HEADING": 123,
     "IMO": 1008671,
-    "LATITUDE": 51.49708,
-    "LONGITUDE": 0.03357,
+    "LATITUDE": 51.50361,
+    "LONGITUDE": -0.07132,
     "MMSI": 319420000,
     "NAME": "SAMADHI",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 0,
-    "SOG": 11.2,
-    "TIME": "2024-07-15 05:25:24 GMT",
+    "SOG": 0.3,
+    "TIME": "2024-07-15 06:32:53 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      2130,
-      2115,
-      2648,
-      2843
-    ]
+    "last_seen": "2024-07-15T05:25:29.736674",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-15T05:25:29.736674"
+  "last_seen": "2024-07-15T06:32:54.638004"
 }
