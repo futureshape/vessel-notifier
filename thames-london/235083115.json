@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-08",
-    "2024-07-15"
+    "2024-07-15",
+    "2024-07-16"
   ],
   "last_full_data": {
     "A": 10,
     "B": 1,
     "C": 2,
     "CALLSIGN": "2EEB2",
-    "COG": 217.2,
+    "COG": 230.3,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49417,
-    "LONGITUDE": -0.03357,
+    "LATITUDE": 51.50769,
+    "LONGITUDE": -0.04618,
     "MMSI": 235083115,
     "NAME": "MARINE POLICE 12",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-07-15 09:07:55 GMT",
+    "SOG": 7.5,
+    "TIME": "2024-07-16 09:00:24 GMT",
     "TYPE": 55,
-    "last_seen": "2024-07-15T07:21:08.895424",
+    "last_seen": "2024-07-15T09:24:57.591582",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-15T09:24:57.591582"
+  "last_seen": "2024-07-16T09:25:14.729385"
 }
