@@ -27,7 +27,7 @@
     "B": 9,
     "C": 8,
     "CALLSIGN": "2FSP3",
-    "COG": 360,
+    "COG": 258.4,
     "D": 0,
     "DEST": "LONDON",
     "DRAUGHT": 2.4,
@@ -35,17 +35,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.51004,
-    "LONGITUDE": -0.11538,
+    "LONGITUDE": -0.11537,
     "MMSI": 235093883,
     "NAME": "SHAKEDOG",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-07-16 14:24:24 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-07-16 14:49:49 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-16T13:20:05.606709",
+    "last_seen": "2024-07-16T14:25:51.586319",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-16T14:25:51.586319"
+  "last_seen": "2024-07-16T15:20:05.102784"
 }
