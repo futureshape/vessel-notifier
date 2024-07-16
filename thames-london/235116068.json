@@ -1,7 +1,8 @@
 {
   "dates_seen": [
     "2024-03-27",
-    "2024-07-15"
+    "2024-07-15",
+    "2024-07-16"
   ],
   "last_full_data": {
     "A": 4,
@@ -16,20 +17,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.4948,
-    "LONGITUDE": 0.00102,
+    "LONGITUDE": 0.00099,
     "MMSI": 235116068,
     "NAME": "DEVOUT",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2024-07-15 07:20:59 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-07-16 07:21:28 GMT",
     "TYPE": 52,
-    "last_seen": "2024-03-27T15:17:51.458963",
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-15T07:21:09.557195",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-15T07:21:09.557195"
+  "last_seen": "2024-07-16T07:21:33.999674"
 }
