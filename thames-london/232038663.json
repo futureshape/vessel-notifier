@@ -28,7 +28,7 @@
     "B": 4,
     "C": 4,
     "CALLSIGN": "MKFI2",
-    "COG": 181.3,
+    "COG": 193.8,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -36,17 +36,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50498,
-    "LONGITUDE": -0.07122,
+    "LONGITUDE": -0.0712,
     "MMSI": 232038663,
     "NAME": "TANNER",
     "NAVSTAT": 15,
     "PAC": 1,
-    "ROT": -17,
-    "SOG": 0,
-    "TIME": "2024-07-16 18:30:00 GMT",
+    "ROT": -13,
+    "SOG": 0.1,
+    "TIME": "2024-07-16 19:18:35 GMT",
     "TYPE": 51,
-    "last_seen": "2024-07-16T17:22:47.209338",
+    "last_seen": "2024-07-16T18:30:02.491461",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-16T18:30:02.491461"
+  "last_seen": "2024-07-16T19:18:35.839429"
 }
