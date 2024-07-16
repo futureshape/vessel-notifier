@@ -7,28 +7,25 @@
     "B": 0,
     "C": 3,
     "CALLSIGN": "DD7973",
-    "COG": 265.5,
+    "COG": 95.3,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48564,
-    "LONGITUDE": -0.01332,
+    "LATITUDE": 51.50696,
+    "LONGITUDE": -0.06971,
     "MMSI": 211632080,
     "NAME": "SAMBESI",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6,
-    "TIME": "2024-07-16 07:21:09 GMT",
+    "SOG": 1.4,
+    "TIME": "2024-07-16 08:28:08 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-16T07:21:33.998562",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-16T07:21:33.998562"
+  "last_seen": "2024-07-16T08:28:17.956793"
 }
