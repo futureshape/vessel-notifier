@@ -16,32 +16,33 @@
     "2024-07-11",
     "2024-07-12",
     "2024-07-13",
-    "2024-07-14"
+    "2024-07-14",
+    "2024-07-16"
   ],
   "last_full_data": {
     "A": 2,
     "B": 7,
     "C": 1,
     "CALLSIGN": "MINV2",
-    "COG": 198.6,
+    "COG": 360,
     "D": 2,
     "DEST": "IMPERIAL WHARF",
     "DRAUGHT": 0.6,
     "ETA": "07-02 18:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47439,
-    "LONGITUDE": -0.17912,
+    "LATITUDE": 51.47251,
+    "LONGITUDE": -0.18052,
     "MMSI": 232032581,
     "NAME": "GRAZIA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.9,
-    "TIME": "2024-07-14 20:21:31 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-16 12:40:02 GMT",
     "TYPE": 0,
-    "last_seen": "2024-07-14T19:18:59.582844",
+    "last_seen": "2024-07-14T20:22:02.215029",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-14T20:22:02.215029"
+  "last_seen": "2024-07-16T12:40:09.528203"
 }
