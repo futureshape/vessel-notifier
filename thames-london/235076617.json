@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-21",
-    "2024-07-12"
+    "2024-07-12",
+    "2024-07-17"
   ],
   "last_full_data": {
     "A": 5,
     "B": 10,
     "C": 2,
     "CALLSIGN": "MDVF2",
-    "COG": 349.3,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49273,
-    "LONGITUDE": -0.00021,
+    "LATITUDE": 51.48097,
+    "LONGITUDE": -0.01632,
     "MMSI": 235076617,
     "NAME": "FELAURA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.7,
-    "TIME": "2024-07-12 07:22:00 GMT",
+    "SOG": 0.4,
+    "TIME": "2024-07-17 07:21:56 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-12T06:30:37.575347",
+    "last_seen": "2024-07-12T07:22:06.267582",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-12T07:22:06.267582"
+  "last_seen": "2024-07-17T07:21:57.978446"
 }

@@ -1,7 +1,37 @@
 {
   "dates_seen": [
-    "2024-04-12"
+    "2024-04-12",
+    "2024-07-17"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-04-12T07:18:25.090347"
+  "last_full_data": {
+    "A": 96,
+    "B": 24,
+    "C": 10,
+    "CALLSIGN": "MXAW7",
+    "COG": 45,
+    "D": 9,
+    "DEST": "DREDGE507>GBCHN",
+    "DRAUGHT": 7.2,
+    "ETA": "07-17 07:15",
+    "HEADING": 109,
+    "IMO": 9151553,
+    "LATITUDE": 51.496,
+    "LONGITUDE": 0.02067,
+    "MMSI": 232215000,
+    "NAME": "SAND FALCON",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2024-07-17 07:21:56 GMT",
+    "TYPE": 33,
+    "last_seen": "2024-04-12T07:18:25.090347",
+    "received_by_stations": [
+      3416,
+      2103,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-07-17T07:21:58.591618"
 }
