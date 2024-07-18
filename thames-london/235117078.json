@@ -20,7 +20,7 @@
     "B": 15,
     "C": 2,
     "CALLSIGN": "2HYW9",
-    "COG": 29.6,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -28,17 +28,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5007,
-    "LONGITUDE": 0.01713,
+    "LONGITUDE": 0.01725,
     "MMSI": 235117078,
     "NAME": "GPS IONIA",
     "NAVSTAT": 4,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.7,
-    "TIME": "2024-07-18 20:23:15 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-18 21:21:15 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-18T11:20:04.980592",
+    "last_seen": "2024-07-18T20:23:16.733043",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-18T20:23:16.733043"
+  "last_seen": "2024-07-18T21:21:16.789023"
 }
