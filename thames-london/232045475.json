@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-05-02",
     "2024-07-16",
-    "2024-07-17"
+    "2024-07-17",
+    "2024-07-18"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MMWS5",
-    "COG": 360,
+    "COG": 191.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48335,
-    "LONGITUDE": -0.14037,
+    "LATITUDE": 51.48731,
+    "LONGITUDE": -0.12721,
     "MMSI": 232045475,
     "NAME": "GUARDDOG",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-07-17 14:25:33 GMT",
+    "SOG": 7.1,
+    "TIME": "2024-07-18 05:25:13 GMT",
     "TYPE": 0,
-    "last_seen": "2024-07-17T13:25:56.780697",
+    "last_seen": "2024-07-17T14:25:38.798086",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-17T14:25:38.798086"
+  "last_seen": "2024-07-18T05:25:30.981724"
 }
