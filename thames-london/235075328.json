@@ -7,31 +7,25 @@
     "B": 12,
     "C": 5,
     "CALLSIGN": "2CSF6",
-    "COG": 281.4,
+    "COG": 296.9,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 2,
     "ETA": "07-18 12:30",
-    "HEADING": 275,
+    "HEADING": 300,
     "IMO": 0,
-    "LATITUDE": 51.5088,
-    "LONGITUDE": -0.03799,
+    "LATITUDE": 51.50492,
+    "LONGITUDE": -0.07121,
     "MMSI": 235075328,
     "NAME": "TS JACK PETCHEY",
     "NAVSTAT": 8,
     "PAC": 0,
-    "ROT": 127,
-    "SOG": 7.8,
-    "TIME": "2024-07-18 10:27:41 GMT",
+    "ROT": 0,
+    "SOG": 0.1,
+    "TIME": "2024-07-18 11:20:04 GMT",
     "TYPE": 90,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2103,
-      2665,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-18T10:27:44.661177",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-18T10:27:44.661177"
+  "last_seen": "2024-07-18T11:20:04.973940"
 }
