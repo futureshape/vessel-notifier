@@ -7,28 +7,25 @@
     "B": 3,
     "C": 3,
     "CALLSIGN": "PG6495",
-    "COG": 177.9,
+    "COG": 306.5,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49147,
-    "LONGITUDE": -0.00202,
+    "LATITUDE": 51.50501,
+    "LONGITUDE": -0.07213,
     "MMSI": 244110967,
     "NAME": "PANTA RHEI",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 6.8,
-    "TIME": "2024-07-19 10:26:30 GMT",
+    "SOG": 1.4,
+    "TIME": "2024-07-19 11:19:25 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-19T10:26:50.257993",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-19T10:26:50.257993"
+  "last_seen": "2024-07-19T11:19:52.011820"
 }
