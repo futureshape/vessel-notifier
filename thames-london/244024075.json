@@ -8,7 +8,7 @@
     "B": 1,
     "C": 1,
     "CALLSIGN": "PH7318",
-    "COG": 48.5,
+    "COG": 37.9,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -16,17 +16,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50731,
-    "LONGITUDE": -0.06937,
+    "LONGITUDE": -0.06935,
     "MMSI": 244024075,
     "NAME": "MAES",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-07-19 11:17:02 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-07-19 12:41:03 GMT",
     "TYPE": 36,
-    "last_seen": "2024-07-19T10:26:47.928654",
+    "last_seen": "2024-07-19T11:19:52.014638",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-19T11:19:52.014638"
+  "last_seen": "2024-07-19T12:41:36.628973"
 }
