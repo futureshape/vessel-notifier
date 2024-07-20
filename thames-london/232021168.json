@@ -10,7 +10,7 @@
     "B": 2,
     "C": 2,
     "CALLSIGN": "MEYD9",
-    "COG": 108,
+    "COG": 88.8,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -18,17 +18,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50669,
-    "LONGITUDE": -0.07222,
+    "LONGITUDE": -0.07215,
     "MMSI": 232021168,
     "NAME": "BLUE MERMAID",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-07-20 11:16:00 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-07-20 12:36:59 GMT",
     "TYPE": 36,
-    "last_seen": "2024-07-20T10:27:21.485453",
+    "last_seen": "2024-07-20T11:18:21.664168",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-20T11:18:21.664168"
+  "last_seen": "2024-07-20T12:38:29.084235"
 }
