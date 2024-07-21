@@ -7,28 +7,25 @@
     "B": 8,
     "C": 3,
     "CALLSIGN": "OQ2264",
-    "COG": 303.6,
+    "COG": 296.6,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50462,
-    "LONGITUDE": -0.07128,
+    "LATITUDE": 51.50364,
+    "LONGITUDE": -0.06823,
     "MMSI": 205226470,
     "NAME": "DAHOMEY",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 2.5,
-    "TIME": "2024-07-21 12:39:15 GMT",
+    "SOG": 3.8,
+    "TIME": "2024-07-21 13:22:45 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-21T12:39:47.095957",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-21T12:39:47.095957"
+  "last_seen": "2024-07-21T13:22:50.734599"
 }
