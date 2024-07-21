@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-07-18",
     "2024-07-19",
-    "2024-07-20"
+    "2024-07-20",
+    "2024-07-21"
   ],
   "last_full_data": {
     "A": 12,
     "B": 12,
     "C": 5,
     "CALLSIGN": "2CSF6",
-    "COG": 126.1,
+    "COG": 113,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 2,
     "ETA": "07-18 12:30",
-    "HEADING": 300,
+    "HEADING": 299,
     "IMO": 0,
-    "LATITUDE": 51.50493,
-    "LONGITUDE": -0.07129,
+    "LATITUDE": 51.50495,
+    "LONGITUDE": -0.0713,
     "MMSI": 235075328,
     "NAME": "TS JACK PETCHEY",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0.2,
-    "TIME": "2024-07-20 23:20:38 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-21 01:43:02 GMT",
     "TYPE": 90,
-    "last_seen": "2024-07-20T22:24:46.309312",
+    "last_seen": "2024-07-20T23:21:24.697329",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-20T23:21:24.697329"
+  "last_seen": "2024-07-21T01:44:24.447254"
 }
