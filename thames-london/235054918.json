@@ -21,7 +21,7 @@
     "B": 29,
     "C": 7,
     "CALLSIGN": "MGKA3",
-    "COG": 36.3,
+    "COG": 27.7,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -29,17 +29,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50363,
-    "LONGITUDE": -0.12259,
+    "LONGITUDE": -0.12249,
     "MMSI": 235054918,
     "NAME": "PRIDE OF LONDON",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-07-21 14:23:17 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-21 15:25:27 GMT",
     "TYPE": 60,
-    "last_seen": "2024-07-21T13:22:50.725927",
+    "last_seen": "2024-07-21T14:23:26.148093",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-21T14:23:26.148093"
+  "last_seen": "2024-07-21T15:25:32.908851"
 }

@@ -12,25 +12,20 @@
     "DEST": "LONDON",
     "DRAUGHT": 0.3,
     "ETA": "07-21 12:00",
-    "HEADING": 273,
+    "HEADING": 99,
     "IMO": 0,
-    "LATITUDE": 51.5014,
-    "LONGITUDE": -0.0107,
+    "LATITUDE": 51.50119,
+    "LONGITUDE": -0.01516,
     "MMSI": 244780510,
     "NAME": "ZAANDAM",
-    "NAVSTAT": 1,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-07-21 14:20:15 GMT",
+    "TIME": "2024-07-21 15:23:10 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      3416,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-21T14:23:27.078763",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-21T14:23:27.078763"
+  "last_seen": "2024-07-21T15:25:32.924478"
 }
