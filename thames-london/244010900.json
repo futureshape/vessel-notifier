@@ -7,30 +7,25 @@
     "B": 7,
     "C": 1,
     "CALLSIGN": "PB9665",
-    "COG": 270.6,
+    "COG": 111.3,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49712,
-    "LONGITUDE": 0.02769,
+    "LATITUDE": 51.50555,
+    "LONGITUDE": -0.07253,
     "MMSI": 244010900,
     "NAME": "OVERVLOED",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 10.5,
-    "TIME": "2024-07-21 09:22:58 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-21 10:20:29 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2665,
-      2648,
-      2843
-    ]
+    "last_seen": "2024-07-21T09:23:28.867369",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-21T09:23:28.867369"
+  "last_seen": "2024-07-21T10:26:07.836251"
 }
