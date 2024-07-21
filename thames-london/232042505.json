@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-02",
     "2024-07-19",
-    "2024-07-20"
+    "2024-07-20",
+    "2024-07-21"
   ],
   "last_full_data": {
     "A": 18,
     "B": 4,
     "C": 4,
     "CALLSIGN": "MLRQ2",
-    "COG": 0.2,
+    "COG": 78.1,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47814,
-    "LONGITUDE": -0.2254,
+    "LATITUDE": 51.48162,
+    "LONGITUDE": -0.1698,
     "MMSI": 232042505,
     "NAME": "JUFFROUW JANNY",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.1,
-    "TIME": "2024-07-20 11:04:27 GMT",
+    "SOG": 4.4,
+    "TIME": "2024-07-21 14:23:20 GMT",
     "TYPE": 37,
-    "last_seen": "2024-07-20T10:27:21.473685",
+    "last_seen": "2024-07-20T11:18:21.650813",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-20T11:18:21.650813"
+  "last_seen": "2024-07-21T14:23:26.146548"
 }

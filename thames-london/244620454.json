@@ -7,32 +7,25 @@
     "B": 32,
     "C": 5,
     "CALLSIGN": "PE4780",
-    "COG": 164.2,
+    "COG": 117.3,
     "D": 3,
     "DEST": "LONDON UK",
     "DRAUGHT": 2.3,
     "ETA": "07-21 11:00",
-    "HEADING": 313,
+    "HEADING": 98,
     "IMO": 0,
-    "LATITUDE": 51.49989,
-    "LONGITUDE": -0.00512,
+    "LATITUDE": 51.5016,
+    "LONGITUDE": -0.01408,
     "MMSI": 244620454,
     "NAME": "ZEEFAKKEL",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
     "SOG": 1.4,
-    "TIME": "2024-07-21 13:22:46 GMT",
+    "TIME": "2024-07-21 14:23:23 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3478,
-      3416,
-      2103,
-      2115,
-      2665,
-      2648
-    ]
+    "last_seen": "2024-07-21T13:22:51.912181",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-21T13:22:51.912181"
+  "last_seen": "2024-07-21T14:23:26.161636"
 }
