@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-04"
+    "2024-06-04",
+    "2024-07-22"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-04T15:20:01.827466"
+  "last_full_data": {
+    "A": 9,
+    "B": 5,
+    "C": 3,
+    "CALLSIGN": "2FKK6",
+    "COG": 233.9,
+    "D": 2,
+    "DEST": "SURVEY",
+    "DRAUGHT": 5,
+    "ETA": "01-19 14:57",
+    "HEADING": 233,
+    "IMO": 0,
+    "LATITUDE": 51.50796,
+    "LONGITUDE": -0.04591,
+    "MMSI": 235092014,
+    "NAME": "THAME",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 127,
+    "SOG": 7.5,
+    "TIME": "2024-07-22 10:27:50 GMT",
+    "TYPE": 79,
+    "last_seen": "2024-06-04T15:20:01.827466",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-07-22T10:27:58.010954"
 }
