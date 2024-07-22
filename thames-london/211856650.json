@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2024-07-20"
+    "2024-07-20",
+    "2024-07-22"
   ],
   "last_full_data": {
     "A": 6,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 277,
+    "HEADING": 181,
     "IMO": 0,
-    "LATITUDE": 51.50758,
-    "LONGITUDE": -0.07293,
+    "LATITUDE": 51.50705,
+    "LONGITUDE": -0.07108,
     "MMSI": 211856650,
     "NAME": "CATERINA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-07-20 12:34:00 GMT",
+    "TIME": "2024-07-22 12:42:51 GMT",
     "TYPE": 37,
-    "last_seen": "2024-07-20T11:18:21.663934",
+    "last_seen": "2024-07-20T12:38:29.082609",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-20T12:38:29.082609"
+  "last_seen": "2024-07-22T12:44:07.398820"
 }
