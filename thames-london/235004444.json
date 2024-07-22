@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-07-12",
-    "2024-07-20"
+    "2024-07-20",
+    "2024-07-22"
   ],
   "last_full_data": {
     "A": 7,
     "B": 3,
     "C": 3,
     "CALLSIGN": "ZNAV4",
-    "COG": 50,
+    "COG": 0,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50719,
-    "LONGITUDE": -0.06955,
+    "LATITUDE": 51.5073,
+    "LONGITUDE": -0.06911,
     "MMSI": 235004444,
     "NAME": "PRIME TIME",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-07-20 13:07:23 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-22 09:19:20 GMT",
     "TYPE": 37,
-    "last_seen": "2024-07-20T12:38:29.083982",
+    "last_seen": "2024-07-20T13:22:37.077949",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-20T13:22:37.077949"
+  "last_seen": "2024-07-22T09:27:27.287566"
 }
