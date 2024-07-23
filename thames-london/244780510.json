@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-07-21",
-    "2024-07-22"
+    "2024-07-22",
+    "2024-07-23"
   ],
   "last_full_data": {
     "A": 18,
     "B": 20,
     "C": 4,
     "CALLSIGN": "PA3319",
-    "COG": 47.2,
+    "COG": 0,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 0.3,
     "ETA": "07-21 12:00",
-    "HEADING": 101,
+    "HEADING": 100,
     "IMO": 0,
-    "LATITUDE": 51.50127,
-    "LONGITUDE": -0.01685,
+    "LATITUDE": 51.50118,
+    "LONGITUDE": -0.01512,
     "MMSI": 244780510,
     "NAME": "ZAANDAM",
     "NAVSTAT": 5,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-07-22 23:19:47 GMT",
+    "TIME": "2024-07-23 01:37:46 GMT",
     "TYPE": 37,
-    "last_seen": "2024-07-22T22:25:04.649621",
+    "last_seen": "2024-07-22T23:21:55.863247",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-22T23:21:55.863247"
+  "last_seen": "2024-07-23T01:39:13.472724"
 }
