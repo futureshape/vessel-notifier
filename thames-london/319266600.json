@@ -1,0 +1,38 @@
+{
+  "dates_seen": [
+    "2024-07-23"
+  ],
+  "last_full_data": {
+    "A": 35,
+    "B": 20,
+    "C": 0,
+    "CALLSIGN": "ZGPY",
+    "COG": 205.2,
+    "D": 0,
+    "DEST": "GBLON",
+    "DRAUGHT": 2.9,
+    "ETA": "07-23 16:00",
+    "HEADING": 215,
+    "IMO": 9944950,
+    "LATITUDE": 51.48875,
+    "LONGITUDE": -0.00152,
+    "MMSI": 319266600,
+    "NAME": "IRIS BLUE",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 127,
+    "SOG": 11,
+    "TIME": "2024-07-23 14:24:59 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3416,
+      2919,
+      2103,
+      2115,
+      2665,
+      2648
+    ]
+  },
+  "last_seen": "2024-07-23T14:25:01.554429"
+}
