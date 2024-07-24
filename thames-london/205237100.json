@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-05-02"
+    "2024-05-02",
+    "2024-07-24"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-05-02T07:17:09.115594"
+  "last_full_data": {
+    "A": 13,
+    "B": 3,
+    "C": 2,
+    "CALLSIGN": "OS2371",
+    "COG": 239.6,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.48722,
+    "LONGITUDE": -0.00477,
+    "MMSI": 205237100,
+    "NAME": "FIVE O",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 6.9,
+    "TIME": "2024-07-24 14:25:13 GMT",
+    "TYPE": 36,
+    "last_seen": "2024-05-02T07:17:09.115594",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-07-24T14:25:28.644555"
 }
