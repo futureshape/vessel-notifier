@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-05-12",
-    "2024-07-14"
+    "2024-07-14",
+    "2024-07-24"
   ],
   "last_full_data": {
     "A": 6,
     "B": 11,
     "C": 3,
     "CALLSIGN": "MFSN8",
-    "COG": 27.1,
+    "COG": 320.4,
     "D": 3,
     "DEST": "THAMES",
     "DRAUGHT": 2.5,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5038,
-    "LONGITUDE": -0.00382,
+    "LATITUDE": 51.50117,
+    "LONGITUDE": 0.01487,
     "MMSI": 232023421,
     "NAME": "PROSPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.1,
-    "TIME": "2024-07-14 07:22:43 GMT",
+    "SOG": 0.2,
+    "TIME": "2024-07-24 06:31:10 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-14T06:32:06.807037",
+    "last_seen": "2024-07-14T07:22:46.508076",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-14T07:22:46.508076"
+  "last_seen": "2024-07-24T06:31:17.655178"
 }
