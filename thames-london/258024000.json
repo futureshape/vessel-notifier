@@ -11,7 +11,7 @@
     "B": 195,
     "C": 16,
     "CALLSIGN": "LARM8",
-    "COG": 23.7,
+    "COG": 255,
     "D": 16,
     "DEST": "GB GNW",
     "DRAUGHT": 6.8,
@@ -19,17 +19,17 @@
     "HEADING": 93,
     "IMO": 9845922,
     "LATITUDE": 51.48428,
-    "LONGITUDE": -0.01453,
+    "LONGITUDE": -0.01452,
     "MMSI": 258024000,
     "NAME": "VIKING SATURN",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-07-24 12:40:35 GMT",
+    "TIME": "2024-07-24 13:25:36 GMT",
     "TYPE": 60,
-    "last_seen": "2024-07-24T11:19:13.057099",
+    "last_seen": "2024-07-24T12:41:52.346914",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-24T12:41:52.346914"
+  "last_seen": "2024-07-24T13:27:23.523933"
 }

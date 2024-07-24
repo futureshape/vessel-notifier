@@ -7,29 +7,25 @@
     "B": 4,
     "C": 1,
     "CALLSIGN": "PG7593",
-    "COG": 173.2,
+    "COG": 0,
     "D": 3,
     "DEST": "TEXEL>A;DAM:VV",
     "DRAUGHT": 0.3,
     "ETA": "03-06 23:59",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4927,
-    "LONGITUDE": -0.00163,
+    "LATITUDE": 51.50538,
+    "LONGITUDE": -0.07221,
     "MMSI": 244750612,
     "NAME": "WANDERER",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.5,
-    "TIME": "2024-07-24 12:41:33 GMT",
+    "SOG": 0.2,
+    "TIME": "2024-07-24 13:27:00 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-24T12:41:52.884832",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-24T12:41:52.884832"
+  "last_seen": "2024-07-24T13:27:23.515811"
 }
