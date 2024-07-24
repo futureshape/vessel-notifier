@@ -28,32 +28,33 @@
     "2024-07-20",
     "2024-07-21",
     "2024-07-22",
-    "2024-07-23"
+    "2024-07-23",
+    "2024-07-24"
   ],
   "last_full_data": {
     "A": 6,
     "B": 24,
     "C": 5,
     "CALLSIGN": "MWRT5",
-    "COG": 103.1,
+    "COG": 199.6,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50724,
-    "LONGITUDE": -0.08225,
+    "LATITUDE": 51.50726,
+    "LONGITUDE": -0.07906,
     "MMSI": 235052131,
     "NAME": "MILLENNIUM OF LONDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4.2,
-    "TIME": "2024-07-23 19:17:56 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-07-24 17:23:20 GMT",
     "TYPE": 60,
-    "last_seen": "2024-07-23T18:28:21.810842",
+    "last_seen": "2024-07-23T19:18:06.881477",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-23T19:18:06.881477"
+  "last_seen": "2024-07-24T17:23:29.439420"
 }
