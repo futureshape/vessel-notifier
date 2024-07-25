@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-05-31",
     "2024-07-17",
-    "2024-07-19"
+    "2024-07-19",
+    "2024-07-25"
   ],
   "last_full_data": {
     "A": 14,
     "B": 6,
     "C": 4,
     "CALLSIGN": "MNSY6",
-    "COG": 224.4,
+    "COG": 257.5,
     "D": 4,
     "DEST": "GBLON",
     "DRAUGHT": 1.8,
     "ETA": "07-17 23:00",
-    "HEADING": 268,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.51001,
-    "LONGITUDE": -0.11585,
+    "LATITUDE": 51.50998,
+    "LONGITUDE": -0.11586,
     "MMSI": 235076403,
     "NAME": "SEADOG",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 0,
+    "ROT": 128,
     "SOG": 0.1,
-    "TIME": "2024-07-19 11:06:15 GMT",
+    "TIME": "2024-07-25 10:01:22 GMT",
     "TYPE": 39,
-    "last_seen": "2024-07-17T20:23:24.986455",
+    "last_seen": "2024-07-19T11:19:52.004287",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-19T11:19:52.004287"
+  "last_seen": "2024-07-25T10:27:49.759818"
 }

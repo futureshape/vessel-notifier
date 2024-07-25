@@ -24,32 +24,33 @@
     "2024-07-20",
     "2024-07-21",
     "2024-07-23",
-    "2024-07-24"
+    "2024-07-24",
+    "2024-07-25"
   ],
   "last_full_data": {
     "A": 5,
     "B": 15,
     "C": 1,
     "CALLSIGN": "GDNC",
-    "COG": 143.5,
+    "COG": 306,
     "D": 4,
     "DEST": "LONDON_",
     "DRAUGHT": 1.2,
     "ETA": "12-31 02:30",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.43327,
-    "LONGITUDE": -0.32727,
+    "LATITUDE": 51.43153,
+    "LONGITUDE": -0.32349,
     "MMSI": 235090271,
     "NAME": "NEW SOUTHERN BELLE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4.5,
-    "TIME": "2024-07-24 20:22:58 GMT",
+    "SOG": 2.5,
+    "TIME": "2024-07-25 10:21:42 GMT",
     "TYPE": 60,
-    "last_seen": "2024-07-24T19:18:07.076941",
+    "last_seen": "2024-07-24T20:23:09.206539",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-24T20:23:09.206539"
+  "last_seen": "2024-07-25T10:27:49.753658"
 }
