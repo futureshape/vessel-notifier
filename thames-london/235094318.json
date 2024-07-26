@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-24",
-    "2024-07-24"
+    "2024-07-24",
+    "2024-07-26"
   ],
   "last_full_data": {
     "A": 8,
     "B": 1,
     "C": 2,
     "CALLSIGN": "",
-    "COG": 269,
+    "COG": 305.1,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48414,
-    "LONGITUDE": -0.00828,
+    "LATITUDE": 51.4871,
+    "LONGITUDE": -0.02229,
     "MMSI": 235094318,
     "NAME": "TYBURN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 1.3,
-    "TIME": "2024-07-24 11:12:34 GMT",
+    "SOG": 4.6,
+    "TIME": "2024-07-26 10:28:01 GMT",
     "TYPE": 53,
-    "last_seen": "2024-07-24T10:28:08.698669",
+    "last_seen": "2024-07-24T11:19:13.059028",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-24T11:19:13.059028"
+  "last_seen": "2024-07-26T10:28:01.652351"
 }
