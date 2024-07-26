@@ -7,28 +7,25 @@
     "B": 0,
     "C": 3,
     "CALLSIGN": "MDCJ5",
-    "COG": 293.1,
+    "COG": 106.3,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48657,
-    "LONGITUDE": -0.02037,
+    "LATITUDE": 51.50539,
+    "LONGITUDE": -0.07314,
     "MMSI": 232015573,
     "NAME": "XRAY",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.3,
-    "TIME": "2024-07-26 15:23:45 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-07-26 16:27:11 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-26T15:24:06.371719",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-26T15:24:06.371719"
+  "last_seen": "2024-07-26T16:29:20.873031"
 }
