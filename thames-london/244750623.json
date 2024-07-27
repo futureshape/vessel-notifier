@@ -7,30 +7,25 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "PD6413",
-    "COG": 0.3,
+    "COG": 5.8,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50173,
-    "LONGITUDE": -0.02866,
+    "LATITUDE": 51.50568,
+    "LONGITUDE": -0.07266,
     "MMSI": 244750623,
     "NAME": "GULLIVER",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.7,
-    "TIME": "2024-07-27 15:22:13 GMT",
+    "SOG": 0.3,
+    "TIME": "2024-07-27 16:26:44 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      2919,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-27T15:22:31.408070",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-27T15:22:31.408070"
+  "last_seen": "2024-07-27T16:27:19.091485"
 }
