@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-07-01",
-    "2024-07-27"
+    "2024-07-27",
+    "2024-07-28"
   ],
   "last_full_data": {
     "A": 7,
     "B": 7,
     "C": 2,
     "CALLSIGN": "OP2209",
-    "COG": 24.5,
+    "COG": 239.9,
     "D": 2,
     "DEST": "AMSTERDAM",
     "DRAUGHT": 1.5,
     "ETA": "08-01 13:04",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5077,
-    "LONGITUDE": -0.07237,
+    "LATITUDE": 51.50788,
+    "LONGITUDE": -0.07242,
     "MMSI": 205220930,
     "NAME": "HARABATO",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2024-07-27 23:23:22 GMT",
+    "SOG": 0.2,
+    "TIME": "2024-07-28 01:42:16 GMT",
     "TYPE": 36,
-    "last_seen": "2024-07-27T22:23:37.238009",
+    "last_seen": "2024-07-27T23:23:50.489230",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-27T23:23:50.489230"
+  "last_seen": "2024-07-28T01:45:10.639809"
 }
