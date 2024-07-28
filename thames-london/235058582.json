@@ -17,7 +17,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MBSF7",
-    "COG": 205.6,
+    "COG": 228,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -25,17 +25,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.47175,
-    "LONGITUDE": -0.2564,
+    "LONGITUDE": -0.25642,
     "MMSI": 235058582,
     "NAME": "EQUITY",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-07-28 16:27:52 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-07-28 17:22:01 GMT",
     "TYPE": 99,
-    "last_seen": "2024-07-28T15:22:46.098448",
+    "last_seen": "2024-07-28T16:28:01.196706",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-28T16:28:01.196706"
+  "last_seen": "2024-07-28T17:23:01.425623"
 }
