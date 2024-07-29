@@ -31,7 +31,7 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "MEPU4",
-    "COG": 250,
+    "COG": 35.8,
     "D": 6,
     "DEST": "LONDON",
     "DRAUGHT": 2.2,
@@ -39,17 +39,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50321,
-    "LONGITUDE": -0.05638,
+    "LONGITUDE": -0.05642,
     "MMSI": 232020313,
     "NAME": "SWS ENDURANCE",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-07-29 16:28:14 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-29 17:22:08 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-29T15:25:56.148943",
+    "last_seen": "2024-07-29T16:29:43.193739",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-29T16:29:43.193739"
+  "last_seen": "2024-07-29T17:23:20.737637"
 }
