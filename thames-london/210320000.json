@@ -8,30 +8,25 @@
     "B": 10,
     "C": 3,
     "CALLSIGN": "5BVS5",
-    "COG": 290.6,
+    "COG": 115.5,
     "D": 6,
     "DEST": "GBLON",
     "DRAUGHT": 2.3,
     "ETA": "07-20 09:00",
-    "HEADING": 133,
+    "HEADING": 132,
     "IMO": 8738328,
-    "LATITUDE": 51.50069,
-    "LONGITUDE": 0.01735,
+    "LATITUDE": 51.50068,
+    "LONGITUDE": 0.01736,
     "MMSI": 210320000,
     "NAME": "GPS BATTLER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-07-30 06:30:57 GMT",
+    "TIME": "2024-07-30 07:20:56 GMT",
     "TYPE": 52,
-    "last_seen": "2024-04-10T01:13:22.444995",
-    "received_by_stations": [
-      3416,
-      2665,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-30T06:31:06.704854",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-30T06:31:06.704854"
+  "last_seen": "2024-07-30T07:21:06.904255"
 }
