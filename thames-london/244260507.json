@@ -7,30 +7,25 @@
     "B": 1,
     "C": 3,
     "CALLSIGN": "PC4012",
-    "COG": 299.2,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 295,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50419,
-    "LONGITUDE": -0.07015,
+    "LATITUDE": 51.50689,
+    "LONGITUDE": -0.07281,
     "MMSI": 244260507,
     "NAME": "SOLITAIRE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.4,
-    "TIME": "2024-07-31 09:25:04 GMT",
+    "SOG": 0,
+    "TIME": "2024-07-31 10:22:16 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2115,
-      2213,
-      2648
-    ]
+    "last_seen": "2024-07-31T09:25:26.867852",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-31T09:25:26.867852"
+  "last_seen": "2024-07-31T10:22:39.861202"
 }
