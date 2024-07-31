@@ -39,17 +39,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49824,
-    "LONGITUDE": 0.03736,
+    "LONGITUDE": 0.03735,
     "MMSI": 235102391,
     "NAME": "JUMBO",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-07-31 11:19:46 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-07-31 12:39:27 GMT",
     "TYPE": 90,
-    "last_seen": "2024-07-31T10:22:40.771701",
+    "last_seen": "2024-07-31T11:19:46.731442",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-31T11:19:46.731442"
+  "last_seen": "2024-07-31T12:44:00.713842"
 }
