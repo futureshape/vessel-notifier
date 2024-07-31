@@ -7,29 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "OQ2712",
-    "COG": 225.4,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48742,
-    "LONGITUDE": -0.00436,
+    "LATITUDE": 51.50535,
+    "LONGITUDE": -0.0719,
     "MMSI": 205271270,
     "NAME": "BARRY II",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.1,
-    "TIME": "2024-07-31 08:24:41 GMT",
+    "SOG": 0.3,
+    "TIME": "2024-07-31 09:23:13 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2213,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-07-31T08:25:05.627339",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-31T08:25:05.627339"
+  "last_seen": "2024-07-31T09:25:26.080299"
 }
