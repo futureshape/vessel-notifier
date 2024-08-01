@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-07-27"
+    "2024-07-27",
+    "2024-08-01"
   ],
   "last_full_data": {
     "A": 17,
     "B": 0,
     "C": 3,
     "CALLSIGN": "PI6845",
-    "COG": 28.5,
+    "COG": 174.5,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50703,
-    "LONGITUDE": -0.07185,
+    "LATITUDE": 51.50702,
+    "LONGITUDE": -0.07192,
     "MMSI": 244386845,
     "NAME": "AMAN DEEP",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-07-27 19:15:51 GMT",
+    "TIME": "2024-08-01 09:22:04 GMT",
     "TYPE": 37,
-    "last_seen": "2024-07-27T18:29:05.102030",
+    "last_seen": "2024-07-27T19:17:28.849100",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-27T19:17:28.849100"
+  "last_seen": "2024-08-01T09:23:26.599541"
 }
