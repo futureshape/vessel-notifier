@@ -7,28 +7,25 @@
     "B": 2,
     "C": 2,
     "CALLSIGN": "MKDZ7",
-    "COG": 224.8,
+    "COG": 351.7,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50344,
-    "LONGITUDE": -0.0547,
+    "LATITUDE": 51.50762,
+    "LONGITUDE": -0.07188,
     "MMSI": 235030051,
     "NAME": "SALLY T",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.1,
-    "TIME": "2024-08-03 11:18:50 GMT",
+    "SOG": 0,
+    "TIME": "2024-08-03 12:35:17 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-08-03T11:19:01.148397",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-03T11:19:01.148397"
+  "last_seen": "2024-08-03T12:39:01.051169"
 }
