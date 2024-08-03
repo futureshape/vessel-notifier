@@ -7,27 +7,25 @@
     "B": 5,
     "C": 0,
     "CALLSIGN": "PI2635",
-    "COG": 259.1,
+    "COG": 238.4,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 250,
+    "HEADING": 234,
     "IMO": 0,
-    "LATITUDE": 51.49791,
-    "LONGITUDE": 0.03299,
+    "LATITUDE": 51.5029,
+    "LONGITUDE": -0.05552,
     "MMSI": 244192858,
     "NAME": "XCHANGE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.4,
-    "TIME": "2024-08-03 10:24:37 GMT",
+    "SOG": 5.8,
+    "TIME": "2024-08-03 11:18:36 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2024-08-03T10:26:00.122480",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-03T10:26:00.122480"
+  "last_seen": "2024-08-03T11:19:00.609477"
 }

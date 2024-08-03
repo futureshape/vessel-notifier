@@ -7,27 +7,25 @@
     "B": 0,
     "C": 3,
     "CALLSIGN": "PF7786",
-    "COG": 263.5,
+    "COG": 237.6,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49779,
-    "LONGITUDE": 0.03012,
+    "LATITUDE": 51.50284,
+    "LONGITUDE": -0.05539,
     "MMSI": 244140775,
     "NAME": "CARPE DIEM",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.7,
-    "TIME": "2024-08-03 10:25:41 GMT",
+    "SOG": 5.6,
+    "TIME": "2024-08-03 11:18:42 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2024-08-03T10:25:59.476163",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-03T10:25:59.476163"
+  "last_seen": "2024-08-03T11:19:00.609702"
 }

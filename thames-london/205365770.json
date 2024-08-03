@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-07-31"
+    "2024-07-31",
+    "2024-08-03"
   ],
   "last_full_data": {
     "A": 17,
     "B": 0,
     "C": 0,
     "CALLSIGN": "OQ3657",
-    "COG": 62.4,
+    "COG": 215.4,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 89,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50687,
-    "LONGITUDE": -0.07247,
+    "LATITUDE": 51.50622,
+    "LONGITUDE": -0.07235,
     "MMSI": 205365770,
     "NAME": "WE LL SEA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0.7,
-    "TIME": "2024-07-31 10:10:36 GMT",
+    "TIME": "2024-08-03 11:12:00 GMT",
     "TYPE": 37,
-    "last_seen": "2024-07-31T09:25:26.077490",
+    "last_seen": "2024-07-31T10:22:39.862215",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-31T10:22:39.862215"
+  "last_seen": "2024-08-03T11:19:00.603267"
 }
