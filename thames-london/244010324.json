@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-08-02"
+    "2024-08-02",
+    "2024-08-03"
   ],
   "last_full_data": {
     "A": 5,
     "B": 5,
     "C": 3,
     "CALLSIGN": "PI6682",
-    "COG": 356.6,
+    "COG": 114,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50741,
-    "LONGITUDE": -0.07157,
+    "LATITUDE": 51.50793,
+    "LONGITUDE": -0.07154,
     "MMSI": 244010324,
     "NAME": "DOBBER",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0.1,
-    "TIME": "2024-08-02 23:18:39 GMT",
+    "TIME": "2024-08-03 01:36:40 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-02T22:25:30.778043",
+    "last_seen": "2024-08-02T23:21:26.337700",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-02T23:21:26.337700"
+  "last_seen": "2024-08-03T01:37:20.515276"
 }
