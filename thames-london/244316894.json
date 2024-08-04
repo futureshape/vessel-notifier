@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-08-02"
+    "2024-08-02",
+    "2024-08-04"
   ],
   "last_full_data": {
     "A": 6,
     "B": 5,
     "C": 3,
     "CALLSIGN": "PC7226",
-    "COG": 175.7,
+    "COG": 181.9,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50735,
-    "LONGITUDE": -0.07132,
+    "LATITUDE": 51.50774,
+    "LONGITUDE": -0.0715,
     "MMSI": 244316894,
     "NAME": "IDEFIX",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-08-02 12:22:34 GMT",
+    "SOG": 0.6,
+    "TIME": "2024-08-04 12:38:33 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-02T11:19:24.696340",
+    "last_seen": "2024-08-02T12:42:40.886179",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-02T12:42:40.886179"
+  "last_seen": "2024-08-04T12:39:02.341018"
 }

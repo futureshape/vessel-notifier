@@ -7,28 +7,25 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "PD4634",
-    "COG": 304,
+    "COG": 216.7,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 307,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48662,
-    "LONGITUDE": -0.02126,
+    "LATITUDE": 51.50642,
+    "LONGITUDE": -0.07215,
     "MMSI": 244078726,
     "NAME": "MARTINA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.4,
-    "TIME": "2024-08-04 11:18:37 GMT",
+    "SOG": 0.9,
+    "TIME": "2024-08-04 12:39:01 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-08-04T11:18:54.238716",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-04T11:18:54.238716"
+  "last_seen": "2024-08-04T12:39:02.337914"
 }
