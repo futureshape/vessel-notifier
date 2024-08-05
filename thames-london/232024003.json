@@ -1,34 +1,32 @@
 {
   "dates_seen": [
-    "2024-07-19"
+    "2024-07-19",
+    "2024-08-05"
   ],
   "last_full_data": {
     "A": 26,
     "B": 1,
     "C": 4,
     "CALLSIGN": "MFY07",
-    "COG": 93.7,
+    "COG": 293.5,
     "D": 2,
-    "DEST": "",
+    "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50612,
-    "LONGITUDE": 0.00355,
+    "LATITUDE": 51.48656,
+    "LONGITUDE": -0.0202,
     "MMSI": 232024003,
     "NAME": "NOOIT VOLMAAKT",
     "NAVSTAT": 8,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.2,
-    "TIME": "2024-07-19 12:41:35 GMT",
+    "SOG": 6.5,
+    "TIME": "2024-08-05 12:44:43 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      2115
-    ]
+    "last_seen": "2024-07-19T12:41:38.383686",
+    "received_by_stations": []
   },
-  "last_seen": "2024-07-19T12:41:38.383686"
+  "last_seen": "2024-08-05T12:44:48.540013"
 }
