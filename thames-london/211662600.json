@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-08-02",
     "2024-08-03",
-    "2024-08-04"
+    "2024-08-04",
+    "2024-08-05"
   ],
   "last_full_data": {
     "A": 11,
     "B": 0,
     "C": 0,
     "CALLSIGN": "DH3366",
-    "COG": 265.6,
+    "COG": 149.3,
     "D": 3,
     "DEST": "CLASS B",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50686,
-    "LONGITUDE": -0.07237,
+    "LATITUDE": 51.50695,
+    "LONGITUDE": -0.0724,
     "MMSI": 211662600,
     "NAME": "NEVERMIND",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2024-08-04 23:21:14 GMT",
+    "SOG": 0.6,
+    "TIME": "2024-08-05 01:41:05 GMT",
     "TYPE": 36,
-    "last_seen": "2024-08-04T22:25:05.071156",
+    "last_seen": "2024-08-04T23:23:40.034411",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-04T23:23:40.034411"
+  "last_seen": "2024-08-05T01:41:50.703473"
 }
