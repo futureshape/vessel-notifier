@@ -41,32 +41,33 @@
     "2024-08-02",
     "2024-08-03",
     "2024-08-04",
-    "2024-08-05"
+    "2024-08-05",
+    "2024-08-06"
   ],
   "last_full_data": {
     "A": 25,
     "B": 7,
     "C": 3,
     "CALLSIGN": "2ITT4",
-    "COG": 111.5,
+    "COG": 0,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5073,
-    "LONGITUDE": 0.00597,
+    "LATITUDE": 51.50732,
+    "LONGITUDE": 0.00603,
     "MMSI": 235112741,
     "NAME": "GALAXY CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-08-05 23:23:34 GMT",
+    "TIME": "2024-08-06 01:39:34 GMT",
     "TYPE": 40,
-    "last_seen": "2024-08-05T22:25:13.722093",
+    "last_seen": "2024-08-05T23:23:47.803054",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-05T23:23:47.803054"
+  "last_seen": "2024-08-06T01:39:38.789788"
 }
