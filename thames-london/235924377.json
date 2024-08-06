@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-05-12",
-    "2024-07-27"
+    "2024-07-27",
+    "2024-08-06"
   ],
   "last_full_data": {
-    "A": 10,
+    "A": 11,
     "B": 10,
     "C": 2,
-    "CALLSIGN": "?",
-    "COG": 29,
-    "D": 2,
-    "DEST": "VEERE",
-    "DRAUGHT": 1.2,
-    "ETA": "07-27 08:16",
+    "CALLSIGN": "T162336",
+    "COG": 300.5,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 1.1,
+    "ETA": "08-06 11:17",
     "HEADING": 359,
     "IMO": 0,
-    "LATITUDE": 51.50671,
-    "LONGITUDE": -0.11906,
+    "LATITUDE": 51.50386,
+    "LONGITUDE": -0.06955,
     "MMSI": 235924377,
     "NAME": "HENDRINA",
-    "NAVSTAT": 0,
+    "NAVSTAT": 1,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.7,
-    "TIME": "2024-07-27 08:16:36 GMT",
+    "SOG": 5.9,
+    "TIME": "2024-08-06 11:19:21 GMT",
     "TYPE": 37,
-    "last_seen": "2024-05-12T14:15:21.371290",
+    "last_seen": "2024-07-27T08:26:18.396722",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-27T08:26:18.396722"
+  "last_seen": "2024-08-06T11:19:47.276727"
 }
