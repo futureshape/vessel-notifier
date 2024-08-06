@@ -15,20 +15,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 332,
+    "HEADING": 333,
     "IMO": 0,
-    "LATITUDE": 51.5069,
-    "LONGITUDE": -0.06944,
+    "LATITUDE": 51.50688,
+    "LONGITUDE": -0.06945,
     "MMSI": 244192858,
     "NAME": "XCHANGE",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-08-06 12:40:35 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-08-06 13:25:38 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-06T11:19:47.276955",
+    "last_seen": "2024-08-06T12:43:33.453801",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-06T12:43:33.453801"
+  "last_seen": "2024-08-06T13:26:38.352324"
 }
