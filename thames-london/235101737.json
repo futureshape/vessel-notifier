@@ -7,30 +7,25 @@
     "B": 6,
     "C": 0,
     "CALLSIGN": "2GZF3",
-    "COG": 263,
+    "COG": 306.3,
     "D": 6,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49847,
-    "LONGITUDE": 0.03665,
+    "LATITUDE": 51.50475,
+    "LONGITUDE": -0.07118,
     "MMSI": 235101737,
     "NAME": "MISTRESS",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 6.8,
-    "TIME": "2024-08-06 14:24:56 GMT",
+    "SOG": 2.8,
+    "TIME": "2024-08-06 15:24:56 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2665,
-      2648,
-      2843
-    ]
+    "last_seen": "2024-08-06T14:25:13.837319",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-06T14:25:13.837319"
+  "last_seen": "2024-08-06T15:25:24.142782"
 }
