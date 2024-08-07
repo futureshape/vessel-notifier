@@ -4,32 +4,33 @@
     "2024-07-23",
     "2024-07-25",
     "2024-07-28",
-    "2024-07-30"
+    "2024-07-30",
+    "2024-08-07"
   ],
   "last_full_data": {
     "A": 15,
     "B": 17,
     "C": 6,
     "CALLSIGN": "MOLI7",
-    "COG": 15.1,
+    "COG": 254,
     "D": 6,
     "DEST": "THAMES TOWAGE",
     "DRAUGHT": 6.5,
     "ETA": "01-30 22:30",
-    "HEADING": 8,
+    "HEADING": 248,
     "IMO": 9559250,
-    "LATITUDE": 51.50189,
-    "LONGITUDE": -0.00443,
+    "LATITUDE": 51.4856,
+    "LONGITUDE": -0.00936,
     "MMSI": 232051394,
     "NAME": "VB AMBITION",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 127,
-    "SOG": 6.2,
-    "TIME": "2024-07-30 20:20:47 GMT",
+    "ROT": 0,
+    "SOG": 7.7,
+    "TIME": "2024-08-07 15:24:38 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-30T19:18:35.787037",
+    "last_seen": "2024-07-30T20:20:48.778101",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-30T20:20:48.778101"
+  "last_seen": "2024-08-07T15:24:45.910764"
 }
