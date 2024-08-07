@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-06"
+    "2024-06-06",
+    "2024-08-07"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-06T13:20:59.831200"
+  "last_full_data": {
+    "A": 23,
+    "B": 41,
+    "C": 7,
+    "CALLSIGN": "ZGIH",
+    "COG": 331.6,
+    "D": 5,
+    "DEST": "LONDON",
+    "DRAUGHT": 3.5,
+    "ETA": "08-07 14:00",
+    "HEADING": 339,
+    "IMO": 1012816,
+    "LATITUDE": 51.49015,
+    "LONGITUDE": -0.02746,
+    "MMSI": 319154100,
+    "NAME": "SCOUT",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 127,
+    "SOG": 10.5,
+    "TIME": "2024-08-07 13:26:41 GMT",
+    "TYPE": 37,
+    "last_seen": "2024-06-06T13:20:59.831200",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-08-07T13:26:44.991128"
 }
