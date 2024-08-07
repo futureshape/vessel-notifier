@@ -7,30 +7,25 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "PF8784",
-    "COG": 211.6,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50449,
-    "LONGITUDE": -0.00432,
+    "LATITUDE": 51.50621,
+    "LONGITUDE": -0.07227,
     "MMSI": 244620634,
     "NAME": "SY MERO",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.2,
-    "TIME": "2024-08-07 13:26:28 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-08-07 14:23:57 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2115,
-      2665,
-      2648
-    ]
+    "last_seen": "2024-08-07T13:26:48.696374",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-07T13:26:48.696374"
+  "last_seen": "2024-08-07T14:25:16.331940"
 }
