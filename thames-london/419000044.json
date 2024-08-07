@@ -7,27 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "AUBQ",
-    "COG": 308.2,
+    "COG": 297.5,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "07-07 05:20",
-    "HEADING": 311,
+    "HEADING": 295,
     "IMO": 0,
-    "LATITUDE": 51.49969,
-    "LONGITUDE": 0.01546,
+    "LATITUDE": 51.50603,
+    "LONGITUDE": -0.07661,
     "MMSI": 419000044,
     "NAME": "INDIAN WARSHIP",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 7.2,
-    "TIME": "2024-08-07 15:24:23 GMT",
+    "SOG": 3.3,
+    "TIME": "2024-08-07 16:29:26 GMT",
     "TYPE": 0,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2024-08-07T15:24:46.537819",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-07T15:24:46.537819"
+  "last_seen": "2024-08-07T16:29:28.795665"
 }
