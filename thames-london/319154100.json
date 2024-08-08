@@ -14,20 +14,20 @@
     "DEST": "LONDON",
     "DRAUGHT": 3.5,
     "ETA": "08-07 14:00",
-    "HEADING": 124,
+    "HEADING": 126,
     "IMO": 1012816,
-    "LATITUDE": 51.50353,
-    "LONGITUDE": -0.07122,
+    "LATITUDE": 51.5035,
+    "LONGITUDE": -0.07124,
     "MMSI": 319154100,
     "NAME": "SCOUT",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2024-08-08 08:25:30 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-08-08 09:22:36 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-08T07:21:08.837314",
+    "last_seen": "2024-08-08T08:28:32.503725",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-08T08:28:32.503725"
+  "last_seen": "2024-08-08T09:24:31.107289"
 }
