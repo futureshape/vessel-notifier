@@ -7,28 +7,25 @@
     "B": 5,
     "C": 1,
     "CALLSIGN": "PD2673",
-    "COG": 335.5,
+    "COG": 360,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5056,
-    "LONGITUDE": -0.02963,
+    "LATITUDE": 51.50341,
+    "LONGITUDE": -0.0663,
     "MMSI": 244150700,
     "NAME": "AFRICUS",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 4,
-    "TIME": "2024-08-08 21:20:12 GMT",
+    "SOG": 0,
+    "TIME": "2024-08-08 22:01:34 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      2115
-    ]
+    "last_seen": "2024-08-08T21:21:55.068974",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-08T21:21:55.068974"
+  "last_seen": "2024-08-08T22:25:12.441750"
 }
