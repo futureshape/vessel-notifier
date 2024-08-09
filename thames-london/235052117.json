@@ -37,32 +37,33 @@
     "2024-08-05",
     "2024-08-06",
     "2024-08-07",
-    "2024-08-08"
+    "2024-08-08",
+    "2024-08-09"
   ],
   "last_full_data": {
     "A": 6,
     "B": 25,
     "C": 4,
     "CALLSIGN": "MZSL6",
-    "COG": 182,
+    "COG": 119.7,
     "D": 6,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50114,
-    "LONGITUDE": -0.06184,
+    "LATITUDE": 51.50356,
+    "LONGITUDE": -0.06952,
     "MMSI": 235052117,
     "NAME": "MILLENNIUM DAWN",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-08-08 19:06:53 GMT",
+    "SOG": 9.6,
+    "TIME": "2024-08-09 09:25:33 GMT",
     "TYPE": 60,
-    "last_seen": "2024-08-08T18:30:47.743276",
+    "last_seen": "2024-08-08T19:18:32.620406",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-08T19:18:32.620406"
+  "last_seen": "2024-08-09T09:25:33.365899"
 }
