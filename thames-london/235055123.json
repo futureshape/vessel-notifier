@@ -47,7 +47,7 @@
     "B": 43,
     "C": 3,
     "CALLSIGN": "MZED8",
-    "COG": 29,
+    "COG": 255.2,
     "D": 8,
     "DEST": "LONDON",
     "DRAUGHT": 2,
@@ -55,17 +55,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50418,
-    "LONGITUDE": -0.07336,
+    "LONGITUDE": -0.07338,
     "MMSI": 235055123,
     "NAME": "DIXIE QUEEN",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-08-10 13:23:45 GMT",
+    "TIME": "2024-08-10 14:23:36 GMT",
     "TYPE": 60,
-    "last_seen": "2024-08-10T12:40:49.115600",
+    "last_seen": "2024-08-10T13:23:53.891893",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-10T13:23:53.891893"
+  "last_seen": "2024-08-10T14:23:38.003665"
 }
