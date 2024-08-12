@@ -20,20 +20,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 511,
+    "HEADING": 175,
     "IMO": 0,
-    "LATITUDE": 51.50707,
-    "LONGITUDE": -0.07147,
+    "LATITUDE": 51.50708,
+    "LONGITUDE": -0.07145,
     "MMSI": 244078726,
     "NAME": "MARTINA",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-08-12 14:26:42 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-08-12 15:23:41 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-12T13:27:15.429375",
+    "last_seen": "2024-08-12T14:28:08.475590",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-12T14:28:08.475590"
+  "last_seen": "2024-08-12T15:26:05.147278"
 }

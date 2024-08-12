@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2024-08-12"
+  ],
+  "last_full_data": {
+    "A": 6,
+    "B": 5,
+    "C": 0,
+    "CALLSIGN": "DG4161",
+    "COG": 320.5,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50157,
+    "LONGITUDE": 0.01365,
+    "MMSI": 211342940,
+    "NAME": "CORELLA",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 5.7,
+    "TIME": "2024-08-12 15:25:53 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2665,
+      3416,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-08-12T15:26:07.144455"
+}
