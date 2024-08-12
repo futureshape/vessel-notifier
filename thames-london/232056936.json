@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-07-23",
-    "2024-07-26"
+    "2024-07-26",
+    "2024-08-12"
   ],
   "last_full_data": {
     "A": 12,
     "B": 8,
     "C": 3,
     "CALLSIGN": "MPWI9",
-    "COG": 71.9,
+    "COG": 265.5,
     "D": 3,
     "DEST": "RIVER THAMES",
     "DRAUGHT": 2.6,
     "ETA": "06-29 13:30",
-    "HEADING": 69,
+    "HEADING": 261,
     "IMO": 9173977,
-    "LATITUDE": 51.48529,
-    "LONGITUDE": -0.00804,
+    "LATITUDE": 51.50863,
+    "LONGITUDE": -0.0417,
     "MMSI": 232056936,
     "NAME": "HANS",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": -127,
-    "SOG": 9.6,
-    "TIME": "2024-07-26 06:31:25 GMT",
+    "ROT": 0,
+    "SOG": 5.5,
+    "TIME": "2024-08-12 08:29:30 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-26T05:26:59.569065",
+    "last_seen": "2024-07-26T06:31:28.333457",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-26T06:31:28.333457"
+  "last_seen": "2024-08-12T08:29:37.428201"
 }
