@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-08-09",
     "2024-08-10",
-    "2024-08-11"
+    "2024-08-11",
+    "2024-08-12"
   ],
   "last_full_data": {
     "A": 17,
     "B": 11,
     "C": 6,
     "CALLSIGN": "MPAX7",
-    "COG": 256.3,
+    "COG": 61,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.44633,
-    "LONGITUDE": -0.3156,
+    "LATITUDE": 51.4451,
+    "LONGITUDE": -0.32339,
     "MMSI": 235058408,
     "NAME": "YARMOUTH BELLE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.3,
-    "TIME": "2024-08-11 17:23:18 GMT",
+    "SOG": 5.2,
+    "TIME": "2024-08-12 16:28:54 GMT",
     "TYPE": 99,
-    "last_seen": "2024-08-11T16:27:07.180244",
+    "last_seen": "2024-08-11T17:23:23.142304",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-11T17:23:23.142304"
+  "last_seen": "2024-08-12T16:29:02.548552"
 }
