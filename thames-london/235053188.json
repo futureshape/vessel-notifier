@@ -25,7 +25,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "VSSF6",
-    "COG": 194.4,
+    "COG": 156,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 7,
@@ -33,17 +33,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50692,
-    "LONGITUDE": 0.00783,
+    "LONGITUDE": 0.00785,
     "MMSI": 235053188,
     "NAME": "HURRICANE CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-08-12 18:31:34 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-08-12 19:18:14 GMT",
     "TYPE": 0,
-    "last_seen": "2024-08-12T15:26:05.144109",
+    "last_seen": "2024-08-12T18:31:34.528941",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-12T18:31:34.528941"
+  "last_seen": "2024-08-12T19:18:21.466173"
 }
