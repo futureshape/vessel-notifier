@@ -7,27 +7,25 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "MGXU2",
-    "COG": 198.6,
+    "COG": 89.3,
     "D": 1,
     "DEST": "BRIGHTLINGSEA",
     "DRAUGHT": 1.5,
-    "ETA": "08-13 08:22",
+    "ETA": "08-13 09:19",
     "HEADING": 359,
     "IMO": 0,
-    "LATITUDE": 51.46787,
-    "LONGITUDE": -0.0894,
+    "LATITUDE": 51.46478,
+    "LONGITUDE": -0.17147,
     "MMSI": 235034515,
     "NAME": "REBELLION",
     "NAVSTAT": 1,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 2,
-    "TIME": "2024-08-13 08:15:50 GMT",
+    "SOG": 0,
+    "TIME": "2024-08-13 09:24:42 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2333
-    ]
+    "last_seen": "2024-08-13T08:28:15.641694",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-13T08:28:15.641694"
+  "last_seen": "2024-08-13T09:25:59.651322"
 }
