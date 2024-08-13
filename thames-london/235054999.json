@@ -51,7 +51,7 @@
     "B": 7,
     "C": 4,
     "CALLSIGN": "MNJM44",
-    "COG": 0.9,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -59,17 +59,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50187,
-    "LONGITUDE": -0.02965,
+    "LONGITUDE": -0.1231,
     "MMSI": 235054999,
     "NAME": "MERCURIA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.8,
-    "TIME": "2024-08-13 10:29:10 GMT",
+    "SOG": 0,
+    "TIME": "2024-08-13 11:20:58 GMT",
     "TYPE": 60,
-    "last_seen": "2024-08-13T09:25:59.658728",
+    "last_seen": "2024-08-13T10:29:19.124515",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-13T10:29:19.124515"
+  "last_seen": "2024-08-13T11:21:19.067256"
 }
