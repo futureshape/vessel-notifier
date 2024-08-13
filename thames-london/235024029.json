@@ -31,20 +31,20 @@
     "DEST": "GB LONDON",
     "DRAUGHT": 2.4,
     "ETA": "01-04 01:00",
-    "HEADING": 252,
+    "HEADING": 240,
     "IMO": 0,
-    "LATITUDE": 51.51004,
-    "LONGITUDE": -0.11536,
+    "LATITUDE": 51.51005,
+    "LONGITUDE": -0.11534,
     "MMSI": 235024029,
     "NAME": "BULLDOG",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": -14,
-    "SOG": 0,
-    "TIME": "2024-08-13 06:32:22 GMT",
+    "ROT": -10,
+    "SOG": 0.3,
+    "TIME": "2024-08-13 07:22:02 GMT",
     "TYPE": 52,
-    "last_seen": "2024-08-12T15:26:05.141973",
+    "last_seen": "2024-08-13T06:32:27.652576",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-13T06:32:27.652576"
+  "last_seen": "2024-08-13T07:22:04.455743"
 }
