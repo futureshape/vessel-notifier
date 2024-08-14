@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-08-03",
-    "2024-08-13"
+    "2024-08-13",
+    "2024-08-14"
   ],
   "last_full_data": {
     "A": 12,
     "B": 0,
     "C": 2,
     "CALLSIGN": "PD6066",
-    "COG": 360,
+    "COG": 122.5,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50705,
-    "LONGITUDE": -0.07134,
+    "LATITUDE": 51.50281,
+    "LONGITUDE": -0.06819,
     "MMSI": 244050162,
     "NAME": "PINICAL",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-08-13 20:13:43 GMT",
+    "SOG": 5.2,
+    "TIME": "2024-08-14 07:20:54 GMT",
     "TYPE": 36,
-    "last_seen": "2024-08-03T12:39:01.052341",
+    "last_seen": "2024-08-13T20:24:15.593328",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-13T20:24:15.593328"
+  "last_seen": "2024-08-14T07:21:18.222484"
 }
