@@ -7,27 +7,25 @@
     "B": 3,
     "C": 1,
     "CALLSIGN": "MFBN5",
-    "COG": 75.2,
+    "COG": 63.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 75,
+    "HEADING": 63,
     "IMO": 0,
-    "LATITUDE": 51.47099,
-    "LONGITUDE": -0.25825,
+    "LATITUDE": 51.46506,
+    "LONGITUDE": -0.1874,
     "MMSI": 232021519,
     "NAME": "NORTHERN SKY",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.4,
-    "TIME": "2024-08-14 08:27:02 GMT",
+    "SOG": 8.2,
+    "TIME": "2024-08-14 09:03:31 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2103
-    ]
+    "last_seen": "2024-08-14T08:28:35.377548",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-14T08:28:35.377548"
+  "last_seen": "2024-08-14T09:24:34.318109"
 }
