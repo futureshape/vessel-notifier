@@ -25,32 +25,33 @@
     "2024-08-08",
     "2024-08-09",
     "2024-08-10",
-    "2024-08-11"
+    "2024-08-11",
+    "2024-08-14"
   ],
   "last_full_data": {
     "A": 3,
     "B": 29,
     "C": 7,
     "CALLSIGN": "MGKA3",
-    "COG": 23,
+    "COG": 40,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50363,
-    "LONGITUDE": -0.12249,
+    "LATITUDE": 51.50635,
+    "LONGITUDE": -0.1191,
     "MMSI": 235054918,
     "NAME": "PRIDE OF LONDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2024-08-11 19:57:20 GMT",
+    "SOG": 3.5,
+    "TIME": "2024-08-14 06:31:24 GMT",
     "TYPE": 60,
-    "last_seen": "2024-08-11T19:19:36.540533",
+    "last_seen": "2024-08-11T20:22:53.093911",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-11T20:22:53.093911"
+  "last_seen": "2024-08-14T06:31:24.964756"
 }
