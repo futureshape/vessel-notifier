@@ -1,7 +1,35 @@
 {
   "dates_seen": [
-    "2024-02-22"
+    "2024-02-22",
+    "2024-08-15"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-02-22T13:19:21.831864"
+  "last_full_data": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "2BQK7",
+    "COG": 297.5,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50391,
+    "LONGITUDE": -0.06859,
+    "MMSI": 235068425,
+    "NAME": "HORNET",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 8.3,
+    "TIME": "2024-08-15 12:43:28 GMT",
+    "TYPE": 55,
+    "last_seen": "2024-02-22T13:19:21.831864",
+    "received_by_stations": [
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-08-15T12:43:36.005425"
 }
