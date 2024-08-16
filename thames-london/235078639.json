@@ -44,32 +44,33 @@
     "2024-08-12",
     "2024-08-13",
     "2024-08-14",
-    "2024-08-15"
+    "2024-08-15",
+    "2024-08-16"
   ],
   "last_full_data": {
     "A": 4,
     "B": 18,
     "C": 5,
     "CALLSIGN": "2DGB4",
-    "COG": 281.2,
+    "COG": 0,
     "D": 3,
     "DEST": "CHARLTON",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 290,
+    "HEADING": 95,
     "IMO": 0,
-    "LATITUDE": 51.49788,
-    "LONGITUDE": 0.01673,
+    "LATITUDE": 51.49438,
+    "LONGITUDE": 0.02667,
     "MMSI": 235078639,
     "NAME": "RECLAIM",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 2.4,
-    "TIME": "2024-08-15 12:43:31 GMT",
+    "SOG": 0,
+    "TIME": "2024-08-16 05:23:57 GMT",
     "TYPE": 52,
-    "last_seen": "2024-08-15T09:23:48.655072",
+    "last_seen": "2024-08-15T12:43:36.013166",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-15T12:43:36.013166"
+  "last_seen": "2024-08-16T05:25:47.722126"
 }
