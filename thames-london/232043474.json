@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-04-03"
+    "2024-04-03",
+    "2024-08-16"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-04-03T11:14:08.413376"
+  "last_full_data": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "MMCX8",
+    "COG": 360,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50292,
+    "LONGITUDE": -0.06025,
+    "MMSI": 232043474,
+    "NAME": "PETER KRUGER",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0.1,
+    "TIME": "2024-08-16 12:15:36 GMT",
+    "TYPE": 55,
+    "last_seen": "2024-04-03T11:14:08.413376",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-08-16T12:43:20.197524"
 }
