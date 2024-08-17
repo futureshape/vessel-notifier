@@ -7,7 +7,7 @@
     "B": 18,
     "C": 3,
     "CALLSIGN": "PF4881",
-    "COG": 216.6,
+    "COG": 255.6,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1.6,
@@ -15,20 +15,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50731,
-    "LONGITUDE": -0.07266,
+    "LONGITUDE": -0.07251,
     "MMSI": 244115644,
     "NAME": "FAIRWIND",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-08-17 10:27:58 GMT",
+    "TIME": "2024-08-17 11:18:47 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-08-17T10:28:00.843091",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-17T10:28:00.843091"
+  "last_seen": "2024-08-17T11:18:54.187727"
 }
