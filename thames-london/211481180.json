@@ -7,28 +7,25 @@
     "B": 7,
     "C": 3,
     "CALLSIGN": "DF8546",
-    "COG": 322.5,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48914,
-    "LONGITUDE": -0.02613,
+    "LATITUDE": 51.50663,
+    "LONGITUDE": -0.07102,
     "MMSI": 211481180,
     "NAME": "RAFFINE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 9.6,
-    "TIME": "2024-08-18 13:23:54 GMT",
+    "SOG": 0,
+    "TIME": "2024-08-18 14:17:22 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-08-18T13:24:03.993284",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-18T13:24:03.993284"
+  "last_seen": "2024-08-18T14:23:30.695047"
 }
