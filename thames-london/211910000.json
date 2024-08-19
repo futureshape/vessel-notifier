@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-08-16"
+    "2024-08-16",
+    "2024-08-19"
   ],
   "last_full_data": {
-    "A": 52,
-    "B": 37,
-    "C": 3,
+    "A": 27,
+    "B": 62,
+    "C": 11,
     "CALLSIGN": "DRBA",
-    "COG": 360,
-    "D": 10,
+    "COG": 129,
+    "D": 2,
     "DEST": "0",
     "DRAUGHT": 0,
     "ETA": "12-31 23:59",
-    "HEADING": 511,
+    "HEADING": 287,
     "IMO": 0,
-    "LATITUDE": 51.50673,
-    "LONGITUDE": -0.08104,
+    "LATITUDE": 51.50675,
+    "LONGITUDE": -0.08125,
     "MMSI": 211910000,
     "NAME": "BRAUNSCHWEIG",
-    "NAVSTAT": 0,
-    "PAC": 1,
-    "ROT": 128,
+    "NAVSTAT": 5,
+    "PAC": 0,
+    "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-08-16 11:00:54 GMT",
+    "TIME": "2024-08-19 07:21:36 GMT",
     "TYPE": 35,
-    "last_seen": "2024-08-16T10:28:32.320349",
+    "last_seen": "2024-08-16T11:20:21.688842",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-16T11:20:21.688842"
+  "last_seen": "2024-08-19T07:22:46.682301"
 }
