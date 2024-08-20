@@ -1,14 +1,15 @@
 {
   "dates_seen": [
     "2024-06-17",
-    "2024-08-19"
+    "2024-08-19",
+    "2024-08-20"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "2EUL9",
-    "COG": 189.3,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -16,17 +17,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50358,
-    "LONGITUDE": -0.06622,
+    "LONGITUDE": -0.06618,
     "MMSI": 235088257,
     "NAME": "SHORELINE",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-08-19 16:14:22 GMT",
+    "SOG": 0,
+    "TIME": "2024-08-20 07:20:07 GMT",
     "TYPE": 33,
-    "last_seen": "2024-08-19T15:25:07.897081",
+    "last_seen": "2024-08-19T16:28:47.875376",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-19T16:28:47.875376"
+  "last_seen": "2024-08-20T07:22:22.042471"
 }
