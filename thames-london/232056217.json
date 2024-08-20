@@ -49,18 +49,18 @@
     "ETA": "07-11 19:00",
     "HEADING": 278,
     "IMO": 1022225,
-    "LATITUDE": 51.49448,
-    "LONGITUDE": 0.02619,
+    "LATITUDE": 51.49451,
+    "LONGITUDE": 0.02617,
     "MMSI": 232056217,
     "NAME": "RESOLUTE 1",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 3,
-    "SOG": 0,
-    "TIME": "2024-08-20 17:24:16 GMT",
+    "ROT": -9,
+    "SOG": 0.1,
+    "TIME": "2024-08-20 18:30:06 GMT",
     "TYPE": 52,
-    "last_seen": "2024-08-20T14:25:23.327242",
+    "last_seen": "2024-08-20T17:24:24.109455",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-20T17:24:24.109455"
+  "last_seen": "2024-08-20T18:30:09.594903"
 }
