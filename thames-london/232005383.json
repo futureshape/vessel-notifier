@@ -1,7 +1,35 @@
 {
   "dates_seen": [
-    "2024-04-25"
+    "2024-04-25",
+    "2024-08-20"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-04-25T12:26:56.090252"
+  "last_full_data": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "MAJD4",
+    "COG": 360,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 24:60",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50097,
+    "LONGITUDE": -0.06101,
+    "MMSI": 232005383,
+    "NAME": "BLUE QUEST",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2024-08-20 10:27:02 GMT",
+    "TYPE": 0,
+    "last_seen": "2024-04-25T12:26:56.090252",
+    "received_by_stations": [
+      2648,
+      2115
+    ]
+  },
+  "last_seen": "2024-08-20T10:27:07.063492"
 }
