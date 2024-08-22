@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-08-19"
+    "2024-08-19",
+    "2024-08-22"
   ],
   "last_full_data": {
     "A": 8,
     "B": 1,
     "C": 3,
     "CALLSIGN": "PH9231",
-    "COG": 152.5,
+    "COG": 194.8,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 152,
+    "HEADING": 194,
     "IMO": 0,
-    "LATITUDE": 51.5069,
-    "LONGITUDE": -0.0694,
+    "LATITUDE": 51.50639,
+    "LONGITUDE": -0.07217,
     "MMSI": 244387857,
     "NAME": "OBAN",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-08-19 12:43:07 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-08-22 14:25:58 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-19T11:19:44.870576",
+    "last_seen": "2024-08-19T12:44:06.825180",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-19T12:44:06.825180"
+  "last_seen": "2024-08-22T14:26:23.016507"
 }
