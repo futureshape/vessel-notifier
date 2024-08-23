@@ -18,32 +18,33 @@
     "2024-08-01",
     "2024-08-02",
     "2024-08-19",
-    "2024-08-20"
+    "2024-08-20",
+    "2024-08-23"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MLPA5",
-    "COG": 117.3,
+    "COG": 200.6,
     "D": 0,
     "DEST": "SOMEWHERE",
     "DRAUGHT": 5,
     "ETA": "01-19 14:57",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49692,
-    "LONGITUDE": 0.02059,
+    "LATITUDE": 51.49496,
+    "LONGITUDE": 0.02893,
     "MMSI": 235022613,
     "NAME": "DRIFTWOOD 2",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 8.7,
-    "TIME": "2024-08-20 16:28:09 GMT",
+    "SOG": 0,
+    "TIME": "2024-08-23 08:28:49 GMT",
     "TYPE": 79,
-    "last_seen": "2024-08-20T15:24:55.942008",
+    "last_seen": "2024-08-20T16:28:17.792363",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-20T16:28:17.792363"
+  "last_seen": "2024-08-23T08:29:12.980381"
 }
