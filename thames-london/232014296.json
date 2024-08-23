@@ -1,35 +1,33 @@
 {
   "dates_seen": [
     "2024-03-27",
-    "2024-08-20"
+    "2024-08-20",
+    "2024-08-23"
   ],
   "last_full_data": {
     "A": 3,
     "B": 4,
     "C": 1,
     "CALLSIGN": "MCSH2",
-    "COG": 360,
+    "COG": 197.1,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47643,
-    "LONGITUDE": -0.17632,
+    "LATITUDE": 51.49888,
+    "LONGITUDE": -0.00593,
     "MMSI": 232014296,
     "NAME": "RAY",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-08-20 11:21:28 GMT",
+    "TIME": "2024-08-23 09:24:03 GMT",
     "TYPE": 53,
-    "last_seen": "2024-03-27T10:18:16.897233",
-    "received_by_stations": [
-      2648,
-      2103
-    ]
+    "last_seen": "2024-08-20T11:21:36.341294",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-20T11:21:36.341294"
+  "last_seen": "2024-08-23T09:24:09.772073"
 }
