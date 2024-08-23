@@ -24,12 +24,12 @@
     "B": 5,
     "C": 3,
     "CALLSIGN": "2FKK6",
-    "COG": 282,
+    "COG": 265.4,
     "D": 2,
     "DEST": "SURVEY",
     "DRAUGHT": 5,
     "ETA": "01-19 14:57",
-    "HEADING": 195,
+    "HEADING": 193,
     "IMO": 0,
     "LATITUDE": 51.47295,
     "LONGITUDE": -0.18024,
@@ -37,12 +37,12 @@
     "NAME": "THAME",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": 0,
-    "SOG": 0,
-    "TIME": "2024-08-23 03:21:51 GMT",
+    "ROT": 127,
+    "SOG": 0.1,
+    "TIME": "2024-08-23 04:24:52 GMT",
     "TYPE": 79,
-    "last_seen": "2024-08-23T02:42:13.861445",
+    "last_seen": "2024-08-23T03:25:41.382879",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-23T03:25:41.382879"
+  "last_seen": "2024-08-23T04:27:50.880338"
 }
