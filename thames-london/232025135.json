@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-08-20"
+    "2024-08-20",
+    "2024-08-23"
   ],
   "last_full_data": {
     "A": 11,
     "B": 0,
     "C": 3,
     "CALLSIGN": "MAGS5",
-    "COG": 360,
+    "COG": 26.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49413,
-    "LONGITUDE": -0.03346,
+    "LATITUDE": 51.49055,
+    "LONGITUDE": -0.00039,
     "MMSI": 232025135,
     "NAME": "MAID OF DITCHLING",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-08-20 15:22:58 GMT",
+    "SOG": 4.3,
+    "TIME": "2024-08-23 14:26:44 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-20T12:44:29.892614",
+    "last_seen": "2024-08-20T15:24:55.958340",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-20T15:24:55.958340"
+  "last_seen": "2024-08-23T14:27:07.015968"
 }
