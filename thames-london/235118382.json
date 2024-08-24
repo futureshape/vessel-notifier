@@ -7,27 +7,25 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "2JRS5",
-    "COG": 9.6,
+    "COG": 140.5,
     "D": 2,
     "DEST": "WEST INDIA DOCK",
     "DRAUGHT": 1.2,
     "ETA": "08-24 08:00",
     "HEADING": 359,
     "IMO": 0,
-    "LATITUDE": 51.46645,
-    "LONGITUDE": -0.3201,
+    "LATITUDE": 51.4701,
+    "LONGITUDE": -0.21913,
     "MMSI": 235118382,
     "NAME": "ALL'S FAIR",
     "NAVSTAT": 8,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 3.7,
-    "TIME": "2024-08-24 05:25:18 GMT",
+    "SOG": 6.6,
+    "TIME": "2024-08-24 06:30:06 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2333
-    ]
+    "last_seen": "2024-08-24T05:25:40.230472",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-24T05:25:40.230472"
+  "last_seen": "2024-08-24T06:30:23.688460"
 }
