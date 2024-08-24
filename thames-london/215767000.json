@@ -1,0 +1,38 @@
+{
+  "dates_seen": [
+    "2024-08-24"
+  ],
+  "last_full_data": {
+    "A": 55,
+    "B": 144,
+    "C": 14,
+    "CALLSIGN": "9HA5275",
+    "COG": 12.9,
+    "D": 12,
+    "DEST": "GBLON",
+    "DRAUGHT": 6.3,
+    "ETA": "08-24 09:00",
+    "HEADING": 103,
+    "IMO": 9183855,
+    "LATITUDE": 51.4844,
+    "LONGITUDE": -0.0148,
+    "MMSI": 215767000,
+    "NAME": "EUROPA",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 5,
+    "SOG": 0.1,
+    "TIME": "2024-08-24 15:23:39 GMT",
+    "TYPE": 60,
+    "last_seen": null,
+    "received_by_stations": [
+      2055,
+      3416,
+      2103,
+      2115,
+      2665,
+      2648
+    ]
+  },
+  "last_seen": "2024-08-24T15:23:47.715803"
+}
