@@ -46,7 +46,7 @@
     "B": 8,
     "C": 3,
     "CALLSIGN": "2DNW5",
-    "COG": 90.6,
+    "COG": 360,
     "D": 1,
     "DEST": "LIFEBOAT PIER",
     "DRAUGHT": 0.5,
@@ -54,17 +54,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50976,
-    "LONGITUDE": -0.11691,
+    "LONGITUDE": -0.1169,
     "MMSI": 235080605,
     "NAME": "RNLI LIFEBOAT E-07",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2024-08-25 19:18:37 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-08-25 20:26:57 GMT",
     "TYPE": 51,
-    "last_seen": "2024-08-25T18:28:05.405489",
+    "last_seen": "2024-08-25T19:18:37.804134",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-25T19:18:37.804134"
+  "last_seen": "2024-08-25T20:27:07.189760"
 }
