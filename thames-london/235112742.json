@@ -61,32 +61,33 @@
     "2024-08-22",
     "2024-08-23",
     "2024-08-24",
-    "2024-08-25"
+    "2024-08-25",
+    "2024-08-26"
   ],
   "last_full_data": {
     "A": 8,
     "B": 30,
     "C": 2,
     "CALLSIGN": "2ITT5",
-    "COG": 23.2,
+    "COG": 360,
     "D": 7,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50402,
-    "LONGITUDE": -0.12169,
+    "LATITUDE": 51.50718,
+    "LONGITUDE": 0.00653,
     "MMSI": 235112742,
     "NAME": "NEPTUNE CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.9,
-    "TIME": "2024-08-25 21:20:35 GMT",
+    "SOG": 0,
+    "TIME": "2024-08-26 01:27:26 GMT",
     "TYPE": 40,
-    "last_seen": "2024-08-25T20:27:07.188912",
+    "last_seen": "2024-08-25T21:21:05.751755",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-25T21:21:05.751755"
+  "last_seen": "2024-08-26T01:42:35.878453"
 }
