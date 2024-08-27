@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2024-06-08"
+    "2024-06-08",
+    "2024-08-27"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-08T14:16:53.802467"
+  "last_full_data": {
+    "A": 12,
+    "B": 1,
+    "C": 1,
+    "CALLSIGN": "OP8920",
+    "COG": 0,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50313,
+    "LONGITUDE": -0.02912,
+    "MMSI": 205892030,
+    "NAME": "TIMARIA IV",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 7.5,
+    "TIME": "2024-08-27 16:29:14 GMT",
+    "TYPE": 36,
+    "last_seen": "2024-06-08T14:16:53.802467",
+    "received_by_stations": []
+  },
+  "last_seen": "2024-08-27T16:29:30.486659"
 }
