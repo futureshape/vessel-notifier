@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-04-30",
     "2024-07-23",
-    "2024-07-31"
+    "2024-07-31",
+    "2024-08-27"
   ],
   "last_full_data": {
     "A": 5,
     "B": 5,
     "C": 1,
     "CALLSIGN": "MPNW8",
-    "COG": 229,
+    "COG": 104,
     "D": 3,
     "DEST": ";",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 227,
+    "HEADING": 102,
     "IMO": 0,
-    "LATITUDE": 51.48665,
-    "LONGITUDE": -0.12953,
+    "LATITUDE": 51.50788,
+    "LONGITUDE": -0.08123,
     "MMSI": 235039962,
     "NAME": "CHELSEA",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 0,
+    "ROT": 127,
     "SOG": 6.4,
-    "TIME": "2024-07-31 13:19:13 GMT",
+    "TIME": "2024-08-27 07:59:46 GMT",
     "TYPE": 90,
-    "last_seen": "2024-07-31T12:44:00.697620",
+    "last_seen": "2024-07-31T13:25:38.499237",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-31T13:25:38.499237"
+  "last_seen": "2024-08-27T08:29:17.114556"
 }
