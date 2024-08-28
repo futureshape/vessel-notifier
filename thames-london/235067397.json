@@ -52,7 +52,7 @@
     "B": 6,
     "C": 3,
     "CALLSIGN": "2BMG8",
-    "COG": 41.7,
+    "COG": 165.6,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -60,17 +60,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50141,
-    "LONGITUDE": -0.06211,
+    "LONGITUDE": -0.06206,
     "MMSI": 235067397,
     "NAME": "HEIKO",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-08-28 09:25:11 GMT",
+    "SOG": 0.3,
+    "TIME": "2024-08-28 10:27:43 GMT",
     "TYPE": 80,
-    "last_seen": "2024-08-28T08:29:14.819197",
+    "last_seen": "2024-08-28T09:25:17.839855",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-28T09:25:17.839855"
+  "last_seen": "2024-08-28T10:27:44.699466"
 }
