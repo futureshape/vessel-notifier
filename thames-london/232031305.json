@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-12",
-    "2024-08-27"
+    "2024-08-27",
+    "2024-08-28"
   ],
   "last_full_data": {
     "A": 22,
     "B": 0,
     "C": 0,
     "CALLSIGN": "M11F5",
-    "COG": 360,
+    "COG": 325.5,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.43007,
-    "LONGITUDE": -0.31828,
+    "LATITUDE": 51.46149,
+    "LONGITUDE": -0.3154,
     "MMSI": 232031305,
     "NAME": "THE PERFECT MATCH",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-08-27 18:22:52 GMT",
+    "SOG": 2.9,
+    "TIME": "2024-08-28 05:10:18 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-27T16:29:29.912693",
+    "last_seen": "2024-08-27T18:30:45.450027",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-27T18:30:45.450027"
+  "last_seen": "2024-08-28T05:26:40.674680"
 }
