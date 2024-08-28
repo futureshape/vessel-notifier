@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-08-25",
-    "2024-08-26"
+    "2024-08-26",
+    "2024-08-28"
   ],
   "last_full_data": {
     "A": 10,
     "B": 1,
     "C": 2,
     "CALLSIGN": "2BVG3",
-    "COG": 129.8,
+    "COG": 200.8,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50719,
-    "LONGITUDE": -0.06945,
+    "LATITUDE": 51.50679,
+    "LONGITUDE": -0.07238,
     "MMSI": 235069622,
     "NAME": "THE RAYMOND",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-08-26 20:24:14 GMT",
+    "TIME": "2024-08-28 06:24:34 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-26T19:19:11.272076",
+    "last_seen": "2024-08-26T20:25:23.953698",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-26T20:25:23.953698"
+  "last_seen": "2024-08-28T06:32:00.985102"
 }

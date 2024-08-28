@@ -1,7 +1,37 @@
 {
   "dates_seen": [
-    "2024-05-10"
+    "2024-05-10",
+    "2024-08-28"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-05-10T14:15:57.827143"
+  "last_full_data": {
+    "A": 33,
+    "B": 196,
+    "C": 16,
+    "CALLSIGN": "LAOZ8",
+    "COG": 161.1,
+    "D": 16,
+    "DEST": "GREENWICH, LONDON",
+    "DRAUGHT": 6.8,
+    "ETA": "08-28 07:00",
+    "HEADING": 347,
+    "IMO": 9845910,
+    "LATITUDE": 51.49336,
+    "LONGITUDE": -0.00094,
+    "MMSI": 257850000,
+    "NAME": "VIKING NEPTUNE",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 13,
+    "SOG": 3.9,
+    "TIME": "2024-08-28 06:31:58 GMT",
+    "TYPE": 69,
+    "last_seen": "2024-05-10T14:15:57.827143",
+    "received_by_stations": [
+      3416,
+      2103,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-08-28T06:32:01.543723"
 }
