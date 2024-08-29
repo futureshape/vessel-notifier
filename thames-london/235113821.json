@@ -8,27 +8,25 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "MDGU",
-    "COG": 101.7,
+    "COG": 72.4,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48385,
-    "LONGITUDE": -0.14364,
+    "LATITUDE": 51.48498,
+    "LONGITUDE": -0.00767,
     "MMSI": 235113821,
     "NAME": "LADY LOU",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.8,
-    "TIME": "2024-08-29 10:28:39 GMT",
+    "SOG": 9.1,
+    "TIME": "2024-08-29 11:20:39 GMT",
     "TYPE": 37,
-    "last_seen": "2024-05-26T15:19:12.617066",
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2024-08-29T10:28:58.997956",
+    "received_by_stations": []
   },
-  "last_seen": "2024-08-29T10:28:58.997956"
+  "last_seen": "2024-08-29T11:21:03.394030"
 }
