@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-07-19",
-    "2024-08-29"
+    "2024-08-29",
+    "2024-08-30"
   ],
   "last_full_data": {
     "A": 33,
     "B": 0,
     "C": 3,
     "CALLSIGN": "PF6640",
-    "COG": 299.9,
+    "COG": 275.7,
     "D": 3,
     "DEST": "TOWER",
     "DRAUGHT": 1.5,
     "ETA": "08-30 00:30",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50346,
-    "LONGITUDE": -0.066,
+    "LATITUDE": 51.50347,
+    "LONGITUDE": -0.06599,
     "MMSI": 244740214,
     "NAME": "JOHANNA",
-    "NAVSTAT": 0,
-    "PAC": 0,
+    "NAVSTAT": 5,
+    "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-08-29 23:08:21 GMT",
+    "TIME": "2024-08-30 08:28:40 GMT",
     "TYPE": 60,
-    "last_seen": "2024-08-29T22:27:09.693618",
+    "last_seen": "2024-08-29T23:23:11.633042",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-29T23:23:11.633042"
+  "last_seen": "2024-08-30T08:29:39.117866"
 }
