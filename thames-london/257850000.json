@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-05-10",
     "2024-08-28",
-    "2024-08-29"
+    "2024-08-29",
+    "2024-08-30"
   ],
   "last_full_data": {
     "A": 33,
     "B": 196,
     "C": 16,
     "CALLSIGN": "LAOZ8",
-    "COG": 12.1,
+    "COG": 334.3,
     "D": 16,
     "DEST": "DOVER, GB",
     "DRAUGHT": 6.8,
     "ETA": "08-31 05:00",
-    "HEADING": 95,
+    "HEADING": 94,
     "IMO": 9845910,
     "LATITUDE": 51.48426,
-    "LONGITUDE": -0.01439,
+    "LONGITUDE": -0.01437,
     "MMSI": 257850000,
     "NAME": "VIKING NEPTUNE",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-08-29 23:21:23 GMT",
+    "TIME": "2024-08-30 01:39:23 GMT",
     "TYPE": 69,
-    "last_seen": "2024-08-29T22:27:09.694672",
+    "last_seen": "2024-08-29T23:23:11.633802",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-29T23:23:11.633802"
+  "last_seen": "2024-08-30T01:45:15.278184"
 }
