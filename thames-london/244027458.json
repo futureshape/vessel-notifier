@@ -13,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 298,
+    "HEADING": 285,
     "IMO": 0,
     "LATITUDE": 51.50553,
-    "LONGITUDE": -0.07222,
+    "LONGITUDE": -0.07216,
     "MMSI": 244027458,
     "NAME": "STELLA17",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2024-08-31 05:22:44 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-08-31 06:28:44 GMT",
     "TYPE": 36,
-    "last_seen": "2024-08-31T04:28:56.062181",
+    "last_seen": "2024-08-31T05:25:30.882181",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-31T05:25:30.882181"
+  "last_seen": "2024-08-31T06:30:34.880460"
 }
