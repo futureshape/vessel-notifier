@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-08-29"
+    "2024-08-29",
+    "2024-08-31"
   ],
   "last_full_data": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "CALLSIGN": null,
-    "COG": 162.1,
-    "D": 0,
-    "DEST": null,
+    "A": 7,
+    "B": 1,
+    "C": 2,
+    "CALLSIGN": "MPWH2",
+    "COG": 149,
+    "D": 1,
+    "DEST": "",
     "DRAUGHT": 0,
-    "ETA": "00-00 00:00",
+    "ETA": "08-30 20:24",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49565,
-    "LONGITUDE": 0.01888,
+    "LATITUDE": 51.49913,
+    "LONGITUDE": 0.0137,
     "MMSI": 232056926,
-    "NAME": null,
+    "NAME": "THAMES NAVIGATOR",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-08-29 14:25:09 GMT",
-    "TYPE": 0,
-    "last_seen": null,
+    "SOG": 3.6,
+    "TIME": "2024-08-31 09:23:24 GMT",
+    "TYPE": 40,
+    "last_seen": "2024-08-29T14:27:17.297073",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-29T14:27:17.297073"
+  "last_seen": "2024-08-31T09:23:28.955245"
 }
