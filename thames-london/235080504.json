@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-04-22",
-    "2024-08-31"
+    "2024-08-31",
+    "2024-09-01"
   ],
   "last_full_data": {
     "A": 24,
     "B": 3,
     "C": 4,
     "CALLSIGN": "MGLV",
-    "COG": 213.8,
+    "COG": 118.3,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50776,
-    "LONGITUDE": -0.0723,
+    "LATITUDE": 51.50728,
+    "LONGITUDE": -0.0728,
     "MMSI": 235080504,
     "NAME": "EDITH MAY",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-08-31 23:17:48 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-09-01 01:53:47 GMT",
     "TYPE": 36,
-    "last_seen": "2024-08-31T22:26:46.322341",
+    "last_seen": "2024-08-31T23:22:04.604973",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-31T23:22:04.604973"
+  "last_seen": "2024-09-01T01:59:20.677896"
 }
