@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-08-25"
+    "2024-08-25",
+    "2024-09-01"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MZVE 7",
-    "COG": 187.5,
+    "COG": 360,
     "D": 0,
     "DEST": "IPSWICH",
     "DRAUGHT": 2.2,
     "ETA": "06-03 14:40",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50778,
-    "LONGITUDE": -0.07217,
+    "LATITUDE": 51.50782,
+    "LONGITUDE": -0.07222,
     "MMSI": 235029502,
     "NAME": "BLUE FIN",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-08-25 06:28:13 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-09-01 10:25:35 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-25T05:26:49.727777",
+    "last_seen": "2024-08-25T06:30:14.567788",
     "received_by_stations": []
   },
-  "last_seen": "2024-08-25T06:30:14.567788"
+  "last_seen": "2024-09-01T10:26:40.548814"
 }
