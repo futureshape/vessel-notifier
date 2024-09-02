@@ -7,28 +7,25 @@
     "B": 7,
     "C": 4,
     "CALLSIGN": "PB6814",
-    "COG": 320.2,
+    "COG": 168.6,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 1.3,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 1032256,
-    "LATITUDE": 51.50548,
-    "LONGITUDE": 0.00905,
+    "LATITUDE": 51.49318,
+    "LONGITUDE": -0.03625,
     "MMSI": 244830332,
     "NAME": "REMALIA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.8,
-    "TIME": "2024-09-02 10:27:52 GMT",
+    "SOG": 0,
+    "TIME": "2024-09-02 12:43:56 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-09-02T10:29:47.316695",
+    "received_by_stations": []
   },
-  "last_seen": "2024-09-02T10:29:47.316695"
+  "last_seen": "2024-09-02T12:47:10.785266"
 }
