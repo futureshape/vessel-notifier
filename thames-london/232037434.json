@@ -7,28 +7,25 @@
     "B": 5,
     "C": 3,
     "CALLSIGN": "MJSH7",
-    "COG": 299.6,
+    "COG": 224.2,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50577,
-    "LONGITUDE": 0.00663,
+    "LATITUDE": 51.50438,
+    "LONGITUDE": -0.0527,
     "MMSI": 232037434,
     "NAME": "MEDALLIA SOLO SAILOR",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7,
-    "TIME": "2024-09-02 12:46:00 GMT",
+    "SOG": 5.7,
+    "TIME": "2024-09-02 13:26:57 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-09-02T12:47:11.439149",
+    "received_by_stations": []
   },
-  "last_seen": "2024-09-02T12:47:11.439149"
+  "last_seen": "2024-09-02T13:27:45.604229"
 }
