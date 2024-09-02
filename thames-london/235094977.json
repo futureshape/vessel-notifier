@@ -7,28 +7,25 @@
     "B": 0,
     "C": 2,
     "CALLSIGN": "MZUN3",
-    "COG": 165,
+    "COG": 236,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 163,
+    "HEADING": 237,
     "IMO": 0,
-    "LATITUDE": 51.49533,
-    "LONGITUDE": -0.00275,
+    "LATITUDE": 51.5048,
+    "LONGITUDE": -0.05173,
     "MMSI": 235094977,
     "NAME": "NORDIC FALKEN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4.8,
-    "TIME": "2024-09-02 16:31:33 GMT",
+    "SOG": 4.4,
+    "TIME": "2024-09-02 17:23:38 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-09-02T16:31:40.615964",
+    "received_by_stations": []
   },
-  "last_seen": "2024-09-02T16:31:40.615964"
+  "last_seen": "2024-09-02T17:23:56.328659"
 }
