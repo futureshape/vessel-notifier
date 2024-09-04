@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-06-04",
-    "2024-07-10"
+    "2024-07-10",
+    "2024-09-04"
   ],
   "last_full_data": {
     "A": 10,
     "B": 1,
     "C": 2,
     "CALLSIGN": "2CHK3",
-    "COG": 27.3,
+    "COG": 0,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50931,
-    "LONGITUDE": -0.03833,
+    "LATITUDE": 51.50257,
+    "LONGITUDE": -0.05976,
     "MMSI": 235072814,
     "NAME": "MARINE POLICE 10",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.7,
-    "TIME": "2024-07-10 13:05:02 GMT",
+    "SOG": 0,
+    "TIME": "2024-09-04 08:13:17 GMT",
     "TYPE": 55,
-    "last_seen": "2024-06-04T11:16:21.731292",
+    "last_seen": "2024-07-10T13:26:02.830864",
     "received_by_stations": []
   },
-  "last_seen": "2024-07-10T13:26:02.830864"
+  "last_seen": "2024-09-04T08:29:05.187313"
 }
