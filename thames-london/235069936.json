@@ -1,7 +1,36 @@
 {
   "dates_seen": [
-    "2024-05-18"
+    "2024-05-18",
+    "2024-09-04"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-05-18T08:20:12.935459"
+  "last_full_data": {
+    "A": 5,
+    "B": 8,
+    "C": 2,
+    "CALLSIGN": "2BWN7",
+    "COG": 158.9,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.4967,
+    "LONGITUDE": -0.00393,
+    "MMSI": 235069936,
+    "NAME": "BLUE SKY",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 9.6,
+    "TIME": "2024-09-04 11:20:08 GMT",
+    "TYPE": 37,
+    "last_seen": "2024-05-18T08:20:12.935459",
+    "received_by_stations": [
+      3416,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-09-04T11:20:24.143585"
 }
