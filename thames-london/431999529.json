@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2024-09-05"
+  ],
+  "last_full_data": {
+    "A": 35,
+    "B": 108,
+    "C": 9,
+    "CALLSIGN": "",
+    "COG": 231.3,
+    "D": 9,
+    "DEST": ">",
+    "DRAUGHT": 0,
+    "ETA": "06-25 22:19",
+    "HEADING": 234,
+    "IMO": 0,
+    "LATITUDE": 51.48672,
+    "LONGITUDE": -0.00482,
+    "MMSI": 431999529,
+    "NAME": "KASHIMA",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 127,
+    "SOG": 8.1,
+    "TIME": "2024-09-05 15:25:34 GMT",
+    "TYPE": 0,
+    "last_seen": null,
+    "received_by_stations": [
+      3416,
+      2103,
+      2115,
+      2665,
+      2648
+    ]
+  },
+  "last_seen": "2024-09-05T15:25:37.565208"
+}
