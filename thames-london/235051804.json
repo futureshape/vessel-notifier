@@ -7,27 +7,25 @@
     "B": 3,
     "C": 1,
     "CALLSIGN": "MYPL4",
-    "COG": 332.6,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 345,
+    "HEADING": 16,
     "IMO": 0,
-    "LATITUDE": 51.50097,
-    "LONGITUDE": 0.01543,
+    "LATITUDE": 51.50621,
+    "LONGITUDE": -0.07222,
     "MMSI": 235051804,
     "NAME": "NANCY BLACKETT",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 3.1,
-    "TIME": "2024-09-05 11:20:40 GMT",
+    "SOG": 0,
+    "TIME": "2024-09-05 12:43:11 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2024-09-05T11:21:09.564935",
+    "received_by_stations": []
   },
-  "last_seen": "2024-09-05T11:21:09.564935"
+  "last_seen": "2024-09-05T12:46:58.110134"
 }
