@@ -7,29 +7,25 @@
     "B": 16,
     "C": 6,
     "CALLSIGN": "2AGW8",
-    "COG": 302.1,
+    "COG": 304.3,
     "D": 6,
     "DEST": "TOWAGE OPS",
     "DRAUGHT": 3.6,
     "ETA": "08-15 23:00",
-    "HEADING": 124,
+    "HEADING": 113,
     "IMO": 9381794,
-    "LATITUDE": 51.49237,
-    "LONGITUDE": -0.02822,
+    "LATITUDE": 51.50703,
+    "LONGITUDE": -0.08239,
     "MMSI": 235059525,
     "NAME": "VB STRATHDON",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0.1,
-    "TIME": "2024-09-05 15:25:31 GMT",
+    "SOG": 0,
+    "TIME": "2024-09-05 16:30:42 GMT",
     "TYPE": 52,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-09-05T15:25:36.978413",
+    "received_by_stations": []
   },
-  "last_seen": "2024-09-05T15:25:36.978413"
+  "last_seen": "2024-09-05T16:30:57.548905"
 }
