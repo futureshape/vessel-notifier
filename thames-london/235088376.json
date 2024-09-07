@@ -1,14 +1,15 @@
 {
   "dates_seen": [
     "2024-09-03",
-    "2024-09-04"
+    "2024-09-04",
+    "2024-09-07"
   ],
   "last_full_data": {
     "A": 6,
     "B": 11,
     "C": 2,
     "CALLSIGN": "MVHL",
-    "COG": 212.5,
+    "COG": 225.7,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -16,17 +17,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.507,
-    "LONGITUDE": -0.0718,
+    "LONGITUDE": -0.07182,
     "MMSI": 235088376,
     "NAME": "RIIS 1",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-09-04 18:27:22 GMT",
+    "TIME": "2024-09-07 11:17:52 GMT",
     "TYPE": 37,
-    "last_seen": "2024-09-04T17:27:02.355453",
+    "last_seen": "2024-09-04T18:29:35.177887",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-04T18:29:35.177887"
+  "last_seen": "2024-09-07T11:19:33.757153"
 }
