@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-09-05"
+    "2024-09-05",
+    "2024-09-09"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MPQA4",
-    "COG": 101.8,
+    "COG": 0,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50488,
-    "LONGITUDE": -0.07538,
+    "LATITUDE": 51.50663,
+    "LONGITUDE": -0.07125,
     "MMSI": 232056279,
     "NAME": "",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 2.3,
-    "TIME": "2024-09-05 13:25:55 GMT",
+    "SOG": 0.7,
+    "TIME": "2024-09-09 10:09:30 GMT",
     "TYPE": 37,
-    "last_seen": "2024-09-05T12:46:56.633650",
+    "last_seen": "2024-09-05T13:28:40.015437",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-05T13:28:40.015437"
+  "last_seen": "2024-09-09T10:30:31.618364"
 }
