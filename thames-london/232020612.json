@@ -63,32 +63,33 @@
     "2024-09-06",
     "2024-09-07",
     "2024-09-08",
-    "2024-09-09"
+    "2024-09-09",
+    "2024-09-10"
   ],
   "last_full_data": {
     "A": 10,
     "B": 1,
     "C": 2,
     "CALLSIGN": "MESS9",
-    "COG": 360,
+    "COG": 276.4,
     "D": 2,
     "DEST": "WATERLOO",
     "DRAUGHT": 2,
     "ETA": "00-18 10:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50685,
-    "LONGITUDE": -0.11781,
+    "LATITUDE": 51.50976,
+    "LONGITUDE": -0.09837,
     "MMSI": 232020612,
     "NAME": "ROCKET SCIENCE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2024-09-09 16:06:07 GMT",
+    "SOG": 12.2,
+    "TIME": "2024-09-10 12:48:11 GMT",
     "TYPE": 40,
-    "last_seen": "2024-09-09T15:26:29.603497",
+    "last_seen": "2024-09-09T16:30:44.077916",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-09T16:30:44.077916"
+  "last_seen": "2024-09-10T12:48:15.555395"
 }
