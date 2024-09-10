@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-28",
     "2024-06-30",
-    "2024-09-05"
+    "2024-09-05",
+    "2024-09-10"
   ],
   "last_full_data": {
     "A": 6,
     "B": 6,
     "C": 3,
     "CALLSIGN": "MLSH",
-    "COG": 41.8,
+    "COG": 0,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 41,
+    "HEADING": 0,
     "IMO": 0,
-    "LATITUDE": 51.50701,
-    "LONGITUDE": -0.07135,
+    "LATITUDE": 51.50657,
+    "LONGITUDE": -0.07203,
     "MMSI": 235077627,
     "NAME": "",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-09-05 18:29:17 GMT",
+    "TIME": "2024-09-10 05:11:03 GMT",
     "TYPE": 37,
-    "last_seen": "2024-09-05T17:24:43.312415",
+    "last_seen": "2024-09-05T18:30:55.140577",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-05T18:30:55.140577"
+  "last_seen": "2024-09-10T05:27:22.488727"
 }
