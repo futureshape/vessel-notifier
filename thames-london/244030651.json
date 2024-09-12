@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-09-08",
-    "2024-09-10"
+    "2024-09-10",
+    "2024-09-12"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "PE 6141",
-    "COG": 134.1,
+    "COG": 199.3,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50669,
-    "LONGITUDE": -0.07091,
+    "LATITUDE": 51.50652,
+    "LONGITUDE": -0.07208,
     "MMSI": 244030651,
     "NAME": "STEFANIE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0.1,
-    "TIME": "2024-09-10 17:00:07 GMT",
+    "TIME": "2024-09-12 05:26:55 GMT",
     "TYPE": 36,
-    "last_seen": "2024-09-10T16:30:37.839513",
+    "last_seen": "2024-09-10T17:24:52.496020",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-10T17:24:52.496020"
+  "last_seen": "2024-09-12T05:27:24.604236"
 }
