@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-09-10"
+    "2024-09-10",
+    "2024-09-13"
   ],
   "last_full_data": {
     "A": 23,
     "B": 2,
     "C": 2,
     "CALLSIGN": "MMAF3",
-    "COG": 188.9,
+    "COG": 5.7,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47281,
-    "LONGITUDE": -0.18027,
+    "LATITUDE": 51.50304,
+    "LONGITUDE": -0.12092,
     "MMSI": 235091142,
     "NAME": "ALBERDINA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2024-09-10 14:13:00 GMT",
+    "SOG": 5.5,
+    "TIME": "2024-09-13 07:23:41 GMT",
     "TYPE": 37,
-    "last_seen": null,
+    "last_seen": "2024-09-10T14:27:08.223407",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-10T14:27:08.223407"
+  "last_seen": "2024-09-13T07:23:59.345843"
 }
