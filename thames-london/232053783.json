@@ -50,20 +50,20 @@
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 288,
+    "HEADING": 511,
     "IMO": 9997256,
-    "LATITUDE": 51.50728,
+    "LATITUDE": 51.5073,
     "LONGITUDE": 0.00677,
     "MMSI": 232053783,
     "NAME": "MARS CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 0,
+    "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-09-13 22:27:22 GMT",
+    "TIME": "2024-09-13 23:24:52 GMT",
     "TYPE": 40,
-    "last_seen": "2024-09-13T21:23:16.586750",
+    "last_seen": "2024-09-13T22:27:22.458979",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-13T22:27:22.458979"
+  "last_seen": "2024-09-13T23:25:00.351402"
 }
