@@ -49,7 +49,7 @@
     "B": 16,
     "C": 8,
     "CALLSIGN": "2DGB5",
-    "COG": 0,
+    "COG": 206.2,
     "D": 0,
     "DEST": "THAMES",
     "DRAUGHT": 2.1,
@@ -57,17 +57,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49457,
-    "LONGITUDE": 0.02615,
+    "LONGITUDE": 0.02613,
     "MMSI": 235078641,
     "NAME": "REDOUBT",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-09-17 04:26:26 GMT",
+    "SOG": 0.7,
+    "TIME": "2024-09-17 05:26:28 GMT",
     "TYPE": 52,
-    "last_seen": "2024-09-17T03:27:20.653410",
+    "last_seen": "2024-09-17T04:26:32.040497",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-17T04:26:32.040497"
+  "last_seen": "2024-09-17T05:26:46.001238"
 }
