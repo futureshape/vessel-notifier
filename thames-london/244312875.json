@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2024-09-18"
+  ],
+  "last_full_data": {
+    "A": 15,
+    "B": 0,
+    "C": 2,
+    "CALLSIGN": "PC3476",
+    "COG": 295,
+    "D": 2,
+    "DEST": "SCHELLINGWOUDE",
+    "DRAUGHT": 1.2,
+    "ETA": "00-00 24:60",
+    "HEADING": 314,
+    "IMO": 0,
+    "LATITUDE": 51.50434,
+    "LONGITUDE": -0.07094,
+    "MMSI": 244312875,
+    "NAME": "SEABEAR",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 1.2,
+    "TIME": "2024-09-18 12:46:49 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2496,
+      2055,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-09-18T12:46:51.920810"
+}
