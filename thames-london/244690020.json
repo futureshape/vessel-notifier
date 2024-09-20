@@ -24,18 +24,18 @@
     "2024-09-20"
   ],
   "last_full_data": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
+    "A": 50,
+    "B": 4,
+    "C": 3,
     "CALLSIGN": "PB6045",
-    "COG": 273.6,
-    "D": 0,
+    "COG": 273.2,
+    "D": 4,
     "DEST": "KALLO",
     "DRAUGHT": 1.4,
     "ETA": "02-13 16:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50771,
+    "LATITUDE": 51.50774,
     "LONGITUDE": 0.00231,
     "MMSI": 244690020,
     "NAME": "SCHELDEMOND I",
@@ -43,10 +43,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-09-20 12:47:06 GMT",
+    "TIME": "2024-09-20 13:29:16 GMT",
     "TYPE": 33,
-    "last_seen": "2024-09-12T11:21:51.670166",
+    "last_seen": "2024-09-20T12:47:14.852045",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-20T12:47:14.852045"
+  "last_seen": "2024-09-20T13:29:21.619182"
 }
