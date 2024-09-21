@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-09-18",
     "2024-09-19",
-    "2024-09-20"
+    "2024-09-20",
+    "2024-09-21"
   ],
   "last_full_data": {
     "A": 15,
     "B": 34,
     "C": 5,
     "CALLSIGN": "E5U5294",
-    "COG": 7.3,
+    "COG": 198.7,
     "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 5,
     "ETA": "09-18 10:15",
-    "HEADING": 122,
+    "HEADING": 120,
     "IMO": 1007811,
-    "LATITUDE": 51.50353,
-    "LONGITUDE": -0.07131,
+    "LATITUDE": 51.50356,
+    "LONGITUDE": -0.07119,
     "MMSI": 518999313,
     "NAME": "ASTERIA",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": 4,
+    "ROT": -9,
     "SOG": 0,
-    "TIME": "2024-09-20 23:20:56 GMT",
+    "TIME": "2024-09-21 01:45:01 GMT",
     "TYPE": 37,
-    "last_seen": "2024-09-20T22:28:30.492759",
+    "last_seen": "2024-09-20T23:23:23.456302",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-20T23:23:23.456302"
+  "last_seen": "2024-09-21T01:46:33.857466"
 }
