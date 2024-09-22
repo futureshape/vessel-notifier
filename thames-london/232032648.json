@@ -7,28 +7,25 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "MIOC8",
-    "COG": 243.5,
+    "COG": 18.5,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "08-23 14:17",
-    "HEADING": 67,
+    "HEADING": 236,
     "IMO": 0,
-    "LATITUDE": 51.48656,
-    "LONGITUDE": -0.00644,
+    "LATITUDE": 51.50563,
+    "LONGITUDE": -0.07232,
     "MMSI": 232032648,
     "NAME": "MORWENNA OF BRISTOL",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.4,
-    "TIME": "2024-09-22 14:24:39 GMT",
+    "SOG": 1.7,
+    "TIME": "2024-09-22 15:24:07 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-09-22T14:24:57.722698",
+    "received_by_stations": []
   },
-  "last_seen": "2024-09-22T14:24:57.722698"
+  "last_seen": "2024-09-22T15:24:09.434735"
 }
