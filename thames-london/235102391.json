@@ -62,7 +62,7 @@
     "B": 3,
     "C": 4,
     "CALLSIGN": "2HBY9",
-    "COG": 68.7,
+    "COG": 360,
     "D": 2,
     "DEST": "THAMES",
     "DRAUGHT": 1,
@@ -70,17 +70,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49814,
-    "LONGITUDE": 0.03722,
+    "LONGITUDE": 0.03724,
     "MMSI": 235102391,
     "NAME": "JUMBO",
     "NAVSTAT": 12,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.5,
-    "TIME": "2024-09-25 07:23:17 GMT",
+    "SOG": 0,
+    "TIME": "2024-09-25 08:33:17 GMT",
     "TYPE": 90,
-    "last_seen": "2024-09-25T06:34:40.658905",
+    "last_seen": "2024-09-25T07:23:47.596112",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-25T07:23:47.596112"
+  "last_seen": "2024-09-25T08:33:25.681212"
 }
