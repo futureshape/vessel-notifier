@@ -58,7 +58,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MVZU6",
-    "COG": 360,
+    "COG": 27,
     "D": 8,
     "DEST": "",
     "DRAUGHT": 0,
@@ -66,17 +66,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.51004,
-    "LONGITUDE": -0.11558,
+    "LONGITUDE": -0.1156,
     "MMSI": 235056223,
     "NAME": "GOLDEN SUNRISE",
     "NAVSTAT": 7,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-09-25 15:27:49 GMT",
+    "SOG": 0.2,
+    "TIME": "2024-09-25 16:35:49 GMT",
     "TYPE": 37,
-    "last_seen": "2024-09-25T14:28:47.616317",
+    "last_seen": "2024-09-25T15:27:52.185205",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-25T15:27:52.185205"
+  "last_seen": "2024-09-25T16:35:55.990217"
 }
