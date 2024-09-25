@@ -7,29 +7,25 @@
     "B": 36,
     "C": 7,
     "CALLSIGN": "PE6851",
-    "COG": 262.9,
+    "COG": 144.8,
     "D": 4,
     "DEST": "GBLON",
     "DRAUGHT": 5.7,
     "ETA": "09-25 06:00",
-    "HEADING": 278,
+    "HEADING": 99,
     "IMO": 7382902,
-    "LATITUDE": 51.50117,
-    "LONGITUDE": -0.01111,
+    "LATITUDE": 51.50088,
+    "LONGITUDE": -0.01291,
     "MMSI": 244538000,
     "NAME": "ARCTIC SUNRISE",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 5,
-    "SOG": 0.1,
-    "TIME": "2024-09-25 06:34:34 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2024-09-25 07:23:44 GMT",
     "TYPE": 90,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-09-25T06:34:40.656141",
+    "received_by_stations": []
   },
-  "last_seen": "2024-09-25T06:34:40.656141"
+  "last_seen": "2024-09-25T07:23:47.591313"
 }

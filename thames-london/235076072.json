@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-01-25",
     "2024-09-18",
-    "2024-09-24"
+    "2024-09-24",
+    "2024-09-25"
   ],
   "last_full_data": {
     "A": 10,
     "B": 3,
     "C": 2,
     "CALLSIGN": "MV7T7",
-    "COG": 0,
+    "COG": 45.7,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1.4,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50312,
-    "LONGITUDE": -0.0571,
+    "LATITUDE": 51.50309,
+    "LONGITUDE": -0.05708,
     "MMSI": 235076072,
     "NAME": "LIBERATOR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-09-24 13:31:28 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-09-25 07:23:46 GMT",
     "TYPE": 52,
-    "last_seen": "2024-09-24T12:49:37.409888",
+    "last_seen": "2024-09-24T13:31:56.572570",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-24T13:31:56.572570"
+  "last_seen": "2024-09-25T07:23:47.589672"
 }
