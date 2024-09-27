@@ -25,7 +25,7 @@
     "B": 2,
     "C": 2,
     "CALLSIGN": "MFNJ5",
-    "COG": 360,
+    "COG": 151.2,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -33,17 +33,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49388,
-    "LONGITUDE": -0.03309,
+    "LONGITUDE": -0.03305,
     "MMSI": 235019326,
     "NAME": "THAMES BEAST",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-09-27 12:48:41 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-09-27 13:30:54 GMT",
     "TYPE": 40,
-    "last_seen": "2024-09-23T09:29:21.317268",
+    "last_seen": "2024-09-27T12:48:45.544764",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-27T12:48:45.544764"
+  "last_seen": "2024-09-27T13:31:02.757915"
 }
