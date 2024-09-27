@@ -75,7 +75,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "ZNUX3",
-    "COG": 57.4,
+    "COG": 30.6,
     "D": 6,
     "DEST": "",
     "DRAUGHT": 0,
@@ -83,17 +83,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.51076,
-    "LONGITUDE": -0.10982,
+    "LONGITUDE": -0.10995,
     "MMSI": 235055003,
     "NAME": "MERCIA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-09-27 10:30:22 GMT",
+    "SOG": 0.3,
+    "TIME": "2024-09-27 11:22:22 GMT",
     "TYPE": 99,
-    "last_seen": "2024-09-27T09:26:59.941286",
+    "last_seen": "2024-09-27T10:30:33.635327",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-27T10:30:33.635327"
+  "last_seen": "2024-09-27T11:22:27.074575"
 }
