@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2024-09-27"
+  ],
+  "last_full_data": {
+    "A": 29,
+    "B": 60,
+    "C": 7,
+    "CALLSIGN": "DRBB",
+    "COG": 298.1,
+    "D": 7,
+    "DEST": "0",
+    "DRAUGHT": 4.6,
+    "ETA": "00-00 24:60",
+    "HEADING": 298,
+    "IMO": 0,
+    "LATITUDE": 51.48605,
+    "LONGITUDE": -0.02079,
+    "MMSI": 211911000,
+    "NAME": "GERMAN WARSHIP F261",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 20,
+    "SOG": 9.5,
+    "TIME": "2024-09-27 21:23:41 GMT",
+    "TYPE": 35,
+    "last_seen": null,
+    "received_by_stations": [
+      2103,
+      3416,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-09-27T21:23:51.485199"
+}
