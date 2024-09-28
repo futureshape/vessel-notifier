@@ -36,32 +36,33 @@
     "2024-09-18",
     "2024-09-20",
     "2024-09-21",
-    "2024-09-26"
+    "2024-09-26",
+    "2024-09-28"
   ],
   "last_full_data": {
     "A": 4,
     "B": 15,
     "C": 1,
     "CALLSIGN": "2IMU7",
-    "COG": 158.6,
+    "COG": 0,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49035,
-    "LONGITUDE": -0.12566,
+    "LATITUDE": 51.50702,
+    "LONGITUDE": -0.11759,
     "MMSI": 235111064,
     "NAME": "ONYX OF LONDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-09-26 15:09:12 GMT",
+    "TIME": "2024-09-28 14:21:44 GMT",
     "TYPE": 60,
-    "last_seen": "2024-09-26T14:29:27.840721",
+    "last_seen": "2024-09-26T15:27:11.287144",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-26T15:27:11.287144"
+  "last_seen": "2024-09-28T14:24:50.289564"
 }
