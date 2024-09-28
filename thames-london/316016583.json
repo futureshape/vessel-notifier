@@ -8,27 +8,25 @@
     "B": 2,
     "C": 2,
     "CALLSIGN": "CFK9413",
-    "COG": 256.8,
+    "COG": 248.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4983,
-    "LONGITUDE": 0.03507,
+    "LATITUDE": 51.50254,
+    "LONGITUDE": -0.05682,
     "MMSI": 316016583,
     "NAME": "INSPIRATION LADY",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.5,
-    "TIME": "2024-09-28 09:23:46 GMT",
+    "SOG": 4.7,
+    "TIME": "2024-09-28 10:27:45 GMT",
     "TYPE": 36,
-    "last_seen": "2024-04-10T14:15:40.651448",
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2024-09-28T09:24:17.481831",
+    "received_by_stations": []
   },
-  "last_seen": "2024-09-28T09:24:17.481831"
+  "last_seen": "2024-09-28T10:27:47.493625"
 }
