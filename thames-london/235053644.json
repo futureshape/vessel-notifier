@@ -16,32 +16,33 @@
     "2024-09-24",
     "2024-09-25",
     "2024-09-26",
-    "2024-09-27"
+    "2024-09-27",
+    "2024-10-01"
   ],
   "last_full_data": {
     "A": 9,
     "B": 17,
     "C": 2,
     "CALLSIGN": "MUMN",
-    "COG": 87.8,
+    "COG": 305.6,
     "D": 3,
     "DEST": "GBUPR",
     "DRAUGHT": 3,
     "ETA": "07-27 21:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49606,
-    "LONGITUDE": 0.03514,
+    "LATITUDE": 51.4999,
+    "LONGITUDE": 0.01559,
     "MMSI": 235053644,
     "NAME": "GPS VINCIA",
-    "NAVSTAT": 0,
+    "NAVSTAT": 3,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.9,
-    "TIME": "2024-09-27 20:26:18 GMT",
+    "SOG": 8.6,
+    "TIME": "2024-10-01 10:31:52 GMT",
     "TYPE": 52,
-    "last_seen": "2024-09-27T19:20:38.359736",
+    "last_seen": "2024-09-27T20:26:28.085433",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-27T20:26:28.085433"
+  "last_seen": "2024-10-01T10:31:55.753834"
 }

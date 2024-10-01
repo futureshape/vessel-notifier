@@ -1,13 +1,14 @@
 {
   "dates_seen": [
-    "2024-09-30"
+    "2024-09-30",
+    "2024-10-01"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "OQ3751",
-    "COG": 340,
+    "COG": 0,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -15,17 +16,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50701,
-    "LONGITUDE": -0.07191,
+    "LONGITUDE": -0.07193,
     "MMSI": 205375170,
     "NAME": "PLATERO",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-09-30 11:20:14 GMT",
+    "TIME": "2024-10-01 10:30:20 GMT",
     "TYPE": 36,
-    "last_seen": "2024-09-30T10:31:59.780720",
+    "last_seen": "2024-09-30T11:22:03.872669",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-30T11:22:03.872669"
+  "last_seen": "2024-10-01T10:31:55.086428"
 }

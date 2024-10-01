@@ -1,7 +1,38 @@
 {
   "dates_seen": [
-    "2024-06-11"
+    "2024-06-11",
+    "2024-10-01"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-11T15:20:25.139066"
+  "last_full_data": {
+    "A": 50,
+    "B": 76,
+    "C": 14,
+    "CALLSIGN": "CQAE4",
+    "COG": 251.8,
+    "D": 11,
+    "DEST": "GB LON",
+    "DRAUGHT": 4.8,
+    "ETA": "10-01 11:00",
+    "HEADING": 244,
+    "IMO": 9871529,
+    "LATITUDE": 51.50826,
+    "LONGITUDE": -0.04339,
+    "MMSI": 255806150,
+    "NAME": "WORLD VOYAGER",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 4.9,
+    "TIME": "2024-10-01 10:31:45 GMT",
+    "TYPE": 69,
+    "last_seen": "2024-06-11T15:20:25.139066",
+    "received_by_stations": [
+      2055,
+      3416,
+      2103,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-10-01T10:31:55.747886"
 }
