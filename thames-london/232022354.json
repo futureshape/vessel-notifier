@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-09-28",
-    "2024-09-29"
+    "2024-09-29",
+    "2024-10-01"
   ],
   "last_full_data": {
     "A": 10,
     "B": 8,
     "C": 2,
     "CALLSIGN": "MFIW9",
-    "COG": 62.8,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 85,
+    "HEADING": 3,
     "IMO": 0,
-    "LATITUDE": 51.50335,
-    "LONGITUDE": -0.06519,
+    "LATITUDE": 51.50717,
+    "LONGITUDE": -0.07182,
     "MMSI": 232022354,
     "NAME": "EMILY-ANNE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 1.8,
-    "TIME": "2024-09-29 11:19:50 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-10-01 09:27:00 GMT",
     "TYPE": 37,
-    "last_seen": "2024-09-29T10:27:58.348751",
+    "last_seen": "2024-09-29T11:21:13.092211",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-29T11:21:13.092211"
+  "last_seen": "2024-10-01T09:27:47.189047"
 }
