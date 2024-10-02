@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-09-29",
-    "2024-09-30"
+    "2024-09-30",
+    "2024-10-02"
   ],
   "last_full_data": {
     "A": 15,
     "B": 58,
     "C": 5,
     "CALLSIGN": "GRPM",
-    "COG": 162.7,
+    "COG": 287.2,
     "D": 4,
     "DEST": "THAMES CRUISE",
     "DRAUGHT": 1.8,
-    "ETA": "09-30 23:59",
-    "HEADING": 159,
+    "ETA": "10-02 18:30",
+    "HEADING": 296,
     "IMO": 5386954,
-    "LATITUDE": 51.4927,
-    "LONGITUDE": -0.02884,
+    "LATITUDE": 51.49698,
+    "LONGITUDE": 0.02139,
     "MMSI": 232001540,
     "NAME": "WAVERLEY",
-    "NAVSTAT": 5,
-    "PAC": 1,
-    "ROT": -127,
-    "SOG": 11.6,
-    "TIME": "2024-09-30 21:24:07 GMT",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 127,
+    "SOG": 11,
+    "TIME": "2024-10-02 12:48:44 GMT",
     "TYPE": 69,
-    "last_seen": "2024-09-30T20:26:55.816448",
+    "last_seen": "2024-09-30T21:24:08.675574",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-30T21:24:08.675574"
+  "last_seen": "2024-10-02T12:48:45.191147"
 }

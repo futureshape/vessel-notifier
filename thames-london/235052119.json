@@ -105,7 +105,7 @@
     "B": 22,
     "C": 4,
     "CALLSIGN": "MZSJ6",
-    "COG": 89.7,
+    "COG": 360,
     "D": 6,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -113,17 +113,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50115,
-    "LONGITUDE": -0.06181,
+    "LONGITUDE": -0.06179,
     "MMSI": 235052119,
     "NAME": "MILLENNIUM OF PEACE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-10-02 11:21:12 GMT",
+    "SOG": 0,
+    "TIME": "2024-10-02 12:48:41 GMT",
     "TYPE": 60,
-    "last_seen": "2024-10-02T10:30:19.006428",
+    "last_seen": "2024-10-02T11:21:17.390192",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-02T11:21:17.390192"
+  "last_seen": "2024-10-02T12:48:45.183748"
 }
