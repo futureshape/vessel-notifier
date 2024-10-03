@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-05-23",
-    "2024-10-02"
+    "2024-10-02",
+    "2024-10-03"
   ],
   "last_full_data": {
     "A": 19,
     "B": 5,
     "C": 1,
     "CALLSIGN": "PD3749",
-    "COG": 280.2,
+    "COG": 144.4,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 0.3,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50446,
-    "LONGITUDE": -0.06908,
+    "LATITUDE": 51.50445,
+    "LONGITUDE": -0.06911,
     "MMSI": 244780454,
     "NAME": "REFUELLER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-10-02 11:05:24 GMT",
+    "TIME": "2024-10-03 11:21:22 GMT",
     "TYPE": 99,
-    "last_seen": "2024-10-02T10:30:19.005188",
+    "last_seen": "2024-10-02T11:21:17.389427",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-02T11:21:17.389427"
+  "last_seen": "2024-10-03T11:21:33.241049"
 }
