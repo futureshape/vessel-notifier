@@ -7,7 +7,7 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "PA5589",
-    "COG": 108.8,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -15,17 +15,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50777,
-    "LONGITUDE": -0.07213,
+    "LONGITUDE": -0.0721,
     "MMSI": 244790960,
     "NAME": "JADRO",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-10-04 13:30:28 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-10-04 18:31:52 GMT",
     "TYPE": 36,
-    "last_seen": "2024-10-04T12:48:40.197944",
+    "last_seen": "2024-10-04T13:30:29.382913",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-04T13:30:29.382913"
+  "last_seen": "2024-10-04T18:33:04.783390"
 }
