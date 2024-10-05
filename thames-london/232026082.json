@@ -9,7 +9,7 @@
     "B": 3,
     "C": 1,
     "CALLSIGN": "2CRE8",
-    "COG": 347.8,
+    "COG": 164,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -17,17 +17,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49573,
-    "LONGITUDE": -0.00181,
+    "LONGITUDE": -0.00403,
     "MMSI": 232026082,
     "NAME": "SEA FURY",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 5.3,
-    "TIME": "2024-10-05 09:26:50 GMT",
+    "SOG": 10.6,
+    "TIME": "2024-10-05 12:45:05 GMT",
     "TYPE": 37,
-    "last_seen": "2024-10-05T08:29:28.350293",
+    "last_seen": "2024-10-05T09:27:15.262302",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-05T09:27:15.262302"
+  "last_seen": "2024-10-05T12:45:22.515238"
 }
