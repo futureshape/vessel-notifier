@@ -7,28 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MXFH5",
-    "COG": 88.8,
+    "COG": 177.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.497,
-    "LONGITUDE": 0.01861,
+    "LATITUDE": 51.49701,
+    "LONGITUDE": 0.01852,
     "MMSI": 235055694,
     "NAME": "THAMES VITALITY",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-10-06 07:22:46 GMT",
+    "TIME": "2024-10-06 08:28:56 GMT",
     "TYPE": 0,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-10-06T07:22:53.982906",
+    "received_by_stations": []
   },
-  "last_seen": "2024-10-06T07:22:53.982906"
+  "last_seen": "2024-10-06T08:29:00.329809"
 }
