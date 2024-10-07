@@ -1,0 +1,34 @@
+{
+  "dates_seen": [
+    "2024-10-07"
+  ],
+  "last_full_data": {
+    "A": 6,
+    "B": 5,
+    "C": 1,
+    "CALLSIGN": "PI9791",
+    "COG": 160.3,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49407,
+    "LONGITUDE": -0.00275,
+    "MMSI": 244153323,
+    "NAME": "PRIMROSE",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 6.2,
+    "TIME": "2024-10-07 14:28:00 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-10-07T14:28:28.257750"
+}
