@@ -8,33 +8,25 @@
     "B": 106,
     "C": 11,
     "CALLSIGN": "C6OX6",
-    "COG": 215.6,
+    "COG": 289.9,
     "D": 11,
     "DEST": "GB LON",
     "DRAUGHT": 5.3,
     "ETA": "10-08 05:15",
-    "HEADING": 218,
+    "HEADING": 284,
     "IMO": 9138329,
-    "LATITUDE": 51.48759,
-    "LONGITUDE": -0.00267,
+    "LATITUDE": 51.50687,
+    "LONGITUDE": -0.08136,
     "MMSI": 309908000,
     "NAME": "M/V HAMBURG",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 18,
-    "SOG": 8.1,
-    "TIME": "2024-10-08 04:30:06 GMT",
+    "ROT": -8,
+    "SOG": 0.4,
+    "TIME": "2024-10-08 05:27:48 GMT",
     "TYPE": 60,
-    "last_seen": "2024-06-12T17:16:41.224502",
-    "received_by_stations": [
-      2055,
-      3416,
-      2103,
-      2665,
-      2115,
-      2648,
-      2130
-    ]
+    "last_seen": "2024-10-08T04:30:10.018978",
+    "received_by_stations": []
   },
-  "last_seen": "2024-10-08T04:30:10.018978"
+  "last_seen": "2024-10-08T05:27:54.173835"
 }
