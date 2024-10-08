@@ -7,31 +7,25 @@
     "B": 121,
     "C": 11,
     "CALLSIGN": "9HA5400",
-    "COG": 159.9,
+    "COG": 294.2,
     "D": 11,
     "DEST": "GBLON",
     "DRAUGHT": 5.6,
     "ETA": "10-08 17:30",
-    "HEADING": 161,
+    "HEADING": 284,
     "IMO": 9857640,
-    "LATITUDE": 51.49587,
-    "LONGITUDE": -0.00264,
+    "LATITUDE": 51.50688,
+    "LONGITUDE": -0.08129,
     "MMSI": 215973000,
     "NAME": "HANSEATIC SPIRIT",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 5,
-    "SOG": 8.5,
-    "TIME": "2024-10-08 16:33:12 GMT",
+    "ROT": -7,
+    "SOG": 1,
+    "TIME": "2024-10-08 17:26:11 GMT",
     "TYPE": 69,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2103,
-      2665,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-10-08T16:33:18.001060",
+    "received_by_stations": []
   },
-  "last_seen": "2024-10-08T16:33:18.001060"
+  "last_seen": "2024-10-08T17:26:16.343555"
 }
