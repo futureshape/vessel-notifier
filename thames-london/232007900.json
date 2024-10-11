@@ -57,32 +57,33 @@
     "2024-09-27",
     "2024-10-03",
     "2024-10-04",
-    "2024-10-07"
+    "2024-10-07",
+    "2024-10-11"
   ],
   "last_full_data": {
     "A": 14,
     "B": 2,
     "C": 1,
     "CALLSIGN": "MAZN4",
-    "COG": 360,
+    "COG": 90.8,
     "D": 7,
     "DEST": "THAMES AREA",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.51019,
-    "LONGITUDE": -0.11586,
+    "LATITUDE": 51.51029,
+    "LONGITUDE": -0.10892,
     "MMSI": 232007900,
     "NAME": "CHILI DOG",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-10-07 12:39:40 GMT",
+    "SOG": 4.5,
+    "TIME": "2024-10-11 05:28:07 GMT",
     "TYPE": 31,
-    "last_seen": "2024-10-07T11:23:36.850819",
+    "last_seen": "2024-10-07T12:50:01.435921",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-07T12:50:01.435921"
+  "last_seen": "2024-10-11T05:28:14.156137"
 }
