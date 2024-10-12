@@ -66,32 +66,33 @@
     "2024-10-06",
     "2024-10-07",
     "2024-10-09",
-    "2024-10-11"
+    "2024-10-11",
+    "2024-10-12"
   ],
   "last_full_data": {
     "A": 3,
     "B": 19,
     "C": 1,
     "CALLSIGN": "GVOW",
-    "COG": 14.2,
+    "COG": 253.8,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50146,
-    "LONGITUDE": -0.05825,
+    "LATITUDE": 51.50176,
+    "LONGITUDE": -0.05791,
     "MMSI": 235052141,
     "NAME": "MAYFLOWER GARDEN",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0.4,
-    "TIME": "2024-10-11 18:52:47 GMT",
+    "SOG": 3.5,
+    "TIME": "2024-10-12 08:29:14 GMT",
     "TYPE": 60,
-    "last_seen": "2024-10-11T18:32:41.476046",
+    "last_seen": "2024-10-11T19:20:27.554421",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-11T19:20:27.554421"
+  "last_seen": "2024-10-12T08:29:19.938171"
 }
