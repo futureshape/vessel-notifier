@@ -1,7 +1,34 @@
 {
   "dates_seen": [
-    "2024-04-27"
+    "2024-04-27",
+    "2024-10-12"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-04-27T16:19:44.253436"
+  "last_full_data": {
+    "A": 0,
+    "B": 6,
+    "C": 0,
+    "CALLSIGN": "MMZW6",
+    "COG": 32.1,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0.5,
+    "ETA": "03-22 09:08",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.47133,
+    "LONGITUDE": -0.26781,
+    "MMSI": 232045769,
+    "NAME": "ARCUS",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 0.1,
+    "TIME": "2024-10-12 07:19:29 GMT",
+    "TYPE": 90,
+    "last_seen": "2024-04-27T16:19:44.253436",
+    "received_by_stations": [
+      2648
+    ]
+  },
+  "last_seen": "2024-10-12T07:22:09.965176"
 }
