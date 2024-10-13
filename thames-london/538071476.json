@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-10-10",
     "2024-10-11",
-    "2024-10-12"
+    "2024-10-12",
+    "2024-10-13"
   ],
   "last_full_data": {
     "A": 55,
     "B": 67,
     "C": 8,
     "CALLSIGN": "V7A2834",
-    "COG": 118.6,
+    "COG": 120.5,
     "D": 9,
     "DEST": "GB LON",
     "DRAUGHT": 4.4,
     "ETA": "10-10 18:00",
-    "HEADING": 118,
+    "HEADING": 120,
     "IMO": 9881627,
     "LATITUDE": 51.5036,
-    "LONGITUDE": -0.071,
+    "LONGITUDE": -0.07105,
     "MMSI": 538071476,
     "NAME": "KISMET",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-10-12 23:21:45 GMT",
+    "TIME": "2024-10-13 01:57:39 GMT",
     "TYPE": 37,
-    "last_seen": "2024-10-12T22:27:36.102115",
+    "last_seen": "2024-10-12T23:23:09.087405",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-12T23:23:09.087405"
+  "last_seen": "2024-10-13T01:57:40.244775"
 }
