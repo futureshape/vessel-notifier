@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-09-23"
+    "2024-09-23",
+    "2024-10-14"
   ],
   "last_full_data": {
     "A": 45,
     "B": 2,
     "C": 3,
     "CALLSIGN": "EAIZ",
-    "COG": 12.3,
+    "COG": 119,
     "D": 3,
-    "DEST": "LONDON",
+    "DEST": "CHERBOURG",
     "DRAUGHT": 3.2,
-    "ETA": "09-23 18:00",
+    "ETA": "10-16 16:00",
     "HEADING": 511,
     "IMO": 9578115,
-    "LATITUDE": 51.50661,
-    "LONGITUDE": -0.07114,
+    "LATITUDE": 51.50663,
+    "LONGITUDE": -0.07119,
     "MMSI": 225356000,
     "NAME": "GALEON ANDALUCIA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-09-23 18:32:52 GMT",
+    "TIME": "2024-10-14 07:27:23 GMT",
     "TYPE": 99,
-    "last_seen": "2024-09-23T17:26:28.620304",
+    "last_seen": "2024-09-23T18:33:02.928102",
     "received_by_stations": []
   },
-  "last_seen": "2024-09-23T18:33:02.928102"
+  "last_seen": "2024-10-14T07:27:31.313000"
 }
