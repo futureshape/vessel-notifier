@@ -19,7 +19,7 @@
     "B": 6,
     "C": 1,
     "CALLSIGN": "MKBC4",
-    "COG": 133,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -27,17 +27,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50444,
-    "LONGITUDE": -0.06897,
+    "LONGITUDE": -0.06899,
     "MMSI": 235054768,
     "NAME": "KARO",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2024-10-15 13:31:46 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-10-15 14:10:15 GMT",
     "TYPE": 80,
-    "last_seen": "2024-10-15T12:49:45.937344",
+    "last_seen": "2024-10-15T13:31:49.544693",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-15T13:31:49.544693"
+  "last_seen": "2024-10-15T14:28:06.300464"
 }
