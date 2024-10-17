@@ -16,7 +16,7 @@ jobs:
           AISHUB_API_KEY: ${{ secrets.AISHUB_API_KEY }}          
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
-          pip install -r src/requirements.txt --break-system-packages
+          pip install -r src/requirements.txt
           python src/vessel_tracker.py
           python src/generate_html.py
           
