@@ -8,29 +8,25 @@
     "B": 11,
     "C": 1,
     "CALLSIGN": "PCAB",
-    "COG": 339.3,
+    "COG": 78.9,
     "D": 5,
     "DEST": "LONDEN",
     "DRAUGHT": 2.8,
     "ETA": "10-18 15:00",
-    "HEADING": 339,
+    "HEADING": 87,
     "IMO": 0,
-    "LATITUDE": 51.49184,
-    "LONGITUDE": -0.02782,
+    "LATITUDE": 51.50808,
+    "LONGITUDE": -0.04127,
     "MMSI": 244007000,
     "NAME": "TWISTER",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 0,
-    "SOG": 6.6,
-    "TIME": "2024-10-18 13:30:48 GMT",
+    "ROT": 127,
+    "SOG": 2.5,
+    "TIME": "2024-10-18 14:27:18 GMT",
     "TYPE": 36,
-    "last_seen": "2024-04-30T17:15:22.679769",
-    "received_by_stations": [
-      2103,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-10-18T13:30:50.565250",
+    "received_by_stations": []
   },
-  "last_seen": "2024-10-18T13:30:50.565250"
+  "last_seen": "2024-10-18T14:27:24.439660"
 }
