@@ -7,29 +7,25 @@
     "B": 0,
     "C": 3,
     "CALLSIGN": "MKFG6",
-    "COG": 296.8,
+    "COG": 1.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 280,
+    "HEADING": 25,
     "IMO": 0,
-    "LATITUDE": 51.50369,
-    "LONGITUDE": -0.06779,
+    "LATITUDE": 51.50302,
+    "LONGITUDE": -0.06784,
     "MMSI": 235030049,
     "NAME": "PIPPYKIIN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4.7,
-    "TIME": "2024-10-19 12:45:23 GMT",
+    "SOG": 5,
+    "TIME": "2024-10-19 13:26:51 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2496,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-10-19T12:45:49.617190",
+    "received_by_stations": []
   },
-  "last_seen": "2024-10-19T12:45:49.617190"
+  "last_seen": "2024-10-19T13:27:04.647507"
 }
