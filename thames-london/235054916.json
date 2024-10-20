@@ -82,7 +82,7 @@
     "B": 30,
     "C": 4,
     "CALLSIGN": "MVEK3",
-    "COG": 315.3,
+    "COG": 360,
     "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -90,17 +90,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50129,
-    "LONGITUDE": -0.062,
+    "LONGITUDE": -0.06196,
     "MMSI": 235054916,
     "NAME": "CITY ALPHA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-10-20 15:27:03 GMT",
+    "SOG": 0,
+    "TIME": "2024-10-20 16:29:54 GMT",
     "TYPE": 60,
-    "last_seen": "2024-10-20T14:25:50.808648",
+    "last_seen": "2024-10-20T15:27:05.738558",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-20T15:27:05.738558"
+  "last_seen": "2024-10-20T16:30:01.776440"
 }
