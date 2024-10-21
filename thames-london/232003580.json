@@ -3,32 +3,39 @@
     "2024-06-21",
     "2024-07-02",
     "2024-07-03",
-    "2024-07-11"
+    "2024-07-11",
+    "2024-10-21"
   ],
   "last_full_data": {
     "A": 85,
     "B": 15,
     "C": 8,
     "CALLSIGN": "MYTP4",
-    "COG": 103.7,
+    "COG": 240,
     "D": 12,
-    "DEST": "GB CHN> MARGATE",
-    "DRAUGHT": 4.7,
-    "ETA": "07-11 14:00",
-    "HEADING": 109,
+    "DEST": "===DREDGEA458>GB CHN",
+    "DRAUGHT": 7.2,
+    "ETA": "10-21 14:45",
+    "HEADING": 145,
     "IMO": 9174127,
-    "LATITUDE": 51.49595,
-    "LONGITUDE": 0.02104,
+    "LATITUDE": 51.49686,
+    "LONGITUDE": 0.02155,
     "MMSI": 232003580,
     "NAME": "SAND FULMAR",
-    "NAVSTAT": 5,
+    "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 0,
-    "SOG": 0,
-    "TIME": "2024-07-11 07:20:19 GMT",
-    "TYPE": 90,
-    "last_seen": "2024-07-11T06:30:19.716705",
-    "received_by_stations": []
+    "ROT": -127,
+    "SOG": 1.3,
+    "TIME": "2024-10-21 13:33:03 GMT",
+    "TYPE": 33,
+    "last_seen": "2024-07-11T07:23:22.010192",
+    "received_by_stations": [
+      3416,
+      2103,
+      2665,
+      2115,
+      2648
+    ]
   },
-  "last_seen": "2024-07-11T07:23:22.010192"
+  "last_seen": "2024-10-21T13:33:07.735827"
 }
