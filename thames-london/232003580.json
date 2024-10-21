@@ -11,31 +11,25 @@
     "B": 15,
     "C": 8,
     "CALLSIGN": "MYTP4",
-    "COG": 240,
+    "COG": 175.1,
     "D": 12,
     "DEST": "===DREDGEA458>GB CHN",
     "DRAUGHT": 7.2,
     "ETA": "10-21 14:45",
-    "HEADING": 145,
+    "HEADING": 108,
     "IMO": 9174127,
-    "LATITUDE": 51.49686,
-    "LONGITUDE": 0.02155,
+    "LATITUDE": 51.49593,
+    "LONGITUDE": 0.02104,
     "MMSI": 232003580,
     "NAME": "SAND FULMAR",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": -127,
-    "SOG": 1.3,
-    "TIME": "2024-10-21 13:33:03 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2024-10-21 14:25:51 GMT",
     "TYPE": 33,
-    "last_seen": "2024-07-11T07:23:22.010192",
-    "received_by_stations": [
-      3416,
-      2103,
-      2665,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-10-21T13:33:07.735827",
+    "received_by_stations": []
   },
-  "last_seen": "2024-10-21T13:33:07.735827"
+  "last_seen": "2024-10-21T14:28:40.055990"
 }
