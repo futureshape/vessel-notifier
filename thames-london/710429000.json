@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2024-10-23"
+  ],
+  "last_full_data": {
+    "A": 40,
+    "B": 90,
+    "C": 7,
+    "CALLSIGN": "PWBL",
+    "COG": 342.4,
+    "D": 7,
+    "DEST": "LONDON GBR",
+    "DRAUGHT": 6,
+    "ETA": "10-23 07:00",
+    "HEADING": 338,
+    "IMO": 0,
+    "LATITUDE": 51.5048,
+    "LONGITUDE": -0.03016,
+    "MMSI": 710429000,
+    "NAME": "NE BRASIL",
+    "NAVSTAT": 8,
+    "PAC": 0,
+    "ROT": -127,
+    "SOG": 6.6,
+    "TIME": "2024-10-23 05:28:34 GMT",
+    "TYPE": 0,
+    "last_seen": null,
+    "received_by_stations": [
+      2055,
+      3416,
+      2103,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-10-23T05:28:36.553787"
+}
