@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-10-23"
+    "2024-10-23",
+    "2024-10-24"
   ],
   "last_full_data": {
     "A": 40,
     "B": 90,
     "C": 7,
     "CALLSIGN": "PWBL",
-    "COG": 304.2,
+    "COG": 272.6,
     "D": 7,
     "DEST": "JACKSONVILLE USA",
     "DRAUGHT": 6,
     "ETA": "11-11 14:00",
     "HEADING": 284,
     "IMO": 0,
-    "LATITUDE": 51.50684,
+    "LATITUDE": 51.50686,
     "LONGITUDE": -0.08173,
     "MMSI": 710429000,
     "NAME": "NE BRASIL",
     "NAVSTAT": 8,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0.1,
-    "TIME": "2024-10-23 23:24:44 GMT",
+    "SOG": 0,
+    "TIME": "2024-10-24 01:51:44 GMT",
     "TYPE": 0,
-    "last_seen": "2024-10-23T22:28:28.485452",
+    "last_seen": "2024-10-23T23:24:46.451451",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-23T23:24:46.451451"
+  "last_seen": "2024-10-24T01:51:46.789694"
 }
