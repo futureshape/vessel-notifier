@@ -7,27 +7,25 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "MXVS6",
-    "COG": 0,
+    "COG": 3.4,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 0,
+    "HEADING": 3,
     "IMO": 0,
-    "LATITUDE": 51.48747,
-    "LONGITUDE": -0.07343,
+    "LATITUDE": 51.48776,
+    "LONGITUDE": -0.07311,
     "MMSI": 232008041,
     "NAME": "FREESTYLE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0.7,
-    "TIME": "2024-10-25 15:19:10 GMT",
+    "TIME": "2024-10-25 16:30:52 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2024-10-25T15:26:31.449583",
+    "received_by_stations": []
   },
-  "last_seen": "2024-10-25T15:26:31.449583"
+  "last_seen": "2024-10-25T16:31:57.670695"
 }
