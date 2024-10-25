@@ -79,7 +79,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MNGN9",
-    "COG": 310.9,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -87,17 +87,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50251,
-    "LONGITUDE": -0.05861,
+    "LONGITUDE": -0.05859,
     "MMSI": 232046427,
     "NAME": "TIM RUPRECHT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2024-10-25 14:27:09 GMT",
+    "SOG": 0,
+    "TIME": "2024-10-25 15:24:26 GMT",
     "TYPE": 55,
-    "last_seen": "2024-10-25T13:30:57.548540",
+    "last_seen": "2024-10-25T14:28:00.650722",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-25T14:28:00.650722"
+  "last_seen": "2024-10-25T15:26:31.453448"
 }
