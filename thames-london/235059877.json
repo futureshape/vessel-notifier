@@ -33,32 +33,33 @@
     "2024-09-25",
     "2024-10-10",
     "2024-10-12",
-    "2024-10-25"
+    "2024-10-25",
+    "2024-10-26"
   ],
   "last_full_data": {
     "A": 8,
     "B": 13,
     "C": 5,
     "CALLSIGN": "MNQY7",
-    "COG": 198.7,
+    "COG": 112.8,
     "D": 0,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49095,
-    "LONGITUDE": -0.12529,
+    "LATITUDE": 51.50719,
+    "LONGITUDE": -0.11774,
     "MMSI": 235059877,
     "NAME": "EMERALD OF LONDON",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 1.9,
-    "TIME": "2024-10-25 22:27:15 GMT",
+    "SOG": 0,
+    "TIME": "2024-10-26 10:30:46 GMT",
     "TYPE": 60,
-    "last_seen": "2024-10-25T21:24:39.854544",
+    "last_seen": "2024-10-25T22:27:25.466122",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-25T22:27:25.466122"
+  "last_seen": "2024-10-26T10:30:48.836209"
 }
