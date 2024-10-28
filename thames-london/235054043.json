@@ -2,32 +2,35 @@
   "dates_seen": [
     "2024-05-09",
     "2024-06-26",
-    "2024-07-10"
+    "2024-07-10",
+    "2024-10-28"
   ],
   "last_full_data": {
     "A": 5,
     "B": 4,
     "C": 0,
     "CALLSIGN": "MRCR8",
-    "COG": 116.9,
+    "COG": 218,
     "D": 0,
-    "DEST": "PUTNEY",
+    "DEST": "TEDDINGTON",
     "DRAUGHT": 1,
-    "ETA": "06-05 16:00",
+    "ETA": "07-27 14:30",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.46263,
-    "LONGITUDE": -0.31686,
+    "LATITUDE": 51.46253,
+    "LONGITUDE": -0.31714,
     "MMSI": 235054043,
     "NAME": "TEDDINGTON",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-07-10 06:57:28 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-10-28 11:16:49 GMT",
     "TYPE": 52,
-    "last_seen": "2024-07-10T06:30:42.918085",
-    "received_by_stations": []
+    "last_seen": "2024-07-10T07:22:10.248656",
+    "received_by_stations": [
+      2103
+    ]
   },
-  "last_seen": "2024-07-10T07:22:10.248656"
+  "last_seen": "2024-10-28T11:22:53.232277"
 }
