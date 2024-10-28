@@ -7,29 +7,25 @@
     "B": 6,
     "C": 3,
     "CALLSIGN": "PF4860",
-    "COG": 325.1,
+    "COG": 0,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 309,
+    "HEADING": 306,
     "IMO": 0,
-    "LATITUDE": 51.50273,
-    "LONGITUDE": -0.06485,
+    "LATITUDE": 51.50332,
+    "LONGITUDE": -0.06618,
     "MMSI": 244260438,
     "NAME": "T SPANWIL IV",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 1.5,
-    "TIME": "2024-10-28 12:48:22 GMT",
+    "SOG": 0.7,
+    "TIME": "2024-10-28 13:27:27 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2496,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-10-28T12:50:34.336391",
+    "received_by_stations": []
   },
-  "last_seen": "2024-10-28T12:50:34.336391"
+  "last_seen": "2024-10-28T13:33:05.298373"
 }
