@@ -7,7 +7,7 @@
     "B": 22,
     "C": 5,
     "CALLSIGN": "MLPH9",
-    "COG": 31.5,
+    "COG": 7.9,
     "D": 3,
     "DEST": "HMS PRESIDENT",
     "DRAUGHT": 2.7,
@@ -22,14 +22,10 @@
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-10-29 20:25:54 GMT",
+    "TIME": "2024-10-29 21:22:52 GMT",
     "TYPE": 90,
-    "last_seen": null,
-    "received_by_stations": [
-      2496,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-10-29T20:27:06.392488",
+    "received_by_stations": []
   },
-  "last_seen": "2024-10-29T20:27:06.392488"
+  "last_seen": "2024-10-29T21:24:01.824106"
 }
