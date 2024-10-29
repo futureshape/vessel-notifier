@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2024-10-28"
+    "2024-10-28",
+    "2024-10-29"
   ],
   "last_full_data": {
     "A": 8,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 310,
+    "HEADING": 311,
     "IMO": 0,
-    "LATITUDE": 51.50332,
-    "LONGITUDE": -0.06623,
+    "LATITUDE": 51.50333,
+    "LONGITUDE": -0.0662,
     "MMSI": 244260438,
     "NAME": "T SPANWIL IV",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0.7,
-    "TIME": "2024-10-28 21:12:41 GMT",
+    "TIME": "2024-10-29 07:23:01 GMT",
     "TYPE": 37,
-    "last_seen": "2024-10-28T20:27:03.956352",
+    "last_seen": "2024-10-28T21:24:16.554145",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-28T21:24:16.554145"
+  "last_seen": "2024-10-29T07:25:19.343954"
 }
