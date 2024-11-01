@@ -8,30 +8,25 @@
     "B": 0,
     "C": 2,
     "CALLSIGN": "2GXZ7",
-    "COG": 164.4,
+    "COG": 193.1,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "04-07 06:13",
-    "HEADING": 169,
+    "HEADING": 194,
     "IMO": 1007809,
-    "LATITUDE": 51.49865,
-    "LONGITUDE": -0.00476,
+    "LATITUDE": 51.49348,
+    "LONGITUDE": -0.12341,
     "MMSI": 235101455,
     "NAME": "WONDERLAND",
     "NAVSTAT": 0,
-    "PAC": 1,
-    "ROT": 0,
-    "SOG": 7.4,
-    "TIME": "2024-11-01 08:30:23 GMT",
+    "PAC": 0,
+    "ROT": -127,
+    "SOG": 8.1,
+    "TIME": "2024-11-01 09:26:27 GMT",
     "TYPE": 37,
-    "last_seen": "2024-03-04T07:09:39.355427",
-    "received_by_stations": [
-      2103,
-      3416,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-11-01T08:30:24.993798",
+    "received_by_stations": []
   },
-  "last_seen": "2024-11-01T08:30:24.993798"
+  "last_seen": "2024-11-01T09:26:29.199293"
 }

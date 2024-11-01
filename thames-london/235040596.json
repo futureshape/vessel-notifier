@@ -1,7 +1,38 @@
 {
   "dates_seen": [
-    "2024-04-21"
+    "2024-04-21",
+    "2024-11-01"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-04-21T13:18:03.426823"
+  "last_full_data": {
+    "A": 9,
+    "B": 15,
+    "C": 4,
+    "CALLSIGN": "MPVV8",
+    "COG": 309.2,
+    "D": 4,
+    "DEST": "GB LON",
+    "DRAUGHT": 2.3,
+    "ETA": "11-01 04:30",
+    "HEADING": 293,
+    "IMO": 9407299,
+    "LATITUDE": 51.49682,
+    "LONGITUDE": 0.01702,
+    "MMSI": 235040596,
+    "NAME": "MTS VALOUR",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 127,
+    "SOG": 0.6,
+    "TIME": "2024-11-01 09:26:28 GMT",
+    "TYPE": 52,
+    "last_seen": "2024-04-21T13:18:03.426823",
+    "received_by_stations": [
+      2665,
+      3416,
+      2103,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-11-01T09:26:30.076453"
 }
