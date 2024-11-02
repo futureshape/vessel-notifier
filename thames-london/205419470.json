@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2024-11-01"
+    "2024-11-01",
+    "2024-11-02"
   ],
   "last_full_data": {
     "A": 13,
     "B": 1,
     "C": 2,
     "CALLSIGN": "OQ4194",
-    "COG": 168.8,
+    "COG": 160.7,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50543,
-    "LONGITUDE": -0.07206,
+    "LATITUDE": 51.50528,
+    "LONGITUDE": -0.07261,
     "MMSI": 205419470,
     "NAME": "ORFEO",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-11-01 06:09:14 GMT",
+    "SOG": 5.3,
+    "TIME": "2024-11-02 12:45:19 GMT",
     "TYPE": 36,
-    "last_seen": "2024-11-01T05:28:16.219323",
+    "last_seen": "2024-11-01T06:36:17.446834",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-01T06:36:17.446834"
+  "last_seen": "2024-11-02T12:45:36.741906"
 }
