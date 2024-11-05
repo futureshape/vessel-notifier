@@ -5,32 +5,33 @@
     "2024-07-03",
     "2024-07-11",
     "2024-10-21",
-    "2024-10-27"
+    "2024-10-27",
+    "2024-11-05"
   ],
   "last_full_data": {
     "A": 85,
     "B": 15,
     "C": 8,
     "CALLSIGN": "MYTP4",
-    "COG": 215.2,
+    "COG": 171.4,
     "D": 12,
-    "DEST": "GB CHN>==DREDGE A510",
-    "DRAUGHT": 4.8,
-    "ETA": "10-27 22:00",
+    "DEST": "DREDGE507>GBCHN",
+    "DRAUGHT": 7.2,
+    "ETA": "11-05 01:00",
     "HEADING": 108,
     "IMO": 9174127,
-    "LATITUDE": 51.49594,
-    "LONGITUDE": 0.02104,
+    "LATITUDE": 51.49595,
+    "LONGITUDE": 0.02106,
     "MMSI": 232003580,
     "NAME": "SAND FULMAR",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-10-27 13:25:02 GMT",
+    "TIME": "2024-11-05 01:49:09 GMT",
     "TYPE": 33,
-    "last_seen": "2024-10-27T12:45:38.798450",
+    "last_seen": "2024-10-27T13:27:12.008985",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-27T13:27:12.008985"
+  "last_seen": "2024-11-05T01:50:22.374459"
 }
