@@ -13,32 +13,33 @@
     "2024-09-20",
     "2024-09-23",
     "2024-10-21",
-    "2024-11-04"
+    "2024-11-04",
+    "2024-11-07"
   ],
   "last_full_data": {
     "A": 7,
     "B": 11,
     "C": 3,
     "CALLSIGN": "MDVO7",
-    "COG": 307.4,
+    "COG": 177.2,
     "D": 2,
     "DEST": "WORKING RIVER THAMES",
     "DRAUGHT": 2.2,
     "ETA": "05-10 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50417,
-    "LONGITUDE": -0.06903,
+    "LATITUDE": 51.50439,
+    "LONGITUDE": -0.06957,
     "MMSI": 232017999,
     "NAME": "IRENE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-11-04 14:28:58 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-11-07 15:19:20 GMT",
     "TYPE": 52,
-    "last_seen": "2024-11-04T13:33:18.114135",
+    "last_seen": "2024-11-04T14:28:59.161240",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-04T14:28:59.161240"
+  "last_seen": "2024-11-07T15:26:15.197785"
 }

@@ -7,30 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "",
-    "COG": 356,
+    "COG": 92,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 67,
+    "HEADING": 103,
     "IMO": 0,
-    "LATITUDE": 51.5055,
-    "LONGITUDE": -0.07348,
+    "LATITUDE": 51.5056,
+    "LONGITUDE": -0.07322,
     "MMSI": 232015606,
     "NAME": "CORMORANT",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 2.3,
-    "TIME": "2024-11-07 14:23:59 GMT",
+    "SOG": 1.5,
+    "TIME": "2024-11-07 15:24:05 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2496,
-      2055,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-11-07T14:25:47.184710",
+    "received_by_stations": []
   },
-  "last_seen": "2024-11-07T14:25:47.184710"
+  "last_seen": "2024-11-07T15:26:15.195653"
 }
