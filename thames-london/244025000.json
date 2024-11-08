@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2024-11-08"
+  ],
+  "last_full_data": {
+    "A": 25,
+    "B": 27,
+    "C": 2,
+    "CALLSIGN": "PAEH",
+    "COG": 229.9,
+    "D": 7,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 24:60",
+    "HEADING": 230,
+    "IMO": 0,
+    "LATITUDE": 51.5045,
+    "LONGITUDE": -0.05201,
+    "MMSI": 244025000,
+    "NAME": "HNLMS MAKKUM",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 6.3,
+    "TIME": "2024-11-08 06:33:30 GMT",
+    "TYPE": 35,
+    "last_seen": null,
+    "received_by_stations": [
+      2055,
+      2103,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-11-08T06:33:32.544689"
+}
