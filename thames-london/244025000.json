@@ -7,30 +7,25 @@
     "B": 27,
     "C": 2,
     "CALLSIGN": "PAEH",
-    "COG": 229.9,
+    "COG": 240.6,
     "D": 7,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 230,
+    "HEADING": 288,
     "IMO": 0,
-    "LATITUDE": 51.5045,
-    "LONGITUDE": -0.05201,
+    "LATITUDE": 51.50668,
+    "LONGITUDE": -0.08111,
     "MMSI": 244025000,
     "NAME": "HNLMS MAKKUM",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 6.3,
-    "TIME": "2024-11-08 06:33:30 GMT",
+    "SOG": 0,
+    "TIME": "2024-11-08 07:06:06 GMT",
     "TYPE": 35,
-    "last_seen": null,
-    "received_by_stations": [
-      2055,
-      2103,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-11-08T06:33:32.544689",
+    "received_by_stations": []
   },
-  "last_seen": "2024-11-08T06:33:32.544689"
+  "last_seen": "2024-11-08T07:23:01.090512"
 }
