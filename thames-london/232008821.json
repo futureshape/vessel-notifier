@@ -136,7 +136,7 @@
     "B": 25,
     "C": 5,
     "CALLSIGN": "MBFP9",
-    "COG": 360,
+    "COG": 282.6,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -144,17 +144,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50752,
-    "LONGITUDE": 0.00609,
+    "LONGITUDE": 0.00608,
     "MMSI": 232008821,
     "NAME": "JUPITER CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-11-10 08:25:54 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-11-10 09:22:42 GMT",
     "TYPE": 40,
-    "last_seen": "2024-11-10T07:21:47.593791",
+    "last_seen": "2024-11-10T08:27:52.548595",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-10T08:27:52.548595"
+  "last_seen": "2024-11-10T09:23:16.782186"
 }
