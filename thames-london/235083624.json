@@ -1,7 +1,37 @@
 {
   "dates_seen": [
-    "2024-05-01"
+    "2024-05-01",
+    "2024-11-11"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-05-01T05:16:42.629575"
+  "last_full_data": {
+    "A": 0,
+    "B": 13,
+    "C": 0,
+    "CALLSIGN": "2BRS8",
+    "COG": 324,
+    "D": 5,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 24:60",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50129,
+    "LONGITUDE": 0.01404,
+    "MMSI": 235083624,
+    "NAME": "ASSASSIN",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 5.4,
+    "TIME": "2024-11-11 11:21:44 GMT",
+    "TYPE": 0,
+    "last_seen": "2024-05-01T05:16:42.629575",
+    "received_by_stations": [
+      3416,
+      2665,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-11-11T11:21:52.581621"
 }
