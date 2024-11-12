@@ -81,7 +81,7 @@
     "B": 16,
     "C": 4,
     "CALLSIGN": "PF6465",
-    "COG": 337.1,
+    "COG": 262.8,
     "D": 2,
     "DEST": "CHATHAM",
     "DRAUGHT": 3,
@@ -89,17 +89,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48858,
-    "LONGITUDE": -0.12533,
+    "LONGITUDE": -0.1253,
     "MMSI": 244620729,
     "NAME": "GPS IBERIA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-11-12 06:33:27 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-11-12 07:23:07 GMT",
     "TYPE": 70,
-    "last_seen": "2024-11-12T05:27:27.788411",
+    "last_seen": "2024-11-12T06:33:36.399254",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-12T06:33:36.399254"
+  "last_seen": "2024-11-12T07:23:16.038861"
 }
