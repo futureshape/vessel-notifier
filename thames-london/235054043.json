@@ -5,32 +5,33 @@
     "2024-07-10",
     "2024-10-28",
     "2024-11-11",
-    "2024-11-13"
+    "2024-11-13",
+    "2024-11-15"
   ],
   "last_full_data": {
     "A": 5,
     "B": 4,
     "C": 0,
     "CALLSIGN": "MRCR8",
-    "COG": 122.9,
+    "COG": 240.5,
     "D": 0,
     "DEST": "TEDDINGTON",
     "DRAUGHT": 1,
     "ETA": "07-27 14:30",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.44823,
-    "LONGITUDE": -0.309,
+    "LATITUDE": 51.48574,
+    "LONGITUDE": -0.29413,
     "MMSI": 235054043,
     "NAME": "TEDDINGTON",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0.6,
-    "TIME": "2024-11-13 12:39:24 GMT",
+    "SOG": 5.5,
+    "TIME": "2024-11-15 13:20:38 GMT",
     "TYPE": 52,
-    "last_seen": "2024-11-13T10:30:28.504028",
+    "last_seen": "2024-11-13T12:48:45.344835",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-13T12:48:45.344835"
+  "last_seen": "2024-11-15T13:31:48.370297"
 }
