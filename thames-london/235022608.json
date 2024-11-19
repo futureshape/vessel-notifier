@@ -85,7 +85,7 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "MLPB5",
-    "COG": 257.6,
+    "COG": 295.6,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 5,
@@ -93,17 +93,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48599,
-    "LONGITUDE": -0.28273,
+    "LONGITUDE": -0.28275,
     "MMSI": 235022608,
     "NAME": "RICHMOND",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-11-19 13:32:16 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-11-19 14:00:46 GMT",
     "TYPE": 39,
-    "last_seen": "2024-11-19T11:22:29.890620",
+    "last_seen": "2024-11-19T13:34:05.553411",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-19T13:34:05.553411"
+  "last_seen": "2024-11-19T14:30:15.102486"
 }
