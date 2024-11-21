@@ -44,7 +44,7 @@
     "B": 1,
     "C": 2,
     "CALLSIGN": "MBSF",
-    "COG": 9.2,
+    "COG": 360,
     "D": 5,
     "DEST": "LONDON-LONDON",
     "DRAUGHT": 2,
@@ -58,11 +58,11 @@
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2024-11-21 16:33:54 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-11-21 17:26:55 GMT",
     "TYPE": 99,
-    "last_seen": "2024-11-21T15:28:08.485627",
+    "last_seen": "2024-11-21T16:34:04.965117",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-21T16:34:04.965117"
+  "last_seen": "2024-11-21T17:27:03.160367"
 }
