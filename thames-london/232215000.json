@@ -28,12 +28,12 @@
     "B": 24,
     "C": 10,
     "CALLSIGN": "MXAW7",
-    "COG": 93,
+    "COG": 67,
     "D": 9,
     "DEST": "===DREDGEA509>GBCHN",
     "DRAUGHT": 6.8,
     "ETA": "11-21 02:15",
-    "HEADING": 106,
+    "HEADING": 105,
     "IMO": 9151553,
     "LATITUDE": 51.49567,
     "LONGITUDE": 0.02283,
@@ -42,11 +42,11 @@
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2024-11-21 04:31:24 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-11-21 05:29:03 GMT",
     "TYPE": 33,
-    "last_seen": "2024-11-21T03:37:03.432235",
+    "last_seen": "2024-11-21T04:31:30.273203",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-21T04:31:30.273203"
+  "last_seen": "2024-11-21T05:29:06.115264"
 }
