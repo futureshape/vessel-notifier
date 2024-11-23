@@ -1,0 +1,38 @@
+{
+  "dates_seen": [
+    "2024-11-23"
+  ],
+  "last_full_data": {
+    "A": 18,
+    "B": 6,
+    "C": 2,
+    "CALLSIGN": "PHFY",
+    "COG": 300.3,
+    "D": 3,
+    "DEST": "LONDON",
+    "DRAUGHT": 2.7,
+    "ETA": "11-22 14:00",
+    "HEADING": 277,
+    "IMO": 0,
+    "LATITUDE": 51.50597,
+    "LONGITUDE": 0.00659,
+    "MMSI": 246529000,
+    "NAME": "FANTASTIKO.NL",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": -127,
+    "SOG": 2.7,
+    "TIME": "2024-11-23 02:57:48 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2055,
+      2103,
+      3416,
+      2665,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-11-23T02:57:49.512137"
+}
