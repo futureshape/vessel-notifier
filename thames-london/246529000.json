@@ -1,7 +1,8 @@
 {
   "dates_seen": [
     "2024-11-23",
-    "2024-11-24"
+    "2024-11-24",
+    "2024-11-25"
   ],
   "last_full_data": {
     "A": 18,
@@ -13,20 +14,20 @@
     "DEST": "LONDON",
     "DRAUGHT": 2.7,
     "ETA": "11-22 14:00",
-    "HEADING": 114,
+    "HEADING": 107,
     "IMO": 0,
-    "LATITUDE": 51.50347,
-    "LONGITUDE": -0.06623,
+    "LATITUDE": 51.50349,
+    "LONGITUDE": -0.06622,
     "MMSI": 246529000,
     "NAME": "FANTASTIKO.NL",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-11-24 23:24:35 GMT",
+    "TIME": "2024-11-25 01:58:34 GMT",
     "TYPE": 36,
-    "last_seen": "2024-11-24T22:27:30.718272",
+    "last_seen": "2024-11-24T23:25:43.405203",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-24T23:25:43.405203"
+  "last_seen": "2024-11-25T01:59:40.940866"
 }
