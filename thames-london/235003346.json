@@ -160,7 +160,7 @@
     "B": 22,
     "C": 5,
     "CALLSIGN": "ZNXR3",
-    "COG": 353.6,
+    "COG": 218.5,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -168,17 +168,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50766,
-    "LONGITUDE": 0.00545,
+    "LONGITUDE": 0.00541,
     "MMSI": 235003346,
     "NAME": "MOON CLIPPER",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-11-27 05:29:20 GMT",
+    "TIME": "2024-11-27 06:36:41 GMT",
     "TYPE": 40,
-    "last_seen": "2024-11-27T04:31:50.532554",
+    "last_seen": "2024-11-27T05:29:30.454051",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-27T05:29:30.454051"
+  "last_seen": "2024-11-27T06:36:51.569092"
 }
