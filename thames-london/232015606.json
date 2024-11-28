@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-11-07",
     "2024-11-11",
-    "2024-11-14"
+    "2024-11-14",
+    "2024-11-28"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "",
-    "COG": 0,
+    "COG": 142.4,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 156,
+    "HEADING": 85,
     "IMO": 0,
-    "LATITUDE": 51.50767,
-    "LONGITUDE": -0.07067,
+    "LATITUDE": 51.50665,
+    "LONGITUDE": -0.07225,
     "MMSI": 232015606,
     "NAME": "CORMORANT",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.7,
-    "TIME": "2024-11-14 13:28:16 GMT",
+    "SOG": 102.3,
+    "TIME": "2024-11-28 09:28:27 GMT",
     "TYPE": 37,
-    "last_seen": "2024-11-14T12:50:30.201650",
+    "last_seen": "2024-11-14T13:31:47.829360",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-14T13:31:47.829360"
+  "last_seen": "2024-11-28T09:28:39.353750"
 }
