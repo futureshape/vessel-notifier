@@ -9,28 +9,25 @@
     "B": 7,
     "C": 1,
     "CALLSIGN": "MAZC9",
-    "COG": 322.5,
+    "COG": 132.9,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50171,
-    "LONGITUDE": 0.01328,
+    "LATITUDE": 51.50634,
+    "LONGITUDE": 0.00963,
     "MMSI": 232007852,
     "NAME": "AMELIE G",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.8,
-    "TIME": "2024-11-28 10:32:47 GMT",
+    "SOG": 4.9,
+    "TIME": "2024-11-28 11:22:57 GMT",
     "TYPE": 52,
-    "last_seen": "2024-06-27T23:23:27.181806",
-    "received_by_stations": [
-      2648,
-      2115
-    ]
+    "last_seen": "2024-11-28T10:32:55.693796",
+    "received_by_stations": []
   },
-  "last_seen": "2024-11-28T10:32:55.693796"
+  "last_seen": "2024-11-28T11:23:04.976771"
 }
