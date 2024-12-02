@@ -129,32 +129,33 @@
     "2024-11-22",
     "2024-11-29",
     "2024-11-30",
-    "2024-12-01"
+    "2024-12-01",
+    "2024-12-02"
   ],
   "last_full_data": {
     "A": 13,
     "B": 10,
     "C": 4,
     "CALLSIGN": "MWCD6",
-    "COG": 26.9,
+    "COG": 17.3,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50746,
-    "LONGITUDE": 0.00682,
+    "LATITUDE": 51.50747,
+    "LONGITUDE": 0.00686,
     "MMSI": 235053184,
     "NAME": "STORM CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-12-01 23:24:35 GMT",
+    "TIME": "2024-12-02 02:03:25 GMT",
     "TYPE": 40,
-    "last_seen": "2024-12-01T22:28:30.537360",
+    "last_seen": "2024-12-01T23:24:43.254130",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-01T23:24:43.254130"
+  "last_seen": "2024-12-02T02:03:34.136615"
 }

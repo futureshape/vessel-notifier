@@ -3,32 +3,33 @@
     "2023-12-12",
     "2024-11-29",
     "2024-11-30",
-    "2024-12-01"
+    "2024-12-01",
+    "2024-12-02"
   ],
   "last_full_data": {
     "A": 73,
     "B": 36,
     "C": 7,
     "CALLSIGN": "ZGIL4",
-    "COG": 57.3,
+    "COG": 143.7,
     "D": 7,
     "DEST": "LONDON",
     "DRAUGHT": 4,
     "ETA": "00-00 24:60",
-    "HEADING": 123,
+    "HEADING": 122,
     "IMO": 1012921,
     "LATITUDE": 51.50368,
-    "LONGITUDE": -0.07147,
+    "LONGITUDE": -0.07143,
     "MMSI": 319156800,
     "NAME": "BRAVO EUGENIA",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-12-01 23:22:44 GMT",
+    "TIME": "2024-12-02 02:01:44 GMT",
     "TYPE": 37,
-    "last_seen": "2024-12-01T22:28:30.533324",
+    "last_seen": "2024-12-01T23:24:43.249438",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-01T23:24:43.249438"
+  "last_seen": "2024-12-02T02:03:34.131341"
 }
