@@ -90,18 +90,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49317,
-    "LONGITUDE": -0.03632,
+    "LATITUDE": 51.49323,
+    "LONGITUDE": -0.03636,
     "MMSI": 211678310,
     "NAME": "ERIK",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-12-02 04:32:06 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-12-02 05:29:04 GMT",
     "TYPE": 37,
-    "last_seen": "2024-12-02T03:44:16.296891",
+    "last_seen": "2024-12-02T04:32:31.701712",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-02T04:32:31.701712"
+  "last_seen": "2024-12-02T05:30:11.079772"
 }
