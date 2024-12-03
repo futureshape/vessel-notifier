@@ -165,7 +165,7 @@
     "B": 4,
     "C": 4,
     "CALLSIGN": "21ZQ3",
-    "COG": 108.4,
+    "COG": 0,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1.3,
@@ -173,17 +173,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5041,
-    "LONGITUDE": -0.0675,
+    "LONGITUDE": -0.06758,
     "MMSI": 244650809,
     "NAME": "VIOD 2",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-12-03 22:29:38 GMT",
+    "TIME": "2024-12-03 23:22:45 GMT",
     "TYPE": 0,
-    "last_seen": "2024-12-03T21:25:33.889537",
+    "last_seen": "2024-12-03T22:29:59.463586",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-03T22:29:59.463586"
+  "last_seen": "2024-12-03T23:25:35.989139"
 }
