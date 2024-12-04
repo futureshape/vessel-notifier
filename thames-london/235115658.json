@@ -10,32 +10,33 @@
     "2024-08-20",
     "2024-10-02",
     "2024-11-20",
-    "2024-11-26"
+    "2024-11-26",
+    "2024-12-04"
   ],
   "last_full_data": {
     "A": 4,
     "B": 14,
     "C": 3,
     "CALLSIGN": "2JGG4",
-    "COG": 105.2,
+    "COG": 351.7,
     "D": 3,
-    "DEST": "LONDON",
-    "DRAUGHT": 2.2,
+    "DEST": "MEDWAY",
+    "DRAUGHT": 3.1,
     "ETA": "09-28 19:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49617,
-    "LONGITUDE": 0.02427,
+    "LATITUDE": 51.50375,
+    "LONGITUDE": -0.02919,
     "MMSI": 235115658,
     "NAME": "GPS ARCADIA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.2,
-    "TIME": "2024-11-26 20:28:21 GMT",
+    "SOG": 6.7,
+    "TIME": "2024-12-04 10:33:17 GMT",
     "TYPE": 52,
-    "last_seen": "2024-11-26T19:21:43.953911",
+    "last_seen": "2024-11-26T20:28:23.801260",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-26T20:28:23.801260"
+  "last_seen": "2024-12-04T10:33:26.257713"
 }
