@@ -19,18 +19,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50358,
-    "LONGITUDE": -0.0715,
+    "LATITUDE": 51.5036,
+    "LONGITUDE": -0.07149,
     "MMSI": 983192548,
     "NAME": "LIMO",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-12-05 02:00:55 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-12-05 02:48:20 GMT",
     "TYPE": 37,
-    "last_seen": "2024-12-04T19:23:55.136255",
+    "last_seen": "2024-12-05T02:02:05.248635",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-05T02:02:05.248635"
+  "last_seen": "2024-12-05T03:08:24.641632"
 }
