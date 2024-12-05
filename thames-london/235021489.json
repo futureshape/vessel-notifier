@@ -1,7 +1,37 @@
 {
   "dates_seen": [
-    "2024-02-24"
+    "2024-02-24",
+    "2024-12-05"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-02-24T16:19:12.484786"
+  "last_full_data": {
+    "A": 11,
+    "B": 11,
+    "C": 1,
+    "CALLSIGN": "MSVZ3",
+    "COG": 84.9,
+    "D": 7,
+    "DEST": "GBLON",
+    "DRAUGHT": 2.2,
+    "ETA": "12-05 18:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49677,
+    "LONGITUDE": -0.00291,
+    "MMSI": 235021489,
+    "NAME": "SOPHIA D",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 3.9,
+    "TIME": "2024-12-05 23:26:30 GMT",
+    "TYPE": 33,
+    "last_seen": "2024-02-24T16:19:12.484786",
+    "received_by_stations": [
+      3416,
+      2213,
+      2648,
+      2115
+    ]
+  },
+  "last_seen": "2024-12-05T23:26:35.963738"
 }
