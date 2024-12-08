@@ -8,7 +8,7 @@
     "B": 15,
     "C": 3,
     "CALLSIGN": "MFZE7",
-    "COG": 158.4,
+    "COG": 360,
     "D": 3,
     "DEST": "MEDWAY",
     "DRAUGHT": 0,
@@ -16,17 +16,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.47914,
-    "LONGITUDE": -0.17568,
+    "LONGITUDE": -0.17574,
     "MMSI": 232024072,
     "NAME": "BOSTONIAN",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.8,
-    "TIME": "2024-12-08 21:23:37 GMT",
+    "SOG": 0,
+    "TIME": "2024-12-08 22:28:06 GMT",
     "TYPE": 255,
-    "last_seen": "2024-12-08T20:27:00.022851",
+    "last_seen": "2024-12-08T21:23:45.639600",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-08T21:23:45.639600"
+  "last_seen": "2024-12-08T22:28:11.759505"
 }
