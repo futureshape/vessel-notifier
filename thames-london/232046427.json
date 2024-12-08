@@ -85,29 +85,29 @@
     "2024-12-08"
   ],
   "last_full_data": {
-    "A": 0,
+    "A": 511,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MNGN9",
-    "COG": 231.1,
-    "D": 0,
+    "COG": 115.1,
+    "D": 63,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50522,
-    "LONGITUDE": -0.12237,
+    "LATITUDE": 51.50993,
+    "LONGITUDE": -0.10588,
     "MMSI": 232046427,
     "NAME": "TIM RUPRECHT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.2,
-    "TIME": "2024-12-08 17:25:23 GMT",
+    "SOG": 1.6,
+    "TIME": "2024-12-08 18:19:49 GMT",
     "TYPE": 55,
-    "last_seen": "2024-12-05T12:53:16.356119",
+    "last_seen": "2024-12-08T17:25:26.074241",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-08T17:25:26.074241"
+  "last_seen": "2024-12-08T18:33:18.521869"
 }
