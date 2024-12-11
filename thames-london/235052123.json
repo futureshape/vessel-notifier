@@ -161,7 +161,7 @@
     "B": 12,
     "C": 6,
     "CALLSIGN": "MZSK6",
-    "COG": 360,
+    "COG": 257.7,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
@@ -169,17 +169,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50121,
-    "LONGITUDE": -0.06103,
+    "LONGITUDE": -0.06102,
     "MMSI": 235052123,
     "NAME": "MILLENNIUM CITY",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-12-11 10:33:05 GMT",
+    "SOG": 0.2,
+    "TIME": "2024-12-11 11:23:05 GMT",
     "TYPE": 69,
-    "last_seen": "2024-12-10T22:29:38.287372",
+    "last_seen": "2024-12-11T10:33:14.050080",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-11T10:33:14.050080"
+  "last_seen": "2024-12-11T11:23:12.518934"
 }
