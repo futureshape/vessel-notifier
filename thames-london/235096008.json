@@ -21,32 +21,33 @@
     "2024-09-14",
     "2024-09-21",
     "2024-10-13",
-    "2024-10-27"
+    "2024-10-27",
+    "2024-12-12"
   ],
   "last_full_data": {
     "A": 6,
     "B": 4,
     "C": 3,
     "CALLSIGN": "2GBM3",
-    "COG": 167,
+    "COG": 89.3,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4724,
-    "LONGITUDE": -0.1806,
+    "LATITUDE": 51.50946,
+    "LONGITUDE": -0.1032,
     "MMSI": 235096008,
     "NAME": "SHAKEN NOT STIRRED",
     "NAVSTAT": 8,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-10-27 11:19:50 GMT",
+    "SOG": 9,
+    "TIME": "2024-12-12 17:27:53 GMT",
     "TYPE": 0,
-    "last_seen": "2024-10-27T10:28:23.536846",
+    "last_seen": "2024-10-27T11:19:54.864980",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-27T11:19:54.864980"
+  "last_seen": "2024-12-12T17:28:04.613558"
 }
