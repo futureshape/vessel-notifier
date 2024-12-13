@@ -16,7 +16,8 @@
     "2024-11-29",
     "2024-12-03",
     "2024-12-11",
-    "2024-12-12"
+    "2024-12-12",
+    "2024-12-13"
   ],
   "last_full_data": {
     "A": 85,
@@ -25,23 +26,23 @@
     "CALLSIGN": "MYTP4",
     "COG": 210.8,
     "D": 12,
-    "DEST": "DREDGEA507>GBCHN",
-    "DRAUGHT": 7.2,
-    "ETA": "12-12 21:15",
+    "DEST": "GBCHN>DREDGEGME",
+    "DRAUGHT": 5,
+    "ETA": "12-13 13:00",
     "HEADING": 107,
     "IMO": 9174127,
-    "LATITUDE": 51.49593,
-    "LONGITUDE": 0.02106,
+    "LATITUDE": 51.49595,
+    "LONGITUDE": 0.02105,
     "MMSI": 232003580,
     "NAME": "SAND FULMAR",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-12-12 23:23:45 GMT",
+    "TIME": "2024-12-13 02:02:55 GMT",
     "TYPE": 33,
-    "last_seen": "2024-12-12T22:30:01.294298",
+    "last_seen": "2024-12-12T23:26:09.769287",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-12T23:26:09.769287"
+  "last_seen": "2024-12-13T02:03:02.052277"
 }
