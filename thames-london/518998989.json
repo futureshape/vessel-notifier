@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2024-12-14"
+  ],
+  "last_full_data": {
+    "A": 13,
+    "B": 25,
+    "C": 5,
+    "CALLSIGN": "E5U4970",
+    "COG": 356,
+    "D": 2,
+    "DEST": "STKATHERINES DOCK",
+    "DRAUGHT": 3,
+    "ETA": "12-14 12:00",
+    "HEADING": 4,
+    "IMO": 8985701,
+    "LATITUDE": 51.50631,
+    "LONGITUDE": -0.07223,
+    "MMSI": 518998989,
+    "NAME": "JURA II",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2024-12-14 12:48:20 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      2496,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2024-12-14T12:48:26.288375"
+}
