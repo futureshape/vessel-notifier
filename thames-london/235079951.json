@@ -1,34 +1,32 @@
 {
   "dates_seen": [
-    "2024-12-13"
+    "2024-12-13",
+    "2024-12-14"
   ],
   "last_full_data": {
     "A": 3,
     "B": 5,
     "C": 2,
     "CALLSIGN": "2DLF9",
-    "COG": 15.6,
+    "COG": 256.5,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49576,
-    "LONGITUDE": 0.01873,
+    "LATITUDE": 51.49642,
+    "LONGITUDE": 0.02237,
     "MMSI": 235079951,
     "NAME": "COASTAL SURVEYOR",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-12-13 09:27:42 GMT",
+    "SOG": 6.8,
+    "TIME": "2024-12-14 13:28:44 GMT",
     "TYPE": 33,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-12-13T09:28:10.204556",
+    "received_by_stations": []
   },
-  "last_seen": "2024-12-13T09:28:10.204556"
+  "last_seen": "2024-12-14T13:29:30.338916"
 }
