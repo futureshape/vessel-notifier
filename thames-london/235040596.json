@@ -10,32 +10,33 @@
     "2024-11-07",
     "2024-11-08",
     "2024-11-17",
-    "2024-11-29"
+    "2024-11-29",
+    "2024-12-14"
   ],
   "last_full_data": {
     "A": 9,
     "B": 15,
     "C": 4,
     "CALLSIGN": "MPVV8",
-    "COG": 73,
+    "COG": 210.4,
     "D": 4,
-    "DEST": "GB LON",
+    "DEST": "LONDON",
     "DRAUGHT": 2.3,
-    "ETA": "11-29 17:00",
-    "HEADING": 339,
+    "ETA": "12-14 17:00",
+    "HEADING": 278,
     "IMO": 9407299,
-    "LATITUDE": 51.49744,
-    "LONGITUDE": -0.00547,
+    "LATITUDE": 51.49519,
+    "LONGITUDE": 0.0288,
     "MMSI": 235040596,
     "NAME": "MTS VALOUR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-11-29 22:28:43 GMT",
+    "TIME": "2024-12-14 15:25:51 GMT",
     "TYPE": 52,
-    "last_seen": "2024-11-29T21:24:07.549366",
+    "last_seen": "2024-11-29T22:28:43.319297",
     "received_by_stations": []
   },
-  "last_seen": "2024-11-29T22:28:43.319297"
+  "last_seen": "2024-12-14T15:26:01.293143"
 }
