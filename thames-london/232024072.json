@@ -2,32 +2,33 @@
   "dates_seen": [
     "2023-11-28",
     "2024-12-08",
-    "2024-12-09"
+    "2024-12-09",
+    "2024-12-15"
   ],
   "last_full_data": {
     "A": 5,
     "B": 15,
     "C": 3,
     "CALLSIGN": "MFZE7",
-    "COG": 360,
+    "COG": 132.7,
     "D": 3,
     "DEST": "MEDWAY",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47903,
-    "LONGITUDE": -0.17572,
+    "LATITUDE": 51.48692,
+    "LONGITUDE": -0.02455,
     "MMSI": 232024072,
     "NAME": "BOSTONIAN",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-12-09 03:08:58 GMT",
+    "SOG": 11.1,
+    "TIME": "2024-12-15 16:31:16 GMT",
     "TYPE": 255,
-    "last_seen": "2024-12-09T02:05:00.303505",
+    "last_seen": "2024-12-09T03:10:36.575482",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-09T03:10:36.575482"
+  "last_seen": "2024-12-15T16:31:17.833105"
 }
