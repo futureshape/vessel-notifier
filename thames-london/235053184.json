@@ -151,7 +151,7 @@
     "B": 10,
     "C": 4,
     "CALLSIGN": "MWCD6",
-    "COG": 203.3,
+    "COG": 153.2,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -159,17 +159,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50745,
-    "LONGITUDE": 0.00681,
+    "LONGITUDE": 0.00688,
     "MMSI": 235053184,
     "NAME": "STORM CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-12-16 09:29:56 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-12-16 10:33:46 GMT",
     "TYPE": 40,
-    "last_seen": "2024-12-16T08:35:26.119906",
+    "last_seen": "2024-12-16T09:29:57.860958",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-16T09:29:57.860958"
+  "last_seen": "2024-12-16T10:33:52.800518"
 }
