@@ -172,7 +172,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MVMT6",
-    "COG": 39.5,
+    "COG": 255,
     "D": 0,
     "DEST": "0",
     "DRAUGHT": 8.7,
@@ -180,17 +180,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50697,
-    "LONGITUDE": 0.00756,
+    "LONGITUDE": 0.00755,
     "MMSI": 235057011,
     "NAME": "MONSOON CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2024-12-17 03:40:48 GMT",
+    "TIME": "2024-12-17 04:31:58 GMT",
     "TYPE": 0,
-    "last_seen": "2024-12-17T03:06:55.173987",
+    "last_seen": "2024-12-17T03:40:57.548191",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-17T03:40:57.548191"
+  "last_seen": "2024-12-17T04:32:05.803246"
 }

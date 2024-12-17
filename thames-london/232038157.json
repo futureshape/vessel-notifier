@@ -27,18 +27,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50661,
-    "LONGITUDE": -0.07123,
+    "LATITUDE": 51.50663,
+    "LONGITUDE": -0.07125,
     "MMSI": 232038157,
     "NAME": "HARD 8",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-12-17 03:36:14 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-12-17 04:27:13 GMT",
     "TYPE": 37,
-    "last_seen": "2024-12-17T03:06:55.166067",
+    "last_seen": "2024-12-17T03:40:57.542108",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-17T03:40:57.542108"
+  "last_seen": "2024-12-17T04:32:05.796573"
 }
