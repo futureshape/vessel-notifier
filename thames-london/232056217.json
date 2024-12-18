@@ -161,12 +161,12 @@
     "B": 30,
     "C": 4,
     "CALLSIGN": "MPPJ2",
-    "COG": 350.3,
+    "COG": 360,
     "D": 8,
     "DEST": "LONDON",
     "DRAUGHT": 2,
     "ETA": "07-11 19:00",
-    "HEADING": 276,
+    "HEADING": 280,
     "IMO": 1022225,
     "LATITUDE": 51.49452,
     "LONGITUDE": 0.02617,
@@ -174,12 +174,12 @@
     "NAME": "RESOLUTE 1",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 8,
-    "SOG": 0.1,
-    "TIME": "2024-12-18 10:31:41 GMT",
+    "ROT": 2,
+    "SOG": 0,
+    "TIME": "2024-12-18 11:22:02 GMT",
     "TYPE": 52,
-    "last_seen": "2024-12-18T09:27:34.064108",
+    "last_seen": "2024-12-18T10:31:42.952882",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-18T10:31:42.952882"
+  "last_seen": "2024-12-18T11:22:08.451170"
 }
