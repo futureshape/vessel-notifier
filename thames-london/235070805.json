@@ -105,7 +105,7 @@
     "B": 8,
     "C": 1,
     "CALLSIGN": "",
-    "COG": 286.4,
+    "COG": 0,
     "D": 1,
     "DEST": "LONDON:OPS",
     "DRAUGHT": 0.1,
@@ -113,17 +113,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.51057,
-    "LONGITUDE": -0.10882,
+    "LONGITUDE": -0.10875,
     "MMSI": 235070805,
     "NAME": "WATCHDOG",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2024-12-19 14:28:55 GMT",
+    "SOG": 0,
+    "TIME": "2024-12-19 15:27:34 GMT",
     "TYPE": 99,
-    "last_seen": "2024-12-19T13:32:50.285238",
+    "last_seen": "2024-12-19T14:28:57.225585",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-19T14:28:57.225585"
+  "last_seen": "2024-12-19T15:27:42.265302"
 }
