@@ -56,12 +56,12 @@
     "B": 9,
     "C": 8,
     "CALLSIGN": "2JHZ4",
-    "COG": 199,
+    "COG": 314.3,
     "D": 6,
     "DEST": "GBLON",
     "DRAUGHT": 2,
     "ETA": "11-26 18:00",
-    "HEADING": 61,
+    "HEADING": 63,
     "IMO": 0,
     "LATITUDE": 51.49502,
     "LONGITUDE": 0.00037,
@@ -69,12 +69,12 @@
     "NAME": "DEVOUT",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": -7,
-    "SOG": 0,
-    "TIME": "2024-12-20 05:27:43 GMT",
+    "ROT": 6,
+    "SOG": 0.1,
+    "TIME": "2024-12-20 06:34:14 GMT",
     "TYPE": 52,
-    "last_seen": "2024-12-20T04:29:47.314312",
+    "last_seen": "2024-12-20T05:27:52.383841",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-20T05:27:52.383841"
+  "last_seen": "2024-12-20T06:34:19.124594"
 }
