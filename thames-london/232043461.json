@@ -131,18 +131,18 @@
     "2024-12-20"
   ],
   "last_full_data": {
-    "A": 20,
-    "B": 18,
-    "C": 1,
+    "A": 19,
+    "B": 19,
+    "C": 7,
     "CALLSIGN": "MMCS9",
-    "COG": 216.8,
-    "D": 7,
+    "COG": 0,
+    "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1.2,
     "ETA": "00-00 24:60",
     "HEADING": 289,
     "IMO": 9963499,
-    "LATITUDE": 51.50774,
+    "LATITUDE": 51.50773,
     "LONGITUDE": 0.00565,
     "MMSI": 232043461,
     "NAME": "EARTH CLIPPER",
@@ -150,10 +150,10 @@
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2024-12-20 03:31:07 GMT",
+    "TIME": "2024-12-20 04:29:38 GMT",
     "TYPE": 40,
-    "last_seen": "2024-12-20T02:55:14.071892",
+    "last_seen": "2024-12-20T03:31:14.547615",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-20T03:31:14.547615"
+  "last_seen": "2024-12-20T04:29:47.315199"
 }
