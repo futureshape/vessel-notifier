@@ -30,32 +30,33 @@
     "2024-10-09",
     "2024-10-10",
     "2024-10-23",
-    "2024-10-28"
+    "2024-10-28",
+    "2024-12-21"
   ],
   "last_full_data": {
     "A": 16,
     "B": 16,
     "C": 5,
     "CALLSIGN": "MOEN3",
-    "COG": 45.4,
+    "COG": 300.9,
     "D": 7,
     "DEST": "HARBOUR TOWAGE",
     "DRAUGHT": 6.2,
     "ETA": "05-29 18:00",
-    "HEADING": 55,
+    "HEADING": 18,
     "IMO": 0,
-    "LATITUDE": 51.50803,
-    "LONGITUDE": -0.04493,
+    "LATITUDE": 51.50178,
+    "LONGITUDE": -0.02905,
     "MMSI": 232049867,
     "NAME": "VB PETER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 127,
-    "SOG": 6.7,
-    "TIME": "2024-10-28 09:28:07 GMT",
+    "SOG": 0.6,
+    "TIME": "2024-12-21 05:26:10 GMT",
     "TYPE": 52,
-    "last_seen": "2024-10-28T08:32:38.108874",
+    "last_seen": "2024-10-28T09:28:08.369133",
     "received_by_stations": []
   },
-  "last_seen": "2024-10-28T09:28:08.369133"
+  "last_seen": "2024-12-21T05:26:12.472280"
 }
