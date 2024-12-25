@@ -173,32 +173,33 @@
     "2024-12-18",
     "2024-12-19",
     "2024-12-23",
-    "2024-12-24"
+    "2024-12-24",
+    "2024-12-25"
   ],
   "last_full_data": {
     "A": 7,
     "B": 22,
     "C": 4,
     "CALLSIGN": "MZSJ6",
-    "COG": 263.8,
+    "COG": 360,
     "D": 6,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48414,
-    "LONGITUDE": -0.01031,
+    "LATITUDE": 51.50135,
+    "LONGITUDE": -0.06176,
     "MMSI": 235052119,
     "NAME": "MILLENNIUM OF PEACE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4.3,
-    "TIME": "2024-12-24 15:24:54 GMT",
+    "SOG": 0,
+    "TIME": "2024-12-25 10:28:41 GMT",
     "TYPE": 60,
-    "last_seen": "2024-12-24T14:26:08.073371",
+    "last_seen": "2024-12-24T15:24:55.551409",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-24T15:24:55.551409"
+  "last_seen": "2024-12-25T10:28:52.348144"
 }
