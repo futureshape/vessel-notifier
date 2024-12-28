@@ -7,28 +7,25 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "MHIT2",
-    "COG": 276.6,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50218,
-    "LONGITUDE": -0.06024,
+    "LATITUDE": 51.50623,
+    "LONGITUDE": -0.07221,
     "MMSI": 232027720,
     "NAME": "BIG ROX",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 8.4,
-    "TIME": "2024-12-28 12:45:19 GMT",
+    "SOG": 0.2,
+    "TIME": "2024-12-28 13:23:10 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2024-12-28T12:45:20.773275",
+    "received_by_stations": []
   },
-  "last_seen": "2024-12-28T12:45:20.773275"
+  "last_seen": "2024-12-28T13:25:37.980803"
 }
