@@ -8,30 +8,25 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "MKJU5",
-    "COG": 262.6,
+    "COG": 71.8,
     "D": 2,
     "DEST": "GBLON",
     "DRAUGHT": 1.2,
     "ETA": "09-31 00:02",
-    "HEADING": 258,
+    "HEADING": 13,
     "IMO": 0,
-    "LATITUDE": 51.50707,
-    "LONGITUDE": 0.0025,
+    "LATITUDE": 51.5065,
+    "LONGITUDE": -0.07205,
     "MMSI": 235019388,
     "NAME": "SEA SATIN",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": -127,
-    "SOG": 9,
-    "TIME": "2024-12-30 11:20:36 GMT",
+    "ROT": 0,
+    "SOG": 0.1,
+    "TIME": "2024-12-30 12:48:09 GMT",
     "TYPE": 37,
-    "last_seen": "2024-01-04T07:16:00.730670",
-    "received_by_stations": [
-      3416,
-      2103,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-12-30T11:20:39.868141",
+    "received_by_stations": []
   },
-  "last_seen": "2024-12-30T11:20:39.868141"
+  "last_seen": "2024-12-30T12:48:12.511523"
 }
