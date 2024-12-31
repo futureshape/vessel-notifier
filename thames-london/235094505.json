@@ -16,7 +16,7 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "2FVE5",
-    "COG": 19.3,
+    "COG": 14.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -24,17 +24,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50711,
-    "LONGITUDE": -0.07194,
+    "LONGITUDE": -0.07195,
     "MMSI": 235094505,
     "NAME": "KARITA",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-12-31 20:24:00 GMT",
+    "SOG": 0.1,
+    "TIME": "2024-12-31 21:20:59 GMT",
     "TYPE": 37,
-    "last_seen": "2024-12-31T19:18:58.547000",
+    "last_seen": "2024-12-31T20:25:17.455363",
     "received_by_stations": []
   },
-  "last_seen": "2024-12-31T20:25:17.455363"
+  "last_seen": "2024-12-31T21:23:34.804981"
 }
