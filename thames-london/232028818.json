@@ -10,27 +10,25 @@
     "B": 2,
     "C": 3,
     "CALLSIGN": "MHTK7",
-    "COG": 297.1,
+    "COG": 190.7,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48353,
-    "LONGITUDE": -0.15869,
+    "LATITUDE": 51.48351,
+    "LONGITUDE": -0.15999,
     "MMSI": 232028818,
     "NAME": "NEJANA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.6,
-    "TIME": "2024-12-31 17:23:37 GMT",
+    "SOG": 0.3,
+    "TIME": "2024-12-31 18:31:05 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-19T14:27:18.519045",
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2024-12-31T17:23:57.632633",
+    "received_by_stations": []
   },
-  "last_seen": "2024-12-31T17:23:57.632633"
+  "last_seen": "2024-12-31T18:31:58.345466"
 }
