@@ -135,7 +135,7 @@
     "B": 3,
     "C": 1,
     "CALLSIGN": "VSSC5",
-    "COG": 360,
+    "COG": 126.2,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 0,
@@ -143,17 +143,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5045,
-    "LONGITUDE": -0.06959,
+    "LONGITUDE": -0.06957,
     "MMSI": 235055062,
     "NAME": "CONQUESTOR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-01-03 13:28:11 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-03 14:26:21 GMT",
     "TYPE": 80,
-    "last_seen": "2025-01-03T12:48:12.593266",
+    "last_seen": "2025-01-03T13:28:22.052058",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-03T13:28:22.052058"
+  "last_seen": "2025-01-03T14:26:31.339273"
 }
