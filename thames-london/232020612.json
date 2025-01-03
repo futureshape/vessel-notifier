@@ -147,14 +147,14 @@
     "LONGITUDE": -0.11782,
     "MMSI": 232020612,
     "NAME": "ROCKET SCIENCE",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-01-03 12:48:02 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-03 13:25:18 GMT",
     "TYPE": 40,
-    "last_seen": "2025-01-03T11:20:48.506666",
+    "last_seen": "2025-01-03T12:48:12.586059",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-03T12:48:12.586059"
+  "last_seen": "2025-01-03T13:28:22.045600"
 }
