@@ -103,17 +103,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50973,
-    "LONGITUDE": -0.11709,
+    "LONGITUDE": -0.11712,
     "MMSI": 232025941,
     "NAME": "RNLI E - 10",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-01-03 10:29:27 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-03 11:19:46 GMT",
     "TYPE": 99,
-    "last_seen": "2025-01-03T09:25:36.067302",
+    "last_seen": "2025-01-03T10:29:33.278101",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-03T10:29:33.278101"
+  "last_seen": "2025-01-03T11:20:48.508845"
 }
