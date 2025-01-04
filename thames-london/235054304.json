@@ -111,18 +111,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50413,
-    "LONGITUDE": -0.07384,
+    "LATITUDE": 51.50445,
+    "LONGITUDE": -0.12011,
     "MMSI": 235054304,
     "NAME": "AVONTUUR IV",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 1,
-    "TIME": "2025-01-04 15:23:52 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-04 15:59:54 GMT",
     "TYPE": 60,
-    "last_seen": "2025-01-04T14:25:01.976884",
+    "last_seen": "2025-01-04T15:23:56.698752",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-04T15:23:56.698752"
+  "last_seen": "2025-01-04T16:29:23.636775"
 }
