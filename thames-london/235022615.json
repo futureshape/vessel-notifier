@@ -1,7 +1,37 @@
 {
   "dates_seen": [
-    "2024-05-30"
+    "2024-05-30",
+    "2025-01-08"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-05-30T10:19:35.834513"
+  "last_full_data": {
+    "A": 11,
+    "B": 2,
+    "C": 1,
+    "CALLSIGN": "MRQX8",
+    "COG": 321.7,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 24:60",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50283,
+    "LONGITUDE": 0.01221,
+    "MMSI": 235022615,
+    "NAME": "RESPOND",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 7.6,
+    "TIME": "2025-01-08 11:21:11 GMT",
+    "TYPE": 0,
+    "last_seen": "2024-05-30T10:19:35.834513",
+    "received_by_stations": [
+      2665,
+      2115,
+      2648,
+      2843
+    ]
+  },
+  "last_seen": "2025-01-08T11:21:15.494596"
 }
