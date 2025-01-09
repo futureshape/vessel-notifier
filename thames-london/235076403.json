@@ -50,20 +50,20 @@
     "DEST": "GBLON",
     "DRAUGHT": 1.8,
     "ETA": "08-17 02:00",
-    "HEADING": 267,
+    "HEADING": 266,
     "IMO": 0,
-    "LATITUDE": 51.51017,
-    "LONGITUDE": -0.11534,
+    "LATITUDE": 51.51011,
+    "LONGITUDE": -0.11532,
     "MMSI": 235076403,
     "NAME": "SEADOG",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-01-09 03:43:22 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-09 04:29:12 GMT",
     "TYPE": 39,
-    "last_seen": "2025-01-09T02:22:57.085696",
+    "last_seen": "2025-01-09T03:43:22.990558",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-09T03:43:22.990558"
+  "last_seen": "2025-01-09T04:29:17.434457"
 }
