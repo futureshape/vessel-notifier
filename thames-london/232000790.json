@@ -114,32 +114,33 @@
     "2024-12-30",
     "2024-12-31",
     "2025-01-01",
-    "2025-01-07"
+    "2025-01-07",
+    "2025-01-09"
   ],
   "last_full_data": {
     "A": 8,
     "B": 91,
     "C": 16,
     "CALLSIGN": "MLLN8",
-    "COG": 226.8,
+    "COG": 210.2,
     "D": 1,
-    "DEST": "BASSURELLE D/A",
-    "DRAUGHT": 4,
-    "ETA": "01-08 11:00",
+    "DEST": "GB CHARLTON",
+    "DRAUGHT": 6.3,
+    "ETA": "01-09 06:30",
     "HEADING": 104,
     "IMO": 8902278,
-    "LATITUDE": 51.49537,
-    "LONGITUDE": 0.02393,
+    "LATITUDE": 51.49534,
+    "LONGITUDE": 0.0239,
     "MMSI": 232000790,
     "NAME": "CITY OF WESTMINSTER",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-01-07 23:21:49 GMT",
+    "TIME": "2025-01-09 06:31:54 GMT",
     "TYPE": 33,
-    "last_seen": "2025-01-07T22:27:52.934342",
+    "last_seen": "2025-01-07T23:23:20.330230",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-07T23:23:20.330230"
+  "last_seen": "2025-01-09T06:33:35.826033"
 }
