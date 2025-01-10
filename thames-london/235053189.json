@@ -13,7 +13,7 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "MMHC3",
-    "COG": 360,
+    "COG": 82.9,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -21,17 +21,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48777,
-    "LONGITUDE": -0.12539,
+    "LONGITUDE": -0.12651,
     "MMSI": 235053189,
     "NAME": "MALAMUTE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-01-10 07:23:35 GMT",
+    "SOG": 3.1,
+    "TIME": "2025-01-10 08:31:05 GMT",
     "TYPE": 53,
-    "last_seen": "2025-01-10T06:34:50.143313",
+    "last_seen": "2025-01-10T07:23:40.332598",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-10T07:23:40.332598"
+  "last_seen": "2025-01-10T08:31:13.787600"
 }
