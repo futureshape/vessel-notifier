@@ -207,17 +207,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50922,
-    "LONGITUDE": -0.11357,
+    "LONGITUDE": -0.11352,
     "MMSI": 235056272,
     "NAME": "SARPEDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-01-10 11:21:15 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-10 12:49:15 GMT",
     "TYPE": 60,
-    "last_seen": "2025-01-10T10:30:43.461315",
+    "last_seen": "2025-01-10T11:21:25.733375",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-10T11:21:25.733375"
+  "last_seen": "2025-01-10T12:49:18.930456"
 }
