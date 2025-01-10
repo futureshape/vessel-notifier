@@ -37,12 +37,12 @@
     "B": 24,
     "C": 10,
     "CALLSIGN": "MXAW7",
-    "COG": 216,
+    "COG": 194,
     "D": 9,
-    "DEST": "DREDGEA460>GBCHN",
-    "DRAUGHT": 7.2,
-    "ETA": "01-10 20:00",
-    "HEADING": 108,
+    "DEST": "GBCHN>DREDGE458",
+    "DRAUGHT": 4.5,
+    "ETA": "01-11 14:00",
+    "HEADING": 109,
     "IMO": 9151553,
     "LATITUDE": 51.496,
     "LONGITUDE": 0.02067,
@@ -51,11 +51,11 @@
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-01-10 20:25:34 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-10 21:22:33 GMT",
     "TYPE": 33,
-    "last_seen": "2024-12-29T23:22:37.774654",
+    "last_seen": "2025-01-10T20:26:48.228337",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-10T20:26:48.228337"
+  "last_seen": "2025-01-10T21:23:17.354781"
 }
