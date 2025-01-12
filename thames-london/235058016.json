@@ -46,7 +46,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MCWS3",
-    "COG": 360,
+    "COG": 91.9,
     "D": 0,
     "DEST": "GBLON",
     "DRAUGHT": 1,
@@ -54,17 +54,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48756,
-    "LONGITUDE": -0.00059,
+    "LONGITUDE": -0.00058,
     "MMSI": 235058016,
     "NAME": "JACK D",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-01-12 13:25:45 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-12 14:24:14 GMT",
     "TYPE": 0,
-    "last_seen": "2025-01-12T12:45:20.547286",
+    "last_seen": "2025-01-12T13:25:47.237890",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-12T13:25:47.237890"
+  "last_seen": "2025-01-12T14:24:19.219101"
 }
