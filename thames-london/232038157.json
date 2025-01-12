@@ -46,7 +46,7 @@
     "B": 10,
     "C": 4,
     "CALLSIGN": "MJZX9",
-    "COG": 353.2,
+    "COG": 360,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
@@ -54,17 +54,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50661,
-    "LONGITUDE": -0.07125,
+    "LONGITUDE": -0.07124,
     "MMSI": 232038157,
     "NAME": "HARD 8",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0.4,
-    "TIME": "2025-01-12 06:30:41 GMT",
+    "SOG": 0,
+    "TIME": "2025-01-12 07:18:41 GMT",
     "TYPE": 37,
-    "last_seen": "2025-01-12T05:26:23.690723",
+    "last_seen": "2025-01-12T06:32:43.797581",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-12T06:32:43.797581"
+  "last_seen": "2025-01-12T07:21:38.524706"
 }
