@@ -68,7 +68,7 @@
     "B": 16,
     "C": 1,
     "CALLSIGN": "2GKA2",
-    "COG": 324,
+    "COG": 360,
     "D": 5,
     "DEST": "",
     "DRAUGHT": 0,
@@ -76,17 +76,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48327,
-    "LONGITUDE": -0.13934,
+    "LONGITUDE": -0.13918,
     "MMSI": 235098066,
     "NAME": "GPS INDIA",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-01-13 13:23:06 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-13 14:26:07 GMT",
     "TYPE": 52,
-    "last_seen": "2025-01-13T12:50:55.097656",
+    "last_seen": "2025-01-13T13:30:16.366275",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-13T13:30:16.366275"
+  "last_seen": "2025-01-13T14:28:51.983095"
 }
