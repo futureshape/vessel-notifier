@@ -118,32 +118,33 @@
     "2025-01-09",
     "2025-01-12",
     "2025-01-13",
-    "2025-01-14"
+    "2025-01-14",
+    "2025-01-15"
   ],
   "last_full_data": {
     "A": 8,
     "B": 91,
     "C": 16,
     "CALLSIGN": "MLLN8",
-    "COG": 258.3,
+    "COG": 252.2,
     "D": 1,
     "DEST": "GB CHARLTON",
     "DRAUGHT": 6.4,
     "ETA": "01-15 00:00",
-    "HEADING": 255,
+    "HEADING": 106,
     "IMO": 8902278,
-    "LATITUDE": 51.49703,
-    "LONGITUDE": 0.0334,
+    "LATITUDE": 51.49537,
+    "LONGITUDE": 0.0239,
     "MMSI": 232000790,
     "NAME": "CITY OF WESTMINSTER",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 4.8,
-    "TIME": "2025-01-14 23:22:40 GMT",
+    "SOG": 0,
+    "TIME": "2025-01-15 01:48:21 GMT",
     "TYPE": 33,
-    "last_seen": "2025-01-14T05:26:07.684743",
+    "last_seen": "2025-01-14T23:22:46.135419",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-14T23:22:46.135419"
+  "last_seen": "2025-01-15T01:49:18.381097"
 }
