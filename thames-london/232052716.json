@@ -7,28 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "",
-    "COG": 258.4,
+    "COG": 103.8,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 245,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49374,
-    "LONGITUDE": -0.03404,
+    "LATITUDE": 51.50242,
+    "LONGITUDE": -0.05999,
     "MMSI": 232052716,
     "NAME": "",
     "NAVSTAT": 15,
     "PAC": 1,
-    "ROT": 8,
-    "SOG": 0,
-    "TIME": "2025-01-17 13:27:09 GMT",
+    "ROT": 128,
+    "SOG": 3.7,
+    "TIME": "2025-01-17 14:25:50 GMT",
     "TYPE": 0,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-01-17T13:27:11.861147",
+    "received_by_stations": []
   },
-  "last_seen": "2025-01-17T13:27:11.861147"
+  "last_seen": "2025-01-17T14:25:52.310518"
 }
