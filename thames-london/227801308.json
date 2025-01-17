@@ -7,29 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "FBLP",
-    "COG": 0.8,
+    "COG": 348.4,
     "D": 0,
     "DEST": "0",
     "DRAUGHT": 0,
     "ETA": "10-06 20:22",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49953,
-    "LONGITUDE": -0.0295,
+    "LATITUDE": 51.50067,
+    "LONGITUDE": -0.00695,
     "MMSI": 227801308,
     "NAME": "FRENCH WARSHIP LPD",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 12.3,
-    "TIME": "2025-01-17 14:25:44 GMT",
+    "SOG": 2.4,
+    "TIME": "2025-01-17 15:25:14 GMT",
     "TYPE": 35,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      2648,
-      2115
-    ]
+    "last_seen": "2025-01-17T14:25:54.147464",
+    "received_by_stations": []
   },
-  "last_seen": "2025-01-17T14:25:54.147464"
+  "last_seen": "2025-01-17T15:25:14.900551"
 }
