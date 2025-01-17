@@ -106,7 +106,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "",
-    "COG": 360,
+    "COG": 295.3,
     "D": 3,
     "DEST": "LONDON SAR",
     "DRAUGHT": 0.7,
@@ -114,17 +114,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50971,
-    "LONGITUDE": -0.11712,
+    "LONGITUDE": -0.11714,
     "MMSI": 232025941,
     "NAME": "RNLI E - 10",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-01-17 18:32:04 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-01-17 19:19:45 GMT",
     "TYPE": 99,
-    "last_seen": "2025-01-17T17:25:43.028254",
+    "last_seen": "2025-01-17T18:32:08.740742",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-17T18:32:08.740742"
+  "last_seen": "2025-01-17T19:19:48.438572"
 }
