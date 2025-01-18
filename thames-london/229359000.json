@@ -214,7 +214,7 @@
     "B": 23,
     "C": 5,
     "CALLSIGN": "9HA5476",
-    "COG": 320.5,
+    "COG": 0.6,
     "D": 4,
     "DEST": "CANARY WHARF",
     "DRAUGHT": 2.1,
@@ -222,17 +222,17 @@
     "HEADING": 100,
     "IMO": 9867748,
     "LATITUDE": 51.50093,
-    "LONGITUDE": -0.01201,
+    "LONGITUDE": -0.01199,
     "MMSI": 229359000,
     "NAME": "PHI",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-01-18 16:25:48 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-18 17:19:49 GMT",
     "TYPE": 37,
-    "last_seen": "2025-01-18T15:22:59.621796",
+    "last_seen": "2025-01-18T16:27:40.669182",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-18T16:27:40.669182"
+  "last_seen": "2025-01-18T17:22:15.080846"
 }
