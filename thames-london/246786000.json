@@ -1,7 +1,36 @@
 {
   "dates_seen": [
-    "2024-01-23"
+    "2024-01-23",
+    "2025-01-21"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-01-23T16:23:39.544303"
+  "last_full_data": {
+    "A": 42,
+    "B": 6,
+    "C": 2,
+    "CALLSIGN": "PECO",
+    "COG": 296.9,
+    "D": 10,
+    "DEST": "TILBURY",
+    "DRAUGHT": 2.4,
+    "ETA": "01-20 11:00",
+    "HEADING": 300,
+    "IMO": 9941831,
+    "LATITUDE": 51.49776,
+    "LONGITUDE": 0.02038,
+    "MMSI": 246786000,
+    "NAME": "AQUADELTA",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 8.2,
+    "TIME": "2025-01-21 17:26:20 GMT",
+    "TYPE": 33,
+    "last_seen": "2024-01-23T16:23:39.544303",
+    "received_by_stations": [
+      2103,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-01-21T17:26:21.319774"
 }
