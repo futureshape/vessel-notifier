@@ -64,7 +64,7 @@
     "B": 11,
     "C": 3,
     "CALLSIGN": "MFSN8",
-    "COG": 75.1,
+    "COG": 276.1,
     "D": 3,
     "DEST": "THAMES",
     "DRAUGHT": 2.5,
@@ -72,17 +72,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50254,
-    "LONGITUDE": -0.05805,
+    "LONGITUDE": -0.05811,
     "MMSI": 232023421,
     "NAME": "PROSPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-01-21 14:27:23 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-21 15:27:14 GMT",
     "TYPE": 52,
-    "last_seen": "2025-01-21T13:28:39.494350",
+    "last_seen": "2025-01-21T14:27:24.113451",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-21T14:27:24.113451"
+  "last_seen": "2025-01-21T15:27:15.032021"
 }
