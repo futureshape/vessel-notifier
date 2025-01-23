@@ -47,7 +47,7 @@
     "B": 18,
     "C": 4,
     "CALLSIGN": "ZQWG2",
-    "COG": 360,
+    "COG": 257.1,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -55,17 +55,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50093,
-    "LONGITUDE": 0.01691,
+    "LONGITUDE": 0.01694,
     "MMSI": 235053688,
     "NAME": "GPS RACIA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-01-23 05:26:52 GMT",
+    "SOG": 0.3,
+    "TIME": "2025-01-23 06:32:52 GMT",
     "TYPE": 52,
-    "last_seen": "2025-01-23T04:28:48.220032",
+    "last_seen": "2025-01-23T05:26:54.668793",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-23T05:26:54.668793"
+  "last_seen": "2025-01-23T06:33:02.932156"
 }
