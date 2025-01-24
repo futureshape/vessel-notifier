@@ -199,32 +199,33 @@
     "2025-01-20",
     "2025-01-21",
     "2025-01-22",
-    "2025-01-23"
+    "2025-01-23",
+    "2025-01-24"
   ],
   "last_full_data": {
     "A": 7,
     "B": 25,
     "C": 5,
     "CALLSIGN": "MBFP9",
-    "COG": 121.8,
+    "COG": 360,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49887,
-    "LONGITUDE": 0.01685,
+    "LATITUDE": 51.50721,
+    "LONGITUDE": 0.00652,
     "MMSI": 232008821,
     "NAME": "JUPITER CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 29.3,
-    "TIME": "2025-01-23 23:18:08 GMT",
+    "SOG": 0,
+    "TIME": "2025-01-24 01:49:20 GMT",
     "TYPE": 40,
-    "last_seen": "2025-01-23T22:26:34.740483",
+    "last_seen": "2025-01-23T23:22:59.047544",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-23T23:22:59.047544"
+  "last_seen": "2025-01-24T01:49:28.568263"
 }
