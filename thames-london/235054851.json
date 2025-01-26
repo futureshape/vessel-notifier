@@ -204,7 +204,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MNGH8",
-    "COG": 360,
+    "COG": 7.7,
     "D": 7,
     "DEST": "",
     "DRAUGHT": 0,
@@ -212,17 +212,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.51057,
-    "LONGITUDE": -0.10979,
+    "LONGITUDE": -0.10981,
     "MMSI": 235054851,
     "NAME": "SAPELE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-01-26 19:18:06 GMT",
+    "SOG": 0.3,
+    "TIME": "2025-01-26 20:23:56 GMT",
     "TYPE": 99,
-    "last_seen": "2025-01-26T18:30:09.839204",
+    "last_seen": "2025-01-26T19:18:11.074284",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-26T19:18:11.074284"
+  "last_seen": "2025-01-26T20:23:58.742573"
 }
