@@ -116,32 +116,33 @@
     "2025-01-22",
     "2025-01-23",
     "2025-01-24",
-    "2025-01-25"
+    "2025-01-25",
+    "2025-01-26"
   ],
   "last_full_data": {
     "A": 10,
     "B": 10,
     "C": 2,
     "CALLSIGN": "2EJR5",
-    "COG": 2.7,
+    "COG": 8.9,
     "D": 2,
     "DEST": "BARRIER GARDENS PIER",
     "DRAUGHT": 1,
     "ETA": "06-01 07:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50149,
-    "LONGITUDE": -0.00355,
+    "LATITUDE": 51.50725,
+    "LONGITUDE": -0.07819,
     "MMSI": 235085697,
     "NAME": "BARNES",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 9.9,
-    "TIME": "2025-01-25 23:23:05 GMT",
+    "SOG": 0,
+    "TIME": "2025-01-26 09:23:04 GMT",
     "TYPE": 53,
-    "last_seen": "2025-01-25T22:26:51.616689",
+    "last_seen": "2025-01-25T23:23:10.477672",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-25T23:23:10.477672"
+  "last_seen": "2025-01-26T09:23:13.538268"
 }
