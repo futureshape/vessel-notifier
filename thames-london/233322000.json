@@ -43,7 +43,8 @@
     "2025-01-21",
     "2025-01-23",
     "2025-01-24",
-    "2025-01-25"
+    "2025-01-25",
+    "2025-01-26"
   ],
   "last_full_data": {
     "A": 17,
@@ -52,23 +53,23 @@
     "CALLSIGN": "GKGF",
     "COG": 297.6,
     "D": 6,
-    "DEST": "CHARLTON",
-    "DRAUGHT": 6.2,
-    "ETA": "01-25 19:00",
-    "HEADING": 105,
+    "DEST": "TILBURY 2",
+    "DRAUGHT": 4,
+    "ETA": "01-26 04:00",
+    "HEADING": 104,
     "IMO": 8806058,
-    "LATITUDE": 51.49544,
-    "LONGITUDE": 0.02387,
+    "LATITUDE": 51.49542,
+    "LONGITUDE": 0.02383,
     "MMSI": 233322000,
     "NAME": "CITY OF LONDON",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-01-25 23:22:36 GMT",
+    "TIME": "2025-01-26 01:49:40 GMT",
     "TYPE": 33,
-    "last_seen": "2025-01-25T22:26:51.627265",
+    "last_seen": "2025-01-25T23:23:10.480216",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-25T23:23:10.480216"
+  "last_seen": "2025-01-26T01:52:07.279154"
 }
