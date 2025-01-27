@@ -75,7 +75,7 @@
     "B": 29,
     "C": 2,
     "CALLSIGN": "MMYL9",
-    "COG": 200.8,
+    "COG": 19,
     "D": 6,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -83,17 +83,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.4951,
-    "LONGITUDE": 0.00061,
+    "LONGITUDE": 0.0006,
     "MMSI": 235055108,
     "NAME": "ELIZABETHAN",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-01-27 14:27:03 GMT",
+    "TIME": "2025-01-27 15:22:33 GMT",
     "TYPE": 60,
-    "last_seen": "2025-01-27T13:28:50.934461",
+    "last_seen": "2025-01-27T14:27:20.891577",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-27T14:27:20.891577"
+  "last_seen": "2025-01-27T15:22:39.753467"
 }
