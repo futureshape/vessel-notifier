@@ -223,7 +223,7 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "MNXN4",
-    "COG": 91.8,
+    "COG": 123.4,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -231,17 +231,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49343,
-    "LONGITUDE": -0.03672,
+    "LONGITUDE": -0.03673,
     "MMSI": 235003654,
     "NAME": "MV ANDANTE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-01-27 12:46:23 GMT",
+    "SOG": 0,
+    "TIME": "2025-01-27 13:28:23 GMT",
     "TYPE": 37,
-    "last_seen": "2025-01-27T11:21:16.823158",
+    "last_seen": "2025-01-27T12:48:22.893289",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-27T12:48:22.893289"
+  "last_seen": "2025-01-27T13:28:50.931168"
 }
