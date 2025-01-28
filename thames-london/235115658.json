@@ -31,7 +31,7 @@
     "B": 14,
     "C": 3,
     "CALLSIGN": "2JGG4",
-    "COG": 62.2,
+    "COG": 256.1,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 2.2,
@@ -39,17 +39,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50094,
-    "LONGITUDE": 0.01716,
+    "LONGITUDE": 0.01714,
     "MMSI": 235115658,
     "NAME": "GPS ARCADIA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-01-28 11:20:24 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-28 12:47:03 GMT",
     "TYPE": 52,
-    "last_seen": "2025-01-27T22:26:46.338369",
+    "last_seen": "2025-01-28T11:20:33.072425",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-28T11:20:33.072425"
+  "last_seen": "2025-01-28T12:47:10.552767"
 }
