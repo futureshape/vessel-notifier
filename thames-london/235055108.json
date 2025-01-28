@@ -76,14 +76,14 @@
     "B": 29,
     "C": 2,
     "CALLSIGN": "MMYL9",
-    "COG": 255,
+    "COG": 0,
     "D": 6,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49513,
+    "LATITUDE": 51.49511,
     "LONGITUDE": 0.00058,
     "MMSI": 235055108,
     "NAME": "ELIZABETHAN",
@@ -91,10 +91,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-01-28 05:26:20 GMT",
+    "TIME": "2025-01-28 06:32:34 GMT",
     "TYPE": 60,
-    "last_seen": "2025-01-28T04:28:59.241104",
+    "last_seen": "2025-01-28T05:26:30.104273",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-28T05:26:30.104273"
+  "last_seen": "2025-01-28T06:32:56.201798"
 }
