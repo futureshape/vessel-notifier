@@ -193,32 +193,33 @@
     "2025-01-24",
     "2025-01-25",
     "2025-01-27",
-    "2025-01-28"
+    "2025-01-28",
+    "2025-01-29"
   ],
   "last_full_data": {
     "A": 4,
     "B": 18,
     "C": 5,
     "CALLSIGN": "2DGB3",
-    "COG": 122.2,
+    "COG": 356.3,
     "D": 3,
     "DEST": "THAMES OPPS",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 118,
+    "HEADING": 79,
     "IMO": 0,
-    "LATITUDE": 51.4867,
-    "LONGITUDE": -0.02293,
+    "LATITUDE": 51.49466,
+    "LONGITUDE": 0.0269,
     "MMSI": 235078638,
     "NAME": "RESOURCE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": -127,
-    "SOG": 7.2,
-    "TIME": "2025-01-28 13:28:04 GMT",
+    "SOG": 0.4,
+    "TIME": "2025-01-29 09:25:20 GMT",
     "TYPE": 52,
-    "last_seen": "2025-01-28T12:47:09.587319",
+    "last_seen": "2025-01-28T13:28:10.078083",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-28T13:28:10.078083"
+  "last_seen": "2025-01-29T09:25:21.404619"
 }
