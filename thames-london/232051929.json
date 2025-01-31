@@ -74,7 +74,7 @@
     "B": 22,
     "C": 1,
     "CALLSIGN": "MONU6",
-    "COG": 242.1,
+    "COG": 360,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
@@ -82,17 +82,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49072,
-    "LONGITUDE": -0.12521,
+    "LONGITUDE": -0.12523,
     "MMSI": 232051929,
     "NAME": "SAPPHIRE OF LONDON",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-01-31 16:30:30 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-01-31 17:24:00 GMT",
     "TYPE": 60,
-    "last_seen": "2025-01-25T23:23:10.472265",
+    "last_seen": "2025-01-31T16:30:36.094550",
     "received_by_stations": []
   },
-  "last_seen": "2025-01-31T16:30:36.094550"
+  "last_seen": "2025-01-31T17:24:09.027039"
 }
