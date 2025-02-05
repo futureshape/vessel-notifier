@@ -75,7 +75,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MMCX2",
-    "COG": 110.9,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -83,17 +83,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5025,
-    "LONGITUDE": -0.05863,
+    "LONGITUDE": -0.05862,
     "MMSI": 232043472,
     "NAME": "NINA MACKAY 3",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.5,
-    "TIME": "2025-02-05 16:30:25 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-02-05 17:24:28 GMT",
     "TYPE": 55,
-    "last_seen": "2025-02-05T15:27:06.516941",
+    "last_seen": "2025-02-05T16:31:48.001115",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-05T16:31:48.001115"
+  "last_seen": "2025-02-05T17:25:00.739994"
 }
