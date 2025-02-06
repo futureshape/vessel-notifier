@@ -43,7 +43,7 @@
     "B": 15,
     "C": 1,
     "CALLSIGN": "MFCF9",
-    "COG": 152.6,
+    "COG": 74.3,
     "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -51,17 +51,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50929,
-    "LONGITUDE": -0.10981,
+    "LONGITUDE": -0.10986,
     "MMSI": 235058488,
     "NAME": "LONDON BELLE",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-02-06 11:20:48 GMT",
+    "TIME": "2025-02-06 12:48:54 GMT",
     "TYPE": 60,
-    "last_seen": "2025-02-05T15:27:06.511643",
+    "last_seen": "2025-02-06T11:20:53.178630",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-06T11:20:53.178630"
+  "last_seen": "2025-02-06T12:48:55.889148"
 }
