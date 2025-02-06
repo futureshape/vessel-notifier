@@ -59,7 +59,7 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "2FSB7",
-    "COG": 258.5,
+    "COG": 2.4,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -67,17 +67,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50305,
-    "LONGITUDE": -0.05683,
+    "LONGITUDE": -0.05682,
     "MMSI": 235093748,
     "NAME": "ALFIE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-02-06 14:25:48 GMT",
+    "SOG": 0,
+    "TIME": "2025-02-06 15:26:47 GMT",
     "TYPE": 53,
-    "last_seen": "2025-02-06T13:29:34.660460",
+    "last_seen": "2025-02-06T14:25:57.603869",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-06T14:25:57.603869"
+  "last_seen": "2025-02-06T15:26:48.514666"
 }
