@@ -7,31 +7,25 @@
     "B": 10,
     "C": 4,
     "CALLSIGN": "5BPQ6",
-    "COG": 321,
+    "COG": 288,
     "D": 6,
     "DEST": "GBLON",
     "DRAUGHT": 3,
     "ETA": "02-06 03:00",
-    "HEADING": 11,
+    "HEADING": 120,
     "IMO": 1053729,
-    "LATITUDE": 51.49891,
-    "LONGITUDE": 0.01544,
+    "LATITUDE": 51.50149,
+    "LONGITUDE": 0.0159,
     "MMSI": 212160000,
     "NAME": "GPS BATTLER",
     "NAVSTAT": 5,
     "PAC": 0,
-    "ROT": 127,
-    "SOG": 3.8,
-    "TIME": "2025-02-06 16:30:02 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2025-02-06 17:24:52 GMT",
     "TYPE": 52,
-    "last_seen": null,
-    "received_by_stations": [
-      3445,
-      2103,
-      2665,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-02-06T16:30:18.897175",
+    "received_by_stations": []
   },
-  "last_seen": "2025-02-06T16:30:18.897175"
+  "last_seen": "2025-02-06T17:25:36.308411"
 }
