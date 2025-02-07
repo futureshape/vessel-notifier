@@ -222,7 +222,7 @@
     "B": 4,
     "C": 4,
     "CALLSIGN": "MAKP4",
-    "COG": 139,
+    "COG": 360,
     "D": 5,
     "DEST": "",
     "DRAUGHT": 0,
@@ -230,17 +230,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50776,
-    "LONGITUDE": -0.1169,
+    "LONGITUDE": -0.11694,
     "MMSI": 232005583,
     "NAME": "THOMAS DOGGETT",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-02-07 09:25:52 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-02-07 10:29:51 GMT",
     "TYPE": 60,
-    "last_seen": "2025-02-06T15:26:48.508118",
+    "last_seen": "2025-02-07T09:25:53.109236",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-07T09:25:53.109236"
+  "last_seen": "2025-02-07T10:30:01.674696"
 }
