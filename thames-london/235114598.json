@@ -4,32 +4,33 @@
     "2024-11-19",
     "2025-02-07",
     "2025-02-08",
-    "2025-02-09"
+    "2025-02-09",
+    "2025-02-10"
   ],
   "last_full_data": {
     "A": 8,
     "B": 8,
     "C": 3,
     "CALLSIGN": "2JBU6",
-    "COG": 258.1,
+    "COG": 290.1,
     "D": 3,
     "DEST": "SURVEY",
     "DRAUGHT": 1,
     "ETA": "01-19 14:57",
-    "HEADING": 257,
+    "HEADING": 196,
     "IMO": 0,
-    "LATITUDE": 51.48449,
-    "LONGITUDE": -0.15161,
+    "LATITUDE": 51.47288,
+    "LONGITUDE": -0.18024,
     "MMSI": 235114598,
     "NAME": "MAPLIN",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 7.9,
-    "TIME": "2025-02-09 16:25:34 GMT",
+    "SOG": 0,
+    "TIME": "2025-02-10 07:19:41 GMT",
     "TYPE": 79,
-    "last_seen": "2025-02-09T15:25:07.382337",
+    "last_seen": "2025-02-09T16:27:29.820510",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-09T16:27:29.820510"
+  "last_seen": "2025-02-10T07:24:36.425588"
 }
