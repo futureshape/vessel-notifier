@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-02-06",
-    "2025-02-07"
+    "2025-02-07",
+    "2025-02-12"
   ],
   "last_full_data": {
     "A": 14,
     "B": 10,
     "C": 4,
     "CALLSIGN": "5BPQ6",
-    "COG": 38,
+    "COG": 67.5,
     "D": 6,
     "DEST": "GBLON",
     "DRAUGHT": 3,
-    "ETA": "02-06 03:00",
-    "HEADING": 135,
+    "ETA": "02-09 21:00",
+    "HEADING": 138,
     "IMO": 1053729,
-    "LATITUDE": 51.50089,
-    "LONGITUDE": 0.01717,
+    "LATITUDE": 51.50186,
+    "LONGITUDE": 0.01582,
     "MMSI": 212160000,
     "NAME": "GPS BATTLER",
-    "NAVSTAT": 5,
+    "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-02-07 07:21:17 GMT",
+    "TIME": "2025-02-12 12:48:48 GMT",
     "TYPE": 52,
-    "last_seen": "2025-02-07T06:33:58.902926",
+    "last_seen": "2025-02-07T07:22:52.740567",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-07T07:22:52.740567"
+  "last_seen": "2025-02-12T12:48:56.007755"
 }
