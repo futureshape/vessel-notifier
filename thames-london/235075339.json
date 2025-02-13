@@ -41,7 +41,7 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "2CSG7",
-    "COG": 209.8,
+    "COG": 234.2,
     "D": 7,
     "DEST": "THAMES OPPS",
     "DRAUGHT": 2.2,
@@ -49,17 +49,17 @@
     "HEADING": 36,
     "IMO": 9570905,
     "LATITUDE": 51.48749,
-    "LONGITUDE": -0.00114,
+    "LONGITUDE": -0.00113,
     "MMSI": 235075339,
     "NAME": "JENNY D",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-02-13 11:20:51 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-02-13 12:49:02 GMT",
     "TYPE": 52,
-    "last_seen": "2025-02-13T10:30:28.312607",
+    "last_seen": "2025-02-13T11:20:53.463648",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-13T11:20:53.463648"
+  "last_seen": "2025-02-13T12:49:07.446444"
 }
