@@ -2,37 +2,33 @@
   "dates_seen": [
     "2023-11-06",
     "2024-07-19",
-    "2025-01-11"
+    "2025-01-11",
+    "2025-02-14"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "G-MCGU",
-    "COG": 304.8,
+    "COG": 259.1,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 321,
+    "HEADING": 310,
     "IMO": 0,
-    "LATITUDE": 51.43221,
-    "LONGITUDE": -0.1941,
+    "LATITUDE": 51.48292,
+    "LONGITUDE": -0.16667,
     "MMSI": 111232535,
     "NAME": "COASTGAURD",
     "NAVSTAT": 0,
     "PAC": 2,
     "ROT": 0,
-    "SOG": 9.3,
-    "TIME": "2025-01-11 15:23:45 GMT",
+    "SOG": 6.4,
+    "TIME": "2025-02-14 15:26:19 GMT",
     "TYPE": 51,
-    "last_seen": "2024-07-19T15:25:15.577915",
-    "received_by_stations": [
-      2103,
-      2115,
-      2648,
-      2843
-    ]
+    "last_seen": "2025-01-11T15:23:51.441421",
+    "received_by_stations": []
   },
-  "last_seen": "2025-01-11T15:23:51.441421"
+  "last_seen": "2025-02-14T15:26:25.794039"
 }
