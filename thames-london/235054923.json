@@ -144,7 +144,7 @@
     "B": 25,
     "C": 5,
     "CALLSIGN": "MTDF3",
-    "COG": 134.3,
+    "COG": 299.3,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -152,17 +152,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50863,
-    "LONGITUDE": -0.11949,
+    "LONGITUDE": -0.11948,
     "MMSI": 235054923,
     "NAME": "RIVERSCAPE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-02-15 15:23:43 GMT",
+    "SOG": 0,
+    "TIME": "2025-02-15 16:28:52 GMT",
     "TYPE": 60,
-    "last_seen": "2025-02-15T14:23:40.878822",
+    "last_seen": "2025-02-15T15:24:10.219374",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-15T15:24:10.219374"
+  "last_seen": "2025-02-15T16:29:03.006825"
 }
