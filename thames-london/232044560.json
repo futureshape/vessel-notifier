@@ -165,32 +165,33 @@
     "2025-02-12",
     "2025-02-13",
     "2025-02-14",
-    "2025-02-15"
+    "2025-02-15",
+    "2025-02-16"
   ],
   "last_full_data": {
     "A": 17,
     "B": 21,
     "C": 3,
     "CALLSIGN": "MMNW9",
-    "COG": 91.8,
+    "COG": 0,
     "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "01-19 17:30",
     "HEADING": 291,
     "IMO": 9963504,
-    "LATITUDE": 51.50712,
-    "LONGITUDE": 0.00753,
+    "LATITUDE": 51.5073,
+    "LONGITUDE": 0.00677,
     "MMSI": 232044560,
     "NAME": "CELESTIAL CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-02-15 22:26:03 GMT",
+    "TIME": "2025-02-16 06:31:26 GMT",
     "TYPE": 45,
-    "last_seen": "2025-02-15T21:22:12.980499",
+    "last_seen": "2025-02-15T22:26:05.634945",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-15T22:26:05.634945"
+  "last_seen": "2025-02-16T06:31:31.404932"
 }
