@@ -159,7 +159,7 @@
     "B": 5,
     "C": 3,
     "CALLSIGN": "DPHL",
-    "COG": 180.4,
+    "COG": 161.2,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -167,17 +167,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49317,
-    "LONGITUDE": -0.03629,
+    "LONGITUDE": -0.03628,
     "MMSI": 211678310,
     "NAME": "ERIK",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-02-16 20:23:05 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-02-16 21:23:04 GMT",
     "TYPE": 37,
-    "last_seen": "2025-02-16T19:19:17.180925",
+    "last_seen": "2025-02-16T20:24:59.277668",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-16T20:24:59.277668"
+  "last_seen": "2025-02-16T21:23:09.316371"
 }
