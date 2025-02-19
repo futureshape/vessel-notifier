@@ -8,28 +8,25 @@
     "B": 2,
     "C": 4,
     "CALLSIGN": "MCBK2",
-    "COG": 299.8,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50411,
-    "LONGITUDE": -0.07013,
+    "LATITUDE": 51.50706,
+    "LONGITUDE": -0.072,
     "MMSI": 232011958,
     "NAME": "FULL MOON",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.7,
-    "TIME": "2025-02-19 16:31:17 GMT",
+    "SOG": 0,
+    "TIME": "2025-02-19 17:08:18 GMT",
     "TYPE": 37,
-    "last_seen": "2024-04-02T08:21:16.458479",
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-02-19T16:31:22.310892",
+    "received_by_stations": []
   },
-  "last_seen": "2025-02-19T16:31:22.310892"
+  "last_seen": "2025-02-19T17:26:06.486556"
 }
