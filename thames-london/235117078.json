@@ -121,18 +121,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50159,
-    "LONGITUDE": 0.01589,
+    "LATITUDE": 51.50075,
+    "LONGITUDE": 0.01721,
     "MMSI": 235117078,
     "NAME": "GPS IONIA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-02-21 16:31:25 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-02-21 17:23:25 GMT",
     "TYPE": 52,
-    "last_seen": "2025-02-19T15:28:05.380903",
+    "last_seen": "2025-02-21T16:31:31.688241",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-21T16:31:31.688241"
+  "last_seen": "2025-02-21T17:23:34.505966"
 }
