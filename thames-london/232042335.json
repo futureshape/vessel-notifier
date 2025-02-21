@@ -255,18 +255,18 @@
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49305,
-    "LONGITUDE": -0.12238,
+    "LATITUDE": 51.49304,
+    "LONGITUDE": -0.12237,
     "MMSI": 232042335,
     "NAME": "ERRINGTON",
     "NAVSTAT": 15,
     "PAC": 1,
-    "ROT": 5,
-    "SOG": 0,
-    "TIME": "2025-02-21 04:31:31 GMT",
+    "ROT": -20,
+    "SOG": 0.1,
+    "TIME": "2025-02-21 05:27:25 GMT",
     "TYPE": 51,
-    "last_seen": "2025-02-21T03:30:52.807761",
+    "last_seen": "2025-02-21T04:31:33.876441",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-21T04:31:33.876441"
+  "last_seen": "2025-02-21T05:27:27.404483"
 }
