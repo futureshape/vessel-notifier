@@ -85,7 +85,7 @@
     "B": 25,
     "C": 2,
     "CALLSIGN": "MMQX7",
-    "COG": 309.6,
+    "COG": 3,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -93,17 +93,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50703,
-    "LONGITUDE": -0.11785,
+    "LONGITUDE": -0.11787,
     "MMSI": 235054994,
     "NAME": "ROYALTY",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-02-22 08:28:12 GMT",
+    "SOG": 0,
+    "TIME": "2025-02-22 09:24:13 GMT",
     "TYPE": 60,
-    "last_seen": "2025-02-18T13:29:21.121964",
+    "last_seen": "2025-02-22T08:28:14.375741",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-22T08:28:14.375741"
+  "last_seen": "2025-02-22T09:24:18.190458"
 }
