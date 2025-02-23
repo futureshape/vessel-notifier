@@ -23,32 +23,33 @@
     "2024-11-18",
     "2025-01-11",
     "2025-01-27",
-    "2025-02-12"
+    "2025-02-12",
+    "2025-02-23"
   ],
   "last_full_data": {
     "A": 8,
     "B": 4,
     "C": 3,
     "CALLSIGN": "MFUW2",
-    "COG": 360,
+    "COG": 241.4,
     "D": 0,
-    "DEST": "NINE_ELMS",
+    "DEST": "PAGLESHAM",
     "DRAUGHT": 1.6,
-    "ETA": "12-02 16:00",
+    "ETA": "02-23 20:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48436,
-    "LONGITUDE": -0.15395,
+    "LATITUDE": 51.48499,
+    "LONGITUDE": -0.13277,
     "MMSI": 232023648,
     "NAME": "ALBION",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-02-12 15:27:14 GMT",
+    "SOG": 8,
+    "TIME": "2025-02-23 03:31:32 GMT",
     "TYPE": 52,
-    "last_seen": "2025-02-12T14:27:38.658824",
+    "last_seen": "2025-02-12T15:27:28.047409",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-12T15:27:28.047409"
+  "last_seen": "2025-02-23T03:31:36.177848"
 }
