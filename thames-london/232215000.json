@@ -44,12 +44,12 @@
     "B": 24,
     "C": 10,
     "CALLSIGN": "MXAW7",
-    "COG": 80,
+    "COG": 286,
     "D": 9,
     "DEST": "GBCHN>GBIOG",
     "DRAUGHT": 4.5,
     "ETA": "02-24 20:00",
-    "HEADING": 109,
+    "HEADING": 107,
     "IMO": 9151553,
     "LATITUDE": 51.496,
     "LONGITUDE": 0.02067,
@@ -58,11 +58,11 @@
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-02-24 14:28:48 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-02-24 15:28:49 GMT",
     "TYPE": 33,
-    "last_seen": "2025-02-24T13:31:33.979897",
+    "last_seen": "2025-02-24T14:28:52.904134",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-24T14:28:52.904134"
+  "last_seen": "2025-02-24T15:28:52.207986"
 }
