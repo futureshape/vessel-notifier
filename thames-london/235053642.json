@@ -9,32 +9,33 @@
     "2025-01-10",
     "2025-01-13",
     "2025-01-22",
-    "2025-02-19"
+    "2025-02-19",
+    "2025-02-24"
   ],
   "last_full_data": {
     "A": 7,
     "B": 13,
     "C": 1,
     "CALLSIGN": "MHXH",
-    "COG": 360,
+    "COG": 282.8,
     "D": 4,
     "DEST": "RIVER THAMES",
     "DRAUGHT": 2.8,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5007,
-    "LONGITUDE": 0.01727,
+    "LATITUDE": 51.49724,
+    "LONGITUDE": 0.02367,
     "MMSI": 235053642,
     "NAME": "MERIT",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-02-19 03:33:31 GMT",
+    "SOG": 6,
+    "TIME": "2025-02-24 19:20:28 GMT",
     "TYPE": 52,
-    "last_seen": "2025-02-19T02:54:28.466496",
+    "last_seen": "2025-02-19T03:33:34.349451",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-19T03:33:34.349451"
+  "last_seen": "2025-02-24T19:20:32.884990"
 }
