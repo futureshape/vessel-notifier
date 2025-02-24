@@ -65,7 +65,7 @@
     "B": 0,
     "C": 4,
     "CALLSIGN": "MCWU6",
-    "COG": 360,
+    "COG": 342.5,
     "D": 5,
     "DEST": "THAMES___",
     "DRAUGHT": 2.4,
@@ -73,17 +73,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50417,
-    "LONGITUDE": -0.06911,
+    "LONGITUDE": -0.06914,
     "MMSI": 232014850,
     "NAME": "DISTRIBUTOR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-02-24 16:33:58 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-02-24 17:24:27 GMT",
     "TYPE": 89,
-    "last_seen": "2025-02-24T15:28:52.198969",
+    "last_seen": "2025-02-24T16:34:03.415709",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-24T16:34:03.415709"
+  "last_seen": "2025-02-24T17:24:35.107219"
 }
