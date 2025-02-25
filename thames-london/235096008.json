@@ -36,32 +36,33 @@
     "2025-02-21",
     "2025-02-22",
     "2025-02-23",
-    "2025-02-24"
+    "2025-02-24",
+    "2025-02-25"
   ],
   "last_full_data": {
     "A": 6,
     "B": 4,
     "C": 3,
     "CALLSIGN": "2GBM3",
-    "COG": 16.5,
+    "COG": 0,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47242,
-    "LONGITUDE": -0.18061,
+    "LATITUDE": 51.47241,
+    "LONGITUDE": -0.1806,
     "MMSI": 235096008,
     "NAME": "SHAKEN NOT STIRRED",
     "NAVSTAT": 8,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-02-24 23:23:50 GMT",
+    "TIME": "2025-02-25 01:54:31 GMT",
     "TYPE": 0,
-    "last_seen": "2025-02-24T22:27:45.793889",
+    "last_seen": "2025-02-24T23:23:59.425252",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-24T23:23:59.425252"
+  "last_seen": "2025-02-25T01:54:33.971889"
 }
