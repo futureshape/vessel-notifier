@@ -184,7 +184,7 @@
     "B": 28,
     "C": 4,
     "CALLSIGN": "MAKB5",
-    "COG": 360,
+    "COG": 133,
     "D": 0,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -192,17 +192,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49798,
-    "LONGITUDE": -0.12108,
+    "LONGITUDE": -0.12101,
     "MMSI": 232005500,
     "NAME": "ALMERE 4",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-02-25 09:27:21 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-02-25 10:31:11 GMT",
     "TYPE": 53,
-    "last_seen": "2025-02-25T08:31:59.415725",
+    "last_seen": "2025-02-25T09:27:30.449513",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-25T09:27:30.449513"
+  "last_seen": "2025-02-25T10:31:18.695656"
 }
