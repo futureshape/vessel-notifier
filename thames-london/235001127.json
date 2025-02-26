@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-08-07",
-    "2025-02-25"
+    "2025-02-25",
+    "2025-02-26"
   ],
   "last_full_data": {
     "A": 13,
     "B": 5,
     "C": 3,
     "CALLSIGN": "MXGQ6",
-    "COG": 0,
+    "COG": 80.2,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50762,
-    "LONGITUDE": -0.07207,
+    "LATITUDE": 51.50761,
+    "LONGITUDE": -0.07201,
     "MMSI": 235001127,
     "NAME": "DOVELET",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-02-25 18:26:35 GMT",
+    "TIME": "2025-02-26 07:02:29 GMT",
     "TYPE": 37,
-    "last_seen": "2025-02-25T17:29:16.821929",
+    "last_seen": "2025-02-25T18:34:51.169654",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-25T18:34:51.169654"
+  "last_seen": "2025-02-26T07:24:00.599699"
 }
