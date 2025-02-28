@@ -59,7 +59,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2CCM5",
-    "COG": 205.4,
+    "COG": 354.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -67,17 +67,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49764,
-    "LONGITUDE": -0.00537,
+    "LONGITUDE": -0.00532,
     "MMSI": 235071601,
     "NAME": "LAMBETH",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-02-28 20:27:10 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-02-28 21:23:32 GMT",
     "TYPE": 0,
-    "last_seen": "2025-02-28T19:22:12.508361",
+    "last_seen": "2025-02-28T20:27:17.007954",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-28T20:27:17.007954"
+  "last_seen": "2025-02-28T21:23:36.003088"
 }
