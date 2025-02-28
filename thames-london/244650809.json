@@ -252,14 +252,14 @@
     "B": 4,
     "C": 4,
     "CALLSIGN": "21ZQ3",
-    "COG": 0,
+    "COG": 60,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1.3,
     "ETA": "07-23 18:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5041,
+    "LATITUDE": 51.50411,
     "LONGITUDE": -0.06754,
     "MMSI": 244650809,
     "NAME": "VIOD 2",
@@ -267,10 +267,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-02-28 10:30:02 GMT",
+    "TIME": "2025-02-28 11:20:08 GMT",
     "TYPE": 0,
-    "last_seen": "2025-02-28T09:26:58.165990",
+    "last_seen": "2025-02-28T10:30:20.257187",
     "received_by_stations": []
   },
-  "last_seen": "2025-02-28T10:30:20.257187"
+  "last_seen": "2025-02-28T11:21:30.427913"
 }
