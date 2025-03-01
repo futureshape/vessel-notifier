@@ -7,15 +7,15 @@
     "A": 0,
     "B": 0,
     "C": 0,
-    "CALLSIGN": "0",
+    "CALLSIGN": "XXXX",
     "COG": 360,
     "D": 0,
-    "DEST": "A",
+    "DEST": "I",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50121,
+    "LATITUDE": 51.50118,
     "LONGITUDE": -0.01478,
     "MMSI": 228000000,
     "NAME": "FRENCH WARSHIP",
@@ -23,10 +23,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-03-01 11:19:30 GMT",
+    "TIME": "2025-03-01 12:43:30 GMT",
     "TYPE": 0,
-    "last_seen": "2025-03-01T10:28:01.482104",
+    "last_seen": "2025-03-01T11:19:33.587484",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-01T11:19:33.587484"
+  "last_seen": "2025-03-01T12:45:52.706458"
 }
