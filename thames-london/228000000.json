@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-02-28",
     "2025-03-01",
-    "2025-03-02"
+    "2025-03-02",
+    "2025-03-03"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
-    "CALLSIGN": "0",
+    "CALLSIGN": "XXXX",
     "COG": 360,
     "D": 0,
-    "DEST": "A",
+    "DEST": "I",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50118,
-    "LONGITUDE": -0.01478,
+    "LATITUDE": 51.50119,
+    "LONGITUDE": -0.0148,
     "MMSI": 228000000,
     "NAME": "FRENCH WARSHIP",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-03-02 06:30:37 GMT",
+    "TIME": "2025-03-03 01:57:37 GMT",
     "TYPE": 0,
-    "last_seen": "2025-03-02T05:28:26.434679",
+    "last_seen": "2025-03-02T06:33:22.459801",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-02T06:33:22.459801"
+  "last_seen": "2025-03-03T01:57:50.558658"
 }
