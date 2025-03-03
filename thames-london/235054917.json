@@ -187,7 +187,7 @@
     "B": 30,
     "C": 4,
     "CALLSIGN": "MZGF7",
-    "COG": 360,
+    "COG": 121.8,
     "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -195,17 +195,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50378,
-    "LONGITUDE": -0.1204,
+    "LONGITUDE": -0.0708,
     "MMSI": 235054917,
     "NAME": "CITY GAMMA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-03-03 12:50:48 GMT",
+    "SOG": 7.3,
+    "TIME": "2025-03-03 13:32:39 GMT",
     "TYPE": 60,
-    "last_seen": "2025-03-03T11:22:56.573234",
+    "last_seen": "2025-03-03T12:50:48.353723",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-03T12:50:48.353723"
+  "last_seen": "2025-03-03T13:32:40.859233"
 }
