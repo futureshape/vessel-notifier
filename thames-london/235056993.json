@@ -221,32 +221,33 @@
     "2025-02-28",
     "2025-03-01",
     "2025-03-02",
-    "2025-03-03"
+    "2025-03-03",
+    "2025-03-04"
   ],
   "last_full_data": {
     "A": 30,
     "B": 8,
     "C": 2,
     "CALLSIGN": "MVMD2",
-    "COG": 135.8,
+    "COG": 360,
     "D": 7,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50518,
-    "LONGITUDE": -0.0289,
+    "LATITUDE": 51.50689,
+    "LONGITUDE": 0.00751,
     "MMSI": 235056993,
     "NAME": "CYCLONE CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-03-03 23:24:03 GMT",
+    "SOG": 0,
+    "TIME": "2025-03-04 01:56:08 GMT",
     "TYPE": 40,
-    "last_seen": "2025-03-03T22:28:23.528713",
+    "last_seen": "2025-03-03T23:24:06.037659",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-03T23:24:06.037659"
+  "last_seen": "2025-03-04T01:56:26.510001"
 }

@@ -34,32 +34,33 @@
     "2025-02-28",
     "2025-03-01",
     "2025-03-02",
-    "2025-03-03"
+    "2025-03-03",
+    "2025-03-04"
   ],
   "last_full_data": {
     "A": 13,
     "B": 12,
     "C": 4,
     "CALLSIGN": "ZQQQ5",
-    "COG": 301.8,
+    "COG": 278.4,
     "D": 5,
     "DEST": "GREENWICH",
     "DRAUGHT": 2.4,
     "ETA": "01-23 15:00",
-    "HEADING": 250,
+    "HEADING": 249,
     "IMO": 0,
     "LATITUDE": 51.49508,
-    "LONGITUDE": 0.00044,
+    "LONGITUDE": 0.00046,
     "MMSI": 235000357,
     "NAME": "SARAH GREY",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-03-03 23:15:48 GMT",
+    "TIME": "2025-03-04 01:54:48 GMT",
     "TYPE": 52,
-    "last_seen": "2025-03-03T22:28:23.533310",
+    "last_seen": "2025-03-03T23:24:06.038353",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-03T23:24:06.038353"
+  "last_seen": "2025-03-04T01:56:26.506516"
 }
