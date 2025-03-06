@@ -2,37 +2,33 @@
   "dates_seen": [
     "2024-06-20",
     "2024-07-05",
-    "2024-12-17"
+    "2024-12-17",
+    "2025-03-06"
   ],
   "last_full_data": {
     "A": 5,
     "B": 4,
     "C": 1,
     "CALLSIGN": "MDYD9",
-    "COG": 324.6,
+    "COG": 348,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "12-17 15:30",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50503,
-    "LONGITUDE": 0.01004,
+    "LATITUDE": 51.50344,
+    "LONGITUDE": 0.00974,
     "MMSI": 235001996,
     "NAME": "PREDATOR 3",
-    "NAVSTAT": 11,
+    "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.1,
-    "TIME": "2024-12-17 13:31:17 GMT",
+    "SOG": 4.7,
+    "TIME": "2025-03-06 08:32:32 GMT",
     "TYPE": 60,
-    "last_seen": "2024-07-05T17:24:17.198196",
-    "received_by_stations": [
-      3416,
-      2103,
-      2115,
-      2648
-    ]
+    "last_seen": "2024-12-17T13:35:05.857512",
+    "received_by_stations": []
   },
-  "last_seen": "2024-12-17T13:35:05.857512"
+  "last_seen": "2025-03-06T08:32:37.937162"
 }
