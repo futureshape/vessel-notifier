@@ -1,0 +1,38 @@
+{
+  "dates_seen": [
+    "2025-03-07"
+  ],
+  "last_full_data": {
+    "A": 10,
+    "B": 65,
+    "C": 9,
+    "CALLSIGN": "9V8354",
+    "COG": 210.4,
+    "D": 7,
+    "DEST": "GB LON",
+    "DRAUGHT": 4.8,
+    "ETA": "03-07 01:00",
+    "HEADING": 207,
+    "IMO": 9418743,
+    "LATITUDE": 51.50275,
+    "LONGITUDE": -0.0048,
+    "MMSI": 565395000,
+    "NAME": "GREEN PIONEER",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 13,
+    "SOG": 2.5,
+    "TIME": "2025-03-07 06:35:31 GMT",
+    "TYPE": 90,
+    "last_seen": null,
+    "received_by_stations": [
+      3416,
+      3445,
+      2103,
+      2665,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-03-07T06:35:32.668350"
+}
