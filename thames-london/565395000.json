@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-03-07"
+    "2025-03-07",
+    "2025-03-08"
   ],
   "last_full_data": {
     "A": 10,
@@ -14,18 +15,18 @@
     "ETA": "03-07 01:00",
     "HEADING": 98,
     "IMO": 9418743,
-    "LATITUDE": 51.50155,
-    "LONGITUDE": -0.01463,
+    "LATITUDE": 51.50119,
+    "LONGITUDE": -0.01439,
     "MMSI": 565395000,
     "NAME": "GREEN PIONEER",
     "NAVSTAT": 5,
     "PAC": 0,
-    "ROT": -11,
+    "ROT": 11,
     "SOG": 0,
-    "TIME": "2025-03-07 23:17:41 GMT",
+    "TIME": "2025-03-08 01:32:43 GMT",
     "TYPE": 90,
-    "last_seen": "2025-03-07T22:23:26.323053",
+    "last_seen": "2025-03-07T23:19:41.569396",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-07T23:19:41.569396"
+  "last_seen": "2025-03-08T01:33:17.655015"
 }
