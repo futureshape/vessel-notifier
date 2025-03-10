@@ -54,32 +54,33 @@
     "2025-02-28",
     "2025-03-04",
     "2025-03-06",
-    "2025-03-07"
+    "2025-03-07",
+    "2025-03-10"
   ],
   "last_full_data": {
     "A": 3,
     "B": 16,
     "C": 1,
     "CALLSIGN": "MRJT4",
-    "COG": 20.3,
+    "COG": 179.5,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50124,
-    "LONGITUDE": -0.0598,
+    "LATITUDE": 51.5042,
+    "LONGITUDE": -0.05091,
     "MMSI": 235052134,
     "NAME": "WESTMINSTER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-03-07 15:12:54 GMT",
+    "SOG": 2,
+    "TIME": "2025-03-10 09:23:43 GMT",
     "TYPE": 60,
-    "last_seen": "2025-03-07T14:27:46.651605",
+    "last_seen": "2025-03-07T15:27:19.494227",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-07T15:27:19.494227"
+  "last_seen": "2025-03-10T09:23:53.761053"
 }
