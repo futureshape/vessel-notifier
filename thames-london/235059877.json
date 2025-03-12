@@ -57,7 +57,7 @@
     "B": 13,
     "C": 5,
     "CALLSIGN": "MNQY7",
-    "COG": 118.3,
+    "COG": 306.9,
     "D": 0,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -65,17 +65,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49082,
-    "LONGITUDE": -0.12532,
+    "LONGITUDE": -0.12539,
     "MMSI": 235059877,
     "NAME": "EMERALD OF LONDON",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-03-12 15:29:21 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-03-12 16:34:28 GMT",
     "TYPE": 60,
-    "last_seen": "2025-03-05T20:28:09.233549",
+    "last_seen": "2025-03-12T15:29:24.191740",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-12T15:29:24.191740"
+  "last_seen": "2025-03-12T16:34:30.128161"
 }
