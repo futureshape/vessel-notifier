@@ -271,14 +271,14 @@
     "B": 33,
     "C": 10,
     "CALLSIGN": "2FON2",
-    "COG": 0,
+    "COG": 111.5,
     "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 2,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50121,
+    "LATITUDE": 51.50122,
     "LONGITUDE": -0.0609,
     "MMSI": 235092958,
     "NAME": "MILLENNIUM DIAMOND",
@@ -286,10 +286,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-03-16 17:24:49 GMT",
+    "TIME": "2025-03-16 18:33:50 GMT",
     "TYPE": 60,
-    "last_seen": "2025-03-16T16:30:03.527927",
+    "last_seen": "2025-03-16T17:24:53.912166",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-16T17:24:53.912166"
+  "last_seen": "2025-03-16T18:33:56.110528"
 }
