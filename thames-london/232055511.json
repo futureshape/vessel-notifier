@@ -27,32 +27,33 @@
     "2025-03-06",
     "2025-03-07",
     "2025-03-10",
-    "2025-03-17"
+    "2025-03-17",
+    "2025-03-18"
   ],
   "last_full_data": {
     "A": 15,
     "B": 1,
     "C": 1,
     "CALLSIGN": "MPJA3",
-    "COG": 246.5,
+    "COG": 94.9,
     "D": 4,
     "DEST": "COWES",
     "DRAUGHT": 0,
     "ETA": "08-07 17:00",
-    "HEADING": 9,
+    "HEADING": 5,
     "IMO": 0,
-    "LATITUDE": 51.50265,
-    "LONGITUDE": -0.12043,
+    "LATITUDE": 51.50267,
+    "LONGITUDE": -0.1204,
     "MMSI": 232055511,
     "NAME": "ROCKET REBEL",
     "NAVSTAT": 9,
     "PAC": 0,
-    "ROT": -21,
+    "ROT": 20,
     "SOG": 0,
-    "TIME": "2025-03-17 14:29:10 GMT",
+    "TIME": "2025-03-18 09:28:40 GMT",
     "TYPE": 40,
-    "last_seen": "2025-03-17T13:35:14.395811",
+    "last_seen": "2025-03-17T14:29:11.025437",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-17T14:29:11.025437"
+  "last_seen": "2025-03-18T09:28:50.865631"
 }
