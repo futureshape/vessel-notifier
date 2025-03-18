@@ -11,30 +11,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2EJR4",
-    "COG": 263.2,
+    "COG": 36.7,
     "D": 0,
     "DEST": "GRAVESEND",
     "DRAUGHT": 0.8,
     "ETA": "03-21 12:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4974,
-    "LONGITUDE": 0.03208,
+    "LATITUDE": 51.50723,
+    "LONGITUDE": -0.07818,
     "MMSI": 235085696,
     "NAME": "KEW",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.4,
-    "TIME": "2025-03-18 13:34:03 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-03-18 14:29:52 GMT",
     "TYPE": 53,
-    "last_seen": "2024-12-06T21:25:18.070075",
-    "received_by_stations": [
-      2115,
-      2665,
-      2648,
-      2843
-    ]
+    "last_seen": "2025-03-18T13:34:05.467220",
+    "received_by_stations": []
   },
-  "last_seen": "2025-03-18T13:34:05.467220"
+  "last_seen": "2025-03-18T14:29:59.982180"
 }
