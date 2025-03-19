@@ -279,20 +279,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 11,
+    "HEADING": 10,
     "IMO": 0,
-    "LATITUDE": 51.49314,
+    "LATITUDE": 51.49311,
     "LONGITUDE": -0.12234,
     "MMSI": 232038663,
     "NAME": "TANNER",
     "NAVSTAT": 15,
     "PAC": 1,
-    "ROT": 7,
+    "ROT": -7,
     "SOG": 0,
-    "TIME": "2025-03-19 03:02:21 GMT",
+    "TIME": "2025-03-19 03:36:51 GMT",
     "TYPE": 51,
-    "last_seen": "2025-03-19T01:58:37.849078",
+    "last_seen": "2025-03-19T03:02:24.775796",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-19T03:02:24.775796"
+  "last_seen": "2025-03-19T03:37:04.425916"
 }
