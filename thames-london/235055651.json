@@ -7,27 +7,25 @@
     "B": 13,
     "C": 4,
     "CALLSIGN": "MMED7",
-    "COG": 155.6,
+    "COG": 43.1,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4985,
-    "LONGITUDE": -0.12111,
+    "LATITUDE": 51.49848,
+    "LONGITUDE": -0.12109,
     "MMSI": 235055651,
     "NAME": "SARAH KATHLEEN",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-03-19 10:31:42 GMT",
+    "TIME": "2025-03-19 11:22:23 GMT",
     "TYPE": 60,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-03-19T10:31:58.322087",
+    "received_by_stations": []
   },
-  "last_seen": "2025-03-19T10:31:58.322087"
+  "last_seen": "2025-03-19T11:22:39.725255"
 }
