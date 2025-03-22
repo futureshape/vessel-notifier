@@ -274,7 +274,7 @@
     "B": 32,
     "C": 7,
     "CALLSIGN": "MBFQ2",
-    "COG": 326.7,
+    "COG": 360,
     "D": 0,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -282,17 +282,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50728,
-    "LONGITUDE": 0.00659,
+    "LONGITUDE": 0.00658,
     "MMSI": 232008822,
     "NAME": "MERCURY CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.4,
-    "TIME": "2025-03-22 01:56:22 GMT",
+    "SOG": 0,
+    "TIME": "2025-03-22 03:01:02 GMT",
     "TYPE": 40,
-    "last_seen": "2025-03-21T22:28:28.855738",
+    "last_seen": "2025-03-22T01:56:23.428643",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-22T01:56:23.428643"
+  "last_seen": "2025-03-22T03:01:12.525363"
 }
