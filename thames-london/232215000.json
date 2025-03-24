@@ -40,32 +40,33 @@
     "2025-02-24",
     "2025-03-10",
     "2025-03-12",
-    "2025-03-17"
+    "2025-03-17",
+    "2025-03-24"
   ],
   "last_full_data": {
     "A": 96,
     "B": 24,
     "C": 10,
     "CALLSIGN": "MXAW7",
-    "COG": 73,
+    "COG": 75,
     "D": 9,
-    "DEST": "GB CHN>==A514",
-    "DRAUGHT": 4.5,
-    "ETA": "03-18 13:00",
+    "DEST": "DREDGEA458>GB CHN",
+    "DRAUGHT": 7.2,
+    "ETA": "03-24 19:00",
     "HEADING": 109,
     "IMO": 9151553,
     "LATITUDE": 51.496,
     "LONGITUDE": 0.02067,
     "MMSI": 232215000,
     "NAME": "SAND FALCON",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-03-17 18:34:05 GMT",
+    "TIME": "2025-03-24 19:21:13 GMT",
     "TYPE": 33,
-    "last_seen": "2025-03-17T17:26:56.104133",
+    "last_seen": "2025-03-17T18:34:10.872496",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-17T18:34:10.872496"
+  "last_seen": "2025-03-24T19:21:17.953789"
 }
