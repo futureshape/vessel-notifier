@@ -48,7 +48,7 @@
     "B": 24,
     "C": 10,
     "CALLSIGN": "MXAW7",
-    "COG": 75,
+    "COG": 65,
     "D": 9,
     "DEST": "DREDGEA458>GB CHN",
     "DRAUGHT": 7.2,
@@ -62,11 +62,11 @@
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-03-24 19:21:13 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-03-24 20:26:19 GMT",
     "TYPE": 33,
-    "last_seen": "2025-03-17T18:34:10.872496",
+    "last_seen": "2025-03-24T19:21:17.953789",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-24T19:21:17.953789"
+  "last_seen": "2025-03-24T20:26:54.005961"
 }
