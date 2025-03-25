@@ -41,32 +41,33 @@
     "2024-12-23",
     "2024-12-31",
     "2025-01-04",
-    "2025-03-19"
+    "2025-03-19",
+    "2025-03-25"
   ],
   "last_full_data": {
     "A": 9,
     "B": 9,
     "C": 2,
     "CALLSIGN": "MQGB6",
-    "COG": 360,
+    "COG": 80.5,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 57,
+    "HEADING": 72,
     "IMO": 0,
-    "LATITUDE": 51.4828,
-    "LONGITUDE": -0.15961,
+    "LATITUDE": 51.4836,
+    "LONGITUDE": -0.15538,
     "MMSI": 235033771,
     "NAME": "SIGRID OF CHELSEA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-03-19 15:25:50 GMT",
+    "SOG": 4.1,
+    "TIME": "2025-03-25 19:19:13 GMT",
     "TYPE": 37,
-    "last_seen": "2025-03-19T14:30:04.615359",
+    "last_seen": "2025-03-19T15:29:10.676707",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-19T15:29:10.676707"
+  "last_seen": "2025-03-25T19:21:37.290068"
 }
