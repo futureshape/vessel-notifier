@@ -41,32 +41,33 @@
     "2025-02-28",
     "2025-03-01",
     "2025-03-02",
-    "2025-03-20"
+    "2025-03-20",
+    "2025-03-26"
   ],
   "last_full_data": {
     "A": 10,
     "B": 9,
     "C": 3,
     "CALLSIGN": "ZQER2",
-    "COG": 84.8,
+    "COG": 266.8,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50657,
-    "LONGITUDE": -0.07199,
+    "LATITUDE": 51.50696,
+    "LONGITUDE": -0.07183,
     "MMSI": 235026000,
     "NAME": "CATALINA OF SOUTHAMP",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-03-20 19:10:54 GMT",
+    "TIME": "2025-03-26 11:19:16 GMT",
     "TYPE": 37,
-    "last_seen": "2025-03-20T18:35:52.475228",
+    "last_seen": "2025-03-20T19:21:11.624550",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-20T19:21:11.624550"
+  "last_seen": "2025-03-26T11:22:40.232817"
 }

@@ -56,7 +56,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MSUH9",
-    "COG": 360,
+    "COG": 20.6,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -64,17 +64,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48378,
-    "LONGITUDE": -0.0119,
+    "LONGITUDE": -0.01187,
     "MMSI": 235022603,
     "NAME": "IMPULSE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-03-26 10:31:59 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-03-26 11:22:36 GMT",
     "TYPE": 52,
-    "last_seen": "2025-03-26T09:28:54.383365",
+    "last_seen": "2025-03-26T10:32:04.794354",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-26T10:32:04.794354"
+  "last_seen": "2025-03-26T11:22:40.240702"
 }
