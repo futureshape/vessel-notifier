@@ -7,30 +7,25 @@
     "B": 17,
     "C": 4,
     "CALLSIGN": "9HA5961",
-    "COG": 336.2,
+    "COG": 111.1,
     "D": 5,
     "DEST": "LONDON, UK",
     "DRAUGHT": 2.7,
     "ETA": "03-26 09:00",
-    "HEADING": 336,
+    "HEADING": 114,
     "IMO": 1014943,
-    "LATITUDE": 51.49158,
-    "LONGITUDE": -0.02839,
+    "LATITUDE": 51.50666,
+    "LONGITUDE": -0.07944,
     "MMSI": 256762000,
     "NAME": "PETEMAVERICKMITCHELL",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 0,
-    "SOG": 7,
-    "TIME": "2025-03-26 08:34:20 GMT",
+    "ROT": 127,
+    "SOG": 0.7,
+    "TIME": "2025-03-26 09:28:40 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2103,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-03-26T08:34:28.604136",
+    "received_by_stations": []
   },
-  "last_seen": "2025-03-26T08:34:28.604136"
+  "last_seen": "2025-03-26T09:28:54.375734"
 }
