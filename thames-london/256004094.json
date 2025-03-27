@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-03-26"
+    "2025-03-26",
+    "2025-03-27"
   ],
   "last_full_data": {
     "A": 4,
     "B": 5,
     "C": 2,
     "CALLSIGN": "9HC2143",
-    "COG": 134.6,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50366,
-    "LONGITUDE": -0.07126,
+    "LATITUDE": 51.50372,
+    "LONGITUDE": -0.0715,
     "MMSI": 256004094,
     "NAME": "ICEMAN",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.4,
-    "TIME": "2025-03-26 20:23:17 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-03-27 09:28:41 GMT",
     "TYPE": 37,
-    "last_seen": "2025-03-26T19:22:07.596337",
+    "last_seen": "2025-03-26T20:28:55.377703",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-26T20:28:55.377703"
+  "last_seen": "2025-03-27T09:29:19.429057"
 }
