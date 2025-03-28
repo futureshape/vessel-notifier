@@ -83,7 +83,7 @@
     "B": 1,
     "C": 2,
     "CALLSIGN": "MPWH2",
-    "COG": 0,
+    "COG": 58.1,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0.7,
@@ -91,17 +91,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49569,
-    "LONGITUDE": 0.01888,
+    "LONGITUDE": 0.01887,
     "MMSI": 232056926,
     "NAME": "THAMES NAVIGATOR",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-03-28 16:32:22 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-03-28 17:26:31 GMT",
     "TYPE": 40,
-    "last_seen": "2025-03-28T15:28:35.834724",
+    "last_seen": "2025-03-28T16:33:43.142303",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-28T16:33:43.142303"
+  "last_seen": "2025-03-28T17:26:51.833322"
 }
