@@ -220,20 +220,20 @@
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "01-19 17:30",
-    "HEADING": 292,
+    "HEADING": 291,
     "IMO": 9963504,
-    "LATITUDE": 51.50772,
-    "LONGITUDE": 0.00564,
+    "LATITUDE": 51.50773,
+    "LONGITUDE": 0.00566,
     "MMSI": 232044560,
     "NAME": "CELESTIAL CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 0,
+    "ROT": -127,
     "SOG": 0,
-    "TIME": "2025-03-30 10:28:54 GMT",
+    "TIME": "2025-03-30 11:22:34 GMT",
     "TYPE": 45,
-    "last_seen": "2025-03-30T09:25:17.461819",
+    "last_seen": "2025-03-30T10:28:56.424004",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-30T10:28:56.424004"
+  "last_seen": "2025-03-30T11:22:36.958025"
 }
