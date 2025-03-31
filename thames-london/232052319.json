@@ -8,32 +8,36 @@
     "2024-09-23",
     "2024-09-29",
     "2024-12-15",
-    "2024-12-27"
+    "2024-12-27",
+    "2025-03-31"
   ],
   "last_full_data": {
-    "A": 58,
+    "A": 36,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MOPQ3",
-    "COG": 297.9,
+    "COG": 319.4,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50362,
-    "LONGITUDE": -0.06816,
+    "LATITUDE": 51.50218,
+    "LONGITUDE": 0.0116,
     "MMSI": 232052319,
     "NAME": "SAR DATUM (TOWER)",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5,
-    "TIME": "2024-12-27 13:18:14 GMT",
+    "SOG": 2.4,
+    "TIME": "2025-03-31 13:35:11 GMT",
     "TYPE": 51,
-    "last_seen": "2024-12-15T05:28:43.955006",
-    "received_by_stations": []
+    "last_seen": "2024-12-27T13:27:40.313321",
+    "received_by_stations": [
+      2115,
+      2648
+    ]
   },
-  "last_seen": "2024-12-27T13:27:40.313321"
+  "last_seen": "2025-03-31T13:35:32.181605"
 }
