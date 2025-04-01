@@ -7,28 +7,25 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "MCAF4",
-    "COG": 200.5,
+    "COG": 280.1,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50347,
-    "LONGITUDE": -0.00486,
+    "LATITUDE": 51.46433,
+    "LONGITUDE": -0.20218,
     "MMSI": 232011790,
     "NAME": "ULTRA VIOLET",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 9.4,
-    "TIME": "2025-04-01 11:23:25 GMT",
+    "SOG": 6.9,
+    "TIME": "2025-04-01 12:44:25 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      2115
-    ]
+    "last_seen": "2025-04-01T11:23:44.556362",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-01T11:23:44.556362"
+  "last_seen": "2025-04-01T12:54:23.498765"
 }
