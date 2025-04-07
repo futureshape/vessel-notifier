@@ -6,32 +6,36 @@
     "2024-07-17",
     "2024-07-23",
     "2024-08-01",
-    "2024-08-02"
+    "2024-08-02",
+    "2025-04-07"
   ],
   "last_full_data": {
     "A": 10,
     "B": 8,
     "C": 2,
     "CALLSIGN": "MOEF3",
-    "COG": 210.7,
+    "COG": 67.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47754,
-    "LONGITUDE": -0.3051,
+    "LATITUDE": 51.46504,
+    "LONGITUDE": -0.18704,
     "MMSI": 232049803,
     "NAME": "CONTINUUM",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6,
-    "TIME": "2024-08-02 10:17:24 GMT",
+    "SOG": 4,
+    "TIME": "2025-04-07 07:27:36 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-02T09:24:40.198660",
-    "received_by_stations": []
+    "last_seen": "2024-08-02T10:27:40.462821",
+    "received_by_stations": [
+      2648,
+      2103
+    ]
   },
-  "last_seen": "2024-08-02T10:27:40.462821"
+  "last_seen": "2025-04-07T07:27:45.215513"
 }
