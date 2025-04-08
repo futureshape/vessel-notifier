@@ -32,7 +32,7 @@
     "B": 5,
     "C": 1,
     "CALLSIGN": "MROH3",
-    "COG": 360,
+    "COG": 247.4,
     "D": 4,
     "DEST": "FUEL RIVER THAMES",
     "DRAUGHT": 1,
@@ -40,17 +40,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.51029,
-    "LONGITUDE": -0.11531,
+    "LONGITUDE": -0.11533,
     "MMSI": 232059204,
     "NAME": "DIESEL DOG",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-04-08 07:17:04 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-04-08 11:23:28 GMT",
     "TYPE": 90,
-    "last_seen": "2025-04-08T06:37:44.053158",
+    "last_seen": "2025-04-08T07:25:57.996171",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-08T07:25:57.996171"
+  "last_seen": "2025-04-08T11:23:29.860495"
 }
