@@ -122,7 +122,7 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "PH3306",
-    "COG": 289.1,
+    "COG": 0,
     "D": 3,
     "DEST": "HOQ.;,:",
     "DRAUGHT": 0.2,
@@ -130,17 +130,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50238,
-    "LONGITUDE": -0.06995,
+    "LONGITUDE": -0.06996,
     "MMSI": 244770251,
     "NAME": "RIET",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-04-08 18:36:22 GMT",
+    "SOG": 0,
+    "TIME": "2025-04-08 19:22:41 GMT",
     "TYPE": 69,
-    "last_seen": "2025-04-08T17:27:37.019687",
+    "last_seen": "2025-04-08T18:36:29.693390",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-08T18:36:29.693390"
+  "last_seen": "2025-04-08T19:22:42.775247"
 }
