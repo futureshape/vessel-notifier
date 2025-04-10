@@ -14,18 +14,18 @@
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50776,
-    "LONGITUDE": -0.07222,
+    "LATITUDE": 51.50775,
+    "LONGITUDE": -0.07224,
     "MMSI": 244260617,
     "NAME": "NAJADE",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-04-10 20:29:01 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-04-10 21:23:02 GMT",
     "TYPE": 37,
-    "last_seen": "2025-04-10T19:20:19.046370",
+    "last_seen": "2025-04-10T20:29:09.131878",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-10T20:29:09.131878"
+  "last_seen": "2025-04-10T21:25:15.356961"
 }
