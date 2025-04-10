@@ -76,32 +76,33 @@
     "2025-04-06",
     "2025-04-07",
     "2025-04-08",
-    "2025-04-09"
+    "2025-04-09",
+    "2025-04-10"
   ],
   "last_full_data": {
     "A": 6,
     "B": 4,
     "C": 3,
     "CALLSIGN": "2GBM3",
-    "COG": 18.2,
+    "COG": 0,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4724,
-    "LONGITUDE": -0.18061,
+    "LATITUDE": 51.47237,
+    "LONGITUDE": -0.18058,
     "MMSI": 235096008,
     "NAME": "SHAKEN NOT STIRRED",
     "NAVSTAT": 8,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-04-09 23:24:56 GMT",
+    "TIME": "2025-04-10 02:01:06 GMT",
     "TYPE": 0,
-    "last_seen": "2025-04-09T22:28:16.065225",
+    "last_seen": "2025-04-09T23:25:01.104108",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-09T23:25:01.104108"
+  "last_seen": "2025-04-10T02:01:24.782278"
 }
