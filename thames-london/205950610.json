@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-04-11"
+    "2025-04-11",
+    "2025-04-12"
   ],
   "last_full_data": {
     "A": 10,
     "B": 0,
     "C": 3,
     "CALLSIGN": "OR9506",
-    "COG": 219.4,
+    "COG": 190.6,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50621,
-    "LONGITUDE": -0.07221,
+    "LATITUDE": 51.50721,
+    "LONGITUDE": -0.06963,
     "MMSI": 205950610,
     "NAME": "BLAUWVOET",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-04-11 11:22:06 GMT",
+    "TIME": "2025-04-12 08:26:21 GMT",
     "TYPE": 36,
-    "last_seen": "2025-04-11T10:31:56.569662",
+    "last_seen": "2025-04-11T11:22:58.854581",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-11T11:22:58.854581"
+  "last_seen": "2025-04-12T08:30:52.623276"
 }
