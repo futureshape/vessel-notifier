@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-09-21",
     "2024-10-05",
-    "2025-03-08"
+    "2025-03-08",
+    "2025-04-13"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MBNC8",
-    "COG": 360,
+    "COG": 53.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.46899,
-    "LONGITUDE": -0.21947,
+    "LATITUDE": 51.47196,
+    "LONGITUDE": -0.25502,
     "MMSI": 235012402,
     "NAME": "WESTERN PROTECTOR",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-03-08 14:08:24 GMT",
+    "SOG": 5.5,
+    "TIME": "2025-04-13 09:03:33 GMT",
     "TYPE": 51,
-    "last_seen": "2025-03-08T13:22:06.757492",
+    "last_seen": "2025-03-08T14:20:43.851240",
     "received_by_stations": []
   },
-  "last_seen": "2025-03-08T14:20:43.851240"
+  "last_seen": "2025-04-13T09:27:05.053518"
 }
