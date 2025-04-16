@@ -108,7 +108,7 @@
     "B": 10,
     "C": 3,
     "CALLSIGN": "2JPH7",
-    "COG": 59.8,
+    "COG": 58.9,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
@@ -116,17 +116,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5032,
-    "LONGITUDE": -0.05639,
+    "LONGITUDE": -0.05641,
     "MMSI": 235117805,
     "NAME": "SWS SUFFOLK",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-04-16 11:23:24 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-04-16 12:54:14 GMT",
     "TYPE": 99,
-    "last_seen": "2025-04-16T10:34:08.365262",
+    "last_seen": "2025-04-16T11:23:28.211352",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-16T11:23:28.211352"
+  "last_seen": "2025-04-16T12:54:16.998747"
 }
