@@ -7,28 +7,25 @@
     "B": 3,
     "C": 3,
     "CALLSIGN": "9HB6592",
-    "COG": 261.6,
+    "COG": 338.5,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4853,
-    "LONGITUDE": -0.01063,
+    "LATITUDE": 51.50206,
+    "LONGITUDE": -0.06299,
     "MMSI": 215244000,
     "NAME": "CV20",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.3,
-    "TIME": "2025-04-17 13:34:42 GMT",
+    "SOG": 0,
+    "TIME": "2025-04-17 14:27:42 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-04-17T13:34:54.551196",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-17T13:34:54.551196"
+  "last_seen": "2025-04-17T14:30:00.065295"
 }
