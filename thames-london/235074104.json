@@ -7,28 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2CMS3",
-    "COG": 295.7,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48608,
-    "LONGITUDE": -0.01956,
+    "LATITUDE": 51.50646,
+    "LONGITUDE": -0.07212,
     "MMSI": 235074104,
     "NAME": "MARLIN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.3,
-    "TIME": "2025-04-18 13:32:15 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-04-18 14:28:17 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-04-18T13:32:27.892382",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-18T13:32:27.892382"
+  "last_seen": "2025-04-18T14:28:18.816408"
 }
