@@ -7,28 +7,25 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "PA3443",
-    "COG": 344.7,
+    "COG": 328.8,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50384,
-    "LONGITUDE": -0.02883,
+    "LATITUDE": 51.50808,
+    "LONGITUDE": -0.07256,
     "MMSI": 244003153,
     "NAME": "SPARKY2",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8,
-    "TIME": "2025-04-19 15:25:26 GMT",
+    "SOG": 0,
+    "TIME": "2025-04-19 16:32:41 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-04-19T15:25:42.336237",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-19T15:25:42.336237"
+  "last_seen": "2025-04-19T16:32:41.695072"
 }
