@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-05-03",
-    "2025-04-17"
+    "2025-04-17",
+    "2025-04-19"
   ],
   "last_full_data": {
     "A": 6,
     "B": 6,
     "C": 0,
     "CALLSIGN": "OP8396",
-    "COG": 333.2,
+    "COG": 89.3,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50635,
-    "LONGITUDE": -0.07231,
+    "LATITUDE": 51.50174,
+    "LONGITUDE": -0.06031,
     "MMSI": 205839630,
     "NAME": "PHENIX IV",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-04-17 15:26:01 GMT",
+    "SOG": 4.7,
+    "TIME": "2025-04-19 05:29:41 GMT",
     "TYPE": 36,
-    "last_seen": "2025-04-17T14:30:00.486270",
+    "last_seen": "2025-04-17T15:28:50.888786",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-17T15:28:50.888786"
+  "last_seen": "2025-04-19T05:29:55.497210"
 }
