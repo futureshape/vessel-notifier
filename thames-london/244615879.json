@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-04-18"
+    "2025-04-18",
+    "2025-04-20"
   ],
   "last_full_data": {
     "A": 8,
     "B": 7,
     "C": 1,
     "CALLSIGN": "PA6058",
-    "COG": 100.8,
+    "COG": 180.2,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50762,
-    "LONGITUDE": -0.07288,
+    "LATITUDE": 51.50218,
+    "LONGITUDE": -0.03073,
     "MMSI": 244615879,
     "NAME": "GIBIAN",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-04-18 17:20:00 GMT",
+    "SOG": 7.5,
+    "TIME": "2025-04-20 06:35:16 GMT",
     "TYPE": 37,
-    "last_seen": "2025-04-18T16:33:05.387486",
+    "last_seen": "2025-04-18T17:26:45.040419",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-18T17:26:45.040419"
+  "last_seen": "2025-04-20T06:35:32.815031"
 }
