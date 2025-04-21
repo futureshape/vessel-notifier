@@ -1,7 +1,35 @@
 {
   "dates_seen": [
-    "2024-04-27"
+    "2024-04-27",
+    "2025-04-21"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-04-27T15:16:22.207831"
+  "last_full_data": {
+    "A": 12,
+    "B": 0,
+    "C": 1,
+    "CALLSIGN": "VSUV3",
+    "COG": 350.5,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 339,
+    "IMO": 0,
+    "LATITUDE": 51.49418,
+    "LONGITUDE": -0.02898,
+    "MMSI": 235004804,
+    "NAME": "SERENA",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 6.6,
+    "TIME": "2025-04-21 15:27:54 GMT",
+    "TYPE": 36,
+    "last_seen": "2024-04-27T15:16:22.207831",
+    "received_by_stations": [
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-04-21T15:28:23.860618"
 }
