@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-04-19"
+    "2025-04-19",
+    "2025-04-22"
   ],
   "last_full_data": {
     "A": 11,
     "B": 4,
     "C": 2,
     "CALLSIGN": "PA3443",
-    "COG": 328.8,
+    "COG": 179.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50804,
-    "LONGITUDE": -0.07255,
+    "LATITUDE": 51.4995,
+    "LONGITUDE": -0.03118,
     "MMSI": 244003153,
     "NAME": "SPARKY2",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-04-19 17:09:10 GMT",
+    "SOG": 7.3,
+    "TIME": "2025-04-22 08:34:47 GMT",
     "TYPE": 37,
-    "last_seen": "2025-04-19T16:32:41.695072",
+    "last_seen": "2025-04-19T17:25:23.448442",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-19T17:25:23.448442"
+  "last_seen": "2025-04-22T08:35:17.978613"
 }
