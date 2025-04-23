@@ -7,27 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MORL9",
-    "COG": 80.9,
+    "COG": 139.5,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 16,
     "IMO": 0,
-    "LATITUDE": 51.5016,
-    "LONGITUDE": -0.05907,
+    "LATITUDE": 51.50954,
+    "LONGITUDE": -0.03749,
     "MMSI": 232052714,
     "NAME": "HURRICANE 1",
     "NAVSTAT": 15,
     "PAC": 1,
-    "ROT": 16,
-    "SOG": 5.7,
-    "TIME": "2025-04-23 08:34:01 GMT",
+    "ROT": 71,
+    "SOG": 0.1,
+    "TIME": "2025-04-23 09:18:27 GMT",
     "TYPE": 55,
-    "last_seen": null,
-    "received_by_stations": [
-      2115
-    ]
+    "last_seen": "2025-04-23T08:35:14.363181",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-23T08:35:14.363181"
+  "last_seen": "2025-04-23T09:29:49.831378"
 }
