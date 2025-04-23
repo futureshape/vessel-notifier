@@ -20,32 +20,39 @@
     "2025-01-09",
     "2025-01-14",
     "2025-01-15",
-    "2025-01-16"
+    "2025-01-16",
+    "2025-04-23"
   ],
   "last_full_data": {
     "A": 9,
     "B": 15,
     "C": 4,
     "CALLSIGN": "MPVV8",
-    "COG": 310.3,
+    "COG": 317.7,
     "D": 4,
-    "DEST": "HARWICH",
-    "DRAUGHT": 2.4,
-    "ETA": "01-16 20:00",
-    "HEADING": 340,
+    "DEST": "GBGVS",
+    "DRAUGHT": 2.3,
+    "ETA": "04-17 17:00",
+    "HEADING": 321,
     "IMO": 9407299,
-    "LATITUDE": 51.49517,
-    "LONGITUDE": -0.00012,
+    "LATITUDE": 51.50081,
+    "LONGITUDE": 0.01375,
     "MMSI": 235040596,
     "NAME": "MTS VALOUR",
-    "NAVSTAT": 0,
+    "NAVSTAT": 3,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-01-16 12:47:39 GMT",
+    "SOG": 6.8,
+    "TIME": "2025-04-23 07:30:14 GMT",
     "TYPE": 52,
-    "last_seen": "2025-01-16T11:20:17.790865",
-    "received_by_stations": []
+    "last_seen": "2025-01-16T12:47:44.282438",
+    "received_by_stations": [
+      3445,
+      2103,
+      3416,
+      2115,
+      2648
+    ]
   },
-  "last_seen": "2025-01-16T12:47:44.282438"
+  "last_seen": "2025-04-23T07:30:22.088966"
 }
