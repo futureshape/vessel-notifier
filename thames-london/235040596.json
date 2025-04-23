@@ -28,31 +28,25 @@
     "B": 15,
     "C": 4,
     "CALLSIGN": "MPVV8",
-    "COG": 317.7,
+    "COG": 57.7,
     "D": 4,
     "DEST": "GBGVS",
     "DRAUGHT": 2.3,
     "ETA": "04-17 17:00",
-    "HEADING": 321,
+    "HEADING": 242,
     "IMO": 9407299,
-    "LATITUDE": 51.50081,
-    "LONGITUDE": 0.01375,
+    "LATITUDE": 51.4946,
+    "LONGITUDE": 0.00063,
     "MMSI": 235040596,
     "NAME": "MTS VALOUR",
     "NAVSTAT": 3,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 6.8,
-    "TIME": "2025-04-23 07:30:14 GMT",
+    "SOG": 0.9,
+    "TIME": "2025-04-23 08:35:08 GMT",
     "TYPE": 52,
-    "last_seen": "2025-01-16T12:47:44.282438",
-    "received_by_stations": [
-      3445,
-      2103,
-      3416,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-04-23T07:30:22.088966",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-23T07:30:22.088966"
+  "last_seen": "2025-04-23T08:35:14.367451"
 }
