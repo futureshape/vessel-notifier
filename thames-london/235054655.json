@@ -59,7 +59,7 @@
     "B": 2,
     "C": 3,
     "CALLSIGN": "GCSX",
-    "COG": 144.5,
+    "COG": 89,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -67,17 +67,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49257,
-    "LONGITUDE": -0.12445,
+    "LONGITUDE": -0.12446,
     "MMSI": 235054655,
     "NAME": "HURLINGHAM",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-04-23 10:34:18 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-04-23 11:23:56 GMT",
     "TYPE": 60,
-    "last_seen": "2025-04-23T09:29:49.813843",
+    "last_seen": "2025-04-23T10:34:24.435130",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-23T10:34:24.435130"
+  "last_seen": "2025-04-23T11:24:03.177428"
 }
