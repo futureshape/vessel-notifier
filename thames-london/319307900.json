@@ -7,31 +7,25 @@
     "B": 15,
     "C": 2,
     "CALLSIGN": "ZGUD2",
-    "COG": 258.4,
+    "COG": 360,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 260,
+    "HEADING": 17,
     "IMO": 0,
-    "LATITUDE": 51.49681,
-    "LONGITUDE": 0.03028,
+    "LATITUDE": 51.50635,
+    "LONGITUDE": -0.07228,
     "MMSI": 319307900,
     "NAME": "SUNYO",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 8,
-    "TIME": "2025-04-24 09:29:20 GMT",
+    "SOG": 0,
+    "TIME": "2025-04-24 10:31:46 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      2115,
-      2665,
-      2648,
-      2843
-    ]
+    "last_seen": "2025-04-24T09:29:50.697510",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-24T09:29:50.697510"
+  "last_seen": "2025-04-24T10:33:26.582832"
 }
