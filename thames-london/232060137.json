@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-04-25"
+  ],
+  "last_full_data": {
+    "A": 10,
+    "B": 11,
+    "C": 3,
+    "CALLSIGN": "MRUN6",
+    "COG": 265.6,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 280,
+    "IMO": 0,
+    "LATITUDE": 51.50198,
+    "LONGITUDE": -0.05907,
+    "MMSI": 232060137,
+    "NAME": "GREY GOOSE",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 4.1,
+    "TIME": "2025-04-25 08:34:22 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      3416,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-04-25T08:34:43.134925"
+}
