@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-04-23",
-    "2025-04-24"
+    "2025-04-24",
+    "2025-04-25"
   ],
   "last_full_data": {
     "A": 12,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MORL9",
-    "COG": 116.9,
+    "COG": 293.1,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 16,
     "IMO": 0,
-    "LATITUDE": 51.50572,
-    "LONGITUDE": -0.07612,
+    "LATITUDE": 51.50835,
+    "LONGITUDE": -0.03471,
     "MMSI": 232052714,
     "NAME": "HURRICANE 1",
     "NAVSTAT": 15,
     "PAC": 1,
-    "ROT": 30,
-    "SOG": 38.8,
-    "TIME": "2025-04-24 14:02:20 GMT",
+    "ROT": -43,
+    "SOG": 51.6,
+    "TIME": "2025-04-25 09:22:39 GMT",
     "TYPE": 55,
-    "last_seen": "2025-04-24T12:55:12.655132",
+    "last_seen": "2025-04-24T14:30:32.274924",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-24T14:30:32.274924"
+  "last_seen": "2025-04-25T09:29:20.053421"
 }
