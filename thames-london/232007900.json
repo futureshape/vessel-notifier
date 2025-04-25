@@ -167,32 +167,33 @@
     "2025-04-21",
     "2025-04-22",
     "2025-04-23",
-    "2025-04-24"
+    "2025-04-24",
+    "2025-04-25"
   ],
   "last_full_data": {
     "A": 16,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MAZN4",
-    "COG": 360,
+    "COG": 88.1,
     "D": 8,
     "DEST": "LONDON_PORT",
     "DRAUGHT": 1,
     "ETA": "10-27 22:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.51041,
-    "LONGITUDE": -0.10502,
+    "LATITUDE": 51.5105,
+    "LONGITUDE": -0.1011,
     "MMSI": 232007900,
     "NAME": "CHILIDOG",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-04-24 15:30:21 GMT",
+    "SOG": 0.5,
+    "TIME": "2025-04-25 05:29:46 GMT",
     "TYPE": 79,
-    "last_seen": "2025-04-24T14:30:32.271869",
+    "last_seen": "2025-04-24T15:30:30.096765",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-24T15:30:30.096765"
+  "last_seen": "2025-04-25T05:29:52.594299"
 }
