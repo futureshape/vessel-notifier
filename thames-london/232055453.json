@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-04-19",
     "2025-04-22",
-    "2025-04-24"
+    "2025-04-24",
+    "2025-04-25"
   ],
   "last_full_data": {
     "A": 9,
     "B": 14,
     "C": 4,
     "CALLSIGN": "MPIR8",
-    "COG": 360,
+    "COG": 82.3,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5068,
-    "LONGITUDE": -0.07099,
+    "LATITUDE": 51.50153,
+    "LONGITUDE": -0.05968,
     "MMSI": 232055453,
     "NAME": "HAPPY BUNNY",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-04-24 10:07:34 GMT",
+    "SOG": 6.7,
+    "TIME": "2025-04-25 11:23:07 GMT",
     "TYPE": 37,
-    "last_seen": "2025-04-22T10:32:37.652661",
+    "last_seen": "2025-04-24T10:33:26.583739",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-24T10:33:26.583739"
+  "last_seen": "2025-04-25T11:23:22.680604"
 }

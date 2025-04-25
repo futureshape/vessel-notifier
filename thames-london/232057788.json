@@ -7,27 +7,25 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "MFFB3",
-    "COG": 159.5,
+    "COG": 279.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49428,
-    "LONGITUDE": -0.0025,
+    "LATITUDE": 51.50813,
+    "LONGITUDE": -0.08592,
     "MMSI": 232057788,
     "NAME": "BLUEBIRD OF CHELSEA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 10.7,
-    "TIME": "2025-04-25 10:31:41 GMT",
+    "SOG": 11.3,
+    "TIME": "2025-04-25 10:58:12 GMT",
     "TYPE": 60,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-04-25T10:32:24.702992",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-25T10:32:24.702992"
+  "last_seen": "2025-04-25T11:23:22.673585"
 }
