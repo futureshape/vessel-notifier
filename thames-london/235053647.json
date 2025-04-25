@@ -74,7 +74,7 @@
     "B": 13,
     "C": 4,
     "CALLSIGN": "MXOE5",
-    "COG": 360,
+    "COG": 0,
     "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 2.1,
@@ -82,17 +82,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49448,
-    "LONGITUDE": 0.02655,
+    "LONGITUDE": 0.02662,
     "MMSI": 235053647,
     "NAME": "REGAIN",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-04-25 06:37:36 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-04-25 07:25:47 GMT",
     "TYPE": 52,
-    "last_seen": "2025-04-25T05:29:52.604548",
+    "last_seen": "2025-04-25T06:37:44.661592",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-25T06:37:44.661592"
+  "last_seen": "2025-04-25T07:26:05.031459"
 }
