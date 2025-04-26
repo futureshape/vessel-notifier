@@ -77,7 +77,7 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "2CTA3",
-    "COG": 360,
+    "COG": 265.8,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -85,17 +85,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50683,
-    "LONGITUDE": -0.08214,
+    "LONGITUDE": -0.08461,
     "MMSI": 235075512,
     "NAME": "SIBERIAN",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-04-26 08:31:09 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-04-26 09:15:28 GMT",
     "TYPE": 52,
-    "last_seen": "2025-04-26T07:23:46.401786",
+    "last_seen": "2025-04-26T08:31:17.523228",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-26T08:31:17.523228"
+  "last_seen": "2025-04-26T09:26:00.502793"
 }
