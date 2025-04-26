@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2025-04-26"
+  ],
+  "last_full_data": {
+    "A": 52,
+    "B": 13,
+    "C": 6,
+    "CALLSIGN": "DDKK2",
+    "COG": 13.2,
+    "D": 4,
+    "DEST": "GB LON",
+    "DRAUGHT": 4.8,
+    "ETA": "04-26 05:00",
+    "HEADING": 102,
+    "IMO": 9618446,
+    "LATITUDE": 51.50103,
+    "LONGITUDE": -0.01348,
+    "MMSI": 218768000,
+    "NAME": "ALEX VON HUMBOLDT 2",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2025-04-26 12:48:47 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2103,
+      3416,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-04-26T12:48:51.265373"
+}
