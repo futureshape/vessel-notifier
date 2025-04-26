@@ -7,30 +7,25 @@
     "B": 0,
     "C": 6,
     "CALLSIGN": "GUHJ",
-    "COG": 255.6,
+    "COG": 185.1,
     "D": 6,
     "DEST": "LONDON ROAD",
     "DRAUGHT": 2,
     "ETA": "01-01 00:00",
-    "HEADING": 248,
+    "HEADING": 108,
     "IMO": 4906599,
-    "LATITUDE": 51.50846,
-    "LONGITUDE": -0.04222,
+    "LATITUDE": 51.50662,
+    "LONGITUDE": -0.08055,
     "MMSI": 234580000,
     "NAME": "BRITISH WARSHIP",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 0,
-    "ROT": -127,
-    "SOG": 5.7,
-    "TIME": "2025-04-26 10:29:54 GMT",
+    "ROT": 0,
+    "SOG": 0.1,
+    "TIME": "2025-04-26 11:19:46 GMT",
     "TYPE": 35,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      3416,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-04-26T10:29:57.325289",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-26T10:29:57.325289"
+  "last_seen": "2025-04-26T11:21:20.711417"
 }
