@@ -9,7 +9,7 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "PC9763",
-    "COG": 113.4,
+    "COG": 236.4,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -17,17 +17,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49379,
-    "LONGITUDE": -0.03439,
+    "LONGITUDE": -0.0344,
     "MMSI": 244050677,
     "NAME": "VIKING",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-04-27 11:19:34 GMT",
+    "SOG": 0.3,
+    "TIME": "2025-04-27 12:47:34 GMT",
     "TYPE": 37,
-    "last_seen": "2025-04-27T10:30:32.774079",
+    "last_seen": "2025-04-27T11:22:15.617818",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-27T11:22:15.617818"
+  "last_seen": "2025-04-27T12:49:16.500940"
 }

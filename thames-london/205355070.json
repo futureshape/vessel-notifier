@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-04-27"
+  ],
+  "last_full_data": {
+    "A": 8,
+    "B": 5,
+    "C": 1,
+    "CALLSIGN": "OQ3550",
+    "COG": 99.9,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50617,
+    "LONGITUDE": -0.0723,
+    "MMSI": 205355070,
+    "NAME": "MIWOSA",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2025-04-27 12:45:56 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      3785,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-04-27T12:49:16.497123"
+}
