@@ -7,32 +7,25 @@
     "B": 87,
     "C": 5,
     "CALLSIGN": ".",
-    "COG": 201.1,
+    "COG": 0,
     "D": 11,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50209,
-    "LONGITUDE": -0.00514,
+    "LATITUDE": 51.50127,
+    "LONGITUDE": -0.01079,
     "MMSI": 566011400,
     "NAME": "WARSHIP 68",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 3.4,
-    "TIME": "2025-04-28 13:46:35 GMT",
+    "SOG": 0,
+    "TIME": "2025-04-28 14:34:35 GMT",
     "TYPE": 0,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2103,
-      3785,
-      2665,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-04-28T13:46:44.916206",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-28T13:46:44.916206"
+  "last_seen": "2025-04-28T14:34:39.682373"
 }
