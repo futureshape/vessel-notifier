@@ -8,28 +8,25 @@
     "B": 1,
     "C": 3,
     "CALLSIGN": "PH5772",
-    "COG": 276.1,
+    "COG": 141.1,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 275,
+    "HEADING": 308,
     "IMO": 0,
-    "LATITUDE": 51.49843,
-    "LONGITUDE": 0.03813,
+    "LATITUDE": 51.50667,
+    "LONGITUDE": -0.07093,
     "MMSI": 244180842,
     "NAME": "INDIAN SUMMER",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.9,
-    "TIME": "2025-04-28 11:13:36 GMT",
+    "SOG": 0,
+    "TIME": "2025-04-28 13:02:36 GMT",
     "TYPE": 36,
-    "last_seen": "2024-05-18T09:18:32.143467",
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-04-28T11:14:45.591762",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-28T11:14:45.591762"
+  "last_seen": "2025-04-28T13:06:20.913152"
 }

@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-01-12",
-    "2025-04-26"
+    "2025-04-26",
+    "2025-04-28"
   ],
   "last_full_data": {
     "A": 6,
     "B": 16,
     "C": 3,
     "CALLSIGN": "MQPQ6",
-    "COG": 100.5,
+    "COG": 352.7,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 2.8,
-    "ETA": "04-26 12:00",
+    "ETA": "04-28 14:30",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50634,
-    "LONGITUDE": -0.07934,
+    "LATITUDE": 51.50309,
+    "LONGITUDE": -0.02895,
     "MMSI": 235051179,
     "NAME": "CHRISTINE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 1.2,
-    "TIME": "2025-04-26 11:21:16 GMT",
+    "SOG": 5.3,
+    "TIME": "2025-04-28 13:06:10 GMT",
     "TYPE": 31,
-    "last_seen": "2025-04-26T10:29:56.458193",
+    "last_seen": "2025-04-26T11:21:20.712249",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-26T11:21:20.712249"
+  "last_seen": "2025-04-28T13:06:20.918461"
 }

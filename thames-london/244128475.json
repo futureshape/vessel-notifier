@@ -7,29 +7,25 @@
     "B": 7,
     "C": 4,
     "CALLSIGN": "PI6671",
-    "COG": 218.5,
+    "COG": 23.1,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50501,
-    "LONGITUDE": -0.00369,
+    "LATITUDE": 51.50616,
+    "LONGITUDE": -0.07217,
     "MMSI": 244128475,
     "NAME": "FOREVER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.3,
-    "TIME": "2025-04-28 11:14:33 GMT",
+    "SOG": 1.7,
+    "TIME": "2025-04-28 13:05:59 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3785,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-04-28T11:14:41.426570",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-28T11:14:41.426570"
+  "last_seen": "2025-04-28T13:06:19.171184"
 }

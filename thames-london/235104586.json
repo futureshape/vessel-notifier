@@ -143,7 +143,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2HLH2",
-    "COG": 187.7,
+    "COG": 94.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0.1,
@@ -151,17 +151,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50772,
-    "LONGITUDE": -0.08005,
+    "LONGITUDE": -0.08015,
     "MMSI": 235104586,
     "NAME": "EXHILARATION",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-04-28 10:54:19 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-04-28 13:06:11 GMT",
     "TYPE": 99,
-    "last_seen": "2025-04-28T10:03:43.393555",
+    "last_seen": "2025-04-28T11:14:39.827761",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-28T11:14:39.827761"
+  "last_seen": "2025-04-28T13:06:18.607924"
 }
