@@ -1,35 +1,32 @@
 {
   "dates_seen": [
-    "2025-04-27"
+    "2025-04-27",
+    "2025-04-28"
   ],
   "last_full_data": {
     "A": 18,
     "B": 81,
     "C": 12,
     "CALLSIGN": "MHHF3",
-    "COG": 331.9,
+    "COG": 317.7,
     "D": 4,
     "DEST": "DREDGEA407>===GB LON",
     "DRAUGHT": 6.6,
     "ETA": "04-27 23:00",
     "HEADING": 108,
     "IMO": 9848675,
-    "LATITUDE": 51.49582,
-    "LONGITUDE": 0.02167,
+    "LATITUDE": 51.49581,
+    "LONGITUDE": 0.02166,
     "MMSI": 232027481,
     "NAME": "CEMEX GO INNOVATION",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0.1,
-    "TIME": "2025-04-27 23:27:18 GMT",
+    "SOG": 0,
+    "TIME": "2025-04-28 02:07:59 GMT",
     "TYPE": 33,
-    "last_seen": null,
-    "received_by_stations": [
-      3785,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-04-27T23:27:21.886675",
+    "received_by_stations": []
   },
-  "last_seen": "2025-04-27T23:27:21.886675"
+  "last_seen": "2025-04-28T02:08:02.365771"
 }
