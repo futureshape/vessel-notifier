@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-04-22",
     "2025-04-23",
-    "2025-04-28"
+    "2025-04-28",
+    "2025-04-29"
   ],
   "last_full_data": {
     "A": 12,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MORM2",
-    "COG": 356,
+    "COG": 240.5,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 343,
+    "HEADING": 131,
     "IMO": 0,
-    "LATITUDE": 51.50247,
-    "LONGITUDE": -0.05999,
+    "LATITUDE": 51.50291,
+    "LONGITUDE": -0.05658,
     "MMSI": 232052715,
     "NAME": "HURRICANE 2",
     "NAVSTAT": 15,
     "PAC": 1,
-    "ROT": -40,
-    "SOG": 0.2,
-    "TIME": "2025-04-28 13:26:13 GMT",
+    "ROT": 15,
+    "SOG": 9.4,
+    "TIME": "2025-04-29 10:34:32 GMT",
     "TYPE": 55,
-    "last_seen": "2025-04-28T13:06:20.921209",
+    "last_seen": "2025-04-28T13:46:44.350346",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-28T13:46:44.350346"
+  "last_seen": "2025-04-29T10:34:32.879521"
 }
