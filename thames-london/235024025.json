@@ -49,32 +49,33 @@
     "2025-04-25",
     "2025-04-26",
     "2025-04-27",
-    "2025-04-28"
+    "2025-04-28",
+    "2025-04-30"
   ],
   "last_full_data": {
     "A": 6,
     "B": 10,
     "C": 1,
     "CALLSIGN": "MPMK3",
-    "COG": 117.9,
+    "COG": 202.6,
     "D": 4,
     "DEST": "SIZEWELL",
     "DRAUGHT": 2.3,
     "ETA": "04-12 15:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50256,
-    "LONGITUDE": -0.0677,
+    "LATITUDE": 51.50754,
+    "LONGITUDE": 0.00255,
     "MMSI": 235024025,
     "NAME": "THAMES VIXEN",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 2.9,
-    "TIME": "2025-04-28 11:14:33 GMT",
+    "SOG": 0,
+    "TIME": "2025-04-30 09:29:39 GMT",
     "TYPE": 52,
-    "last_seen": "2025-04-28T10:03:43.377653",
+    "last_seen": "2025-04-28T11:14:39.831511",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-28T11:14:39.831511"
+  "last_seen": "2025-04-30T09:29:46.261327"
 }
