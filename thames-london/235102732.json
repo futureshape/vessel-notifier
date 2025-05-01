@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-04-29",
-    "2025-04-30"
+    "2025-04-30",
+    "2025-05-01"
   ],
   "last_full_data": {
     "A": 10,
     "B": 3,
     "C": 2,
     "CALLSIGN": "2HDL7",
-    "COG": 340.6,
+    "COG": 336.2,
     "D": 2,
     "DEST": "ELY",
     "DRAUGHT": 0,
     "ETA": "08-29 18:57",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50752,
-    "LONGITUDE": -0.07155,
+    "LATITUDE": 51.50756,
+    "LONGITUDE": -0.07153,
     "MMSI": 235102732,
     "NAME": "LAPIS LAZULI II",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-04-30 23:24:17 GMT",
+    "TIME": "2025-05-01 02:18:17 GMT",
     "TYPE": 37,
-    "last_seen": "2025-04-30T22:30:00.514146",
+    "last_seen": "2025-04-30T23:25:52.691854",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-30T23:25:52.691854"
+  "last_seen": "2025-05-01T02:19:47.540837"
 }
