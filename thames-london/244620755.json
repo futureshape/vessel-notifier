@@ -1,13 +1,14 @@
 {
   "dates_seen": [
-    "2025-04-28"
+    "2025-04-28",
+    "2025-05-01"
   ],
   "last_full_data": {
     "A": 4,
     "B": 6,
     "C": 2,
     "CALLSIGN": "PE2464",
-    "COG": 22.1,
+    "COG": 0,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -15,17 +16,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50696,
-    "LONGITUDE": -0.07214,
+    "LONGITUDE": -0.07238,
     "MMSI": 244620755,
     "NAME": "BESTEVAER",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-04-28 13:01:05 GMT",
+    "TIME": "2025-05-01 13:32:03 GMT",
     "TYPE": 36,
-    "last_seen": "2025-04-28T11:14:40.734806",
+    "last_seen": "2025-04-28T13:06:20.337641",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-28T13:06:20.337641"
+  "last_seen": "2025-05-01T13:34:10.267673"
 }
