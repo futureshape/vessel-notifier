@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-04-28"
+    "2025-04-28",
+    "2025-05-01"
   ],
   "last_full_data": {
     "A": 13,
     "B": 1,
     "C": 1,
     "CALLSIGN": "PC5355",
-    "COG": 255,
+    "COG": 283.3,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50703,
-    "LONGITUDE": -0.0715,
+    "LATITUDE": 51.50706,
+    "LONGITUDE": -0.0717,
     "MMSI": 244750615,
     "NAME": "SKADI",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-04-28 13:45:58 GMT",
+    "TIME": "2025-05-01 14:27:09 GMT",
     "TYPE": 36,
-    "last_seen": "2025-04-28T13:06:20.338648",
+    "last_seen": "2025-04-28T13:46:44.347235",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-28T13:46:44.347235"
+  "last_seen": "2025-05-01T14:29:01.976140"
 }
