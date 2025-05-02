@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-04-29"
+    "2025-04-29",
+    "2025-05-02"
   ],
   "last_full_data": {
     "A": 4,
     "B": 9,
     "C": 2,
     "CALLSIGN": "PH5059",
-    "COG": 101.9,
+    "COG": 196.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50692,
-    "LONGITUDE": -0.07207,
+    "LATITUDE": 51.5062,
+    "LONGITUDE": -0.07223,
     "MMSI": 244750974,
     "NAME": "THE DREAMER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 2.2,
-    "TIME": "2025-04-29 14:22:35 GMT",
+    "SOG": 0,
+    "TIME": "2025-05-02 05:23:38 GMT",
     "TYPE": 37,
-    "last_seen": "2025-04-29T13:40:48.249890",
+    "last_seen": "2025-04-29T14:31:52.587002",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-29T14:31:52.587002"
+  "last_seen": "2025-05-02T05:30:16.292712"
 }

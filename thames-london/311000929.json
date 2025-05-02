@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-05-01"
+    "2025-05-01",
+    "2025-05-02"
   ],
   "last_full_data": {
     "A": 19,
     "B": 106,
     "C": 11,
     "CALLSIGN": "C6EL6",
-    "COG": 143.8,
+    "COG": 296.4,
     "D": 11,
-    "DEST": "NE SPIT PBG",
+    "DEST": "GBLON",
     "DRAUGHT": 5.7,
-    "ETA": "05-01 22:00",
-    "HEADING": 144,
+    "ETA": "05-02 05:45",
+    "HEADING": 298,
     "IMO": 9842554,
-    "LATITUDE": 51.48914,
-    "LONGITUDE": -0.02613,
+    "LATITUDE": 51.50466,
+    "LONGITUDE": -0.07242,
     "MMSI": 311000929,
     "NAME": "NG ENDURANCE",
-    "NAVSTAT": 5,
+    "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": -9,
-    "SOG": 8.9,
-    "TIME": "2025-05-01 16:34:21 GMT",
+    "ROT": -5,
+    "SOG": 5.3,
+    "TIME": "2025-05-02 05:30:11 GMT",
     "TYPE": 60,
-    "last_seen": "2025-05-01T15:28:26.491575",
+    "last_seen": "2025-05-01T16:34:38.670519",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-01T16:34:38.670519"
+  "last_seen": "2025-05-02T05:30:16.292203"
 }
