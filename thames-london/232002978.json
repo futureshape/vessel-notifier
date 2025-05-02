@@ -7,28 +7,25 @@
     "B": 12,
     "C": 5,
     "CALLSIGN": "GAAZ",
-    "COG": 112.1,
+    "COG": 122.6,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50485,
-    "LONGITUDE": -0.07115,
+    "LATITUDE": 51.50486,
+    "LONGITUDE": -0.07111,
     "MMSI": 232002978,
     "NAME": "HMS TRUMPETER",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0.1,
-    "TIME": "2025-05-02 16:32:23 GMT",
+    "TIME": "2025-05-02 17:14:24 GMT",
     "TYPE": 35,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-05-02T16:34:55.912891",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-02T16:34:55.912891"
+  "last_seen": "2025-05-02T17:27:14.090642"
 }
