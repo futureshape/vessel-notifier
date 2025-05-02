@@ -8,30 +8,25 @@
     "B": 6,
     "C": 1,
     "CALLSIGN": "MMKG2",
-    "COG": 200.4,
+    "COG": 195.3,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50324,
-    "LONGITUDE": -0.00442,
+    "LATITUDE": 51.47245,
+    "LONGITUDE": -0.17934,
     "MMSI": 235019066,
     "NAME": "FELUCCA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.5,
-    "TIME": "2025-05-02 02:05:56 GMT",
+    "SOG": 9.4,
+    "TIME": "2025-05-02 03:12:46 GMT",
     "TYPE": 52,
-    "last_seen": "2024-05-23T11:16:36.379207",
-    "received_by_stations": [
-      3416,
-      3785,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-05-02T02:06:04.344301",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-02T02:06:04.344301"
+  "last_seen": "2025-05-02T03:12:52.642084"
 }
