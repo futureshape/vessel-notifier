@@ -296,7 +296,7 @@
     "B": 30,
     "C": 4,
     "CALLSIGN": "MPPJ2",
-    "COG": 187.5,
+    "COG": 360,
     "D": 8,
     "DEST": "LONDON",
     "DRAUGHT": 2,
@@ -304,17 +304,17 @@
     "HEADING": 91,
     "IMO": 1022225,
     "LATITUDE": 51.4946,
-    "LONGITUDE": 0.02662,
+    "LONGITUDE": 0.02663,
     "MMSI": 232056217,
     "NAME": "RESOLUTE 1",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": -8,
-    "SOG": 0.2,
-    "TIME": "2025-05-02 22:29:47 GMT",
+    "ROT": -4,
+    "SOG": 0,
+    "TIME": "2025-05-02 23:23:47 GMT",
     "TYPE": 52,
-    "last_seen": "2025-05-02T21:25:51.996285",
+    "last_seen": "2025-05-02T22:30:00.653208",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-02T22:30:00.653208"
+  "last_seen": "2025-05-02T23:25:27.033734"
 }
