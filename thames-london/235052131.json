@@ -256,7 +256,7 @@
     "B": 26,
     "C": 3,
     "CALLSIGN": "MWRT5",
-    "COG": 360,
+    "COG": 90.3,
     "D": 7,
     "DEST": "",
     "DRAUGHT": 1.8,
@@ -264,17 +264,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5011,
-    "LONGITUDE": -0.06105,
+    "LONGITUDE": -0.06088,
     "MMSI": 235052131,
     "NAME": "MILLENNIUM OF LONDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-05-03 17:25:12 GMT",
+    "SOG": 0.9,
+    "TIME": "2025-05-03 18:34:13 GMT",
     "TYPE": 99,
-    "last_seen": "2025-05-03T16:32:25.982692",
+    "last_seen": "2025-05-03T17:25:19.087794",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-03T17:25:19.087794"
+  "last_seen": "2025-05-03T18:34:21.855633"
 }
