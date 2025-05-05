@@ -182,7 +182,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MAZN4",
-    "COG": 360,
+    "COG": 22.1,
     "D": 8,
     "DEST": "LONDON_PORT",
     "DRAUGHT": 1,
@@ -190,17 +190,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50992,
-    "LONGITUDE": -0.11586,
+    "LONGITUDE": -0.11585,
     "MMSI": 232007900,
     "NAME": "CHILIDOG",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-05 20:29:56 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-05-05 21:26:15 GMT",
     "TYPE": 79,
-    "last_seen": "2025-05-05T19:21:14.601847",
+    "last_seen": "2025-05-05T20:29:56.954802",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-05T20:29:56.954802"
+  "last_seen": "2025-05-05T21:26:20.590294"
 }
