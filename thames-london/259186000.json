@@ -6,32 +6,41 @@
     "2024-07-02",
     "2024-07-28",
     "2024-07-29",
-    "2024-07-30"
+    "2024-07-30",
+    "2025-05-05"
   ],
   "last_full_data": {
     "A": 43,
     "B": 185,
     "C": 17,
     "CALLSIGN": "LAYU7",
-    "COG": 6.5,
+    "COG": 267.1,
     "D": 17,
-    "DEST": "DOVER, U.K",
-    "DRAUGHT": 6.5,
-    "ETA": "07-31 06:25",
-    "HEADING": 4,
+    "DEST": "GREENWICH",
+    "DRAUGHT": 6.9,
+    "ETA": "05-04 00:00",
+    "HEADING": 268,
     "IMO": 9650420,
-    "LATITUDE": 51.50123,
-    "LONGITUDE": -0.00452,
+    "LATITUDE": 51.49623,
+    "LONGITUDE": 0.03031,
     "MMSI": 259186000,
     "NAME": "VIKING SKY",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 17,
-    "SOG": 5.7,
-    "TIME": "2024-07-30 20:20:43 GMT",
+    "ROT": 13,
+    "SOG": 4.2,
+    "TIME": "2025-05-05 05:31:09 GMT",
     "TYPE": 60,
-    "last_seen": "2024-07-30T19:18:35.786061",
-    "received_by_stations": []
+    "last_seen": "2024-07-30T20:20:48.777843",
+    "received_by_stations": [
+      2130,
+      3445,
+      2103,
+      2115,
+      3785,
+      2665,
+      2648
+    ]
   },
-  "last_seen": "2024-07-30T20:20:48.777843"
+  "last_seen": "2025-05-05T05:31:17.170137"
 }

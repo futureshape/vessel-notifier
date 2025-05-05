@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-04-12",
     "2025-04-13",
-    "2025-05-02"
+    "2025-05-02",
+    "2025-05-05"
   ],
   "last_full_data": {
     "A": 7,
     "B": 6,
     "C": 2,
     "CALLSIGN": "MROC7",
-    "COG": 12.6,
+    "COG": 350.9,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 291,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50682,
-    "LONGITUDE": -0.07208,
+    "LATITUDE": 51.50643,
+    "LONGITUDE": -0.07158,
     "MMSI": 232059182,
     "NAME": "LELIA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.7,
-    "TIME": "2025-05-02 15:03:33 GMT",
+    "SOG": 102.3,
+    "TIME": "2025-05-05 05:30:22 GMT",
     "TYPE": 37,
-    "last_seen": "2025-05-02T14:30:18.956521",
+    "last_seen": "2025-05-02T15:28:44.373721",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-02T15:28:44.373721"
+  "last_seen": "2025-05-05T05:31:16.175878"
 }
