@@ -14,20 +14,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48253,
-    "LONGITUDE": -0.16884,
+    "LATITUDE": 51.48251,
+    "LONGITUDE": -0.16881,
     "MMSI": 232058498,
     "NAME": "SI-AN",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-05 11:19:43 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-05-05 12:43:43 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-05-05T11:23:47.153236",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-05T11:23:47.153236"
+  "last_seen": "2025-05-05T12:55:18.674092"
 }
