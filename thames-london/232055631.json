@@ -244,12 +244,12 @@
     "B": 15,
     "C": 6,
     "CALLSIGN": "MPKF9",
-    "COG": 69,
+    "COG": 92,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 2,
     "ETA": "07-16 19:00",
-    "HEADING": 268,
+    "HEADING": 266,
     "IMO": 1022237,
     "LATITUDE": 51.49453,
     "LONGITUDE": 0.02612,
@@ -258,11 +258,11 @@
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": -3,
-    "SOG": 0,
-    "TIME": "2025-05-05 02:15:31 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-05-05 03:45:29 GMT",
     "TYPE": 99,
-    "last_seen": "2025-05-04T23:25:11.013844",
+    "last_seen": "2025-05-05T02:15:41.941275",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-05T02:15:41.941275"
+  "last_seen": "2025-05-05T03:47:59.666749"
 }
