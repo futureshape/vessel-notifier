@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-04-25"
+    "2025-04-25",
+    "2025-05-06"
   ],
   "last_full_data": {
     "A": 10,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 106,
+    "HEADING": 282,
     "IMO": 0,
-    "LATITUDE": 51.50674,
-    "LONGITUDE": -0.07158,
+    "LATITUDE": 51.50673,
+    "LONGITUDE": -0.07146,
     "MMSI": 232060137,
     "NAME": "GREY GOOSE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-04-25 10:53:08 GMT",
+    "TIME": "2025-05-06 17:26:47 GMT",
     "TYPE": 36,
-    "last_seen": "2025-04-25T10:32:23.403416",
+    "last_seen": "2025-04-25T11:23:22.676023",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-25T11:23:22.676023"
+  "last_seen": "2025-05-06T17:27:51.262646"
 }
