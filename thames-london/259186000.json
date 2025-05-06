@@ -15,7 +15,7 @@
     "B": 185,
     "C": 17,
     "CALLSIGN": "LAYU7",
-    "COG": 157.9,
+    "COG": 137.7,
     "D": 17,
     "DEST": "GREENWICH",
     "DRAUGHT": 6.9,
@@ -23,17 +23,17 @@
     "HEADING": 95,
     "IMO": 9650420,
     "LATITUDE": 51.48409,
-    "LONGITUDE": -0.01442,
+    "LONGITUDE": -0.01441,
     "MMSI": 259186000,
     "NAME": "VIKING SKY",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": 0,
-    "SOG": 0.1,
-    "TIME": "2025-05-06 20:27:26 GMT",
+    "ROT": 5,
+    "SOG": 0,
+    "TIME": "2025-05-06 21:21:26 GMT",
     "TYPE": 60,
-    "last_seen": "2025-05-06T19:21:40.071274",
+    "last_seen": "2025-05-06T20:30:16.190048",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-06T20:30:16.190048"
+  "last_seen": "2025-05-06T21:26:30.090458"
 }
