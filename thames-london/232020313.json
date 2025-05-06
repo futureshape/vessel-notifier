@@ -221,32 +221,33 @@
     "2025-04-29",
     "2025-04-30",
     "2025-05-01",
-    "2025-05-02"
+    "2025-05-02",
+    "2025-05-06"
   ],
   "last_full_data": {
     "A": 12,
     "B": 7,
     "C": 2,
     "CALLSIGN": "MEPU4",
-    "COG": 87,
+    "COG": 258.8,
     "D": 6,
     "DEST": "LONDON",
     "DRAUGHT": 2.2,
     "ETA": "11-20 23:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49615,
-    "LONGITUDE": 0.03754,
+    "LATITUDE": 51.50318,
+    "LONGITUDE": -0.05646,
     "MMSI": 232020313,
     "NAME": "SWS ENDURANCE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 8,
-    "TIME": "2025-05-02 11:23:10 GMT",
+    "SOG": 0,
+    "TIME": "2025-05-06 05:30:23 GMT",
     "TYPE": 52,
-    "last_seen": "2025-05-02T10:32:35.641019",
+    "last_seen": "2025-05-02T11:23:17.926722",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-02T11:23:17.926722"
+  "last_seen": "2025-05-06T05:30:30.288508"
 }
