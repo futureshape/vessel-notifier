@@ -7,33 +7,25 @@
     "B": 49,
     "C": 11,
     "CALLSIGN": "MPJQ7",
-    "COG": 347.2,
+    "COG": 180.1,
     "D": 14,
     "DEST": "GBLON",
     "DRAUGHT": 5.6,
     "ETA": "05-06 05:00",
-    "HEADING": 351,
+    "HEADING": 286,
     "IMO": 1032701,
-    "LATITUDE": 51.49364,
-    "LONGITUDE": -0.02933,
+    "LATITUDE": 51.50687,
+    "LONGITUDE": -0.08157,
     "MMSI": 232055578,
     "NAME": "PURUS CHINOOK",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 6.6,
-    "TIME": "2025-05-06 08:35:57 GMT",
+    "SOG": 0,
+    "TIME": "2025-05-06 09:29:58 GMT",
     "TYPE": 90,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2055,
-      2103,
-      2665,
-      2115,
-      3785,
-      2648
-    ]
+    "last_seen": "2025-05-06T08:36:03.800308",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-06T08:36:03.800308"
+  "last_seen": "2025-05-06T09:30:01.055889"
 }
