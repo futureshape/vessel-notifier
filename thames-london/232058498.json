@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-05-05"
+    "2025-05-05",
+    "2025-05-07"
   ],
   "last_full_data": {
     "A": 12,
     "B": 1,
     "C": 2,
     "CALLSIGN": "MRJA5",
-    "COG": 360,
+    "COG": 179.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50709,
-    "LONGITUDE": -0.07112,
+    "LATITUDE": 51.4997,
+    "LONGITUDE": -0.03036,
     "MMSI": 232058498,
     "NAME": "SI-AN",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-05-05 23:24:30 GMT",
+    "SOG": 7.5,
+    "TIME": "2025-05-07 08:36:43 GMT",
     "TYPE": 37,
-    "last_seen": "2025-05-05T22:30:59.741732",
+    "last_seen": "2025-05-05T23:25:56.329301",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-05T23:25:56.329301"
+  "last_seen": "2025-05-07T08:36:51.354486"
 }
