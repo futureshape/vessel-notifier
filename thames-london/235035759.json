@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-04-24",
-    "2025-05-08"
+    "2025-05-08",
+    "2025-05-09"
   ],
   "last_full_data": {
-    "A": 7,
-    "B": 19,
+    "A": 8,
+    "B": 16,
     "C": 2,
     "CALLSIGN": "MHQK",
-    "COG": 318.3,
-    "D": 4,
+    "COG": 113.1,
+    "D": 3,
     "DEST": "LONDCN",
     "DRAUGHT": 2,
     "ETA": "07-12 19:00",
-    "HEADING": 511,
+    "HEADING": 122,
     "IMO": 0,
-    "LATITUDE": 51.50593,
-    "LONGITUDE": -0.0734,
+    "LATITUDE": 51.49656,
+    "LONGITUDE": 0.02119,
     "MMSI": 235035759,
     "NAME": "HAVENGORE",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-08 21:11:05 GMT",
+    "ROT": -127,
+    "SOG": 9.6,
+    "TIME": "2025-05-09 10:32:41 GMT",
     "TYPE": 60,
-    "last_seen": "2025-05-08T20:30:45.678950",
+    "last_seen": "2025-05-08T21:26:36.548718",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-08T21:26:36.548718"
+  "last_seen": "2025-05-09T10:32:46.459369"
 }
