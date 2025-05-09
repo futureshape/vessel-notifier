@@ -7,31 +7,25 @@
     "B": 5,
     "C": 3,
     "CALLSIGN": "DGTT2",
-    "COG": 287.8,
+    "COG": 142.8,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 285,
+    "HEADING": 165,
     "IMO": 0,
-    "LATITUDE": 51.50825,
-    "LONGITUDE": -0.03547,
+    "LATITUDE": 51.50573,
+    "LONGITUDE": -0.03165,
     "MMSI": 211661220,
     "NAME": "LOGOFF",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.2,
-    "TIME": "2025-05-09 10:32:44 GMT",
+    "SOG": 3.5,
+    "TIME": "2025-05-09 11:22:41 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2103,
-      3785,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-05-09T10:32:46.452829",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-09T10:32:46.452829"
+  "last_seen": "2025-05-09T11:23:08.520483"
 }
