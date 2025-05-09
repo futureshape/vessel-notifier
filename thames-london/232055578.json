@@ -2,7 +2,8 @@
   "dates_seen": [
     "2025-05-06",
     "2025-05-07",
-    "2025-05-08"
+    "2025-05-08",
+    "2025-05-09"
   ],
   "last_full_data": {
     "A": 42,
@@ -14,20 +15,20 @@
     "DEST": "HULL",
     "DRAUGHT": 5.2,
     "ETA": "05-10 05:00",
-    "HEADING": 285,
+    "HEADING": 286,
     "IMO": 1032701,
-    "LATITUDE": 51.50686,
-    "LONGITUDE": -0.08159,
+    "LATITUDE": 51.50685,
+    "LONGITUDE": -0.08158,
     "MMSI": 232055578,
     "NAME": "PURUS CHINOOK",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-05-08 23:25:53 GMT",
+    "TIME": "2025-05-09 02:04:59 GMT",
     "TYPE": 90,
-    "last_seen": "2025-05-08T22:30:08.888782",
+    "last_seen": "2025-05-08T23:26:37.413679",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-08T23:26:37.413679"
+  "last_seen": "2025-05-09T02:07:22.231106"
 }
