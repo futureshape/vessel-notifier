@@ -147,18 +147,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5025,
-    "LONGITUDE": -0.05859,
+    "LATITUDE": 51.50252,
+    "LONGITUDE": -0.0586,
     "MMSI": 232046427,
     "NAME": "TIM RUPRECHT",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-10 22:26:12 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-05-10 23:23:13 GMT",
     "TYPE": 55,
-    "last_seen": "2025-05-10T21:23:35.682849",
+    "last_seen": "2025-05-10T22:27:41.589316",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-10T22:27:41.589316"
+  "last_seen": "2025-05-10T23:24:16.379018"
 }
