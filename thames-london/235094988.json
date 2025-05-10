@@ -96,7 +96,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MNQH7",
-    "COG": 55.4,
+    "COG": 44.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 18.7,
@@ -104,17 +104,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50907,
-    "LONGITUDE": -0.11899,
+    "LONGITUDE": -0.11898,
     "MMSI": 235094988,
     "NAME": "SILVER DARLING",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-10 15:26:58 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-05-10 16:33:19 GMT",
     "TYPE": 0,
-    "last_seen": "2025-05-10T14:26:39.472993",
+    "last_seen": "2025-05-10T15:27:05.853684",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-10T15:27:05.853684"
+  "last_seen": "2025-05-10T16:33:22.068514"
 }
