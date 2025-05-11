@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2025-05-11"
+  ],
+  "last_full_data": {
+    "A": 48,
+    "B": 78,
+    "C": 10,
+    "CALLSIGN": "CQAL8",
+    "COG": 304.1,
+    "D": 9,
+    "DEST": "FR CER > GB LON",
+    "DRAUGHT": 4.8,
+    "ETA": "05-11 06:45",
+    "HEADING": 123,
+    "IMO": 9904807,
+    "LATITUDE": 51.50353,
+    "LONGITUDE": -0.06969,
+    "MMSI": 255806210,
+    "NAME": "WORLD TRAVELLER",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 2.9,
+    "TIME": "2025-05-11 12:50:08 GMT",
+    "TYPE": 69,
+    "last_seen": null,
+    "received_by_stations": [
+      2103,
+      3785,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-05-11T12:50:16.417219"
+}
