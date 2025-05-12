@@ -1,7 +1,35 @@
 {
   "dates_seen": [
-    "2024-05-11"
+    "2024-05-11",
+    "2025-05-12"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-05-11T16:20:46.435729"
+  "last_full_data": {
+    "A": 10,
+    "B": 0,
+    "C": 1,
+    "CALLSIGN": "ZQVP7",
+    "COG": 323,
+    "D": 4,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 330,
+    "IMO": 0,
+    "LATITUDE": 51.48857,
+    "LONGITUDE": -0.02443,
+    "MMSI": 235000832,
+    "NAME": "CANTATA",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 6.5,
+    "TIME": "2025-05-12 11:24:22 GMT",
+    "TYPE": 36,
+    "last_seen": "2024-05-11T16:20:46.435729",
+    "received_by_stations": [
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-05-12T11:24:31.740059"
 }

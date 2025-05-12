@@ -7,28 +7,25 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "MGME5",
-    "COG": 228.6,
+    "COG": 239.8,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 228,
+    "HEADING": 239,
     "IMO": 0,
-    "LATITUDE": 51.5062,
-    "LONGITUDE": -0.04967,
+    "LATITUDE": 51.46548,
+    "LONGITUDE": -0.18689,
     "MMSI": 232025454,
     "NAME": "COMMOCEAN",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 8.5,
-    "TIME": "2025-05-12 10:34:18 GMT",
+    "SOG": 8.1,
+    "TIME": "2025-05-12 11:23:17 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      2115
-    ]
+    "last_seen": "2025-05-12T10:34:51.010008",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-12T10:34:51.010008"
+  "last_seen": "2025-05-12T11:24:30.448596"
 }
