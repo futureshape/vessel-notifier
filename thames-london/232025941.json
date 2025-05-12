@@ -216,17 +216,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5099,
-    "LONGITUDE": -0.11709,
+    "LONGITUDE": -0.1171,
     "MMSI": 232025941,
     "NAME": "RNLI LIFEBOAT E 10",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 13,
-    "SOG": 0,
-    "TIME": "2025-05-12 08:36:58 GMT",
+    "ROT": 0,
+    "SOG": 0.1,
+    "TIME": "2025-05-12 09:31:20 GMT",
     "TYPE": 51,
-    "last_seen": "2025-05-12T07:27:47.622325",
+    "last_seen": "2025-05-12T08:36:59.010762",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-12T08:36:59.010762"
+  "last_seen": "2025-05-12T09:31:25.331855"
 }
