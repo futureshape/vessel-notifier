@@ -1,7 +1,8 @@
 {
   "dates_seen": [
     "2025-05-09",
-    "2025-05-10"
+    "2025-05-10",
+    "2025-05-13"
   ],
   "last_full_data": {
     "A": 10,
@@ -13,20 +14,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 255,
+    "HEADING": 259,
     "IMO": 0,
-    "LATITUDE": 51.49378,
-    "LONGITUDE": -0.0343,
+    "LATITUDE": 51.49377,
+    "LONGITUDE": -0.03431,
     "MMSI": 211661220,
     "NAME": "LOGOFF",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-05-10 22:21:24 GMT",
+    "TIME": "2025-05-13 11:17:11 GMT",
     "TYPE": 36,
-    "last_seen": "2025-05-09T12:53:52.357979",
+    "last_seen": "2025-05-10T22:27:41.591445",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-10T22:27:41.591445"
+  "last_seen": "2025-05-13T11:24:27.703985"
 }
