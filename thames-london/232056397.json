@@ -9,30 +9,25 @@
     "B": 5,
     "C": 3,
     "CALLSIGN": "MPRD9",
-    "COG": 303.5,
+    "COG": 360,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 2,
     "ETA": "05-14 20:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49803,
-    "LONGITUDE": 0.0203,
+    "LATITUDE": 51.49463,
+    "LONGITUDE": -0.0319,
     "MMSI": 232056397,
     "NAME": "TRITON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.2,
-    "TIME": "2025-05-14 19:22:07 GMT",
+    "SOG": 0,
+    "TIME": "2025-05-14 20:10:55 GMT",
     "TYPE": 37,
-    "last_seen": "2024-09-03T14:26:46.618581",
-    "received_by_stations": [
-      3785,
-      2115,
-      2648,
-      2665
-    ]
+    "last_seen": "2025-05-14T19:22:18.356886",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-14T19:22:18.356886"
+  "last_seen": "2025-05-14T20:25:28.991992"
 }
