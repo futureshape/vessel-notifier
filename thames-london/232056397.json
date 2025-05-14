@@ -1,32 +1,38 @@
 {
   "dates_seen": [
     "2024-07-02",
-    "2024-09-03"
+    "2024-09-03",
+    "2025-05-14"
   ],
   "last_full_data": {
     "A": 10,
     "B": 5,
     "C": 3,
     "CALLSIGN": "MPRD9",
-    "COG": 49.2,
+    "COG": 303.5,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 2,
-    "ETA": "07-02 09:00",
+    "ETA": "05-14 20:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49464,
-    "LONGITUDE": -0.0319,
+    "LATITUDE": 51.49803,
+    "LONGITUDE": 0.0203,
     "MMSI": 232056397,
     "NAME": "TRITON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.4,
-    "TIME": "2024-09-03 14:24:17 GMT",
+    "SOG": 6.2,
+    "TIME": "2025-05-14 19:22:07 GMT",
     "TYPE": 37,
-    "last_seen": "2024-09-03T13:28:21.397122",
-    "received_by_stations": []
+    "last_seen": "2024-09-03T14:26:46.618581",
+    "received_by_stations": [
+      3785,
+      2115,
+      2648,
+      2665
+    ]
   },
-  "last_seen": "2024-09-03T14:26:46.618581"
+  "last_seen": "2025-05-14T19:22:18.356886"
 }
