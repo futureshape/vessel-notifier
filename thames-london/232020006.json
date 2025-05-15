@@ -14,21 +14,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50644,
-    "LONGITUDE": -0.07229,
+    "LATITUDE": 51.50701,
+    "LONGITUDE": -0.07187,
     "MMSI": 232020006,
     "NAME": "BECKYS CHOICE",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-05-15 14:30:58 GMT",
+    "TIME": "2025-05-15 15:26:55 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-05-15T14:32:31.609671",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-15T14:32:31.609671"
+  "last_seen": "2025-05-15T15:29:16.881359"
 }
