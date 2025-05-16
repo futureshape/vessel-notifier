@@ -7,28 +7,25 @@
     "B": 5,
     "C": 3,
     "CALLSIGN": "OQ3460",
-    "COG": 63,
+    "COG": 297,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50535,
-    "LONGITUDE": -0.07229,
+    "LATITUDE": 51.50534,
+    "LONGITUDE": -0.07233,
     "MMSI": 205346070,
     "NAME": "MAXIMAX",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-05-16 12:53:06 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-05-16 13:35:07 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-05-16T12:55:44.268239",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-16T12:55:44.268239"
+  "last_seen": "2025-05-16T13:37:03.704285"
 }
