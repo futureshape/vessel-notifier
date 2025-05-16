@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-05-16"
+  ],
+  "last_full_data": {
+    "A": 7,
+    "B": 12,
+    "C": 1,
+    "CALLSIGN": "MFWJ9",
+    "COG": 360,
+    "D": 5,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50643,
+    "LONGITUDE": -0.07215,
+    "MMSI": 232023797,
+    "NAME": "NO WHERE MAN",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0.1,
+    "TIME": "2025-05-16 15:28:07 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3785,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-05-16T15:28:13.751463"
+}
