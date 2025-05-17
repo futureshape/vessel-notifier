@@ -1,32 +1,39 @@
 {
   "dates_seen": [
     "2024-06-12",
-    "2024-10-08"
+    "2024-10-08",
+    "2025-05-17"
   ],
   "last_full_data": {
     "A": 38,
     "B": 106,
     "C": 11,
     "CALLSIGN": "C6OX6",
-    "COG": 185.7,
+    "COG": 131.4,
     "D": 11,
-    "DEST": "GB POO",
+    "DEST": "GB LON",
     "DRAUGHT": 5.3,
-    "ETA": "10-09 14:30",
-    "HEADING": 185,
+    "ETA": "05-17 03:15",
+    "HEADING": 110,
     "IMO": 9138329,
-    "LATITUDE": 51.50077,
-    "LONGITUDE": -0.03027,
+    "LATITUDE": 51.48422,
+    "LONGITUDE": -0.01509,
     "MMSI": 309908000,
     "NAME": "M/V HAMBURG",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 8,
-    "SOG": 4.4,
-    "TIME": "2024-10-08 16:33:12 GMT",
+    "ROT": -8,
+    "SOG": 0.4,
+    "TIME": "2025-05-17 03:12:58 GMT",
     "TYPE": 60,
-    "last_seen": "2024-10-08T15:27:27.444633",
-    "received_by_stations": []
+    "last_seen": "2024-10-08T16:33:17.344142",
+    "received_by_stations": [
+      2055,
+      2103,
+      3785,
+      2115,
+      2648
+    ]
   },
-  "last_seen": "2024-10-08T16:33:17.344142"
+  "last_seen": "2025-05-17T03:12:59.229463"
 }
