@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-05-13"
+    "2025-05-13",
+    "2025-05-17"
   ],
   "last_full_data": {
     "A": 12,
     "B": 1,
     "C": 2,
     "CALLSIGN": "PD5945",
-    "COG": 268,
+    "COG": 350.8,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5069,
-    "LONGITUDE": -0.07237,
+    "LATITUDE": 51.50638,
+    "LONGITUDE": -0.07218,
     "MMSI": 244860804,
     "NAME": "MOANA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-05-13 14:14:56 GMT",
+    "SOG": 0,
+    "TIME": "2025-05-17 05:28:20 GMT",
     "TYPE": 37,
-    "last_seen": "2025-05-13T13:40:08.278870",
+    "last_seen": "2025-05-13T14:33:00.967267",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-13T14:33:00.967267"
+  "last_seen": "2025-05-17T05:28:53.919402"
 }
