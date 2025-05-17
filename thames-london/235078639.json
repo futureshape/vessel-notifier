@@ -235,7 +235,7 @@
     "B": 17,
     "C": 6,
     "CALLSIGN": "2DGB4",
-    "COG": 360,
+    "COG": 261.3,
     "D": 2,
     "DEST": "CHARLTON",
     "DRAUGHT": 0,
@@ -243,17 +243,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49453,
-    "LONGITUDE": 0.02664,
+    "LONGITUDE": 0.02662,
     "MMSI": 235078639,
     "NAME": "RECLAIM",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-05-17 18:32:44 GMT",
+    "SOG": 0,
+    "TIME": "2025-05-17 19:20:44 GMT",
     "TYPE": 52,
-    "last_seen": "2025-05-17T17:25:27.421895",
+    "last_seen": "2025-05-17T18:34:58.359481",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-17T18:34:58.359481"
+  "last_seen": "2025-05-17T19:23:11.176156"
 }
