@@ -7,29 +7,25 @@
     "B": 0,
     "C": 3,
     "CALLSIGN": "DD 8512",
-    "COG": 9.3,
+    "COG": 58,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50107,
-    "LONGITUDE": -0.02907,
+    "LATITUDE": 51.50541,
+    "LONGITUDE": -0.07231,
     "MMSI": 211318300,
     "NAME": "GERONIMO",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.7,
-    "TIME": "2025-05-17 13:31:01 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-05-17 14:26:30 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3785,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-05-17T13:31:23.918818",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-17T13:31:23.918818"
+  "last_seen": "2025-05-17T14:27:14.629370"
 }
