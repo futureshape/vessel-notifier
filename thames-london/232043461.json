@@ -263,32 +263,33 @@
     "2025-05-13",
     "2025-05-14",
     "2025-05-15",
-    "2025-05-16"
+    "2025-05-16",
+    "2025-05-17"
   ],
   "last_full_data": {
     "A": 19,
     "B": 19,
     "C": 7,
     "CALLSIGN": "MMCS9",
-    "COG": 69.8,
+    "COG": 0,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1.2,
     "ETA": "00-00 24:60",
-    "HEADING": 285,
+    "HEADING": 296,
     "IMO": 9963499,
-    "LATITUDE": 51.50709,
-    "LONGITUDE": 0.00749,
+    "LATITUDE": 51.50755,
+    "LONGITUDE": 0.00623,
     "MMSI": 232043461,
     "NAME": "EARTH CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-05-16 22:29:45 GMT",
+    "TIME": "2025-05-17 06:35:45 GMT",
     "TYPE": 40,
-    "last_seen": "2025-05-16T21:25:45.944921",
+    "last_seen": "2025-05-16T22:29:54.982943",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-16T22:29:54.982943"
+  "last_seen": "2025-05-17T06:35:48.800249"
 }
