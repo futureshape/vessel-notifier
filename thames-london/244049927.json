@@ -7,28 +7,25 @@
     "B": 8,
     "C": 4,
     "CALLSIGN": "PF5181",
-    "COG": 294.2,
+    "COG": 292,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50709,
-    "LONGITUDE": 0.00617,
+    "LATITUDE": 51.50311,
+    "LONGITUDE": -0.06596,
     "MMSI": 244049927,
     "NAME": "ELLING",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.3,
-    "TIME": "2025-05-17 12:50:25 GMT",
+    "SOG": 5.9,
+    "TIME": "2025-05-17 13:30:52 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-05-17T12:50:32.333904",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-17T12:50:32.333904"
+  "last_seen": "2025-05-17T13:31:23.295095"
 }
