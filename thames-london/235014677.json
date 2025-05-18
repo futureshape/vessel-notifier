@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-05-12",
-    "2025-05-11"
+    "2025-05-11",
+    "2025-05-18"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MDLX2",
-    "COG": 124.3,
+    "COG": 336.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 124,
+    "HEADING": 336,
     "IMO": 0,
-    "LATITUDE": 51.5065,
-    "LONGITUDE": -0.07116,
+    "LATITUDE": 51.50661,
+    "LONGITUDE": -0.07111,
     "MMSI": 235014677,
     "NAME": "OYSTER OF WHITSTABLE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-11 12:30:23 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-05-18 13:26:12 GMT",
     "TYPE": 37,
-    "last_seen": "2025-05-11T11:21:33.897499",
+    "last_seen": "2025-05-11T12:50:15.734412",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-11T12:50:15.734412"
+  "last_seen": "2025-05-18T13:32:00.080102"
 }
