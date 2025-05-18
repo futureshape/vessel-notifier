@@ -2,32 +2,33 @@
   "dates_seen": [
     "2023-12-18",
     "2024-09-21",
-    "2025-05-15"
+    "2025-05-15",
+    "2025-05-18"
   ],
   "last_full_data": {
     "A": 4,
     "B": 1,
     "C": 1,
     "CALLSIGN": "2AGR9",
-    "COG": 93.3,
+    "COG": 290.7,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48469,
-    "LONGITUDE": -0.01611,
+    "LATITUDE": 51.50823,
+    "LONGITUDE": -0.03642,
     "MMSI": 235059471,
     "NAME": "EASTHAVEN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 10,
-    "TIME": "2025-05-15 13:07:24 GMT",
+    "SOG": 19.7,
+    "TIME": "2025-05-18 04:28:44 GMT",
     "TYPE": 53,
-    "last_seen": "2024-09-21T13:26:05.715329",
+    "last_seen": "2025-05-15T13:37:24.604212",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-15T13:37:24.604212"
+  "last_seen": "2025-05-18T04:36:51.526614"
 }
