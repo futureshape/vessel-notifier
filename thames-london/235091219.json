@@ -2,32 +2,35 @@
   "dates_seen": [
     "2024-05-27",
     "2024-09-04",
-    "2024-09-09"
+    "2024-09-09",
+    "2025-05-18"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "2FHD2",
-    "COG": 202,
+    "COG": 93,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47358,
-    "LONGITUDE": -0.17945,
+    "LATITUDE": 51.48416,
+    "LONGITUDE": -0.14504,
     "MMSI": 235091219,
     "NAME": "TOM TIT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.5,
-    "TIME": "2024-09-09 06:11:49 GMT",
+    "SOG": 9.6,
+    "TIME": "2025-05-18 06:36:27 GMT",
     "TYPE": 37,
-    "last_seen": "2024-09-09T05:27:48.435950",
-    "received_by_stations": []
+    "last_seen": "2024-09-09T06:36:01.570624",
+    "received_by_stations": [
+      2648
+    ]
   },
-  "last_seen": "2024-09-09T06:36:01.570624"
+  "last_seen": "2025-05-18T06:36:48.322503"
 }
