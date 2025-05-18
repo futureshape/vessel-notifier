@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-05-27",
-    "2025-05-17"
+    "2025-05-17",
+    "2025-05-18"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MRTE8",
-    "COG": 360,
+    "COG": 130,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.43142,
-    "LONGITUDE": -0.32525,
+    "LATITUDE": 51.43235,
+    "LONGITUDE": -0.32617,
     "MMSI": 235030634,
     "NAME": "MARY IRENE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-17 16:06:29 GMT",
+    "SOG": 4.2,
+    "TIME": "2025-05-18 06:54:24 GMT",
     "TYPE": 37,
-    "last_seen": "2024-05-27T16:22:14.926161",
+    "last_seen": "2025-05-17T16:32:31.797135",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-17T16:32:31.797135"
+  "last_seen": "2025-05-18T07:24:25.983746"
 }
