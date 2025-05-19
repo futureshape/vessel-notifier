@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-05-25",
     "2025-05-02",
-    "2025-05-18"
+    "2025-05-18",
+    "2025-05-19"
   ],
   "last_full_data": {
     "A": 6,
     "B": 6,
     "C": 1,
     "CALLSIGN": "2OSK",
-    "COG": 360,
+    "COG": 245.4,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47289,
-    "LONGITUDE": -0.18034,
+    "LATITUDE": 51.48581,
+    "LONGITUDE": -0.29403,
     "MMSI": 235057325,
     "NAME": "CANTARA OF DART",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-18 13:26:16 GMT",
+    "SOG": 6.2,
+    "TIME": "2025-05-19 03:47:23 GMT",
     "TYPE": 37,
-    "last_seen": "2025-05-18T12:51:11.522489",
+    "last_seen": "2025-05-18T13:32:00.068867",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-18T13:32:00.068867"
+  "last_seen": "2025-05-19T03:52:51.404726"
 }
