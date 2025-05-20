@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-05-12",
-    "2025-05-16"
+    "2025-05-16",
+    "2025-05-20"
   ],
   "last_full_data": {
     "A": 127,
     "B": 74,
     "C": 23,
     "CALLSIGN": "",
-    "COG": 60.8,
+    "COG": 163.3,
     "D": 6,
     "DEST": "",
     "DRAUGHT": 10,
     "ETA": "00-00 24:60",
-    "HEADING": 288,
+    "HEADING": 287,
     "IMO": 9655559,
-    "LATITUDE": 51.5069,
-    "LONGITUDE": -0.08183,
+    "LATITUDE": 51.50692,
+    "LONGITUDE": -0.08182,
     "MMSI": 232002833,
     "NAME": "NAVAL AUXILIARY",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0.1,
-    "TIME": "2025-05-16 13:36:59 GMT",
+    "TIME": "2025-05-20 05:30:55 GMT",
     "TYPE": 35,
-    "last_seen": "2025-05-16T12:55:43.398646",
+    "last_seen": "2025-05-16T13:37:03.701199",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-16T13:37:03.701199"
+  "last_seen": "2025-05-20T05:30:58.320200"
 }
