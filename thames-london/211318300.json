@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-05-17"
+    "2025-05-17",
+    "2025-05-20"
   ],
   "last_full_data": {
     "A": 12,
     "B": 0,
     "C": 3,
     "CALLSIGN": "DD 8512",
-    "COG": 148.5,
+    "COG": 144.1,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50663,
-    "LONGITUDE": -0.07112,
+    "LATITUDE": 51.5061,
+    "LONGITUDE": -0.03237,
     "MMSI": 211318300,
     "NAME": "GERONIMO",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-05-17 15:22:50 GMT",
+    "SOG": 6.6,
+    "TIME": "2025-05-20 06:40:03 GMT",
     "TYPE": 37,
-    "last_seen": "2025-05-17T14:27:14.629370",
+    "last_seen": "2025-05-17T15:26:35.827818",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-17T15:26:35.827818"
+  "last_seen": "2025-05-20T06:40:10.507441"
 }
