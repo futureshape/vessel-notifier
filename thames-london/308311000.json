@@ -7,31 +7,25 @@
     "B": 79,
     "C": 9,
     "CALLSIGN": "C6PW9",
-    "COG": 233.9,
+    "COG": 217.6,
     "D": 9,
     "DEST": "GB LON",
     "DRAUGHT": 4.4,
     "ETA": "05-21 11:15",
-    "HEADING": 229,
+    "HEADING": 107,
     "IMO": 8203440,
-    "LATITUDE": 51.50701,
-    "LONGITUDE": -0.04724,
+    "LATITUDE": 51.50663,
+    "LONGITUDE": -0.08064,
     "MMSI": 308311000,
     "NAME": "SEADREAM II",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": -10,
-    "SOG": 4.4,
-    "TIME": "2025-05-21 17:28:00 GMT",
+    "ROT": -7,
+    "SOG": 0.1,
+    "TIME": "2025-05-21 18:38:37 GMT",
     "TYPE": 60,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2055,
-      3785,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-05-21T17:28:12.350371",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-21T17:28:12.350371"
+  "last_seen": "2025-05-21T18:38:38.227704"
 }

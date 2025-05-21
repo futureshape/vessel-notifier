@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-05-18"
+    "2025-05-18",
+    "2025-05-21"
   ],
   "last_full_data": {
     "A": 8,
     "B": 6,
     "C": 4,
     "CALLSIGN": "WDQ2374",
-    "COG": 360,
+    "COG": 167.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 94,
+    "HEADING": 169,
     "IMO": 0,
-    "LATITUDE": 51.50806,
-    "LONGITUDE": -0.07259,
+    "LATITUDE": 51.50461,
+    "LONGITUDE": -0.03111,
     "MMSI": 368407260,
     "NAME": "ORIBA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-18 16:29:18 GMT",
+    "SOG": 4.9,
+    "TIME": "2025-05-21 18:38:33 GMT",
     "TYPE": 36,
-    "last_seen": "2025-05-18T15:26:11.863517",
+    "last_seen": "2025-05-18T16:31:58.909340",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-18T16:31:58.909340"
+  "last_seen": "2025-05-21T18:38:38.235711"
 }
