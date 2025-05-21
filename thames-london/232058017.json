@@ -12,32 +12,33 @@
     "2025-05-07",
     "2025-05-11",
     "2025-05-12",
-    "2025-05-20"
+    "2025-05-20",
+    "2025-05-21"
   ],
   "last_full_data": {
     "A": 10,
     "B": 22,
     "C": 7,
     "CALLSIGN": "MRFX5",
-    "COG": 352.8,
+    "COG": 230.6,
     "D": 4,
     "DEST": "HARB0UR TOWAGE",
     "DRAUGHT": 5.7,
     "ETA": "06-27 00:00",
-    "HEADING": 348,
+    "HEADING": 54,
     "IMO": 9547867,
-    "LATITUDE": 51.4923,
-    "LONGITUDE": -0.00071,
+    "LATITUDE": 51.50658,
+    "LONGITUDE": -0.04788,
     "MMSI": 232058017,
     "NAME": "VB BENELUX",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": -16,
-    "SOG": 8.2,
-    "TIME": "2025-05-20 07:28:01 GMT",
+    "ROT": 26,
+    "SOG": 3.8,
+    "TIME": "2025-05-21 17:28:07 GMT",
     "TYPE": 52,
-    "last_seen": "2025-05-20T06:40:10.500358",
+    "last_seen": "2025-05-20T07:28:02.591678",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-20T07:28:02.591678"
+  "last_seen": "2025-05-21T17:28:11.743772"
 }
