@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-05-18"
+    "2025-05-18",
+    "2025-05-22"
   ],
   "last_full_data": {
     "A": 9,
     "B": 5,
     "C": 2,
     "CALLSIGN": "PH8187",
-    "COG": 80.7,
+    "COG": 85.5,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50663,
-    "LONGITUDE": -0.0718,
+    "LATITUDE": 51.49596,
+    "LONGITUDE": 0.03695,
     "MMSI": 244153363,
     "NAME": "MAGIC",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-18 16:12:33 GMT",
+    "SOG": 5.9,
+    "TIME": "2025-05-22 08:35:49 GMT",
     "TYPE": 37,
-    "last_seen": "2025-05-18T15:26:11.863756",
+    "last_seen": "2025-05-18T16:31:58.910313",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-18T16:31:58.910313"
+  "last_seen": "2025-05-22T08:35:59.259684"
 }
