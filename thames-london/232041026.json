@@ -7,27 +7,25 @@
     "B": 2,
     "C": 1,
     "CALLSIGN": "MLCS5",
-    "COG": 35.7,
+    "COG": 27.1,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48743,
-    "LONGITUDE": -0.12722,
+    "LATITUDE": 51.50317,
+    "LONGITUDE": -0.003,
     "MMSI": 232041026,
     "NAME": "TYMORA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 12.2,
-    "TIME": "2025-05-23 12:54:34 GMT",
+    "SOG": 14.9,
+    "TIME": "2025-05-23 13:36:04 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-05-23T12:55:03.067834",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-23T12:55:03.067834"
+  "last_seen": "2025-05-23T13:36:43.879563"
 }
