@@ -1,7 +1,32 @@
 {
   "dates_seen": [
-    "2023-10-19"
+    "2023-10-19",
+    "2025-05-24"
   ],
-  "last_full_data": {},
-  "last_seen": "2023-10-19T13:23:58.744135"
+  "last_full_data": {
+    "A": 15,
+    "B": 5,
+    "C": 2,
+    "CALLSIGN": "MNRS5",
+    "COG": 347.3,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50569,
+    "LONGITUDE": -0.0725,
+    "MMSI": 232047719,
+    "NAME": "BEAUPORT",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 2.8,
+    "TIME": "2025-05-24 12:31:29 GMT",
+    "TYPE": 37,
+    "last_seen": "2023-10-19T13:23:58.744135",
+    "received_by_stations": []
+  },
+  "last_seen": "2025-05-24T12:50:42.195654"
 }
