@@ -9,7 +9,7 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "MFGZ7",
-    "COG": 49.7,
+    "COG": 330.3,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -17,17 +17,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49577,
-    "LONGITUDE": 0.01877,
+    "LONGITUDE": 0.01875,
     "MMSI": 232028116,
     "NAME": "VALENCIA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-24 13:31:35 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-05-24 14:25:35 GMT",
     "TYPE": 36,
-    "last_seen": "2025-05-24T12:50:42.207206",
+    "last_seen": "2025-05-24T13:32:56.996235",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-24T13:32:56.996235"
+  "last_seen": "2025-05-24T14:27:03.524404"
 }
