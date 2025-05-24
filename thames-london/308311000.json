@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-05-21",
     "2025-05-22",
-    "2025-05-23"
+    "2025-05-23",
+    "2025-05-24"
   ],
   "last_full_data": {
     "A": 26,
     "B": 79,
     "C": 9,
     "CALLSIGN": "C6PW9",
-    "COG": 121.5,
+    "COG": 132,
     "D": 9,
     "DEST": "NL SCE",
     "DRAUGHT": 4.4,
     "ETA": "05-25 11:30",
-    "HEADING": 107,
+    "HEADING": 108,
     "IMO": 8203440,
     "LATITUDE": 51.50663,
-    "LONGITUDE": -0.08063,
+    "LONGITUDE": -0.08062,
     "MMSI": 308311000,
     "NAME": "SEADREAM II",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": -1,
+    "ROT": 1,
     "SOG": 0,
-    "TIME": "2025-05-23 23:26:05 GMT",
+    "TIME": "2025-05-24 02:03:21 GMT",
     "TYPE": 60,
-    "last_seen": "2025-05-23T22:30:01.546848",
+    "last_seen": "2025-05-23T23:27:18.382933",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-23T23:27:18.382933"
+  "last_seen": "2025-05-24T02:04:14.750404"
 }
