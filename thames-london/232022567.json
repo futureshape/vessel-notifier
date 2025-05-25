@@ -8,27 +8,25 @@
     "B": 2,
     "C": 2,
     "CALLSIGN": "MFKX7",
-    "COG": 34.8,
+    "COG": 245.1,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47791,
-    "LONGITUDE": -0.17861,
+    "LATITUDE": 51.4818,
+    "LONGITUDE": -0.17173,
     "MMSI": 232022567,
     "NAME": "CARAIBES",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.8,
-    "TIME": "2025-05-25 12:51:17 GMT",
+    "SOG": 10.1,
+    "TIME": "2025-05-25 13:28:32 GMT",
     "TYPE": 37,
-    "last_seen": "2024-04-27T15:16:22.206877",
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-05-25T12:51:24.154521",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-25T12:51:24.154521"
+  "last_seen": "2025-05-25T13:32:15.158433"
 }
