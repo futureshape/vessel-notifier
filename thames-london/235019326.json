@@ -39,32 +39,33 @@
     "2025-04-09",
     "2025-04-13",
     "2025-04-23",
-    "2025-05-11"
+    "2025-05-11",
+    "2025-05-25"
   ],
   "last_full_data": {
     "A": 10,
     "B": 2,
     "C": 2,
     "CALLSIGN": "MFNJ5",
-    "COG": 79.4,
+    "COG": 360,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50746,
-    "LONGITUDE": -0.07915,
+    "LATITUDE": 51.5075,
+    "LONGITUDE": -0.07913,
     "MMSI": 235019326,
     "NAME": "THAMES BEAST",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-05-11 14:23:50 GMT",
+    "SOG": 0,
+    "TIME": "2025-05-25 09:26:05 GMT",
     "TYPE": 40,
-    "last_seen": "2025-05-11T13:31:00.767319",
+    "last_seen": "2025-05-11T14:27:55.890981",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-11T14:27:55.890981"
+  "last_seen": "2025-05-25T09:26:11.768312"
 }
