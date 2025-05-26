@@ -1,0 +1,40 @@
+{
+  "dates_seen": [
+    "2025-05-26"
+  ],
+  "last_full_data": {
+    "A": 20,
+    "B": 83,
+    "C": 4,
+    "CALLSIGN": "MILT6",
+    "COG": 261.4,
+    "D": 12,
+    "DEST": "GBCHN",
+    "DRAUGHT": 6.7,
+    "ETA": "05-26 10:30",
+    "HEADING": 258,
+    "IMO": 9887786,
+    "LATITUDE": 51.49695,
+    "LONGITUDE": 0.03313,
+    "MMSI": 232032107,
+    "NAME": "HANSON THAMES",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 6.9,
+    "TIME": "2025-05-26 09:52:47 GMT",
+    "TYPE": 33,
+    "last_seen": null,
+    "received_by_stations": [
+      2103,
+      3880,
+      2665,
+      3785,
+      2115,
+      2648,
+      3445,
+      2843
+    ]
+  },
+  "last_seen": "2025-05-26T09:52:54.766288"
+}
