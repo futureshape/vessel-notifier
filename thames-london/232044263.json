@@ -8,29 +8,25 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "MMKO5",
-    "COG": 360,
+    "COG": 99.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5068,
-    "LONGITUDE": -0.08481,
+    "LATITUDE": 51.50718,
+    "LONGITUDE": -0.0817,
     "MMSI": 232044263,
     "NAME": "STARFISH",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-05-26 12:49:36 GMT",
+    "SOG": 7,
+    "TIME": "2025-05-26 15:29:31 GMT",
     "TYPE": 60,
-    "last_seen": "2024-07-10T16:28:32.541600",
-    "received_by_stations": [
-      2055,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-05-26T12:54:36.169581",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-26T12:54:36.169581"
+  "last_seen": "2025-05-26T15:29:51.947385"
 }
