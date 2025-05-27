@@ -32,7 +32,7 @@
     "B": 10,
     "C": 4,
     "CALLSIGN": "MQGX7",
-    "COG": 254.7,
+    "COG": 309.9,
     "D": 1,
     "DEST": "THAMES",
     "DRAUGHT": 2,
@@ -40,17 +40,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.47985,
-    "LONGITUDE": -0.3028,
+    "LONGITUDE": -0.30277,
     "MMSI": 235108388,
     "NAME": "PROGRESS",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-27 13:37:34 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-05-27 14:29:14 GMT",
     "TYPE": 90,
-    "last_seen": "2025-05-27T12:57:36.288271",
+    "last_seen": "2025-05-27T13:39:49.660057",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-27T13:39:49.660057"
+  "last_seen": "2025-05-27T14:32:05.863345"
 }
