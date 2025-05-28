@@ -8,27 +8,25 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "PI9623",
-    "COG": 282.2,
+    "COG": 242.3,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49732,
-    "LONGITUDE": 0.02499,
+    "LATITUDE": 51.50883,
+    "LONGITUDE": -0.04367,
     "MMSI": 244104193,
     "NAME": "CHICK A BEE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.6,
-    "TIME": "2025-05-28 12:57:18 GMT",
+    "SOG": 7,
+    "TIME": "2025-05-28 13:39:47 GMT",
     "TYPE": 37,
-    "last_seen": "2024-05-21T12:34:09.052317",
-    "received_by_stations": [
-      2115
-    ]
+    "last_seen": "2025-05-28T12:57:36.913845",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-28T12:57:36.913845"
+  "last_seen": "2025-05-28T13:39:56.400809"
 }
