@@ -2,32 +2,36 @@
   "dates_seen": [
     "2024-10-21",
     "2024-10-22",
-    "2024-10-23"
+    "2024-10-23",
+    "2025-05-28"
   ],
   "last_full_data": {
     "A": 5,
     "B": 5,
-    "C": 1,
+    "C": 2,
     "CALLSIGN": "MALT8",
-    "COG": 1.3,
+    "COG": 234.7,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 2,
-    "ETA": "08-18 11:38",
+    "ETA": "05-28 11:17",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50008,
-    "LONGITUDE": -0.00359,
+    "LATITUDE": 51.50583,
+    "LONGITUDE": -0.00201,
     "MMSI": 232005764,
     "NAME": "FREYA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 8,
-    "TIME": "2024-10-23 06:34:11 GMT",
+    "SOG": 7.5,
+    "TIME": "2025-05-28 11:24:19 GMT",
     "TYPE": 36,
-    "last_seen": "2024-10-23T05:28:35.947540",
-    "received_by_stations": []
+    "last_seen": "2024-10-23T06:34:38.616551",
+    "received_by_stations": [
+      2115,
+      2333
+    ]
   },
-  "last_seen": "2024-10-23T06:34:38.616551"
+  "last_seen": "2025-05-28T11:24:45.766968"
 }
