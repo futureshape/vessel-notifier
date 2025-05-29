@@ -7,28 +7,25 @@
     "B": 6,
     "C": 3,
     "CALLSIGN": "MLHF8",
-    "COG": 283.5,
+    "COG": 178.6,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50775,
-    "LONGITUDE": -0.08461,
+    "LATITUDE": 51.495,
+    "LONGITUDE": -0.12178,
     "MMSI": 232004585,
     "NAME": "WESTBOURNE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 11.7,
-    "TIME": "2025-05-29 11:24:12 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-05-29 12:50:24 GMT",
     "TYPE": 53,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-05-29T11:24:15.745325",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-29T11:24:15.745325"
+  "last_seen": "2025-05-29T12:56:11.060839"
 }
