@@ -7,28 +7,25 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "PC2782",
-    "COG": 305.2,
+    "COG": 285.1,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49978,
-    "LONGITUDE": 0.01712,
+    "LATITUDE": 51.50856,
+    "LONGITUDE": -0.03514,
     "MMSI": 244180915,
     "NAME": "THEODORA (NL)",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.4,
-    "TIME": "2025-05-30 12:55:59 GMT",
+    "SOG": 5.8,
+    "TIME": "2025-05-30 13:37:02 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-05-30T12:56:18.051128",
+    "received_by_stations": []
   },
-  "last_seen": "2025-05-30T12:56:18.051128"
+  "last_seen": "2025-05-30T13:37:15.008181"
 }
