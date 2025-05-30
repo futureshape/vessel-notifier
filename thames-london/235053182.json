@@ -3,32 +3,35 @@
     "2024-07-01",
     "2024-07-14",
     "2024-08-09",
-    "2024-08-11"
+    "2024-08-11",
+    "2025-05-30"
   ],
   "last_full_data": {
     "A": 8,
     "B": 22,
     "C": 4,
     "CALLSIGN": "MKMC",
-    "COG": 261.3,
+    "COG": 58.4,
     "D": 1,
     "DEST": "RICHMOND",
     "DRAUGHT": 1.8,
     "ETA": "08-11 19:30",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48485,
-    "LONGITUDE": -0.14937,
+    "LATITUDE": 51.48546,
+    "LONGITUDE": -0.13085,
     "MMSI": 235053182,
     "NAME": "LILIAN",
-    "NAVSTAT": 0,
-    "PAC": 0,
+    "NAVSTAT": 1,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 8.5,
-    "TIME": "2024-08-11 15:23:35 GMT",
+    "SOG": 9.4,
+    "TIME": "2025-05-30 06:39:07 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-11T14:26:08.137722",
-    "received_by_stations": []
+    "last_seen": "2024-08-11T15:23:51.519198",
+    "received_by_stations": [
+      2648
+    ]
   },
-  "last_seen": "2024-08-11T15:23:51.519198"
+  "last_seen": "2025-05-30T06:39:10.601692"
 }
