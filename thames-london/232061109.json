@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-05-16",
-    "2025-05-17"
+    "2025-05-17",
+    "2025-05-31"
   ],
   "last_full_data": {
     "A": 5,
     "B": 6,
     "C": 2,
     "CALLSIGN": "MSBP4",
-    "COG": 71.4,
+    "COG": 295.2,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50208,
-    "LONGITUDE": -0.05767,
+    "LATITUDE": 51.50679,
+    "LONGITUDE": 0.00551,
     "MMSI": 232061109,
     "NAME": "ONA II",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.5,
-    "TIME": "2025-05-17 04:31:38 GMT",
+    "SOG": 9.3,
+    "TIME": "2025-05-31 15:26:38 GMT",
     "TYPE": 37,
-    "last_seen": "2025-05-16T17:27:00.447437",
+    "last_seen": "2025-05-17T04:32:11.178300",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-17T04:32:11.178300"
+  "last_seen": "2025-05-31T15:26:49.668704"
 }
