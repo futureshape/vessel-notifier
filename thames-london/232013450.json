@@ -2,32 +2,36 @@
   "dates_seen": [
     "2024-12-03",
     "2024-12-04",
-    "2024-12-05"
+    "2024-12-05",
+    "2025-06-01"
   ],
   "last_full_data": {
     "A": 9,
     "B": 8,
     "C": 3,
     "CALLSIGN": "MCLN2",
-    "COG": 360,
+    "COG": 217.7,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50708,
-    "LONGITUDE": -0.07195,
+    "LATITUDE": 51.50555,
+    "LONGITUDE": -0.00165,
     "MMSI": 232013450,
     "NAME": "DYNASTY",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2024-12-05 14:59:39 GMT",
+    "SOG": 11.4,
+    "TIME": "2025-06-01 15:27:01 GMT",
     "TYPE": 37,
-    "last_seen": "2024-12-04T15:28:38.843943",
-    "received_by_stations": []
+    "last_seen": "2024-12-05T15:29:42.337863",
+    "received_by_stations": [
+      2115,
+      2648
+    ]
   },
-  "last_seen": "2024-12-05T15:29:42.337863"
+  "last_seen": "2025-06-01T15:27:30.320241"
 }
