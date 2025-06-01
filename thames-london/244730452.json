@@ -1,0 +1,34 @@
+{
+  "dates_seen": [
+    "2025-06-01"
+  ],
+  "last_full_data": {
+    "A": 6,
+    "B": 5,
+    "C": 2,
+    "CALLSIGN": "PI5914",
+    "COG": 262.7,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49785,
+    "LONGITUDE": 0.03635,
+    "MMSI": 244730452,
+    "NAME": "ESSEQUIBO",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 6.6,
+    "TIME": "2025-06-01 14:27:09 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-06-01T14:28:01.683438"
+}
