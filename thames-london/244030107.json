@@ -7,28 +7,25 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "PD4250",
-    "COG": 325,
+    "COG": 319.2,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 313,
+    "HEADING": 133,
     "IMO": 0,
-    "LATITUDE": 51.502,
-    "LONGITUDE": 0.01336,
+    "LATITUDE": 51.50531,
+    "LONGITUDE": -0.07259,
     "MMSI": 244030107,
     "NAME": "ORA PRO NOBIS",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.6,
-    "TIME": "2025-06-01 15:27:00 GMT",
+    "SOG": 0.8,
+    "TIME": "2025-06-01 16:33:00 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-06-01T15:27:30.649320",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-01T15:27:30.649320"
+  "last_seen": "2025-06-01T16:33:11.896832"
 }

@@ -7,30 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "PI2536",
-    "COG": 341.3,
+    "COG": 360,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 341,
+    "HEADING": 16,
     "IMO": 0,
-    "LATITUDE": 51.50482,
-    "LONGITUDE": -0.02956,
+    "LATITUDE": 51.50641,
+    "LONGITUDE": -0.07218,
     "MMSI": 244210185,
     "NAME": "SALLY LIGHTFOOT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.1,
-    "TIME": "2025-06-01 15:27:05 GMT",
+    "SOG": 102.3,
+    "TIME": "2025-06-01 16:32:16 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      3880,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-06-01T15:27:27.718503",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-01T15:27:27.718503"
+  "last_seen": "2025-06-01T16:33:11.898389"
 }

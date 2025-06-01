@@ -7,29 +7,25 @@
     "B": 8,
     "C": 1,
     "CALLSIGN": "2IING",
-    "COG": 260.5,
+    "COG": 273,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50882,
-    "LONGITUDE": -0.04196,
+    "LATITUDE": 51.46432,
+    "LONGITUDE": -0.19992,
     "MMSI": 235110051,
     "NAME": "WHITE MARLIN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.8,
-    "TIME": "2025-06-01 15:27:20 GMT",
+    "SOG": 8,
+    "TIME": "2025-06-01 16:23:52 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-06-01T15:27:26.427812",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-01T15:27:26.427812"
+  "last_seen": "2025-06-01T16:33:11.886528"
 }
