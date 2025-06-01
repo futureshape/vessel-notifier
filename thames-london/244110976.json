@@ -15,17 +15,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50674,
-    "LONGITUDE": -0.07129,
+    "LONGITUDE": -0.0713,
     "MMSI": 244110976,
     "NAME": "PAPILLON",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-06-01 22:26:55 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-06-01 23:23:52 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-01T21:25:21.683161",
+    "last_seen": "2025-06-01T22:29:36.314911",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-01T22:29:36.314911"
+  "last_seen": "2025-06-01T23:26:25.565301"
 }
