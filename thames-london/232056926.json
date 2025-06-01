@@ -109,32 +109,33 @@
     "2025-05-26",
     "2025-05-28",
     "2025-05-29",
-    "2025-05-31"
+    "2025-05-31",
+    "2025-06-01"
   ],
   "last_full_data": {
     "A": 7,
     "B": 1,
     "C": 2,
     "CALLSIGN": "MPWH2",
-    "COG": 301.9,
+    "COG": 154.8,
     "D": 1,
     "DEST": "TRAINING",
     "DRAUGHT": 0.7,
     "ETA": "00-00 00:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49538,
-    "LONGITUDE": 0.01948,
+    "LATITUDE": 51.49574,
+    "LONGITUDE": 0.01876,
     "MMSI": 232056926,
     "NAME": "THAMES NAVIGATOR",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 1,
-    "TIME": "2025-05-31 15:00:56 GMT",
+    "SOG": 0.3,
+    "TIME": "2025-06-01 10:30:56 GMT",
     "TYPE": 40,
-    "last_seen": "2025-05-31T14:27:41.569894",
+    "last_seen": "2025-05-31T15:26:49.669920",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-31T15:26:49.669920"
+  "last_seen": "2025-06-01T10:32:06.101401"
 }
