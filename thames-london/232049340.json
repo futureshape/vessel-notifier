@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-05-31"
+    "2025-05-31",
+    "2025-06-02"
   ],
   "last_full_data": {
     "A": 9,
@@ -14,18 +15,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50733,
-    "LONGITUDE": -0.06937,
+    "LATITUDE": 51.50735,
+    "LONGITUDE": -0.06939,
     "MMSI": 232049340,
     "NAME": "SASSY LADY FREE",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-05-31 16:14:39 GMT",
+    "TIME": "2025-06-02 04:35:16 GMT",
     "TYPE": 37,
-    "last_seen": "2025-05-31T15:26:49.657951",
+    "last_seen": "2025-05-31T16:34:00.307919",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-31T16:34:00.307919"
+  "last_seen": "2025-06-02T04:38:46.754871"
 }
