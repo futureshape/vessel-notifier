@@ -7,28 +7,25 @@
     "B": 5,
     "C": 3,
     "CALLSIGN": "MOES9",
-    "COG": 233.1,
+    "COG": 312.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50375,
-    "LONGITUDE": -0.05422,
+    "LATITUDE": 51.50617,
+    "LONGITUDE": -0.07086,
     "MMSI": 232049916,
     "NAME": "KAYLA RAE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.9,
-    "TIME": "2025-06-02 17:29:23 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-06-02 18:26:41 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-06-02T17:29:36.304060",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-02T17:29:36.304060"
+  "last_seen": "2025-06-02T18:39:13.027401"
 }
