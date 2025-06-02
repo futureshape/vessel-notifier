@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-06-01"
+    "2025-06-01",
+    "2025-06-02"
   ],
   "last_full_data": {
     "A": 8,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 189,
+    "HEADING": 187,
     "IMO": 0,
-    "LATITUDE": 51.50726,
-    "LONGITUDE": -0.06975,
+    "LATITUDE": 51.50725,
+    "LONGITUDE": -0.06976,
     "MMSI": 261004953,
     "NAME": "SEM  PRESSA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-06-01 23:24:48 GMT",
+    "TIME": "2025-06-02 02:18:45 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-01T22:29:36.316925",
+    "last_seen": "2025-06-01T23:26:25.567221",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-01T23:26:25.567221"
+  "last_seen": "2025-06-02T02:20:44.680972"
 }
