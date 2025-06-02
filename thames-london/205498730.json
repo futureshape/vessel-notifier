@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-05-31",
-    "2025-06-01"
+    "2025-06-01",
+    "2025-06-02"
   ],
   "last_full_data": {
     "A": 10,
     "B": 0,
     "C": 2,
     "CALLSIGN": "OP4987",
-    "COG": 11.3,
+    "COG": 127.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50731,
-    "LONGITUDE": -0.06902,
+    "LATITUDE": 51.50719,
+    "LONGITUDE": -0.06894,
     "MMSI": 205498730,
     "NAME": "ZORBA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-06-01 23:24:41 GMT",
+    "TIME": "2025-06-02 08:37:44 GMT",
     "TYPE": 36,
-    "last_seen": "2025-06-01T21:25:21.685237",
+    "last_seen": "2025-06-01T23:26:25.567650",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-01T23:26:25.567650"
+  "last_seen": "2025-06-02T08:38:09.188386"
 }
