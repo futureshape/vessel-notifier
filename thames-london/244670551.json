@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-05-30"
+    "2025-05-30",
+    "2025-06-03"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "PH2110",
-    "COG": 104.5,
+    "COG": 122.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.507,
-    "LONGITUDE": -0.06783,
+    "LATITUDE": 51.50491,
+    "LONGITUDE": -0.07281,
     "MMSI": 244670551,
     "NAME": "DE BRANDING",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-05-30 15:08:42 GMT",
+    "SOG": 4,
+    "TIME": "2025-06-03 06:42:47 GMT",
     "TYPE": 36,
-    "last_seen": "2025-05-30T13:37:15.004755",
+    "last_seen": "2025-05-30T15:30:02.196727",
     "received_by_stations": []
   },
-  "last_seen": "2025-05-30T15:30:02.196727"
+  "last_seen": "2025-06-03T06:43:07.383635"
 }
