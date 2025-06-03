@@ -1,7 +1,8 @@
 {
   "dates_seen": [
     "2025-06-01",
-    "2025-06-02"
+    "2025-06-02",
+    "2025-06-03"
   ],
   "last_full_data": {
     "A": 9,
@@ -13,20 +14,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 265,
+    "HEADING": 257,
     "IMO": 0,
-    "LATITUDE": 51.50691,
-    "LONGITUDE": -0.07242,
+    "LATITUDE": 51.50685,
+    "LONGITUDE": -0.07246,
     "MMSI": 244030451,
     "NAME": "SAFFIER",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-06-02 09:26:34 GMT",
+    "TIME": "2025-06-03 10:32:51 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-02T08:38:09.185170",
+    "last_seen": "2025-06-02T09:31:47.136322",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-02T09:31:47.136322"
+  "last_seen": "2025-06-03T10:35:20.745039"
 }
