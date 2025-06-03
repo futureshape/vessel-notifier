@@ -55,7 +55,7 @@
     "B": 24,
     "C": 10,
     "CALLSIGN": "MXAW7",
-    "COG": 15,
+    "COG": 168,
     "D": 9,
     "DEST": "===DREDGEA458>GB CHN",
     "DRAUGHT": 7.2,
@@ -66,14 +66,14 @@
     "LONGITUDE": 0.02067,
     "MMSI": 232215000,
     "NAME": "SAND FALCON",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-06-03 17:30:35 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-06-03 18:38:53 GMT",
     "TYPE": 33,
-    "last_seen": "2025-06-03T16:37:52.865185",
+    "last_seen": "2025-06-03T17:30:40.489092",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-03T17:30:40.489092"
+  "last_seen": "2025-06-03T18:40:13.687697"
 }
