@@ -170,7 +170,7 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "MZTQ8",
-    "COG": 0,
+    "COG": 279.5,
     "D": 1,
     "DEST": "TBW",
     "DRAUGHT": 0.6,
@@ -178,17 +178,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50743,
-    "LONGITUDE": 0.00725,
+    "LONGITUDE": 0.00724,
     "MMSI": 232004871,
     "NAME": "CANARY WHARF 4",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-06-04 14:35:04 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-06-04 15:49:09 GMT",
     "TYPE": 56,
-    "last_seen": "2025-05-26T14:31:06.016321",
+    "last_seen": "2025-06-04T14:35:05.114481",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-04T14:35:05.114481"
+  "last_seen": "2025-06-04T15:49:15.190991"
 }
