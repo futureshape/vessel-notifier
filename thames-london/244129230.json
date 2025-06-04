@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-06-04"
+  ],
+  "last_full_data": {
+    "A": 11,
+    "B": 1,
+    "C": 3,
+    "CALLSIGN": "PE6637",
+    "COG": 283.4,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 281,
+    "IMO": 0,
+    "LATITUDE": 51.48507,
+    "LONGITUDE": -0.01622,
+    "MMSI": 244129230,
+    "NAME": "FEROX",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 7.3,
+    "TIME": "2025-06-04 17:29:18 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3880,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-06-04T17:29:40.291121"
+}
