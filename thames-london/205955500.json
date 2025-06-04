@@ -9,7 +9,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "OS9555",
-    "COG": 327.6,
+    "COG": 203.7,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -17,17 +17,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50771,
-    "LONGITUDE": -0.07051,
+    "LONGITUDE": -0.07052,
     "MMSI": 205955500,
     "NAME": "LA RONDE 2",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-06-04 19:20:43 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-06-04 20:23:44 GMT",
     "TYPE": 36,
-    "last_seen": "2025-06-04T18:39:28.430782",
+    "last_seen": "2025-06-04T19:22:52.078614",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-04T19:22:52.078614"
+  "last_seen": "2025-06-04T20:25:01.105605"
 }
