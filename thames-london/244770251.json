@@ -180,7 +180,7 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "PH3306",
-    "COG": 300.9,
+    "COG": 0,
     "D": 3,
     "DEST": "HOQ.;,:",
     "DRAUGHT": 0.2,
@@ -188,17 +188,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50238,
-    "LONGITUDE": -0.06999,
+    "LONGITUDE": -0.06994,
     "MMSI": 244770251,
-    "NAME": "RIET",
+    "NAME": "BOREFT 4",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-06-05 21:26:54 GMT",
+    "TIME": "2025-06-05 22:29:54 GMT",
     "TYPE": 69,
-    "last_seen": "2025-06-05T20:25:51.201701",
+    "last_seen": "2025-06-05T21:26:57.983991",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-05T21:26:57.983991"
+  "last_seen": "2025-06-05T22:29:56.703005"
 }
