@@ -184,32 +184,33 @@
     "2025-06-02",
     "2025-06-03",
     "2025-06-04",
-    "2025-06-05"
+    "2025-06-05",
+    "2025-06-06"
   ],
   "last_full_data": {
     "A": 5,
     "B": 10,
     "C": 2,
     "CALLSIGN": "MYZU9",
-    "COG": 266.7,
+    "COG": 254.3,
     "D": 3,
     "DEST": "LONDON OPERATIONS",
     "DRAUGHT": 1.8,
     "ETA": "05-18 16:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50702,
-    "LONGITUDE": 0.00817,
+    "LATITUDE": 51.50132,
+    "LONGITUDE": 0.01042,
     "MMSI": 232004562,
     "NAME": "ASSASSIN",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-06-05 23:29:08 GMT",
+    "TIME": "2025-06-06 02:14:46 GMT",
     "TYPE": 52,
-    "last_seen": "2025-06-05T02:16:08.111286",
+    "last_seen": "2025-06-05T23:29:12.667251",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-05T23:29:12.667251"
+  "last_seen": "2025-06-06T02:15:27.365831"
 }
