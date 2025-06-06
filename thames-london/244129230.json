@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-06-04"
+    "2025-06-04",
+    "2025-06-06"
   ],
   "last_full_data": {
     "A": 11,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 270,
+    "HEADING": 271,
     "IMO": 0,
-    "LATITUDE": 51.5078,
-    "LONGITUDE": -0.07202,
+    "LATITUDE": 51.50776,
+    "LONGITUDE": -0.07206,
     "MMSI": 244129230,
     "NAME": "FEROX",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-06-04 19:19:24 GMT",
+    "TIME": "2025-06-06 18:37:57 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-04T18:39:27.769107",
+    "last_seen": "2025-06-04T19:22:52.076758",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-04T19:22:52.076758"
+  "last_seen": "2025-06-06T18:38:51.487561"
 }
