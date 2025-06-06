@@ -7,28 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "DJ7525",
-    "COG": 341.7,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 342,
+    "HEADING": 188,
     "IMO": 0,
-    "LATITUDE": 51.50502,
-    "LONGITUDE": -0.02978,
+    "LATITUDE": 51.5072,
+    "LONGITUDE": -0.07192,
     "MMSI": 211860180,
     "NAME": "CROSSFIRE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7,
-    "TIME": "2025-06-06 09:29:59 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-06-06 10:25:33 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-06-06T09:30:25.514661",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-06T09:30:25.514661"
+  "last_seen": "2025-06-06T10:35:15.289782"
 }
