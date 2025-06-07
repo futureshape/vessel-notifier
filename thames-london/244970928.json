@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-06-04"
+    "2025-06-04",
+    "2025-06-07"
   ],
   "last_full_data": {
     "A": 12,
     "B": 1,
     "C": 0,
     "CALLSIGN": "PD3494",
-    "COG": 360,
+    "COG": 109,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 270,
+    "HEADING": 106,
     "IMO": 0,
-    "LATITUDE": 51.5077,
-    "LONGITUDE": -0.07208,
+    "LATITUDE": 51.50222,
+    "LONGITUDE": -0.066,
     "MMSI": 244970928,
     "NAME": "SKYFALL",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-06-04 19:01:49 GMT",
+    "SOG": 5.6,
+    "TIME": "2025-06-07 11:22:08 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-04T18:39:28.429270",
+    "last_seen": "2025-06-04T19:22:52.076483",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-04T19:22:52.076483"
+  "last_seen": "2025-06-07T11:22:20.738517"
 }
