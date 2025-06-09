@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-06-08"
+    "2025-06-08",
+    "2025-06-09"
   ],
   "last_full_data": {
     "A": 45,
     "B": 184,
     "C": 14,
     "CALLSIGN": "LAYP7",
-    "COG": 348.5,
+    "COG": 14.7,
     "D": 14,
     "DEST": "GB LON",
     "DRAUGHT": 6.8,
     "ETA": "06-08 04:00",
-    "HEADING": 93,
+    "HEADING": 92,
     "IMO": 9796262,
-    "LATITUDE": 51.48423,
-    "LONGITUDE": -0.01461,
+    "LATITUDE": 51.48425,
+    "LONGITUDE": -0.01458,
     "MMSI": 257058920,
     "NAME": "VIKING JUPITER",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0.1,
-    "TIME": "2025-06-08 23:24:14 GMT",
+    "TIME": "2025-06-09 02:21:15 GMT",
     "TYPE": 60,
-    "last_seen": "2025-06-08T22:29:15.179205",
+    "last_seen": "2025-06-08T23:25:45.625451",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-08T23:25:45.625451"
+  "last_seen": "2025-06-09T02:23:06.362701"
 }
