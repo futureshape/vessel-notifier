@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-06-06"
+    "2025-06-06",
+    "2025-06-09"
   ],
   "last_full_data": {
     "A": 4,
     "B": 6,
     "C": 3,
     "CALLSIGN": "PG6056",
-    "COG": 279,
+    "COG": 174,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 279,
+    "HEADING": 174,
     "IMO": 0,
-    "LATITUDE": 51.507,
-    "LONGITUDE": -0.07103,
+    "LATITUDE": 51.50701,
+    "LONGITUDE": -0.07102,
     "MMSI": 244005515,
     "NAME": "DEGRIEZE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-06-06 09:24:00 GMT",
+    "TIME": "2025-06-09 09:24:42 GMT",
     "TYPE": 36,
-    "last_seen": "2025-06-06T08:35:56.835417",
+    "last_seen": "2025-06-06T09:30:24.638529",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-06T09:30:24.638529"
+  "last_seen": "2025-06-09T09:32:02.210687"
 }
