@@ -187,7 +187,7 @@
     "B": 0,
     "C": 2,
     "CALLSIGN": "2AMF4",
-    "COG": 360,
+    "COG": 334.7,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 1,
@@ -195,17 +195,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50603,
-    "LONGITUDE": -0.07328,
+    "LONGITUDE": -0.07327,
     "MMSI": 235060961,
     "NAME": "TIGER ONE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-06-11 09:31:36 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-06-11 10:34:36 GMT",
     "TYPE": 49,
-    "last_seen": "2025-06-10T14:32:32.327797",
+    "last_seen": "2025-06-11T09:31:43.033344",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-11T09:31:43.033344"
+  "last_seen": "2025-06-11T10:34:44.471329"
 }
