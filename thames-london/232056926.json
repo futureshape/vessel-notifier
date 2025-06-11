@@ -113,32 +113,33 @@
     "2025-06-01",
     "2025-06-07",
     "2025-06-08",
-    "2025-06-09"
+    "2025-06-09",
+    "2025-06-11"
   ],
   "last_full_data": {
     "A": 7,
     "B": 1,
     "C": 2,
     "CALLSIGN": "MPWH2",
-    "COG": 349.8,
+    "COG": 313.7,
     "D": 1,
     "DEST": "SAFETY GB ROWING HOP",
     "DRAUGHT": 0.7,
     "ETA": "06-14 00:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49246,
-    "LONGITUDE": 0.00081,
+    "LATITUDE": 51.49686,
+    "LONGITUDE": 0.01652,
     "MMSI": 232056926,
     "NAME": "THAMES NAVIGATOR",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 4.1,
-    "TIME": "2025-06-09 13:40:28 GMT",
+    "SOG": 3.1,
+    "TIME": "2025-06-11 09:31:36 GMT",
     "TYPE": 40,
-    "last_seen": "2025-06-09T12:57:45.926279",
+    "last_seen": "2025-06-09T13:40:33.516471",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-09T13:40:33.516471"
+  "last_seen": "2025-06-11T09:31:43.043476"
 }
