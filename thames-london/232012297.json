@@ -124,14 +124,14 @@
     "B": 6,
     "C": 4,
     "CALLSIGN": "DB4434",
-    "COG": 178,
+    "COG": 0,
     "D": 2,
     "DEST": "THAMES",
     "DRAUGHT": 2.5,
     "ETA": "01-01 00:00",
-    "HEADING": 291,
+    "HEADING": 292,
     "IMO": 8790259,
-    "LATITUDE": 51.50422,
+    "LATITUDE": 51.50421,
     "LONGITUDE": -0.06892,
     "MMSI": 232012297,
     "NAME": "ARMADOR II",
@@ -139,10 +139,10 @@
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-06-12 10:35:04 GMT",
+    "TIME": "2025-06-12 11:24:48 GMT",
     "TYPE": 0,
-    "last_seen": "2025-06-12T09:31:06.097622",
+    "last_seen": "2025-06-12T10:35:05.062855",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-12T10:35:05.062855"
+  "last_seen": "2025-06-12T11:24:56.430663"
 }
