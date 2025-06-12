@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2025-06-12"
+  ],
+  "last_full_data": {
+    "A": 59,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "FYCR",
+    "COG": 360,
+    "D": 11,
+    "DEST": "0",
+    "DRAUGHT": 0,
+    "ETA": "00-00 24:60",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50654,
+    "LONGITUDE": -0.08065,
+    "MMSI": 228999901,
+    "NAME": "FRENCH WARSHIP",
+    "NAVSTAT": 5,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2025-06-12 02:15:18 GMT",
+    "TYPE": 35,
+    "last_seen": null,
+    "received_by_stations": [
+      3416,
+      2496,
+      3785,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-06-12T02:16:51.536399"
+}
