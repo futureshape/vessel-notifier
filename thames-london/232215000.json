@@ -58,7 +58,7 @@
     "B": 24,
     "C": 10,
     "CALLSIGN": "MXAW7",
-    "COG": 308,
+    "COG": 15,
     "D": 9,
     "DEST": "DREDGE458>GB CHN",
     "DRAUGHT": 7.2,
@@ -72,11 +72,11 @@
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-06-13 12:56:51 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-06-13 13:38:31 GMT",
     "TYPE": 33,
-    "last_seen": "2025-06-10T04:37:38.736895",
+    "last_seen": "2025-06-13T12:56:52.675530",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-13T12:56:52.675530"
+  "last_seen": "2025-06-13T13:38:40.116172"
 }
