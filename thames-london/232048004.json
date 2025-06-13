@@ -1,7 +1,35 @@
 {
   "dates_seen": [
-    "2024-05-23"
+    "2024-05-23",
+    "2025-06-13"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-05-23T14:17:02.068983"
+  "last_full_data": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "MNUP5",
+    "COG": 164.9,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 185,
+    "IMO": 0,
+    "LATITUDE": 51.49622,
+    "LONGITUDE": -0.00341,
+    "MMSI": 232048004,
+    "NAME": "MARDI GRAS",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 7.5,
+    "TIME": "2025-06-13 12:56:34 GMT",
+    "TYPE": 37,
+    "last_seen": "2024-05-23T14:17:02.068983",
+    "received_by_stations": [
+      2648,
+      2115
+    ]
+  },
+  "last_seen": "2025-06-13T12:56:52.672505"
 }
