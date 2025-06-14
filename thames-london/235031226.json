@@ -1,7 +1,36 @@
 {
   "dates_seen": [
-    "2024-06-12"
+    "2024-06-12",
+    "2025-06-14"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-12T07:17:32.338839"
+  "last_full_data": {
+    "A": 6,
+    "B": 4,
+    "C": 0,
+    "CALLSIGN": "MKQM2",
+    "COG": 165.4,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49256,
+    "LONGITUDE": -0.00256,
+    "MMSI": 235031226,
+    "NAME": "NINOTCHKA",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 7.1,
+    "TIME": "2025-06-14 13:33:31 GMT",
+    "TYPE": 36,
+    "last_seen": "2024-06-12T07:17:32.338839",
+    "received_by_stations": [
+      3880,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-06-14T13:34:03.149164"
 }
