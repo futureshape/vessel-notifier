@@ -167,32 +167,33 @@
     "2025-06-11",
     "2025-06-12",
     "2025-06-13",
-    "2025-06-14"
+    "2025-06-14",
+    "2025-06-15"
   ],
   "last_full_data": {
     "A": 43,
     "B": 25,
     "C": 10,
     "CALLSIGN": "MNSY3",
-    "COG": 17.4,
+    "COG": 360,
     "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 1.2,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49931,
-    "LONGITUDE": -0.121,
+    "LATITUDE": 51.50245,
+    "LONGITUDE": -0.12302,
     "MMSI": 235055756,
     "NAME": "COCKNEY SPARROW",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.5,
-    "TIME": "2025-06-14 16:58:17 GMT",
+    "SOG": 0,
+    "TIME": "2025-06-15 09:27:47 GMT",
     "TYPE": 69,
-    "last_seen": "2025-06-14T16:33:15.531235",
+    "last_seen": "2025-06-14T17:26:07.948582",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-14T17:26:07.948582"
+  "last_seen": "2025-06-15T09:27:52.857393"
 }
