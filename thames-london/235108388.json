@@ -40,7 +40,7 @@
     "B": 10,
     "C": 4,
     "CALLSIGN": "MQGX7",
-    "COG": 204.6,
+    "COG": 294.1,
     "D": 1,
     "DEST": "THAMES",
     "DRAUGHT": 2,
@@ -52,13 +52,13 @@
     "MMSI": 235108388,
     "NAME": "PROGRESS",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-06-16 10:35:39 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-06-16 11:25:10 GMT",
     "TYPE": 90,
-    "last_seen": "2025-06-16T09:33:42.815743",
+    "last_seen": "2025-06-16T10:35:46.742554",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-16T10:35:46.742554"
+  "last_seen": "2025-06-16T11:25:14.591341"
 }
