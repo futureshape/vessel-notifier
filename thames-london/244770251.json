@@ -191,7 +191,7 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "PH3306",
-    "COG": 294.6,
+    "COG": 308,
     "D": 3,
     "DEST": "HOQ.;,:",
     "DRAUGHT": 0.2,
@@ -199,17 +199,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50239,
-    "LONGITUDE": -0.06994,
+    "LONGITUDE": -0.06996,
     "MMSI": 244770251,
     "NAME": "BOREFT 4",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-06-16 15:31:30 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-06-16 16:36:49 GMT",
     "TYPE": 69,
-    "last_seen": "2025-06-16T14:33:09.122504",
+    "last_seen": "2025-06-16T15:31:37.070577",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-16T15:31:37.070577"
+  "last_seen": "2025-06-16T16:37:00.798745"
 }

@@ -59,12 +59,12 @@
     "B": 24,
     "C": 10,
     "CALLSIGN": "MXAW7",
-    "COG": 95,
+    "COG": 5,
     "D": 9,
     "DEST": "GB CHN>DREDGEA458",
     "DRAUGHT": 4.5,
     "ETA": "06-17 09:00",
-    "HEADING": 109,
+    "HEADING": 110,
     "IMO": 9151553,
     "LATITUDE": 51.496,
     "LONGITUDE": 0.02067,
@@ -73,11 +73,11 @@
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-06-16 15:29:31 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-06-16 16:35:31 GMT",
     "TYPE": 33,
-    "last_seen": "2025-06-16T14:33:09.133219",
+    "last_seen": "2025-06-16T15:31:39.908920",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-16T15:31:39.908920"
+  "last_seen": "2025-06-16T16:37:00.808112"
 }
