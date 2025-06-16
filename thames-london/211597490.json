@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-06-13"
+    "2025-06-13",
+    "2025-06-16"
   ],
   "last_full_data": {
     "A": 9,
     "B": 2,
     "C": 2,
     "CALLSIGN": "DC3910",
-    "COG": 23.7,
+    "COG": 94.8,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50612,
-    "LONGITUDE": -0.07225,
+    "LATITUDE": 51.50164,
+    "LONGITUDE": -0.06112,
     "MMSI": 211597490,
     "NAME": "GUENNIK",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 2.2,
-    "TIME": "2025-06-13 13:18:24 GMT",
+    "SOG": 6.4,
+    "TIME": "2025-06-16 05:33:39 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-13T12:56:51.983886",
+    "last_seen": "2025-06-13T13:38:40.105030",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-13T13:38:40.105030"
+  "last_seen": "2025-06-16T05:33:43.677965"
 }
