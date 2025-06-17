@@ -116,32 +116,33 @@
     "2025-06-09",
     "2025-06-11",
     "2025-06-12",
-    "2025-06-14"
+    "2025-06-14",
+    "2025-06-17"
   ],
   "last_full_data": {
     "A": 7,
     "B": 1,
     "C": 2,
     "CALLSIGN": "MPWH2",
-    "COG": 331.8,
+    "COG": 356.5,
     "D": 1,
     "DEST": "CHARLTON LONDON",
     "DRAUGHT": 0.7,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49555,
-    "LONGITUDE": 0.01888,
+    "LATITUDE": 51.49586,
+    "LONGITUDE": 0.01873,
     "MMSI": 232056926,
     "NAME": "THAMES NAVIGATOR",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.5,
-    "TIME": "2025-06-14 14:27:54 GMT",
+    "SOG": 2.2,
+    "TIME": "2025-06-17 14:33:27 GMT",
     "TYPE": 40,
-    "last_seen": "2025-06-14T13:34:02.266211",
+    "last_seen": "2025-06-14T14:28:01.238699",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-14T14:28:01.238699"
+  "last_seen": "2025-06-17T14:33:32.451152"
 }
