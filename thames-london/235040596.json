@@ -57,20 +57,20 @@
     "DEST": "GBLON",
     "DRAUGHT": 2.2,
     "ETA": "05-15 13:00",
-    "HEADING": 32,
+    "HEADING": 42,
     "IMO": 9407299,
-    "LATITUDE": 51.48775,
-    "LONGITUDE": -0.00079,
+    "LATITUDE": 51.48776,
+    "LONGITUDE": -0.00077,
     "MMSI": 235040596,
     "NAME": "MTS VALOUR",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-06-18 17:30:51 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-06-18 18:40:00 GMT",
     "TYPE": 52,
-    "last_seen": "2025-06-18T16:37:13.816401",
+    "last_seen": "2025-06-18T17:31:00.223929",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-18T17:31:00.223929"
+  "last_seen": "2025-06-18T18:40:11.968859"
 }
