@@ -9,31 +9,25 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "PG3367",
-    "COG": 313.4,
+    "COG": 77.7,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5006,
-    "LONGITUDE": 0.01642,
+    "LATITUDE": 51.50782,
+    "LONGITUDE": -0.04237,
     "MMSI": 244073916,
     "NAME": "INFINITY",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.1,
-    "TIME": "2025-06-18 15:32:18 GMT",
+    "SOG": 6.3,
+    "TIME": "2025-06-18 16:36:48 GMT",
     "TYPE": 36,
-    "last_seen": "2024-07-16T09:25:14.731422",
-    "received_by_stations": [
-      3880,
-      2115,
-      3785,
-      2665,
-      2648
-    ]
+    "last_seen": "2025-06-18T15:32:20.319536",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-18T15:32:20.319536"
+  "last_seen": "2025-06-18T16:37:11.701571"
 }
