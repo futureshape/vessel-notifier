@@ -32,29 +32,25 @@
     "B": 0,
     "C": 2,
     "CALLSIGN": "2AMF3",
-    "COG": 360,
+    "COG": 356.5,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49374,
-    "LONGITUDE": -0.03283,
+    "LATITUDE": 51.49376,
+    "LONGITUDE": -0.03287,
     "MMSI": 235060959,
     "NAME": "TIGER TWO",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-06-18 16:36:37 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-06-18 17:01:14 GMT",
     "TYPE": 0,
-    "last_seen": "2025-03-03T13:32:40.862766",
-    "received_by_stations": [
-      3785,
-      2648,
-      2115
-    ]
+    "last_seen": "2025-06-18T16:37:12.608670",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-18T16:37:12.608670"
+  "last_seen": "2025-06-18T17:31:00.222011"
 }
