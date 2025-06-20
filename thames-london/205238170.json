@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-06-16",
-    "2025-06-19"
+    "2025-06-19",
+    "2025-06-20"
   ],
   "last_full_data": {
     "A": 3,
     "B": 5,
     "C": 1,
     "CALLSIGN": "OQ2381",
-    "COG": 360,
+    "COG": 56.1,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49379,
-    "LONGITUDE": -0.03406,
+    "LATITUDE": 51.49408,
+    "LONGITUDE": -0.03366,
     "MMSI": 205238170,
     "NAME": "KANOET",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-06-19 09:29:37 GMT",
+    "SOG": 1.4,
+    "TIME": "2025-06-20 06:39:48 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-19T08:37:23.204851",
+    "last_seen": "2025-06-19T09:31:35.961112",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-19T09:31:35.961112"
+  "last_seen": "2025-06-20T06:41:24.230698"
 }
