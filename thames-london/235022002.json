@@ -7,29 +7,25 @@
     "B": 10,
     "C": 3,
     "CALLSIGN": "ZNZL9",
-    "COG": 257.8,
+    "COG": 117,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 218,
+    "HEADING": 147,
     "IMO": 0,
-    "LATITUDE": 51.49743,
-    "LONGITUDE": 0.03018,
+    "LATITUDE": 51.50275,
+    "LONGITUDE": -0.06791,
     "MMSI": 235022002,
     "NAME": "COCO DE MER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 9.9,
-    "TIME": "2025-06-20 06:41:03 GMT",
+    "SOG": 3.1,
+    "TIME": "2025-06-20 07:28:03 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      3785,
-      2648
-    ]
+    "last_seen": "2025-06-20T06:41:24.860379",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-20T06:41:24.860379"
+  "last_seen": "2025-06-20T07:28:16.275788"
 }
