@@ -7,31 +7,25 @@
     "B": 5,
     "C": 1,
     "CALLSIGN": "OP6709",
-    "COG": 258.4,
+    "COG": 4.2,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49788,
-    "LONGITUDE": 0.03173,
+    "LATITUDE": 51.49853,
+    "LONGITUDE": -0.02921,
     "MMSI": 205670930,
     "NAME": "TADOUSSAC",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.2,
-    "TIME": "2025-06-20 16:35:44 GMT",
+    "SOG": 4.3,
+    "TIME": "2025-06-20 17:28:18 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      3785,
-      2115,
-      2665,
-      2648
-    ]
+    "last_seen": "2025-06-20T16:35:51.804465",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-20T16:35:51.804465"
+  "last_seen": "2025-06-20T17:28:44.856414"
 }
