@@ -121,7 +121,7 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "ZQYU2",
-    "COG": 7.4,
+    "COG": 360,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -129,17 +129,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50619,
-    "LONGITUDE": -0.11958,
+    "LONGITUDE": -0.11943,
     "MMSI": 235096062,
     "NAME": "EDDIE C",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 2.4,
-    "TIME": "2025-06-20 10:33:38 GMT",
+    "SOG": 0,
+    "TIME": "2025-06-20 11:24:10 GMT",
     "TYPE": 53,
-    "last_seen": "2025-06-20T09:30:36.614691",
+    "last_seen": "2025-06-20T10:34:21.211510",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-20T10:34:21.211510"
+  "last_seen": "2025-06-20T11:24:55.614054"
 }
