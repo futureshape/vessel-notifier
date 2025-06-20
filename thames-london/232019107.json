@@ -66,7 +66,7 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "MEFY4",
-    "COG": 109.2,
+    "COG": 111.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -74,17 +74,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50441,
-    "LONGITUDE": -0.06908,
+    "LONGITUDE": -0.06906,
     "MMSI": 232019107,
     "NAME": "GOSSO",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-06-20 20:30:28 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-06-20 21:26:09 GMT",
     "TYPE": 0,
-    "last_seen": "2025-06-20T19:23:06.622654",
+    "last_seen": "2025-06-20T20:30:37.910569",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-20T20:30:37.910569"
+  "last_seen": "2025-06-20T21:26:11.058855"
 }
