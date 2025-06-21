@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2025-06-21"
+  ],
+  "last_full_data": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "DOAM2",
+    "COG": 248.1,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 241,
+    "IMO": 0,
+    "LATITUDE": 51.48608,
+    "LONGITUDE": -0.00773,
+    "MMSI": 211836140,
+    "NAME": "ALEGRIA",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 6.2,
+    "TIME": "2025-06-21 07:25:23 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      3785,
+      3880,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-06-21T07:25:47.005229"
+}
