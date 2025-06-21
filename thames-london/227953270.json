@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-06-20"
+    "2025-06-20",
+    "2025-06-21"
   ],
   "last_full_data": {
     "A": 11,
     "B": 0,
     "C": 4,
     "CALLSIGN": "FAG5754",
-    "COG": 317.2,
+    "COG": 319.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 317,
+    "HEADING": 319,
     "IMO": 0,
-    "LATITUDE": 51.50784,
-    "LONGITUDE": -0.0721,
+    "LATITUDE": 51.50785,
+    "LONGITUDE": -0.07211,
     "MMSI": 227953270,
     "NAME": "CELOU 3",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-06-20 23:25:34 GMT",
+    "TIME": "2025-06-21 02:14:34 GMT",
     "TYPE": 0,
-    "last_seen": "2025-06-20T22:30:41.089197",
+    "last_seen": "2025-06-20T23:27:42.218542",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-20T23:27:42.218542"
+  "last_seen": "2025-06-21T02:15:17.738747"
 }
