@@ -1,32 +1,38 @@
 {
   "dates_seen": [
     "2024-06-25",
-    "2024-06-29"
+    "2024-06-29",
+    "2025-06-21"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "DB7945",
-    "COG": 125.9,
+    "COG": 172.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5052,
-    "LONGITUDE": 0.00441,
+    "LATITUDE": 51.50013,
+    "LONGITUDE": -0.00554,
     "MMSI": 211873190,
     "NAME": "JAGAL",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.5,
-    "TIME": "2024-06-29 07:21:40 GMT",
+    "SOG": 4.9,
+    "TIME": "2025-06-21 11:25:49 GMT",
     "TYPE": 37,
-    "last_seen": "2024-06-29T06:28:38.167660",
-    "received_by_stations": []
+    "last_seen": "2024-06-29T07:21:54.542785",
+    "received_by_stations": [
+      3880,
+      2115,
+      2648,
+      3785
+    ]
   },
-  "last_seen": "2024-06-29T07:21:54.542785"
+  "last_seen": "2025-06-21T11:25:56.438716"
 }
