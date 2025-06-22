@@ -7,31 +7,25 @@
     "B": 7,
     "C": 3,
     "CALLSIGN": "MPGU4",
-    "COG": 257.9,
+    "COG": 191.2,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 259,
+    "HEADING": 221,
     "IMO": 0,
-    "LATITUDE": 51.48552,
-    "LONGITUDE": -0.01163,
+    "LATITUDE": 51.50535,
+    "LONGITUDE": -0.07171,
     "MMSI": 232055202,
     "NAME": "LADY J",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 11.8,
-    "TIME": "2025-06-22 09:27:52 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-06-22 10:30:42 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      2115,
-      2648,
-      3785,
-      2665
-    ]
+    "last_seen": "2025-06-22T09:28:01.029525",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-22T09:28:01.029525"
+  "last_seen": "2025-06-22T10:31:43.778069"
 }
