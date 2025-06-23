@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-06-18"
+    "2025-06-18",
+    "2025-06-23"
   ],
   "last_full_data": {
     "A": 10,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 280,
+    "HEADING": 283,
     "IMO": 0,
-    "LATITUDE": 51.50754,
-    "LONGITUDE": -0.072,
+    "LATITUDE": 51.50753,
+    "LONGITUDE": -0.07197,
     "MMSI": 228265730,
     "NAME": "PANDORA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-06-18 18:17:05 GMT",
+    "TIME": "2025-06-23 09:33:58 GMT",
     "TYPE": 36,
-    "last_seen": "2025-06-18T17:31:00.218021",
+    "last_seen": "2025-06-18T18:40:11.960636",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-18T18:40:11.960636"
+  "last_seen": "2025-06-23T09:34:09.190283"
 }

@@ -1,0 +1,39 @@
+{
+  "dates_seen": [
+    "2025-06-23"
+  ],
+  "last_full_data": {
+    "A": 19,
+    "B": 36,
+    "C": 5,
+    "CALLSIGN": "9HA2262",
+    "COG": 347.2,
+    "D": 5,
+    "DEST": "LONDON",
+    "DRAUGHT": 3.5,
+    "ETA": "06-23 12:00",
+    "HEADING": 345,
+    "IMO": 1010430,
+    "LATITUDE": 51.49418,
+    "LONGITUDE": -0.02939,
+    "MMSI": 248232000,
+    "NAME": "KAHALANI",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 14,
+    "SOG": 6.9,
+    "TIME": "2025-06-23 09:34:07 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      2496,
+      2103,
+      3880,
+      2115,
+      3785,
+      2665,
+      2648
+    ]
+  },
+  "last_seen": "2025-06-23T09:34:10.115764"
+}
