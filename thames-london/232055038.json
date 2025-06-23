@@ -1,31 +1,35 @@
 {
   "dates_seen": [
-    "2024-07-04"
+    "2024-07-04",
+    "2025-06-23"
   ],
   "last_full_data": {
     "A": 9,
     "B": 7,
     "C": 2,
     "CALLSIGN": "MPFF3",
-    "COG": 236.5,
+    "COG": 160.3,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.44874,
-    "LONGITUDE": -0.30668,
+    "LATITUDE": 51.47539,
+    "LONGITUDE": -0.22443,
     "MMSI": 232055038,
     "NAME": "JABBERWOCK",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.1,
-    "TIME": "2024-07-04 12:20:53 GMT",
+    "SOG": 4.5,
+    "TIME": "2025-06-23 11:24:37 GMT",
     "TYPE": 37,
-    "last_seen": "2024-07-04T11:22:56.233670",
-    "received_by_stations": []
+    "last_seen": "2024-07-04T12:41:16.579503",
+    "received_by_stations": [
+      2648,
+      3806
+    ]
   },
-  "last_seen": "2024-07-04T12:41:16.579503"
+  "last_seen": "2025-06-23T11:25:41.458484"
 }
