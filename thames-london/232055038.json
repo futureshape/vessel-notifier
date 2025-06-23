@@ -8,28 +8,25 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "MPFF3",
-    "COG": 160.3,
+    "COG": 7.6,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47539,
-    "LONGITUDE": -0.22443,
+    "LATITUDE": 51.50669,
+    "LONGITUDE": -0.07198,
     "MMSI": 232055038,
     "NAME": "JABBERWOCK",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 4.5,
-    "TIME": "2025-06-23 11:24:37 GMT",
+    "SOG": 2.9,
+    "TIME": "2025-06-23 12:59:36 GMT",
     "TYPE": 37,
-    "last_seen": "2024-07-04T12:41:16.579503",
-    "received_by_stations": [
-      2648,
-      3806
-    ]
+    "last_seen": "2025-06-23T11:25:41.458484",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-23T11:25:41.458484"
+  "last_seen": "2025-06-23T12:59:37.653163"
 }
