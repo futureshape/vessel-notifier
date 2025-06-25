@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-06-23",
-    "2025-06-24"
+    "2025-06-24",
+    "2025-06-25"
   ],
   "last_full_data": {
     "A": 23,
     "B": 2,
     "C": 4,
     "CALLSIGN": "2AIP3",
-    "COG": 193.2,
+    "COG": 5.6,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50177,
-    "LONGITUDE": -0.01636,
+    "LATITUDE": 51.50143,
+    "LONGITUDE": -0.01663,
     "MMSI": 235059975,
     "NAME": "DAMA DE NOCHE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-06-24 23:25:49 GMT",
+    "SOG": 0,
+    "TIME": "2025-06-25 02:18:40 GMT",
     "TYPE": 36,
-    "last_seen": "2025-06-24T22:31:16.970867",
+    "last_seen": "2025-06-24T23:27:28.721878",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-24T23:27:28.721878"
+  "last_seen": "2025-06-25T02:20:06.236166"
 }
