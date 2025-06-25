@@ -7,30 +7,25 @@
     "B": 18,
     "C": 5,
     "CALLSIGN": "MKND9",
-    "COG": 277.9,
+    "COG": 291.1,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50718,
-    "LONGITUDE": 0.00373,
+    "LATITUDE": 51.50189,
+    "LONGITUDE": -0.01698,
     "MMSI": 232039524,
     "NAME": "CARIAD",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4.6,
-    "TIME": "2025-06-25 12:59:05 GMT",
+    "SOG": 1.6,
+    "TIME": "2025-06-25 13:43:38 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      2115,
-      3785,
-      2648
-    ]
+    "last_seen": "2025-06-25T12:59:46.904778",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-25T12:59:46.904778"
+  "last_seen": "2025-06-25T13:44:00.542375"
 }
