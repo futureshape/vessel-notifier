@@ -31,32 +31,33 @@
     "2025-06-21",
     "2025-06-22",
     "2025-06-24",
-    "2025-06-25"
+    "2025-06-25",
+    "2025-06-26"
   ],
   "last_full_data": {
     "A": 2,
     "B": 4,
     "C": 1,
     "CALLSIGN": "MEFX4",
-    "COG": 309,
+    "COG": 146.9,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4984,
-    "LONGITUDE": 0.0144,
+    "LATITUDE": 51.4986,
+    "LONGITUDE": 0.01393,
     "MMSI": 232019100,
     "NAME": "THAMES TRAINER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 1,
-    "TIME": "2025-06-25 14:11:00 GMT",
+    "SOG": 5.4,
+    "TIME": "2025-06-26 14:16:21 GMT",
     "TYPE": 40,
-    "last_seen": "2025-06-25T13:44:00.544281",
+    "last_seen": "2025-06-25T14:33:28.949328",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-25T14:33:28.949328"
+  "last_seen": "2025-06-26T14:32:04.558357"
 }
