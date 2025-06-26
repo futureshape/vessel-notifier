@@ -78,32 +78,33 @@
     "2025-06-11",
     "2025-06-12",
     "2025-06-19",
-    "2025-06-25"
+    "2025-06-25",
+    "2025-06-26"
   ],
   "last_full_data": {
     "A": 61,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MWSC8",
-    "COG": 320.7,
+    "COG": 360,
     "D": 14,
     "DEST": "LONDON",
     "DRAUGHT": 1.5,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50898,
-    "LONGITUDE": -0.11847,
+    "LATITUDE": 51.50905,
+    "LONGITUDE": -0.11861,
     "MMSI": 235054955,
     "NAME": "SILVER STURGEON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2025-06-25 21:27:47 GMT",
+    "SOG": 0,
+    "TIME": "2025-06-26 09:32:01 GMT",
     "TYPE": 69,
-    "last_seen": "2025-06-25T20:32:02.223610",
+    "last_seen": "2025-06-25T21:27:47.959132",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-25T21:27:47.959132"
+  "last_seen": "2025-06-26T09:32:18.977221"
 }
