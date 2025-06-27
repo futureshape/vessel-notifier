@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2025-06-27"
+  ],
+  "last_full_data": {
+    "A": 8,
+    "B": 2,
+    "C": 2,
+    "CALLSIGN": "PD5757",
+    "COG": 221.1,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 208,
+    "IMO": 0,
+    "LATITUDE": 51.50657,
+    "LONGITUDE": -0.00042,
+    "MMSI": 244153720,
+    "NAME": "EOLUS",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 7.9,
+    "TIME": "2025-06-27 12:56:49 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3880,
+      2115,
+      3785,
+      2648
+    ]
+  },
+  "last_seen": "2025-06-27T12:57:20.849884"
+}
