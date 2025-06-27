@@ -7,30 +7,25 @@
     "B": 0,
     "C": 5,
     "CALLSIGN": "SPG6081",
-    "COG": 287.7,
+    "COG": 200,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50719,
-    "LONGITUDE": 0.00468,
+    "LATITUDE": 51.5041,
+    "LONGITUDE": -0.0687,
     "MMSI": 261006818,
     "NAME": "BLUE VELVET",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.4,
-    "TIME": "2025-06-27 10:34:21 GMT",
+    "SOG": 2.6,
+    "TIME": "2025-06-27 11:24:51 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      3785,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-06-27T10:34:26.910821",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-27T10:34:26.910821"
+  "last_seen": "2025-06-27T11:25:03.314154"
 }
