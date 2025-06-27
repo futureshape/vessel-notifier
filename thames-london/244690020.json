@@ -177,7 +177,7 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "PB6045",
-    "COG": 283.9,
+    "COG": 282.1,
     "D": 4,
     "DEST": "KALLO",
     "DRAUGHT": 1.4,
@@ -185,17 +185,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50765,
-    "LONGITUDE": 0.00239,
+    "LONGITUDE": 0.00245,
     "MMSI": 244690020,
     "NAME": "SCHELDEMOND I",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-06-27 12:57:09 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-06-27 13:30:18 GMT",
     "TYPE": 33,
-    "last_seen": "2025-06-27T11:25:03.322691",
+    "last_seen": "2025-06-27T12:57:20.850243",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-27T12:57:20.850243"
+  "last_seen": "2025-06-27T13:38:22.057882"
 }
