@@ -1,7 +1,34 @@
 {
   "dates_seen": [
-    "2024-06-08"
+    "2024-06-08",
+    "2025-06-27"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-08T16:23:22.794807"
+  "last_full_data": {
+    "A": 5,
+    "B": 5,
+    "C": 2,
+    "CALLSIGN": "MAQE6",
+    "COG": 0,
+    "D": 2,
+    "DEST": "LAST UPDATE TIME",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 0,
+    "IMO": 0,
+    "LATITUDE": 51.48741,
+    "LONGITUDE": -0.07319,
+    "MMSI": 232006170,
+    "NAME": "BRIGHT EYES",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2025-06-27 09:27:32 GMT",
+    "TYPE": 36,
+    "last_seen": "2024-06-08T16:23:22.794807",
+    "received_by_stations": [
+      2648
+    ]
+  },
+  "last_seen": "2025-06-27T09:31:11.863460"
 }
