@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-06-27"
+    "2025-06-27",
+    "2025-06-28"
   ],
   "last_full_data": {
     "A": 8,
     "B": 8,
     "C": 2,
     "CALLSIGN": "MJNW4",
-    "COG": 0,
+    "COG": 94.7,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 104,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50182,
-    "LONGITUDE": -0.01325,
+    "LATITUDE": 51.50122,
+    "LONGITUDE": -0.00805,
     "MMSI": 232667000,
     "NAME": "GIPSY MOTH IV",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 102.3,
-    "TIME": "2025-06-27 17:26:48 GMT",
+    "SOG": 3.1,
+    "TIME": "2025-06-28 13:34:26 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-27T16:35:19.853591",
+    "last_seen": "2025-06-27T17:28:57.971843",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-27T17:28:57.971843"
+  "last_seen": "2025-06-28T13:34:26.498443"
 }
