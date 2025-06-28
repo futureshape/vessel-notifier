@@ -156,32 +156,33 @@
     "2025-06-24",
     "2025-06-25",
     "2025-06-26",
-    "2025-06-27"
+    "2025-06-27",
+    "2025-06-28"
   ],
   "last_full_data": {
     "A": 5,
     "B": 6,
     "C": 2,
     "CALLSIGN": "2DNW7",
-    "COG": 196.3,
+    "COG": 360,
     "D": 2,
     "DEST": "CHISWICK PIER",
     "DRAUGHT": 0.7,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48303,
-    "LONGITUDE": -0.2504,
+    "LATITUDE": 51.483,
+    "LONGITUDE": -0.25048,
     "MMSI": 235080607,
     "NAME": "RNLI LIFEBOAT E-09",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 2.7,
-    "TIME": "2025-06-27 23:27:57 GMT",
+    "SOG": 0,
+    "TIME": "2025-06-28 03:47:26 GMT",
     "TYPE": 51,
-    "last_seen": "2025-06-27T21:26:08.125210",
+    "last_seen": "2025-06-27T23:28:03.012715",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-27T23:28:03.012715"
+  "last_seen": "2025-06-28T03:49:51.260229"
 }
