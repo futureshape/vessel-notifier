@@ -10,28 +10,25 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "ZNAG7",
-    "COG": 226,
+    "COG": 353.8,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50622,
-    "LONGITUDE": -0.04959,
+    "LATITUDE": 51.49376,
+    "LONGITUDE": -0.00101,
     "MMSI": 235056047,
     "NAME": "SPIRITUS OF SALCOMBE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 5.6,
-    "TIME": "2025-06-28 14:28:01 GMT",
+    "TIME": "2025-06-28 15:12:01 GMT",
     "TYPE": 36,
-    "last_seen": "2024-09-18T13:30:05.657991",
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-06-28T14:28:22.088714",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-28T14:28:22.088714"
+  "last_seen": "2025-06-28T15:27:42.270216"
 }
