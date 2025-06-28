@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-06-28"
+  ],
+  "last_full_data": {
+    "A": 11,
+    "B": 0,
+    "C": 3,
+    "CALLSIGN": "MZUR8",
+    "COG": 200.8,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50144,
+    "LONGITUDE": -0.0151,
+    "MMSI": 235092615,
+    "NAME": "BALLYTRIM 5",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2025-06-28 09:29:44 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2115,
+      2648,
+      3880
+    ]
+  },
+  "last_seen": "2025-06-28T09:30:09.128165"
+}
