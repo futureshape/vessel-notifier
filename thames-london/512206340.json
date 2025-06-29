@@ -7,30 +7,25 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "ZMR8629",
-    "COG": 315.5,
+    "COG": 356.5,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 315,
+    "HEADING": 185,
     "IMO": 0,
-    "LATITUDE": 51.48816,
-    "LONGITUDE": -0.02449,
+    "LATITUDE": 51.50707,
+    "LONGITUDE": -0.07176,
     "MMSI": 512206340,
     "NAME": "AWANUI NZ",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.3,
-    "TIME": "2025-06-29 14:27:56 GMT",
+    "SOG": 0,
+    "TIME": "2025-06-29 15:25:53 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      3785,
-      2115,
-      2648
-    ]
+    "last_seen": "2025-06-29T14:28:20.757027",
+    "received_by_stations": []
   },
-  "last_seen": "2025-06-29T14:28:20.757027"
+  "last_seen": "2025-06-29T15:27:52.572199"
 }
