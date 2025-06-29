@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-06-26"
+    "2025-06-26",
+    "2025-06-29"
   ],
   "last_full_data": {
     "A": 10,
     "B": 0,
     "C": 0,
     "CALLSIGN": "ZNFY3",
-    "COG": 162.8,
+    "COG": 68.2,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 18,
+    "HEADING": 73,
     "IMO": 0,
-    "LATITUDE": 51.50159,
-    "LONGITUDE": -0.00642,
+    "LATITUDE": 51.48552,
+    "LONGITUDE": -0.00924,
     "MMSI": 235065763,
     "NAME": "PANTHER",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.8,
-    "TIME": "2025-06-26 13:27:20 GMT",
+    "SOG": 7.7,
+    "TIME": "2025-06-29 17:27:47 GMT",
     "TYPE": 36,
-    "last_seen": null,
+    "last_seen": "2025-06-26T13:40:59.779912",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-26T13:40:59.779912"
+  "last_seen": "2025-06-29T17:28:09.885458"
 }
