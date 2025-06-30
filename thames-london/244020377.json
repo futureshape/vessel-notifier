@@ -1,32 +1,39 @@
 {
   "dates_seen": [
     "2024-09-14",
-    "2024-09-21"
+    "2024-09-21",
+    "2025-06-30"
   ],
   "last_full_data": {
-    "A": 16,
-    "B": 1,
+    "A": 8,
+    "B": 9,
     "C": 2,
     "CALLSIGN": "PG6771",
-    "COG": 105.3,
+    "COG": 101,
     "D": 3,
-    "DEST": "LONDONSTKATH",
-    "DRAUGHT": 0,
-    "ETA": "06-18 15:00",
+    "DEST": "LONDON ST KATH DOCK",
+    "DRAUGHT": 2.3,
+    "ETA": "06-30 06:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50572,
-    "LONGITUDE": 0.00331,
+    "LATITUDE": 51.48436,
+    "LONGITUDE": -0.01213,
     "MMSI": 244020377,
     "NAME": "NGAHUE IV",
-    "NAVSTAT": 15,
+    "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.1,
-    "TIME": "2024-09-21 15:26:01 GMT",
+    "SOG": 1.4,
+    "TIME": "2025-06-30 03:59:32 GMT",
     "TYPE": 36,
-    "last_seen": "2024-09-21T14:24:27.384546",
-    "received_by_stations": []
+    "last_seen": "2024-09-21T15:26:11.343819",
+    "received_by_stations": [
+      2055,
+      2103,
+      3880,
+      2115,
+      2648
+    ]
   },
-  "last_seen": "2024-09-21T15:26:11.343819"
+  "last_seen": "2025-06-30T03:59:35.787044"
 }
