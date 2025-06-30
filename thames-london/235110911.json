@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-05-04",
     "2025-06-26",
-    "2025-06-28"
+    "2025-06-28",
+    "2025-06-30"
   ],
   "last_full_data": {
     "A": 17,
     "B": 0,
     "C": 2,
     "CALLSIGN": "2IME2",
-    "COG": 295.7,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 289,
+    "HEADING": 301,
     "IMO": 0,
-    "LATITUDE": 51.50253,
-    "LONGITUDE": -0.06417,
+    "LATITUDE": 51.5066,
+    "LONGITUDE": -0.07094,
     "MMSI": 235110911,
     "NAME": "CINDERELLA OF LONDON",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.6,
-    "TIME": "2025-06-28 14:27:59 GMT",
+    "SOG": 0,
+    "TIME": "2025-06-30 09:28:06 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-28T13:34:26.498189",
+    "last_seen": "2025-06-28T14:28:21.444603",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-28T14:28:21.444603"
+  "last_seen": "2025-06-30T09:33:41.392200"
 }
