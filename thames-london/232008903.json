@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-06-26",
-    "2025-06-28"
+    "2025-06-28",
+    "2025-06-30"
   ],
   "last_full_data": {
     "A": 9,
     "B": 9,
     "C": 2,
     "CALLSIGN": "GWDB",
-    "COG": 353.5,
+    "COG": 97.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50676,
-    "LONGITUDE": -0.0722,
+    "LATITUDE": 51.50692,
+    "LONGITUDE": -0.07238,
     "MMSI": 232008903,
     "NAME": "TAHILLA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-06-28 15:26:01 GMT",
+    "TIME": "2025-06-30 04:43:15 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-28T14:28:21.440617",
+    "last_seen": "2025-06-28T15:27:42.259763",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-28T15:27:42.259763"
+  "last_seen": "2025-06-30T04:43:56.590555"
 }

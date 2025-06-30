@@ -1,7 +1,8 @@
 {
   "dates_seen": [
     "2025-06-26",
-    "2025-06-28"
+    "2025-06-28",
+    "2025-06-30"
   ],
   "last_full_data": {
     "A": 12,
@@ -13,20 +14,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 149,
+    "HEADING": 196,
     "IMO": 0,
-    "LATITUDE": 51.50693,
-    "LONGITUDE": -0.07092,
+    "LATITUDE": 51.50629,
+    "LONGITUDE": -0.07236,
     "MMSI": 232036567,
     "NAME": "SY VIVEKA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-06-28 18:34:11 GMT",
+    "SOG": 0,
+    "TIME": "2025-06-30 04:41:00 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-28T17:26:55.037607",
+    "last_seen": "2025-06-28T18:36:50.873060",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-28T18:36:50.873060"
+  "last_seen": "2025-06-30T04:43:56.590800"
 }
