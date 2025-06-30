@@ -1,0 +1,40 @@
+{
+  "dates_seen": [
+    "2025-06-30"
+  ],
+  "last_full_data": {
+    "A": 30,
+    "B": 44,
+    "C": 4,
+    "CALLSIGN": "VQHF3",
+    "COG": 235.1,
+    "D": 4,
+    "DEST": "GBLON",
+    "DRAUGHT": 5,
+    "ETA": "06-30 07:00",
+    "HEADING": 238,
+    "IMO": 9251107,
+    "LATITUDE": 51.50291,
+    "LONGITUDE": -0.05479,
+    "MMSI": 235005270,
+    "NAME": "CEFAS ENDEAVOUR",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 127,
+    "SOG": 8,
+    "TIME": "2025-06-30 05:34:13 GMT",
+    "TYPE": 99,
+    "last_seen": null,
+    "received_by_stations": [
+      2055,
+      3806,
+      2496,
+      3785,
+      3880,
+      2103,
+      2115,
+      2648
+    ]
+  },
+  "last_seen": "2025-06-30T05:34:21.583271"
+}
