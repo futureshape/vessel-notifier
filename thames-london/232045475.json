@@ -170,7 +170,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MMWS5",
-    "COG": 225.4,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -178,17 +178,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48338,
-    "LONGITUDE": -0.14098,
+    "LONGITUDE": -0.14092,
     "MMSI": 232045475,
     "NAME": "GUARD DOG",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-07-02 11:25:24 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-02 12:58:33 GMT",
     "TYPE": 0,
-    "last_seen": "2025-07-02T10:35:22.022460",
+    "last_seen": "2025-07-02T11:25:36.194762",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-02T11:25:36.194762"
+  "last_seen": "2025-07-02T12:58:34.075140"
 }
