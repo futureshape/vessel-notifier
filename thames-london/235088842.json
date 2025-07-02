@@ -7,28 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2EWX8",
-    "COG": 151.9,
+    "COG": 158.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 1,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50893,
-    "LONGITUDE": -0.11938,
+    "LATITUDE": 51.50218,
+    "LONGITUDE": -0.12091,
     "MMSI": 235088842,
     "NAME": "LIGHTNING",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-07-02 03:55:40 GMT",
+    "SOG": 0.4,
+    "TIME": "2025-07-02 04:39:10 GMT",
     "TYPE": 0,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2025-07-02T03:55:53.230202",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-02T03:55:53.230202"
+  "last_seen": "2025-07-02T04:39:16.802159"
 }
