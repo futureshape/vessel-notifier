@@ -122,32 +122,33 @@
     "2025-06-21",
     "2025-06-22",
     "2025-06-28",
-    "2025-06-29"
+    "2025-06-29",
+    "2025-07-03"
   ],
   "last_full_data": {
     "A": 5,
     "B": 25,
     "C": 4,
     "CALLSIGN": "GUZM",
-    "COG": 91.5,
+    "COG": 360,
     "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 1.5,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50939,
-    "LONGITUDE": -0.10989,
+    "LATITUDE": 51.4919,
+    "LONGITUDE": -0.1246,
     "MMSI": 232006403,
     "NAME": "PEARL OF LONDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2025-06-29 21:13:27 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-03 11:25:41 GMT",
     "TYPE": 60,
-    "last_seen": "2025-06-29T20:29:37.933082",
+    "last_seen": "2025-06-29T21:26:11.218059",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-29T21:26:11.218059"
+  "last_seen": "2025-07-03T11:25:51.274402"
 }
