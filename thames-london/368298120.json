@@ -7,28 +7,25 @@
     "B": 7,
     "C": 4,
     "CALLSIGN": "WDN6334",
-    "COG": 156.7,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49629,
-    "LONGITUDE": -0.00418,
+    "LATITUDE": 51.50563,
+    "LONGITUDE": -0.07253,
     "MMSI": 368298120,
     "NAME": "NEW HORIZON",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.9,
-    "TIME": "2025-07-03 16:35:13 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-07-03 17:26:49 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-07-03T16:36:41.471803",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-03T16:36:41.471803"
+  "last_seen": "2025-07-03T17:31:05.374027"
 }
