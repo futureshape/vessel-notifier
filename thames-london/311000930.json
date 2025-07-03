@@ -1,7 +1,39 @@
 {
   "dates_seen": [
-    "2024-05-12"
+    "2024-05-12",
+    "2025-07-03"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-05-12T16:20:55.067995"
+  "last_full_data": {
+    "A": 50,
+    "B": 122,
+    "C": 7,
+    "CALLSIGN": "C6EL7",
+    "COG": 161.8,
+    "D": 17,
+    "DEST": "GB GNW",
+    "DRAUGHT": 5.6,
+    "ETA": "07-03 05:06",
+    "HEADING": 347,
+    "IMO": 9862023,
+    "LATITUDE": 51.49408,
+    "LONGITUDE": -0.00187,
+    "MMSI": 311000930,
+    "NAME": "SEABOURN VENTURE",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 9,
+    "SOG": 3.9,
+    "TIME": "2025-07-03 04:42:34 GMT",
+    "TYPE": 60,
+    "last_seen": "2024-05-12T16:20:55.067995",
+    "received_by_stations": [
+      3416,
+      2103,
+      3880,
+      2115,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-03T04:42:38.261164"
 }
