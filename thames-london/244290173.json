@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-07-04"
+  ],
+  "last_full_data": {
+    "A": 7,
+    "B": 4,
+    "C": 4,
+    "CALLSIGN": "PC5820",
+    "COG": 314.7,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50178,
+    "LONGITUDE": 0.01361,
+    "MMSI": 244290173,
+    "NAME": "SEAFOX",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 5.7,
+    "TIME": "2025-07-04 18:37:33 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2115,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-04T18:38:03.000974"
+}
