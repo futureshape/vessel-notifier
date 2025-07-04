@@ -61,12 +61,12 @@
     "B": 24,
     "C": 10,
     "CALLSIGN": "MXAW7",
-    "COG": 270,
+    "COG": 33,
     "D": 9,
     "DEST": "GB CHN>=DREDGE 458",
     "DRAUGHT": 4.5,
     "ETA": "07-05 11:00",
-    "HEADING": 108,
+    "HEADING": 109,
     "IMO": 9151553,
     "LATITUDE": 51.496,
     "LONGITUDE": 0.02067,
@@ -75,11 +75,11 @@
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-07-04 18:36:35 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-07-04 19:21:35 GMT",
     "TYPE": 33,
-    "last_seen": "2025-07-04T17:28:21.659028",
+    "last_seen": "2025-07-04T18:38:05.848478",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-04T18:38:05.848478"
+  "last_seen": "2025-07-04T19:23:44.444665"
 }

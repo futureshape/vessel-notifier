@@ -7,28 +7,25 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "PE3561",
-    "COG": 316.1,
+    "COG": 260.4,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50074,
-    "LONGITUDE": 0.01517,
+    "LATITUDE": 51.49415,
+    "LONGITUDE": -0.03347,
     "MMSI": 244670567,
     "NAME": "TRINITY",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.9,
-    "TIME": "2025-07-04 18:37:48 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-07-04 19:21:17 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-04T18:38:05.227629",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-04T18:38:05.227629"
+  "last_seen": "2025-07-04T19:23:44.439616"
 }
