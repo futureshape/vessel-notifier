@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2025-07-04"
+  ],
+  "last_full_data": {
+    "A": 6,
+    "B": 2,
+    "C": 1,
+    "CALLSIGN": "MNAG8",
+    "COG": 16.7,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 24:60",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50755,
+    "LONGITUDE": 0.00232,
+    "MMSI": 235000380,
+    "NAME": "LIMA LIMA 1",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0.1,
+    "TIME": "2025-07-04 08:37:13 GMT",
+    "TYPE": 0,
+    "last_seen": null,
+    "received_by_stations": [
+      2115,
+      3999,
+      2648,
+      3880
+    ]
+  },
+  "last_seen": "2025-07-04T08:37:22.044666"
+}
