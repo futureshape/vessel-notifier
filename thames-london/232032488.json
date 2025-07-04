@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-07-03"
+    "2025-07-03",
+    "2025-07-04"
   ],
   "last_full_data": {
     "A": 5,
     "B": 10,
     "C": 3,
     "CALLSIGN": "MINK3",
-    "COG": 3.1,
+    "COG": 117.4,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0.7,
     "ETA": "00-00 24:60",
-    "HEADING": 314,
+    "HEADING": 88,
     "IMO": 0,
-    "LATITUDE": 51.50468,
-    "LONGITUDE": -0.07057,
+    "LATITUDE": 51.50526,
+    "LONGITUDE": -0.07458,
     "MMSI": 232032488,
     "NAME": "OTB-08",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-07-03 13:38:57 GMT",
+    "SOG": 6.6,
+    "TIME": "2025-07-04 09:31:35 GMT",
     "TYPE": 35,
-    "last_seen": "2025-07-03T12:56:51.435849",
+    "last_seen": "2025-07-03T13:38:58.387198",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-03T13:38:58.387198"
+  "last_seen": "2025-07-04T09:31:42.498486"
 }
