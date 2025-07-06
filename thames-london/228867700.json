@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-07-05"
+    "2025-07-05",
+    "2025-07-06"
   ],
   "last_full_data": {
     "A": 16,
     "B": 16,
     "C": 3,
     "CALLSIGN": "FYAR",
-    "COG": 336.7,
+    "COG": 298.6,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 2.2,
     "ETA": "00-00 24:60",
     "HEADING": 300,
     "IMO": 0,
-    "LATITUDE": 51.50493,
-    "LONGITUDE": -0.07133,
+    "LATITUDE": 51.50495,
+    "LONGITUDE": -0.07131,
     "MMSI": 228867700,
     "NAME": "FRENCH WARSHIP ARM",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-07-05 23:27:16 GMT",
+    "TIME": "2025-07-06 02:28:58 GMT",
     "TYPE": 35,
-    "last_seen": "2025-07-05T22:29:28.383373",
+    "last_seen": "2025-07-05T23:27:25.720760",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-05T23:27:25.720760"
+  "last_seen": "2025-07-06T02:29:01.577278"
 }
