@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-07-06"
+    "2025-07-06",
+    "2025-07-07"
   ],
   "last_full_data": {
     "A": 10,
     "B": 22,
     "C": 8,
     "CALLSIGN": "MRBI9",
-    "COG": 101.5,
+    "COG": 291,
     "D": 5,
     "DEST": "THAMES TOWAGE",
     "DRAUGHT": 6.2,
     "ETA": "09-13 23:00",
-    "HEADING": 103,
+    "HEADING": 286,
     "IMO": 9454876,
-    "LATITUDE": 51.50634,
-    "LONGITUDE": 0.00396,
+    "LATITUDE": 51.50657,
+    "LONGITUDE": 0.00499,
     "MMSI": 232057491,
     "NAME": "VB CHEETAH",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 8.1,
-    "TIME": "2025-07-06 09:27:51 GMT",
+    "SOG": 10.6,
+    "TIME": "2025-07-07 21:26:56 GMT",
     "TYPE": 52,
-    "last_seen": "2025-07-06T08:33:42.758628",
+    "last_seen": "2025-07-06T09:27:55.545342",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-06T09:27:55.545342"
+  "last_seen": "2025-07-07T21:26:56.490611"
 }
