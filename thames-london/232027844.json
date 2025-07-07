@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-07-03"
+    "2025-07-03",
+    "2025-07-07"
   ],
   "last_full_data": {
     "A": 5,
     "B": 10,
     "C": 4,
     "CALLSIGN": "MHJY9",
-    "COG": 278.5,
+    "COG": 26.8,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 281,
+    "HEADING": 29,
     "IMO": 0,
-    "LATITUDE": 51.50482,
-    "LONGITUDE": -0.07199,
+    "LATITUDE": 51.50342,
+    "LONGITUDE": -0.0025,
     "MMSI": 232027844,
     "NAME": "OTB-2",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": -127,
-    "SOG": 2.5,
-    "TIME": "2025-07-03 13:38:56 GMT",
+    "ROT": 127,
+    "SOG": 11.7,
+    "TIME": "2025-07-07 14:32:44 GMT",
     "TYPE": 35,
-    "last_seen": "2025-07-03T12:56:50.574958",
+    "last_seen": "2025-07-03T13:38:58.386411",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-03T13:38:58.386411"
+  "last_seen": "2025-07-07T14:32:46.697551"
 }
