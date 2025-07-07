@@ -7,30 +7,25 @@
     "B": 3,
     "C": 1,
     "CALLSIGN": "PG5524",
-    "COG": 262.2,
+    "COG": 222.7,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49703,
-    "LONGITUDE": 0.03272,
+    "LATITUDE": 51.50617,
+    "LONGITUDE": -0.0722,
     "MMSI": 244650260,
     "NAME": "RHONDA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.1,
-    "TIME": "2025-07-07 09:33:57 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-07-07 10:33:57 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3785,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-07T09:34:10.407785",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-07T09:34:10.407785"
+  "last_seen": "2025-07-07T10:35:49.004750"
 }

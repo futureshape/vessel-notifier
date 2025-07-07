@@ -3,32 +3,41 @@
     "2024-07-18",
     "2024-07-19",
     "2024-07-20",
-    "2024-07-21"
+    "2024-07-21",
+    "2025-07-07"
   ],
   "last_full_data": {
     "A": 12,
     "B": 12,
     "C": 5,
     "CALLSIGN": "2CSF6",
-    "COG": 56.9,
+    "COG": 356.9,
     "D": 2,
-    "DEST": "CHATAM",
-    "DRAUGHT": 2,
-    "ETA": "07-21 17:30",
-    "HEADING": 55,
+    "DEST": "LONDON",
+    "DRAUGHT": 1.9,
+    "ETA": "07-07 11:00",
+    "HEADING": 356,
     "IMO": 0,
-    "LATITUDE": 51.50396,
-    "LONGITUDE": -0.05191,
+    "LATITUDE": 51.49773,
+    "LONGITUDE": -0.02974,
     "MMSI": 235075328,
     "NAME": "TS JACK PETCHEY",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 8,
-    "TIME": "2024-07-21 11:18:12 GMT",
+    "SOG": 7.8,
+    "TIME": "2025-07-07 10:35:41 GMT",
     "TYPE": 90,
-    "last_seen": "2024-07-21T10:26:07.837602",
-    "received_by_stations": []
+    "last_seen": "2024-07-21T11:18:14.393568",
+    "received_by_stations": [
+      2496,
+      2103,
+      3880,
+      2115,
+      3785,
+      2648,
+      3999
+    ]
   },
-  "last_seen": "2024-07-21T11:18:14.393568"
+  "last_seen": "2025-07-07T10:35:49.559690"
 }
