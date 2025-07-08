@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-07-08"
+  ],
+  "last_full_data": {
+    "A": 7,
+    "B": 6,
+    "C": 3,
+    "CALLSIGN": "PH9578",
+    "COG": 4.2,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.4998,
+    "LONGITUDE": -0.02874,
+    "MMSI": 244180148,
+    "NAME": "LOOX",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 6.4,
+    "TIME": "2025-07-08 09:32:14 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2115,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-08T09:33:09.809176"
+}
