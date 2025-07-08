@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-07-07"
+    "2025-07-07",
+    "2025-07-08"
   ],
   "last_full_data": {
     "A": 14,
     "B": 1,
     "C": 0,
     "CALLSIGN": "PI4474",
-    "COG": 51.3,
+    "COG": 31.8,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50548,
-    "LONGITUDE": -0.07245,
+    "LATITUDE": 51.50617,
+    "LONGITUDE": -0.07229,
     "MMSI": 244125455,
     "NAME": "FAROUCHE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-07-07 22:17:31 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-08 10:32:00 GMT",
     "TYPE": 37,
-    "last_seen": "2025-07-07T21:26:56.485093",
+    "last_seen": "2025-07-07T22:31:40.034347",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-07T22:31:40.034347"
+  "last_seen": "2025-07-08T10:34:49.796411"
 }
