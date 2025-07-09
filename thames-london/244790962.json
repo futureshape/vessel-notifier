@@ -7,7 +7,7 @@
     "B": 6,
     "C": 3,
     "CALLSIGN": "PG3263",
-    "COG": 173,
+    "COG": 177.7,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -15,17 +15,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50676,
-    "LONGITUDE": -0.07081,
+    "LONGITUDE": -0.07084,
     "MMSI": 244790962,
     "NAME": "EMMA BLUE",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-07-09 16:36:10 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-09 17:30:10 GMT",
     "TYPE": 36,
-    "last_seen": "2025-07-09T15:32:02.561543",
+    "last_seen": "2025-07-09T16:37:53.178055",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-09T16:37:53.178055"
+  "last_seen": "2025-07-09T17:31:26.922317"
 }
