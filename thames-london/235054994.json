@@ -136,7 +136,7 @@
     "B": 25,
     "C": 2,
     "CALLSIGN": "MMQX7",
-    "COG": 202.4,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -144,17 +144,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50833,
-    "LONGITUDE": -0.08499,
+    "LONGITUDE": -0.08498,
     "MMSI": 235054994,
     "NAME": "ROYALTY",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.4,
-    "TIME": "2025-07-09 14:30:32 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-07-09 15:30:31 GMT",
     "TYPE": 60,
-    "last_seen": "2025-07-09T13:42:46.732901",
+    "last_seen": "2025-07-09T14:33:07.641936",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-09T14:33:07.641936"
+  "last_seen": "2025-07-09T15:32:02.557005"
 }

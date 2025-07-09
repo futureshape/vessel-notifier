@@ -229,7 +229,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MBVZ5",
-    "COG": 98.1,
+    "COG": 166.2,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -237,17 +237,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.51005,
-    "LONGITUDE": -0.11533,
+    "LONGITUDE": -0.1153,
     "MMSI": 235053512,
     "NAME": "GOLDEN STAR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-07-09 14:33:07 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-07-09 15:31:57 GMT",
     "TYPE": 0,
-    "last_seen": "2025-07-09T13:42:46.730283",
+    "last_seen": "2025-07-09T14:33:07.638956",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-09T14:33:07.638956"
+  "last_seen": "2025-07-09T15:32:02.554216"
 }
