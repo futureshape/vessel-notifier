@@ -93,7 +93,7 @@
     "B": 16,
     "C": 1,
     "CALLSIGN": "MRJT4",
-    "COG": 109.5,
+    "COG": 130.1,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -101,17 +101,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50114,
-    "LONGITUDE": -0.06166,
+    "LONGITUDE": -0.06163,
     "MMSI": 235052134,
     "NAME": "WESTMINSTER",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-07-10 11:26:08 GMT",
+    "TIME": "2025-07-10 12:59:48 GMT",
     "TYPE": 60,
-    "last_seen": "2025-07-10T10:35:38.778793",
+    "last_seen": "2025-07-10T11:26:12.648756",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-10T11:26:12.648756"
+  "last_seen": "2025-07-10T12:59:56.713856"
 }
