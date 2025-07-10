@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-04-09",
-    "2025-04-24"
+    "2025-04-24",
+    "2025-07-10"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "2DUE3",
-    "COG": 141.9,
+    "COG": 0,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0.9,
     "ETA": "06-12 10:13",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50036,
-    "LONGITUDE": 0.0129,
+    "LATITUDE": 51.49579,
+    "LONGITUDE": 0.01871,
     "MMSI": 235097794,
     "NAME": "PUFFIN OF DART",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.3,
-    "TIME": "2025-04-24 11:23:33 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-10 17:30:46 GMT",
     "TYPE": 36,
-    "last_seen": "2025-04-24T10:33:26.593875",
+    "last_seen": "2025-04-24T11:23:57.627431",
     "received_by_stations": []
   },
-  "last_seen": "2025-04-24T11:23:57.627431"
+  "last_seen": "2025-07-10T17:31:43.444165"
 }
