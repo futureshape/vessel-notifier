@@ -92,32 +92,33 @@
     "2025-07-04",
     "2025-07-07",
     "2025-07-08",
-    "2025-07-09"
+    "2025-07-09",
+    "2025-07-10"
   ],
   "last_full_data": {
     "A": 14,
     "B": 6,
     "C": 4,
     "CALLSIGN": "MNSY6",
-    "COG": 6,
+    "COG": 81.3,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1.8,
     "ETA": "08-17 02:00",
-    "HEADING": 53,
+    "HEADING": 51,
     "IMO": 0,
-    "LATITUDE": 51.51,
-    "LONGITUDE": -0.11574,
+    "LATITUDE": 51.50998,
+    "LONGITUDE": -0.11577,
     "MMSI": 235076403,
     "NAME": "SEADOG",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0.1,
-    "TIME": "2025-07-09 23:27:39 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-10 02:21:40 GMT",
     "TYPE": 39,
-    "last_seen": "2025-07-09T22:31:32.463705",
+    "last_seen": "2025-07-09T23:27:57.465657",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-09T23:27:57.465657"
+  "last_seen": "2025-07-10T02:22:10.533757"
 }
