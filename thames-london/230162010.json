@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2025-07-11"
+  ],
+  "last_full_data": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "OHA2344",
+    "COG": 360,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50645,
+    "LONGITUDE": -0.07227,
+    "MMSI": 230162010,
+    "NAME": "S/Y ANTAMA",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 0.1,
+    "TIME": "2025-07-11 12:56:13 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3785,
+      2496,
+      2115,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-11T12:58:30.028598"
+}
