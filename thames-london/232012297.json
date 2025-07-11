@@ -141,8 +141,8 @@
     "2025-07-11"
   ],
   "last_full_data": {
-    "A": 215,
-    "B": 406,
+    "A": 32,
+    "B": 6,
     "C": 4,
     "CALLSIGN": "DB4434",
     "COG": 0,
@@ -152,18 +152,18 @@
     "ETA": "01-01 00:00",
     "HEADING": 297,
     "IMO": 8790259,
-    "LATITUDE": 51.50418,
-    "LONGITUDE": -0.06893,
+    "LATITUDE": 51.50419,
+    "LONGITUDE": -0.06894,
     "MMSI": 232012297,
     "NAME": "ARMADOR II",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-07-11 06:44:09 GMT",
-    "TYPE": 90,
-    "last_seen": "2025-07-10T13:44:34.868262",
+    "TIME": "2025-07-11 07:30:59 GMT",
+    "TYPE": 0,
+    "last_seen": "2025-07-11T06:44:13.135532",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-11T06:44:13.135532"
+  "last_seen": "2025-07-11T07:31:02.083079"
 }
