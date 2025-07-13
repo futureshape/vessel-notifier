@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-07-06",
     "2025-07-09",
-    "2025-07-12"
+    "2025-07-12",
+    "2025-07-13"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MSAJ6",
-    "COG": 360,
+    "COG": 111.3,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50576,
-    "LONGITUDE": -0.0515,
+    "LATITUDE": 51.50686,
+    "LONGITUDE": -0.08174,
     "MMSI": 232060957,
     "NAME": "RAPTOR",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-07-12 15:08:47 GMT",
+    "SOG": 10.3,
+    "TIME": "2025-07-13 14:27:45 GMT",
     "TYPE": 40,
-    "last_seen": "2025-07-12T13:35:52.039173",
+    "last_seen": "2025-07-12T15:29:16.620160",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-12T15:29:16.620160"
+  "last_seen": "2025-07-13T14:29:25.229304"
 }
