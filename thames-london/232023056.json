@@ -2,32 +2,35 @@
   "dates_seen": [
     "2024-06-27",
     "2024-07-02",
-    "2025-03-08"
+    "2025-03-08",
+    "2025-07-14"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MFOX6",
-    "COG": 264.6,
+    "COG": 55.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50042,
-    "LONGITUDE": 0.01627,
+    "LATITUDE": 51.49575,
+    "LONGITUDE": 0.01875,
     "MMSI": 232023056,
     "NAME": "ONWARD OF INO",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 3.7,
-    "TIME": "2025-03-08 16:14:26 GMT",
+    "SOG": 0.3,
+    "TIME": "2025-07-14 15:30:00 GMT",
     "TYPE": 37,
-    "last_seen": "2025-03-08T12:36:52.680879",
-    "received_by_stations": []
+    "last_seen": "2025-03-08T16:24:48.806257",
+    "received_by_stations": [
+      3999
+    ]
   },
-  "last_seen": "2025-03-08T16:24:48.806257"
+  "last_seen": "2025-07-14T15:33:06.060435"
 }
