@@ -63,12 +63,12 @@
     "B": 24,
     "C": 10,
     "CALLSIGN": "MXAW7",
-    "COG": 297,
+    "COG": 274,
     "D": 9,
     "DEST": "A1803/2>=GB CHN",
     "DRAUGHT": 7.2,
     "ETA": "07-14 13:30",
-    "HEADING": 109,
+    "HEADING": 108,
     "IMO": 9151553,
     "LATITUDE": 51.496,
     "LONGITUDE": 0.02067,
@@ -77,11 +77,11 @@
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-07-14 16:36:35 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-07-14 17:30:36 GMT",
     "TYPE": 33,
-    "last_seen": "2025-07-14T15:33:06.060874",
+    "last_seen": "2025-07-14T16:38:35.299229",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-14T16:38:35.299229"
+  "last_seen": "2025-07-14T17:31:58.544374"
 }
