@@ -1,0 +1,40 @@
+{
+  "dates_seen": [
+    "2025-07-14"
+  ],
+  "last_full_data": {
+    "A": 9,
+    "B": 9,
+    "C": 4,
+    "CALLSIGN": "WDE8865",
+    "COG": 323.5,
+    "D": 4,
+    "DEST": "LONDON",
+    "DRAUGHT": 2.5,
+    "ETA": "07-14 16:30",
+    "HEADING": 323,
+    "IMO": 0,
+    "LATITUDE": 51.48974,
+    "LONGITUDE": -0.02616,
+    "MMSI": 338243006,
+    "NAME": "EMMANOU",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 0,
+    "SOG": 5.8,
+    "TIME": "2025-07-14 13:00:45 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3806,
+      2496,
+      2103,
+      3880,
+      3785,
+      2115,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-14T13:00:50.181373"
+}
