@@ -7,28 +7,25 @@
     "B": 3,
     "C": 1,
     "CALLSIGN": "VQBT8",
-    "COG": 351.2,
+    "COG": 278.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4923,
-    "LONGITUDE": -0.02859,
+    "LATITUDE": 51.50769,
+    "LONGITUDE": -0.08485,
     "MMSI": 232042532,
     "NAME": "RUMMY 3",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.8,
-    "TIME": "2025-07-15 13:41:08 GMT",
+    "SOG": 8.9,
+    "TIME": "2025-07-15 14:04:08 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-15T13:46:43.520512",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-15T13:46:43.520512"
+  "last_seen": "2025-07-15T14:32:59.701033"
 }
