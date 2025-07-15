@@ -334,20 +334,20 @@
     "DEST": "LONDON",
     "DRAUGHT": 1.2,
     "ETA": "00-00 24:60",
-    "HEADING": 285,
+    "HEADING": 286,
     "IMO": 9963499,
-    "LATITUDE": 51.5073,
-    "LONGITUDE": 0.00676,
+    "LATITUDE": 51.50729,
+    "LONGITUDE": 0.00675,
     "MMSI": 232043461,
     "NAME": "EARTH CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 0,
+    "ROT": 127,
     "SOG": 0,
-    "TIME": "2025-07-15 18:45:09 GMT",
+    "TIME": "2025-07-15 19:27:06 GMT",
     "TYPE": 40,
-    "last_seen": "2025-07-15T17:31:26.896182",
+    "last_seen": "2025-07-15T18:45:11.512602",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-15T18:45:11.512602"
+  "last_seen": "2025-07-15T19:27:08.115373"
 }
