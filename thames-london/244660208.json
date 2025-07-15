@@ -1,13 +1,14 @@
 {
   "dates_seen": [
-    "2025-07-14"
+    "2025-07-14",
+    "2025-07-15"
   ],
   "last_full_data": {
     "A": 10,
     "B": 0,
     "C": 1,
     "CALLSIGN": "PC8254",
-    "COG": 238,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -15,17 +16,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49381,
-    "LONGITUDE": -0.03435,
+    "LONGITUDE": -0.03436,
     "MMSI": 244660208,
     "NAME": "TESSERA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-07-14 15:09:50 GMT",
+    "TIME": "2025-07-15 20:29:40 GMT",
     "TYPE": 36,
-    "last_seen": "2025-07-14T14:34:33.920120",
+    "last_seen": "2025-07-14T15:33:05.143301",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-14T15:33:05.143301"
+  "last_seen": "2025-07-15T20:33:17.250171"
 }
