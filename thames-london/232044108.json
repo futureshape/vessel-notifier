@@ -1,13 +1,14 @@
 {
   "dates_seen": [
-    "2025-07-14"
+    "2025-07-14",
+    "2025-07-16"
   ],
   "last_full_data": {
     "A": 10,
     "B": 2,
     "C": 1,
     "CALLSIGN": "MYWU9",
-    "COG": 6.5,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -15,17 +16,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50707,
-    "LONGITUDE": -0.07111,
+    "LONGITUDE": -0.0711,
     "MMSI": 232044108,
     "NAME": "PATHADIS",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-07-14 16:24:49 GMT",
+    "TIME": "2025-07-16 15:32:17 GMT",
     "TYPE": 37,
-    "last_seen": "2025-07-14T15:33:05.136214",
+    "last_seen": "2025-07-14T16:38:35.290022",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-14T16:38:35.290022"
+  "last_seen": "2025-07-16T15:33:35.861027"
 }

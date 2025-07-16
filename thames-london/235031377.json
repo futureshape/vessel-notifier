@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2025-07-16"
+  ],
+  "last_full_data": {
+    "A": 6,
+    "B": 6,
+    "C": 1,
+    "CALLSIGN": "MYBN2",
+    "COG": 223.2,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50556,
+    "LONGITUDE": -0.05125,
+    "MMSI": 235031377,
+    "NAME": "GUNSHOT",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 5.7,
+    "TIME": "2025-07-16 15:33:15 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      3880,
+      2115,
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-16T15:33:36.459836"
+}
