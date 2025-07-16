@@ -165,32 +165,33 @@
     "2025-06-27",
     "2025-07-01",
     "2025-07-02",
-    "2025-07-03"
+    "2025-07-03",
+    "2025-07-16"
   ],
   "last_full_data": {
     "A": 7,
     "B": 16,
     "C": 4,
     "CALLSIGN": "PF6465",
-    "COG": 134.3,
+    "COG": 12.8,
     "D": 2,
-    "DEST": "CHATHAM",
+    "DEST": "THAMES",
     "DRAUGHT": 3,
     "ETA": "01-25 18:57",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4977,
-    "LONGITUDE": 0.01889,
+    "LATITUDE": 51.50148,
+    "LONGITUDE": 0.01548,
     "MMSI": 244620729,
     "NAME": "GPS IBERIA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 11.9,
-    "TIME": "2025-07-03 21:27:10 GMT",
+    "SOG": 0.8,
+    "TIME": "2025-07-16 14:33:15 GMT",
     "TYPE": 70,
-    "last_seen": "2025-07-03T20:30:39.119032",
+    "last_seen": "2025-07-03T21:27:14.250292",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-03T21:27:14.250292"
+  "last_seen": "2025-07-16T14:33:21.010738"
 }

@@ -7,28 +7,25 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "OP4570",
-    "COG": 309.2,
+    "COG": 337.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 307,
+    "HEADING": 333,
     "IMO": 0,
-    "LATITUDE": 51.49973,
-    "LONGITUDE": 0.0172,
+    "LATITUDE": 51.49163,
+    "LONGITUDE": -0.0276,
     "MMSI": 205457030,
     "NAME": "ZARAFA",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 4.6,
-    "TIME": "2025-07-16 13:46:36 GMT",
+    "SOG": 3.1,
+    "TIME": "2025-07-16 14:32:54 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-07-16T13:47:26.966277",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-16T13:47:26.966277"
+  "last_seen": "2025-07-16T14:33:20.466533"
 }
