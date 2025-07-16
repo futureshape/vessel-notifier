@@ -339,7 +339,7 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "MVMD2",
-    "COG": 338.5,
+    "COG": 360,
     "D": 7,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -347,17 +347,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50702,
-    "LONGITUDE": 0.00787,
+    "LONGITUDE": 0.00788,
     "MMSI": 235056993,
     "NAME": "CYCLONE CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-07-16 05:38:15 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-16 06:46:05 GMT",
     "TYPE": 40,
-    "last_seen": "2025-07-16T04:47:47.327742",
+    "last_seen": "2025-07-16T05:38:22.555799",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-16T05:38:22.555799"
+  "last_seen": "2025-07-16T06:46:06.437904"
 }
