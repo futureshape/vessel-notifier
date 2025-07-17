@@ -8,27 +8,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2ADB9",
-    "COG": 359.4,
+    "COG": 292.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49967,
-    "LONGITUDE": 0.01261,
+    "LATITUDE": 51.49959,
+    "LONGITUDE": 0.01264,
     "MMSI": 235105742,
     "NAME": "XENON",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-07-17 17:30:40 GMT",
+    "SOG": 0.3,
+    "TIME": "2025-07-17 18:37:42 GMT",
     "TYPE": 36,
-    "last_seen": "2024-12-22T15:23:11.447922",
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-07-17T17:32:10.254012",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-17T17:32:10.254012"
+  "last_seen": "2025-07-17T18:45:01.670660"
 }
