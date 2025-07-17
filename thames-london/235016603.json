@@ -7,31 +7,25 @@
     "B": 2,
     "C": 3,
     "CALLSIGN": "MEEV9",
-    "COG": 293.8,
+    "COG": 320.5,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48646,
-    "LONGITUDE": -0.02053,
+    "LATITUDE": 51.50617,
+    "LONGITUDE": -0.07222,
     "MMSI": 235016603,
     "NAME": "GENTLE ONE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8,
-    "TIME": "2025-07-17 15:33:10 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-07-17 16:38:09 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      3785,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-17T15:33:24.345832",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-17T15:33:24.345832"
+  "last_seen": "2025-07-17T16:38:48.766819"
 }
