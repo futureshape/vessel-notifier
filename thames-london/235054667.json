@@ -367,7 +367,7 @@
     "B": 10,
     "C": 1,
     "CALLSIGN": "MFRL9",
-    "COG": 360,
+    "COG": 163,
     "D": 5,
     "DEST": "",
     "DRAUGHT": 0,
@@ -375,17 +375,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50312,
-    "LONGITUDE": -0.12063,
+    "LONGITUDE": -0.12065,
     "MMSI": 235054667,
     "NAME": "SILVER BONITO",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-07-17 10:36:39 GMT",
+    "SOG": 0.7,
+    "TIME": "2025-07-17 11:27:19 GMT",
     "TYPE": 60,
-    "last_seen": "2025-07-17T09:35:36.940323",
+    "last_seen": "2025-07-17T10:36:42.580413",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-17T10:36:42.580413"
+  "last_seen": "2025-07-17T11:27:22.848029"
 }
