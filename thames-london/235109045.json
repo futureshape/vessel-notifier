@@ -7,27 +7,25 @@
     "B": 1,
     "C": 1,
     "CALLSIGN": "2IEJ5",
-    "COG": 109.7,
+    "COG": 12.5,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.46516,
-    "LONGITUDE": -0.21034,
+    "LATITUDE": 51.4749,
+    "LONGITUDE": -0.17731,
     "MMSI": 235109045,
     "NAME": "SPIRIT OF AHAB",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 2.1,
-    "TIME": "2025-07-18 06:44:54 GMT",
+    "SOG": 3.2,
+    "TIME": "2025-07-18 07:27:24 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-07-18T06:46:56.062374",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-18T06:46:56.062374"
+  "last_seen": "2025-07-18T07:31:49.775952"
 }
