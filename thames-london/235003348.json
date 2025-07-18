@@ -344,7 +344,7 @@
     "B": 22,
     "C": 5,
     "CALLSIGN": "ZNXR5",
-    "COG": 112.7,
+    "COG": 360,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -352,17 +352,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50758,
-    "LONGITUDE": 0.00617,
+    "LONGITUDE": 0.00616,
     "MMSI": 235003348,
     "NAME": "SUN CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-07-18 16:39:28 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-18 17:33:09 GMT",
     "TYPE": 40,
-    "last_seen": "2025-07-18T14:33:33.820126",
+    "last_seen": "2025-07-18T16:39:37.285320",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-18T16:39:37.285320"
+  "last_seen": "2025-07-18T17:33:12.949051"
 }
