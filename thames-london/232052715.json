@@ -65,12 +65,12 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MORM2",
-    "COG": 255.2,
+    "COG": 359.6,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 127,
+    "HEADING": 126,
     "IMO": 0,
     "LATITUDE": 51.50257,
     "LONGITUDE": -0.05868,
@@ -78,12 +78,12 @@
     "NAME": "HURRICANE 2",
     "NAVSTAT": 15,
     "PAC": 1,
-    "ROT": -26,
-    "SOG": 0,
-    "TIME": "2025-07-18 06:35:34 GMT",
+    "ROT": 21,
+    "SOG": 0.1,
+    "TIME": "2025-07-18 19:25:32 GMT",
     "TYPE": 55,
-    "last_seen": "2025-07-17T14:33:18.644361",
+    "last_seen": "2025-07-18T06:46:56.075578",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-18T06:46:56.075578"
+  "last_seen": "2025-07-18T19:25:46.610217"
 }
