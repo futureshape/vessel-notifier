@@ -7,33 +7,25 @@
     "B": 4,
     "C": 1,
     "CALLSIGN": "PI3665",
-    "COG": 175.6,
+    "COG": 208.2,
     "D": 3,
     "DEST": "TEDDINGTON LOCK",
     "DRAUGHT": 1,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49113,
-    "LONGITUDE": -0.0014,
+    "LATITUDE": 51.48992,
+    "LONGITUDE": -0.12564,
     "MMSI": 244023942,
     "NAME": "ALJO",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5,
-    "TIME": "2025-07-19 11:24:40 GMT",
+    "SOG": 4.4,
+    "TIME": "2025-07-19 12:55:58 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      3880,
-      2665,
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-19T11:24:42.491784",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-19T11:24:42.491784"
+  "last_seen": "2025-07-19T12:56:04.012065"
 }
