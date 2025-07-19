@@ -7,34 +7,25 @@
     "B": 7,
     "C": 3,
     "CALLSIGN": "PE9501",
-    "COG": 284.6,
+    "COG": 123.1,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50705,
-    "LONGITUDE": 0.00431,
+    "LATITUDE": 51.50298,
+    "LONGITUDE": -0.06888,
     "MMSI": 244110471,
     "NAME": "JOHANNA MARIA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.6,
-    "TIME": "2025-07-19 16:35:47 GMT",
+    "SOG": 3.7,
+    "TIME": "2025-07-19 17:30:51 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2103,
-      3880,
-      3785,
-      2115,
-      2648,
-      2665,
-      3999
-    ]
+    "last_seen": "2025-07-19T16:35:59.603705",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-19T16:35:59.603705"
+  "last_seen": "2025-07-19T17:31:07.022528"
 }
