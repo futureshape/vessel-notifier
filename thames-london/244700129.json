@@ -7,34 +7,25 @@
     "B": 4,
     "C": 1,
     "CALLSIGN": "PB7530",
-    "COG": 238.6,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 1.2,
     "ETA": "06-28 06:23",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50778,
-    "LONGITUDE": -0.04631,
+    "LATITUDE": 51.50636,
+    "LONGITUDE": -0.07217,
     "MMSI": 244700129,
     "NAME": "FREEORBIT",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.7,
-    "TIME": "2025-07-20 08:35:33 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-20 09:27:29 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2496,
-      3416,
-      2103,
-      3880,
-      3785,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-20T08:35:38.677135",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-20T08:35:38.677135"
+  "last_seen": "2025-07-20T09:30:05.319238"
 }
