@@ -2,14 +2,15 @@
   "dates_seen": [
     "2024-04-23",
     "2025-01-20",
-    "2025-03-13"
+    "2025-03-13",
+    "2025-07-22"
   ],
   "last_full_data": {
     "A": 6,
     "B": 6,
     "C": 2,
     "CALLSIGN": "2GEV3",
-    "COG": 360,
+    "COG": 177.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -17,17 +18,23 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49384,
-    "LONGITUDE": -0.03355,
+    "LONGITUDE": -0.03333,
     "MMSI": 235100801,
     "NAME": "BLUE THUNDER",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-03-13 18:12:34 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-07-22 09:36:24 GMT",
     "TYPE": 0,
-    "last_seen": "2025-01-20T15:26:11.698787",
-    "received_by_stations": []
+    "last_seen": "2025-03-13T18:35:31.389093",
+    "received_by_stations": [
+      3785,
+      2648,
+      3999,
+      2115,
+      3880
+    ]
   },
-  "last_seen": "2025-03-13T18:35:31.389093"
+  "last_seen": "2025-07-22T09:36:26.620145"
 }
