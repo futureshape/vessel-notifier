@@ -7,31 +7,25 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "PD5631",
-    "COG": 0.6,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49739,
-    "LONGITUDE": -0.02918,
+    "LATITUDE": 51.50774,
+    "LONGITUDE": -0.07192,
     "MMSI": 244904166,
     "NAME": "WHISPER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.3,
-    "TIME": "2025-07-22 09:36:07 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-22 10:36:38 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-22T09:36:27.241953",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-22T09:36:27.241953"
+  "last_seen": "2025-07-22T10:37:05.021844"
 }

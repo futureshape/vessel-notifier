@@ -7,31 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "OR5233",
-    "COG": 1.6,
+    "COG": 360,
     "D": 0,
     "DEST": "BLANKENBERGE",
     "DRAUGHT": 2.4,
     "ETA": "05-22 10:00",
-    "HEADING": 1,
+    "HEADING": 0,
     "IMO": 0,
-    "LATITUDE": 51.49938,
-    "LONGITUDE": -0.029,
+    "LATITUDE": 51.507,
+    "LONGITUDE": -0.07143,
     "MMSI": 205523310,
     "NAME": "XARA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7,
-    "TIME": "2025-07-22 09:36:17 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-22 10:36:28 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-22T09:36:27.693503",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-22T09:36:27.693503"
+  "last_seen": "2025-07-22T10:37:05.022276"
 }
