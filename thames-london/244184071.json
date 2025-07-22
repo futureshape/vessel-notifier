@@ -1,7 +1,35 @@
 {
   "dates_seen": [
-    "2024-05-29"
+    "2024-05-29",
+    "2025-07-22"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-05-29T08:24:27.288304"
+  "last_full_data": {
+    "A": 10,
+    "B": 0,
+    "C": 3,
+    "CALLSIGN": "PH4347",
+    "COG": 301,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49889,
+    "LONGITUDE": 0.01898,
+    "MMSI": 244184071,
+    "NAME": "LEGOLAS",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 7.1,
+    "TIME": "2025-07-22 08:41:24 GMT",
+    "TYPE": 37,
+    "last_seen": "2024-05-29T08:24:27.288304",
+    "received_by_stations": [
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-22T08:41:49.126050"
 }
