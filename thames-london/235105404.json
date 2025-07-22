@@ -31,32 +31,35 @@
     "2025-01-24",
     "2025-02-02",
     "2025-02-21",
-    "2025-04-18"
+    "2025-04-18",
+    "2025-07-22"
   ],
   "last_full_data": {
     "A": 2,
     "B": 7,
     "C": 1,
     "CALLSIGN": "2HOV4",
-    "COG": 130.9,
+    "COG": 316.7,
     "D": 2,
     "DEST": "THAMES",
     "DRAUGHT": 1.2,
     "ETA": "08-05 18:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48517,
-    "LONGITUDE": -0.1481,
+    "LATITUDE": 51.48521,
+    "LONGITUDE": -0.14822,
     "MMSI": 235105404,
     "NAME": "PROWLER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-04-18 12:38:47 GMT",
+    "TIME": "2025-07-22 07:31:00 GMT",
     "TYPE": 52,
-    "last_seen": "2025-02-21T09:26:08.649623",
-    "received_by_stations": []
+    "last_seen": "2025-04-18T12:51:24.305992",
+    "received_by_stations": [
+      2648
+    ]
   },
-  "last_seen": "2025-04-18T12:51:24.305992"
+  "last_seen": "2025-07-22T07:32:24.308204"
 }
