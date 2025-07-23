@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-07-20"
+    "2025-07-20",
+    "2025-07-23"
   ],
   "last_full_data": {
     "A": 7,
@@ -12,20 +13,20 @@
     "DEST": "TUZLA",
     "DRAUGHT": 4.6,
     "ETA": "06-08 15:00",
-    "HEADING": 83,
+    "HEADING": 87,
     "IMO": 9240550,
-    "LATITUDE": 51.50784,
-    "LONGITUDE": -0.0727,
+    "LATITUDE": 51.50774,
+    "LONGITUDE": -0.07289,
     "MMSI": 244830723,
     "NAME": "PURA VIDA",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2025-07-20 10:17:57 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-23 08:41:23 GMT",
     "TYPE": 36,
-    "last_seen": "2025-07-20T09:30:05.318739",
+    "last_seen": "2025-07-20T10:35:16.399221",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-20T10:35:16.399221"
+  "last_seen": "2025-07-23T08:42:45.876519"
 }
