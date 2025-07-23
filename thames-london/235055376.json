@@ -139,7 +139,7 @@
     "B": 22,
     "C": 3,
     "CALLSIGN": "MGVP8",
-    "COG": 20,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -147,17 +147,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50832,
-    "LONGITUDE": -0.08429,
+    "LONGITUDE": -0.08426,
     "MMSI": 235055376,
     "NAME": "REVELRY",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-07-23 11:27:47 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-07-23 13:03:06 GMT",
     "TYPE": 99,
-    "last_seen": "2025-07-23T10:37:36.204768",
+    "last_seen": "2025-07-23T11:27:53.712055",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-23T11:27:53.712055"
+  "last_seen": "2025-07-23T13:03:07.321789"
 }
