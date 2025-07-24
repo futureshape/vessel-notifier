@@ -7,29 +7,25 @@
     "B": 6,
     "C": 3,
     "CALLSIGN": "2AOJ3",
-    "COG": 255.1,
+    "COG": 0,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48572,
-    "LONGITUDE": -0.01157,
+    "LATITUDE": 51.50636,
+    "LONGITUDE": -0.07215,
     "MMSI": 235061572,
     "NAME": "CONSORTIUM",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.2,
-    "TIME": "2025-07-24 10:37:12 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-24 11:27:23 GMT",
     "TYPE": 55,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-24T10:37:24.003592",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-24T10:37:24.003592"
+  "last_seen": "2025-07-24T11:28:03.682054"
 }
