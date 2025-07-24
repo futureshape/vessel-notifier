@@ -8,7 +8,7 @@
     "B": 0,
     "C": 1,
     "CALLSIGN": "PE3764",
-    "COG": 174.4,
+    "COG": 146,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -16,17 +16,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50665,
-    "LONGITUDE": -0.07098,
+    "LONGITUDE": -0.07096,
     "MMSI": 244050361,
     "NAME": "LOOS",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-07-24 20:30:17 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-07-24 21:27:18 GMT",
     "TYPE": 36,
-    "last_seen": "2025-07-24T19:26:59.803635",
+    "last_seen": "2025-07-24T20:31:55.150346",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-24T20:31:55.150346"
+  "last_seen": "2025-07-24T21:29:42.148057"
 }
