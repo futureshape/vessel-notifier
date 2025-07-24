@@ -12,26 +12,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 511,
+    "HEADING": 171,
     "IMO": 0,
-    "LATITUDE": 51.50636,
-    "LONGITUDE": -0.07207,
+    "LATITUDE": 51.50699,
+    "LONGITUDE": -0.0715,
     "MMSI": 244729039,
     "NAME": "XAZZARO",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-07-24 12:59:38 GMT",
+    "TIME": "2025-07-24 13:45:06 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2496,
-      2115,
-      2648,
-      3785,
-      3999
-    ]
+    "last_seen": "2025-07-24T13:02:30.012966",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-24T13:02:30.012966"
+  "last_seen": "2025-07-24T13:47:43.509366"
 }
