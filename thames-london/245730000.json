@@ -9,7 +9,7 @@
     "B": 27,
     "C": 4,
     "CALLSIGN": "PC8261",
-    "COG": 37,
+    "COG": 205,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 3.8,
@@ -17,17 +17,17 @@
     "HEADING": 283,
     "IMO": 0,
     "LATITUDE": 51.50673,
-    "LONGITUDE": -0.08122,
+    "LONGITUDE": -0.08118,
     "MMSI": 245730000,
     "NAME": "RIGEL",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-07-24 21:28:27 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-07-24 22:31:27 GMT",
     "TYPE": 99,
-    "last_seen": "2025-07-24T20:31:55.148054",
+    "last_seen": "2025-07-24T21:29:42.145474",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-24T21:29:42.145474"
+  "last_seen": "2025-07-24T22:33:10.910567"
 }
