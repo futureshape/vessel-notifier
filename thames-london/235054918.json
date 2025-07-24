@@ -151,7 +151,7 @@
     "B": 28,
     "C": 1,
     "CALLSIGN": "MGKA3",
-    "COG": 360,
+    "COG": 236.3,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
@@ -159,17 +159,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.51005,
-    "LONGITUDE": -0.1156,
+    "LONGITUDE": -0.11531,
     "MMSI": 235054918,
     "NAME": "GOLDEN SPIRIT",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-07-24 11:28:02 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-07-24 13:02:20 GMT",
     "TYPE": 60,
-    "last_seen": "2025-07-21T13:48:06.301571",
+    "last_seen": "2025-07-24T11:28:03.675556",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-24T11:28:03.675556"
+  "last_seen": "2025-07-24T13:02:28.602477"
 }
