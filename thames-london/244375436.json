@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-07-24"
+    "2025-07-24",
+    "2025-07-25"
   ],
   "last_full_data": {
     "A": 6,
     "B": 6,
     "C": 3,
     "CALLSIGN": "PF2532",
-    "COG": 150.6,
+    "COG": 226.3,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50833,
-    "LONGITUDE": -0.07319,
+    "LATITUDE": 51.50811,
+    "LONGITUDE": -0.07269,
     "MMSI": 244375436,
     "NAME": "LAGERTHA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2025-07-24 13:22:04 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-07-25 02:24:22 GMT",
     "TYPE": 36,
-    "last_seen": "2025-07-24T13:02:29.265245",
+    "last_seen": "2025-07-24T13:47:43.508378",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-24T13:47:43.508378"
+  "last_seen": "2025-07-25T02:27:20.726672"
 }
