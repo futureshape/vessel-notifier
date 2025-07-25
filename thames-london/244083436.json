@@ -7,31 +7,25 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "PE3705",
-    "COG": 5.7,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 9,
+    "HEADING": 22,
     "IMO": 0,
-    "LATITUDE": 51.49773,
-    "LONGITUDE": -0.02946,
+    "LATITUDE": 51.50629,
+    "LONGITUDE": -0.0722,
     "MMSI": 244083436,
     "NAME": "STORMVOGEL II",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.7,
-    "TIME": "2025-07-25 11:27:04 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-25 12:58:46 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      3785,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-25T11:27:32.699176",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-25T11:27:32.699176"
+  "last_seen": "2025-07-25T13:01:19.462628"
 }
