@@ -58,32 +58,33 @@
     "2025-04-24",
     "2025-04-28",
     "2025-06-05",
-    "2025-06-11"
+    "2025-06-11",
+    "2025-07-25"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "2FEY8",
-    "COG": 360,
+    "COG": 25.3,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 117,
+    "HEADING": 27,
     "IMO": 0,
-    "LATITUDE": 51.50251,
-    "LONGITUDE": -0.05978,
+    "LATITUDE": 51.48879,
+    "LONGITUDE": -0.00109,
     "MMSI": 235090688,
     "NAME": "PATRICK COLQUHOUN 2",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-06-11 09:28:26 GMT",
+    "SOG": 8.1,
+    "TIME": "2025-07-25 10:37:02 GMT",
     "TYPE": 55,
-    "last_seen": "2025-06-05T09:31:04.111660",
+    "last_seen": "2025-06-11T09:31:43.036910",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-11T09:31:43.036910"
+  "last_seen": "2025-07-25T10:37:24.341275"
 }
