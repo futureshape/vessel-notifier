@@ -7,30 +7,25 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "2JBE2",
-    "COG": 7.7,
+    "COG": 288.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49936,
-    "LONGITUDE": -0.02904,
+    "LATITUDE": 51.46521,
+    "LONGITUDE": -0.20582,
     "MMSI": 235114456,
     "NAME": "BLUE MACAW",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.8,
-    "TIME": "2025-07-26 11:25:02 GMT",
+    "SOG": 4.8,
+    "TIME": "2025-07-26 12:42:02 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-26T11:25:19.330964",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-26T11:25:19.330964"
+  "last_seen": "2025-07-26T12:56:48.777983"
 }
