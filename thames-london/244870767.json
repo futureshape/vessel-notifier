@@ -7,28 +7,25 @@
     "B": 5,
     "C": 3,
     "CALLSIGN": "PB9080",
-    "COG": 351.3,
+    "COG": 15.2,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.503,
-    "LONGITUDE": -0.02902,
+    "LATITUDE": 51.50621,
+    "LONGITUDE": -0.07225,
     "MMSI": 244870767,
     "NAME": "LURE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.8,
-    "TIME": "2025-07-26 12:56:35 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-26 13:36:05 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-07-26T12:56:50.055797",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-26T12:56:50.055797"
+  "last_seen": "2025-07-26T13:39:43.029021"
 }
