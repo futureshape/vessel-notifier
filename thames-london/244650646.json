@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-07-24",
-    "2025-07-25"
+    "2025-07-25",
+    "2025-07-26"
   ],
   "last_full_data": {
     "A": 7,
     "B": 7,
     "C": 2,
     "CALLSIGN": "PB4013",
-    "COG": 25.1,
+    "COG": 114.3,
     "D": 2,
     "DEST": "SCHELLINGW",
     "DRAUGHT": 1.5,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5077,
-    "LONGITUDE": -0.07219,
+    "LATITUDE": 51.5078,
+    "LONGITUDE": -0.0722,
     "MMSI": 244650646,
     "NAME": "ZEELANDER",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-07-25 23:28:10 GMT",
+    "TIME": "2025-07-26 07:20:10 GMT",
     "TYPE": 37,
-    "last_seen": "2025-07-24T13:02:31.405339",
+    "last_seen": "2025-07-25T23:29:04.515427",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-25T23:29:04.515427"
+  "last_seen": "2025-07-26T07:29:26.504658"
 }
