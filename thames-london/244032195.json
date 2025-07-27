@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2025-07-27"
+  ],
+  "last_full_data": {
+    "A": 7,
+    "B": 2,
+    "C": 1,
+    "CALLSIGN": "PB9016",
+    "COG": 214.4,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50452,
+    "LONGITUDE": -0.00489,
+    "MMSI": 244032195,
+    "NAME": "SKY LIFE",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 6.3,
+    "TIME": "2025-07-27 13:37:55 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3880,
+      2115,
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-27T13:38:16.340765"
+}
