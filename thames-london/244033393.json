@@ -7,32 +7,25 @@
     "B": 11,
     "C": 3,
     "CALLSIGN": "PB3391",
-    "COG": 222.6,
+    "COG": 292.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 212,
+    "HEADING": 291,
     "IMO": 0,
-    "LATITUDE": 51.5062,
-    "LONGITUDE": -0.00221,
+    "LATITUDE": 51.50313,
+    "LONGITUDE": -0.06653,
     "MMSI": 244033393,
     "NAME": "SEA SALT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.7,
-    "TIME": "2025-07-27 13:38:11 GMT",
+    "SOG": 4.7,
+    "TIME": "2025-07-27 14:30:10 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2665,
-      3880,
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-27T13:38:16.939121",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-27T13:38:16.939121"
+  "last_seen": "2025-07-27T14:30:14.491009"
 }
