@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-07-07"
+    "2025-07-07",
+    "2025-07-27"
   ],
   "last_full_data": {
     "A": 43,
     "B": 12,
     "C": 2,
     "CALLSIGN": "MGQS4",
-    "COG": 21.7,
+    "COG": 96.2,
     "D": 5,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49521,
-    "LONGITUDE": 0.00021,
+    "LATITUDE": 51.49587,
+    "LONGITUDE": 0.02525,
     "MMSI": 235074261,
     "NAME": "PURGO",
-    "NAVSTAT": 5,
+    "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-07-07 11:08:38 GMT",
+    "SOG": 6.6,
+    "TIME": "2025-07-27 02:38:08 GMT",
     "TYPE": 0,
-    "last_seen": "2025-07-07T10:35:49.564682",
+    "last_seen": "2025-07-07T11:25:27.964810",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-07T11:25:27.964810"
+  "last_seen": "2025-07-27T02:38:12.366606"
 }
