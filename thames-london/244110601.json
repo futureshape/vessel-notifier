@@ -11,7 +11,7 @@
     "B": 0,
     "C": 3,
     "CALLSIGN": "PD4777",
-    "COG": 61.9,
+    "COG": 35.3,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -19,17 +19,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49379,
-    "LONGITUDE": -0.03434,
+    "LONGITUDE": -0.0344,
     "MMSI": 244110601,
     "NAME": "DYLAN",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-07-28 02:31:25 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-07-28 04:10:23 GMT",
     "TYPE": 36,
-    "last_seen": "2025-07-27T23:30:07.892703",
+    "last_seen": "2025-07-28T02:34:17.979588",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-28T02:34:17.979588"
+  "last_seen": "2025-07-28T04:12:26.918925"
 }
