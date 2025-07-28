@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-07-25"
+    "2025-07-25",
+    "2025-07-28"
   ],
   "last_full_data": {
-    "A": 0,
-    "B": 0,
+    "A": 11,
+    "B": 1,
     "C": 0,
     "CALLSIGN": "PE2145",
     "COG": 360,
-    "D": 0,
+    "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 90,
     "IMO": 0,
-    "LATITUDE": 51.50661,
-    "LONGITUDE": -0.07182,
+    "LATITUDE": 51.50672,
+    "LONGITUDE": -0.07173,
     "MMSI": 244395795,
     "NAME": "SEATRICKX",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-07-25 14:31:33 GMT",
+    "TIME": "2025-07-28 13:03:32 GMT",
     "TYPE": 37,
-    "last_seen": "2025-07-25T13:46:13.189561",
+    "last_seen": "2025-07-25T14:33:09.114422",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-25T14:33:09.114422"
+  "last_seen": "2025-07-28T13:03:58.250596"
 }

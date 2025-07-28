@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2025-07-28"
+  ],
+  "last_full_data": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "PF3499",
+    "COG": 341.6,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 339,
+    "IMO": 0,
+    "LATITUDE": 51.50476,
+    "LONGITUDE": -0.02957,
+    "MMSI": 244867548,
+    "NAME": "MUMELINE",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 6.6,
+    "TIME": "2025-07-28 13:03:29 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      3880,
+      2115,
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-28T13:03:59.913537"
+}
