@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-07-23",
     "2025-07-24",
-    "2025-07-25"
+    "2025-07-25",
+    "2025-07-28"
   ],
   "last_full_data": {
     "A": 3,
     "B": 7,
     "C": 1,
     "CALLSIGN": "MITF9",
-    "COG": 81,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 1.2,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50162,
-    "LONGITUDE": -0.06329,
+    "LATITUDE": 51.50314,
+    "LONGITUDE": -0.05658,
     "MMSI": 232033828,
     "NAME": "SWS ENTERPRISE",
     "NAVSTAT": 8,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.1,
-    "TIME": "2025-07-25 10:28:54 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-28 06:49:38 GMT",
     "TYPE": 0,
-    "last_seen": "2025-07-25T09:36:57.000767",
+    "last_seen": "2025-07-25T10:37:24.335697",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-25T10:37:24.335697"
+  "last_seen": "2025-07-28T06:49:41.244265"
 }
