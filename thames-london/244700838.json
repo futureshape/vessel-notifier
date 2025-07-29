@@ -1,0 +1,39 @@
+{
+  "dates_seen": [
+    "2025-07-29"
+  ],
+  "last_full_data": {
+    "A": 5,
+    "B": 4,
+    "C": 2,
+    "CALLSIGN": "PC5339",
+    "COG": 279.1,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 266,
+    "IMO": 0,
+    "LATITUDE": 51.50918,
+    "LONGITUDE": -0.03938,
+    "MMSI": 244700838,
+    "NAME": "GREET",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 6.7,
+    "TIME": "2025-07-29 14:37:41 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      2496,
+      3416,
+      3880,
+      2115,
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-29T14:38:05.083731"
+}
