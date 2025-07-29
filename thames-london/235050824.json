@@ -10,30 +10,25 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "MCPF",
-    "COG": 306.8,
+    "COG": 236,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 306,
+    "HEADING": 236,
     "IMO": 0,
-    "LATITUDE": 51.50361,
-    "LONGITUDE": 0.01201,
+    "LATITUDE": 51.5037,
+    "LONGITUDE": -0.05415,
     "MMSI": 235050824,
     "NAME": "SPIRIT OF ZEN",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 9.1,
-    "TIME": "2025-07-29 14:38:01 GMT",
+    "SOG": 8.6,
+    "TIME": "2025-07-29 15:08:32 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-11T05:24:35.562154",
-    "received_by_stations": [
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-29T14:38:06.458558",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-29T14:38:06.458558"
+  "last_seen": "2025-07-29T15:36:25.262397"
 }
