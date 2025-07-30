@@ -139,25 +139,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50425,
-    "LONGITUDE": -0.07372,
+    "LATITUDE": 51.49515,
+    "LONGITUDE": -0.12174,
     "MMSI": 235085697,
     "NAME": "BARNES",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-07-30 08:43:44 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-30 09:38:55 GMT",
     "TYPE": 99,
-    "last_seen": "2025-02-02T15:24:13.854876",
-    "received_by_stations": [
-      3416,
-      2496,
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-30T08:43:45.806122",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-30T08:43:45.806122"
+  "last_seen": "2025-07-30T09:39:05.229814"
 }
