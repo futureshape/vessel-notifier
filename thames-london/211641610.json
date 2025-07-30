@@ -7,32 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "DJ6553",
-    "COG": 305.4,
+    "COG": 305.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49886,
-    "LONGITUDE": 0.01908,
+    "LATITUDE": 51.50451,
+    "LONGITUDE": -0.07162,
     "MMSI": 211641610,
     "NAME": "SUTORIS",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.5,
-    "TIME": "2025-07-30 15:34:22 GMT",
+    "SOG": 2.9,
+    "TIME": "2025-07-30 16:38:20 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      3785,
-      2115,
-      2665,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-30T15:34:31.449093",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-30T15:34:31.449093"
+  "last_seen": "2025-07-30T16:38:25.239537"
 }
