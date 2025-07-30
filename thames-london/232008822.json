@@ -411,18 +411,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50757,
-    "LONGITUDE": 0.00611,
+    "LATITUDE": 51.50273,
+    "LONGITUDE": 0.00928,
     "MMSI": 232008822,
     "NAME": "MERCURY CLIPPER",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-07-30 13:04:13 GMT",
+    "SOG": 3.6,
+    "TIME": "2025-07-30 13:49:11 GMT",
     "TYPE": 40,
-    "last_seen": "2025-07-30T11:28:16.959903",
+    "last_seen": "2025-07-30T13:04:22.026361",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-30T13:04:22.026361"
+  "last_seen": "2025-07-30T13:49:11.610111"
 }

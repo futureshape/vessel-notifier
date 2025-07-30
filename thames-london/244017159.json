@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-07-30"
+  ],
+  "last_full_data": {
+    "A": 4,
+    "B": 8,
+    "C": 2,
+    "CALLSIGN": "PE7968",
+    "COG": 257.7,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.4978,
+    "LONGITUDE": 0.03112,
+    "MMSI": 244017159,
+    "NAME": "JADE",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 7.4,
+    "TIME": "2025-07-30 13:49:00 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-30T13:49:16.434521"
+}
