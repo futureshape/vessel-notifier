@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2025-07-30"
+  ],
+  "last_full_data": {
+    "A": 12,
+    "B": 1,
+    "C": 2,
+    "CALLSIGN": "PD7042",
+    "COG": 348.5,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50417,
+    "LONGITUDE": -0.02921,
+    "MMSI": 244615223,
+    "NAME": "ZEEMIN",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 6.7,
+    "TIME": "2025-07-30 15:34:15 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3880,
+      3785,
+      2115,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-30T15:34:29.746151"
+}

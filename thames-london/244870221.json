@@ -7,31 +7,25 @@
     "B": 5,
     "C": 3,
     "CALLSIGN": "PD 7068",
-    "COG": 269.1,
+    "COG": 107.4,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48569,
-    "LONGITUDE": -0.01366,
+    "LATITUDE": 51.50625,
+    "LONGITUDE": -0.07227,
     "MMSI": 244870221,
     "NAME": "GIGI A/D OOSTERSCHEL",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 3.6,
-    "TIME": "2025-07-30 14:35:04 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-30 15:31:29 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      3785,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-30T14:35:07.527323",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-30T14:35:07.527323"
+  "last_seen": "2025-07-30T15:34:29.131514"
 }
