@@ -7,29 +7,25 @@
     "B": 10,
     "C": 2,
     "CALLSIGN": "863734",
-    "COG": 263.8,
+    "COG": 294.7,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4975,
-    "LONGITUDE": 0.02896,
+    "LATITUDE": 51.50487,
+    "LONGITUDE": -0.07178,
     "MMSI": 503162580,
     "NAME": "MOMENT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.9,
-    "TIME": "2025-07-30 13:48:49 GMT",
+    "SOG": 7.2,
+    "TIME": "2025-07-30 14:34:47 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-30T13:49:15.766446",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-30T13:49:15.766446"
+  "last_seen": "2025-07-30T14:35:04.768314"
 }

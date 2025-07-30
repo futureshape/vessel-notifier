@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2025-07-30"
+  ],
+  "last_full_data": {
+    "A": 5,
+    "B": 9,
+    "C": 3,
+    "CALLSIGN": "PG8030",
+    "COG": 281.8,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.48568,
+    "LONGITUDE": -0.01582,
+    "MMSI": 244727896,
+    "NAME": "DAYSPRING",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 4.5,
+    "TIME": "2025-07-30 14:34:38 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3880,
+      3785,
+      2115,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-07-30T14:35:07.087089"
+}
