@@ -7,30 +7,25 @@
     "B": 5,
     "C": 0,
     "CALLSIGN": "PG7470",
-    "COG": 283.6,
+    "COG": 360,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 308,
+    "HEADING": 16,
     "IMO": 0,
-    "LATITUDE": 51.50258,
-    "LONGITUDE": -0.06351,
+    "LATITUDE": 51.50627,
+    "LONGITUDE": -0.0722,
     "MMSI": 244723659,
     "NAME": "BLACKBIRD",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.4,
-    "TIME": "2025-07-31 16:40:01 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-31 17:30:00 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2496,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-31T16:40:25.485222",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-31T16:40:25.485222"
+  "last_seen": "2025-07-31T17:32:45.610718"
 }
