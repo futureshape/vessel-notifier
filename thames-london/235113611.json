@@ -90,7 +90,7 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "MPEU9",
-    "COG": 90.4,
+    "COG": 360,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -98,17 +98,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5072,
-    "LONGITUDE": 0.00772,
+    "LONGITUDE": 0.00773,
     "MMSI": 235113611,
     "NAME": "ORION CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-07-31 19:26:35 GMT",
+    "SOG": 0,
+    "TIME": "2025-07-31 20:33:56 GMT",
     "TYPE": 40,
-    "last_seen": "2025-07-31T18:46:16.729318",
+    "last_seen": "2025-07-31T19:26:36.606299",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-31T19:26:36.606299"
+  "last_seen": "2025-07-31T20:33:59.347317"
 }
