@@ -378,7 +378,7 @@
     "B": 13,
     "C": 6,
     "CALLSIGN": "MTQN5",
-    "COG": 360,
+    "COG": 80.3,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -386,17 +386,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50169,
-    "LONGITUDE": -0.12306,
+    "LONGITUDE": -0.05933,
     "MMSI": 235056272,
     "NAME": "SARPEDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-07-31 15:34:30 GMT",
+    "SOG": 7.7,
+    "TIME": "2025-07-31 16:40:20 GMT",
     "TYPE": 60,
-    "last_seen": "2025-07-31T14:35:56.366814",
+    "last_seen": "2025-07-31T15:34:35.948898",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-31T15:34:35.948898"
+  "last_seen": "2025-07-31T16:40:25.487283"
 }

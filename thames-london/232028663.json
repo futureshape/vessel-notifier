@@ -7,31 +7,25 @@
     "B": 7,
     "C": 5,
     "CALLSIGN": "MHRT6",
-    "COG": 357.7,
+    "COG": 315.7,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5014,
-    "LONGITUDE": -0.02888,
+    "LATITUDE": 51.50435,
+    "LONGITUDE": -0.0696,
     "MMSI": 232028663,
     "NAME": "M/Y AG",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 10.9,
-    "TIME": "2025-07-31 15:34:11 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-07-31 16:37:39 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      3785,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-31T15:34:36.855204",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-31T15:34:36.855204"
+  "last_seen": "2025-07-31T16:40:24.877184"
 }
