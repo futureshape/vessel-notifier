@@ -15,30 +15,25 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "MOEF3",
-    "COG": 320.8,
+    "COG": 288.8,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5018,
-    "LONGITUDE": 0.01371,
+    "LATITUDE": 51.50913,
+    "LONGITUDE": -0.09309,
     "MMSI": 232049803,
     "NAME": "CONTINUUM",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 8,
-    "TIME": "2025-07-31 13:48:19 GMT",
+    "SOG": 9.2,
+    "TIME": "2025-07-31 14:35:49 GMT",
     "TYPE": 37,
-    "last_seen": "2025-04-07T09:29:53.771285",
-    "received_by_stations": [
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-07-31T13:48:37.020567",
+    "received_by_stations": []
   },
-  "last_seen": "2025-07-31T13:48:37.020567"
+  "last_seen": "2025-07-31T14:35:56.358595"
 }
