@@ -1,7 +1,37 @@
 {
   "dates_seen": [
-    "2024-06-02"
+    "2024-06-02",
+    "2025-08-01"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-02T09:18:43.961390"
+  "last_full_data": {
+    "A": 8,
+    "B": 3,
+    "C": 3,
+    "CALLSIGN": "MQVA4",
+    "COG": 220.7,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 221,
+    "IMO": 0,
+    "LATITUDE": 51.50642,
+    "LONGITUDE": -0.05005,
+    "MMSI": 235053683,
+    "NAME": "HERTFORD",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 7.1,
+    "TIME": "2025-08-01 17:34:23 GMT",
+    "TYPE": 37,
+    "last_seen": "2024-06-02T09:18:43.961390",
+    "received_by_stations": [
+      3785,
+      2115,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-08-01T17:34:33.030795"
 }
