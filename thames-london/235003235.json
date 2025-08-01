@@ -1,0 +1,39 @@
+{
+  "dates_seen": [
+    "2025-08-01"
+  ],
+  "last_full_data": {
+    "A": 4,
+    "B": 4,
+    "C": 2,
+    "CALLSIGN": "MEPZ3",
+    "COG": 200.8,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 200,
+    "IMO": 0,
+    "LATITUDE": 51.48912,
+    "LONGITUDE": -0.00275,
+    "MMSI": 235003235,
+    "NAME": "ASGARD",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 6.1,
+    "TIME": "2025-08-01 15:33:16 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3416,
+      3880,
+      3785,
+      2115,
+      2648,
+      2665,
+      3999
+    ]
+  },
+  "last_seen": "2025-08-01T15:33:49.912874"
+}
