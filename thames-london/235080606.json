@@ -364,18 +364,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5099,
-    "LONGITUDE": -0.11706,
+    "LATITUDE": 51.50989,
+    "LONGITUDE": -0.1171,
     "MMSI": 235080606,
     "NAME": "RNLI LIFEBOAT E-08",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-01 02:41:03 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-01 04:20:05 GMT",
     "TYPE": 51,
-    "last_seen": "2025-07-31T23:29:43.424826",
+    "last_seen": "2025-08-01T02:42:00.086941",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-01T02:42:00.086941"
+  "last_seen": "2025-08-01T04:20:11.140344"
 }
