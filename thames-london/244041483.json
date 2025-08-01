@@ -1,0 +1,39 @@
+{
+  "dates_seen": [
+    "2025-08-01"
+  ],
+  "last_full_data": {
+    "A": 18,
+    "B": 2,
+    "C": 4,
+    "CALLSIGN": "PF7752",
+    "COG": 277.4,
+    "D": 1,
+    "DEST": "VAN NAAR ?",
+    "DRAUGHT": 1.5,
+    "ETA": "04-09 10:30",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49733,
+    "LONGITUDE": 0.02438,
+    "MMSI": 244041483,
+    "NAME": "AQUA MYRA",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 10.2,
+    "TIME": "2025-08-01 05:44:47 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3806,
+      3880,
+      2115,
+      3785,
+      2665,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-08-01T05:44:49.776235"
+}

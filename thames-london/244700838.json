@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-07-29"
+    "2025-07-29",
+    "2025-08-01"
   ],
   "last_full_data": {
     "A": 5,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 338,
+    "HEADING": 337,
     "IMO": 0,
-    "LATITUDE": 51.50697,
-    "LONGITUDE": -0.0688,
+    "LATITUDE": 51.50693,
+    "LONGITUDE": -0.06869,
     "MMSI": 244700838,
     "NAME": "GREET",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-07-29 16:14:46 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-01 05:42:15 GMT",
     "TYPE": 37,
-    "last_seen": "2025-07-29T15:36:25.258492",
+    "last_seen": "2025-07-29T16:39:35.357904",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-29T16:39:35.357904"
+  "last_seen": "2025-08-01T05:44:48.767233"
 }
