@@ -94,7 +94,7 @@
     "B": 3,
     "C": 4,
     "CALLSIGN": "2GYD6",
-    "COG": 286.5,
+    "COG": 336.5,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -102,17 +102,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.47174,
-    "LONGITUDE": -0.18087,
+    "LONGITUDE": -0.18088,
     "MMSI": 235101487,
     "NAME": "MAZU",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-08-02 18:39:08 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-02 19:24:08 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-02T17:31:07.006399",
+    "last_seen": "2025-08-02T18:41:54.815247",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-02T18:41:54.815247"
+  "last_seen": "2025-08-02T19:24:12.473991"
 }
