@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-08-01"
+    "2025-08-01",
+    "2025-08-02"
   ],
   "last_full_data": {
     "A": 15,
@@ -14,18 +15,18 @@
     "ETA": "06-18 12:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50349,
-    "LONGITUDE": -0.06622,
+    "LATITUDE": 51.50348,
+    "LONGITUDE": -0.06627,
     "MMSI": 368424410,
     "NAME": "INEVITABLE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-08-01 23:29:34 GMT",
+    "TIME": "2025-08-02 02:24:03 GMT",
     "TYPE": 0,
-    "last_seen": "2025-08-01T22:33:21.016901",
+    "last_seen": "2025-08-01T23:29:43.399268",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-01T23:29:43.399268"
+  "last_seen": "2025-08-02T02:24:05.485532"
 }
