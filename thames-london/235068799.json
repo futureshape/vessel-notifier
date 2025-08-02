@@ -1,7 +1,35 @@
 {
   "dates_seen": [
-    "2024-06-02"
+    "2024-06-02",
+    "2025-08-02"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-02T10:19:05.317235"
+  "last_full_data": {
+    "A": 9,
+    "B": 0,
+    "C": 1,
+    "CALLSIGN": "MEJN3",
+    "COG": 276.2,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50634,
+    "LONGITUDE": 0.00421,
+    "MMSI": 235068799,
+    "NAME": "CYGNET",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 6.1,
+    "TIME": "2025-08-02 16:36:39 GMT",
+    "TYPE": 37,
+    "last_seen": "2024-06-02T10:19:05.317235",
+    "received_by_stations": [
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-08-02T16:36:43.419118"
 }

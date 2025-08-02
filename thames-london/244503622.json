@@ -1,0 +1,40 @@
+{
+  "dates_seen": [
+    "2025-08-02"
+  ],
+  "last_full_data": {
+    "A": 17,
+    "B": 2,
+    "C": 2,
+    "CALLSIGN": "PG6705",
+    "COG": 340.6,
+    "D": 4,
+    "DEST": "LONDON",
+    "DRAUGHT": 1.3,
+    "ETA": "08-02 18:10",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50572,
+    "LONGITUDE": -0.02951,
+    "MMSI": 244503622,
+    "NAME": "ESCAPE",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 10.6,
+    "TIME": "2025-08-02 16:36:37 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3416,
+      2496,
+      2103,
+      3880,
+      2115,
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-08-02T16:36:42.807148"
+}
