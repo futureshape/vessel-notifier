@@ -7,33 +7,25 @@
     "B": 6,
     "C": 3,
     "CALLSIGN": "PI3084",
-    "COG": 245.3,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50834,
-    "LONGITUDE": -0.04531,
+    "LATITUDE": 51.5064,
+    "LONGITUDE": -0.07204,
     "MMSI": 244821235,
     "NAME": "NJORD",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.7,
-    "TIME": "2025-08-02 17:30:39 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-02 18:41:09 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2496,
-      3880,
-      3785,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-02T17:31:09.389814",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-02T17:31:09.389814"
+  "last_seen": "2025-08-02T18:41:54.832437"
 }
