@@ -1,0 +1,39 @@
+{
+  "dates_seen": [
+    "2025-08-02"
+  ],
+  "last_full_data": {
+    "A": 6,
+    "B": 6,
+    "C": 2,
+    "CALLSIGN": "PA4790",
+    "COG": 238.6,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.5081,
+    "LONGITUDE": -0.04596,
+    "MMSI": 244690304,
+    "NAME": "VALTAMAR",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 7.7,
+    "TIME": "2025-08-02 17:30:41 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3416,
+      2496,
+      3880,
+      3785,
+      2115,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-08-02T17:31:08.750306"
+}
