@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-08-01",
-    "2025-08-02"
+    "2025-08-02",
+    "2025-08-03"
   ],
   "last_full_data": {
     "A": 15,
     "B": 6,
     "C": 2,
     "CALLSIGN": "",
-    "COG": 287.9,
+    "COG": 0,
     "D": 2,
     "DEST": "LONDON .:;",
     "DRAUGHT": 0.1,
     "ETA": "06-18 12:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50351,
-    "LONGITUDE": -0.06624,
+    "LATITUDE": 51.50349,
+    "LONGITUDE": -0.06622,
     "MMSI": 368424410,
     "NAME": "INEVITABLE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-08-02 23:30:15 GMT",
+    "TIME": "2025-08-03 02:40:26 GMT",
     "TYPE": 0,
-    "last_seen": "2025-08-02T22:32:08.018786",
+    "last_seen": "2025-08-02T23:30:19.141236",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-02T23:30:19.141236"
+  "last_seen": "2025-08-03T02:40:32.123659"
 }
