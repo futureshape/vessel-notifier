@@ -27,18 +27,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50256,
-    "LONGITUDE": -0.05974,
+    "LATITUDE": 51.50249,
+    "LONGITUDE": -0.06001,
     "MMSI": 235068425,
     "NAME": "RATTLESNAKE",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-04 08:43:46 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-04 09:22:37 GMT",
     "TYPE": 55,
-    "last_seen": "2025-08-01T11:27:51.135006",
+    "last_seen": "2025-08-04T08:45:05.278812",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-04T08:45:05.278812"
+  "last_seen": "2025-08-04T09:44:03.233498"
 }
