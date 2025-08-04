@@ -7,28 +7,25 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "DG9792",
-    "COG": 229.9,
+    "COG": 76.6,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50868,
-    "LONGITUDE": -0.04437,
+    "LATITUDE": 51.48417,
+    "LONGITUDE": -0.13493,
     "MMSI": 211869670,
     "NAME": "MITSOU",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.1,
-    "TIME": "2025-08-04 07:37:27 GMT",
+    "SOG": 6.3,
+    "TIME": "2025-08-04 08:43:46 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      2648
-    ]
+    "last_seen": "2025-08-04T07:37:54.848887",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-04T07:37:54.848887"
+  "last_seen": "2025-08-04T08:45:05.262847"
 }
