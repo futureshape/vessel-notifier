@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-08-01"
+    "2025-08-01",
+    "2025-08-04"
   ],
   "last_full_data": {
     "A": 11,
     "B": 0,
     "C": 3,
     "CALLSIGN": "MFOT8",
-    "COG": 86.7,
+    "COG": 137,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50639,
-    "LONGITUDE": -0.07212,
+    "LATITUDE": 51.50741,
+    "LONGITUDE": -0.07197,
     "MMSI": 232023023,
     "NAME": "FIRST VAGABOND",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-08-01 17:31:50 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-04 05:48:48 GMT",
     "TYPE": 36,
-    "last_seen": "2025-08-01T16:41:13.364127",
+    "last_seen": "2025-08-01T17:34:32.444656",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-01T17:34:32.444656"
+  "last_seen": "2025-08-04T05:49:09.435906"
 }
