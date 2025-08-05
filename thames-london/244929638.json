@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-08-02"
+    "2025-08-02",
+    "2025-08-05"
   ],
   "last_full_data": {
     "A": 10,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 102,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50701,
-    "LONGITUDE": -0.073,
+    "LATITUDE": 51.50751,
+    "LONGITUDE": -0.0732,
     "MMSI": 244929638,
     "NAME": "NAMANIH",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-08-02 17:30:09 GMT",
+    "TIME": "2025-08-05 06:47:45 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-02T16:36:41.330234",
+    "last_seen": "2025-08-02T17:31:07.023596",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-02T17:31:07.023596"
+  "last_seen": "2025-08-05T06:50:01.398518"
 }
