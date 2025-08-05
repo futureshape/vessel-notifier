@@ -257,7 +257,7 @@
     "B": 1,
     "C": 2,
     "CALLSIGN": "MESS9",
-    "COG": 286.4,
+    "COG": 360,
     "D": 2,
     "DEST": "WATERLOO",
     "DRAUGHT": 2,
@@ -265,17 +265,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50297,
-    "LONGITUDE": -0.06575,
+    "LONGITUDE": -0.12054,
     "MMSI": 232020612,
     "NAME": "ROCKET SCIENCE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.2,
-    "TIME": "2025-08-05 14:38:21 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-08-05 15:35:57 GMT",
     "TYPE": 40,
-    "last_seen": "2025-08-05T13:50:19.603157",
+    "last_seen": "2025-08-05T14:38:24.398157",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-05T14:38:24.398157"
+  "last_seen": "2025-08-05T15:36:00.979035"
 }
