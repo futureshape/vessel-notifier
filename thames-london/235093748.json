@@ -101,7 +101,7 @@
     "B": 8,
     "C": 1,
     "CALLSIGN": "2FSB7",
-    "COG": 360,
+    "COG": 212.4,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -109,17 +109,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.47106,
-    "LONGITUDE": -0.1812,
+    "LONGITUDE": -0.18122,
     "MMSI": 235093748,
     "NAME": "ALFIE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-06 13:24:39 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-08-06 17:12:02 GMT",
     "TYPE": 52,
-    "last_seen": "2025-08-06T13:05:47.795709",
+    "last_seen": "2025-08-06T13:50:55.666556",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-06T13:50:55.666556"
+  "last_seen": "2025-08-06T17:35:01.616567"
 }
