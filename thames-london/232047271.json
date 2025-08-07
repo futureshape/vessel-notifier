@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2025-08-07"
+  ],
+  "last_full_data": {
+    "A": 5,
+    "B": 5,
+    "C": 4,
+    "CALLSIGN": "MNOC5",
+    "COG": 360,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 22,
+    "IMO": 0,
+    "LATITUDE": 51.50634,
+    "LONGITUDE": -0.07225,
+    "MMSI": 232047271,
+    "NAME": "LAURISSA",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0.1,
+    "TIME": "2025-08-07 10:36:07 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3785,
+      2496,
+      2115,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-08-07T10:37:31.110433"
+}
