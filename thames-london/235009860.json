@@ -1,33 +1,32 @@
 {
   "dates_seen": [
-    "2025-08-06"
+    "2025-08-06",
+    "2025-08-08"
   ],
   "last_full_data": {
     "A": 6,
     "B": 14,
     "C": 4,
     "CALLSIGN": "GAAR",
-    "COG": 261.2,
+    "COG": 315.9,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50698,
-    "LONGITUDE": 0.00216,
+    "LATITUDE": 51.50487,
+    "LONGITUDE": -0.07121,
     "MMSI": 235009860,
     "NAME": "HMS BITER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 12.3,
-    "TIME": "2025-08-06 11:27:48 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-08 05:41:11 GMT",
     "TYPE": 35,
-    "last_seen": null,
-    "received_by_stations": [
-      3999
-    ]
+    "last_seen": "2025-08-06T11:28:38.697627",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-06T11:28:38.697627"
+  "last_seen": "2025-08-08T05:41:56.452787"
 }
