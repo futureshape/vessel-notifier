@@ -362,7 +362,7 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "MVLY9",
-    "COG": 360,
+    "COG": 280.1,
     "D": 7,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -370,17 +370,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50705,
-    "LONGITUDE": 0.0076,
+    "LONGITUDE": 0.00759,
     "MMSI": 235056987,
     "NAME": "AURORA CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-08 09:37:42 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-08 10:37:12 GMT",
     "TYPE": 40,
-    "last_seen": "2025-08-08T08:43:20.018054",
+    "last_seen": "2025-08-08T09:37:50.037859",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-08T09:37:50.037859"
+  "last_seen": "2025-08-08T10:37:15.963199"
 }
