@@ -126,32 +126,33 @@
     "2025-08-03",
     "2025-08-06",
     "2025-08-07",
-    "2025-08-08"
+    "2025-08-08",
+    "2025-08-09"
   ],
   "last_full_data": {
     "A": 15,
     "B": 1,
     "C": 1,
     "CALLSIGN": "MPJA3",
-    "COG": 352.7,
+    "COG": 97.2,
     "D": 4,
     "DEST": "WATERLOO",
     "DRAUGHT": 0,
     "ETA": "08-07 17:00",
-    "HEADING": 14,
+    "HEADING": 7,
     "IMO": 0,
-    "LATITUDE": 51.49637,
-    "LONGITUDE": -0.12165,
+    "LATITUDE": 51.50261,
+    "LONGITUDE": -0.12048,
     "MMSI": 232055511,
     "NAME": "ROCKET REBEL",
     "NAVSTAT": 9,
     "PAC": 0,
-    "ROT": 16,
+    "ROT": 9,
     "SOG": 0,
-    "TIME": "2025-08-08 17:28:26 GMT",
+    "TIME": "2025-08-09 09:29:20 GMT",
     "TYPE": 40,
-    "last_seen": "2025-08-08T16:36:36.320401",
+    "last_seen": "2025-08-08T17:28:28.246160",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-08T17:28:28.246160"
+  "last_seen": "2025-08-09T09:29:28.505522"
 }
