@@ -7,33 +7,25 @@
     "B": 51,
     "C": 3,
     "CALLSIGN": "PH6285",
-    "COG": 332,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50612,
-    "LONGITUDE": -0.03041,
+    "LATITUDE": 51.5062,
+    "LONGITUDE": -0.07218,
     "MMSI": 244059183,
     "NAME": "SUNSEA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.2,
-    "TIME": "2025-08-09 12:56:11 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-09 13:35:10 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      2496,
-      3880,
-      3785,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-09T12:56:28.664484",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-09T12:56:28.664484"
+  "last_seen": "2025-08-09T13:36:51.237122"
 }
