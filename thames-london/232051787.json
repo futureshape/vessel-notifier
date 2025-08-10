@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-06-25",
     "2025-06-08",
-    "2025-07-30"
+    "2025-07-30",
+    "2025-08-10"
   ],
   "last_full_data": {
     "A": 17,
     "B": 15,
     "C": 7,
     "CALLSIGN": "MONE2",
-    "COG": 55.1,
+    "COG": 76.3,
     "D": 5,
     "DEST": "THAMES TOWAGE",
     "DRAUGHT": 5.5,
-    "ETA": "06-25 00:00",
-    "HEADING": 61,
+    "ETA": "08-09 00:00",
+    "HEADING": 88,
     "IMO": 9631034,
-    "LATITUDE": 51.48575,
-    "LONGITUDE": -0.00676,
+    "LATITUDE": 51.4851,
+    "LONGITUDE": -0.01133,
     "MMSI": 232051787,
     "NAME": "VB DOLPHIN",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 127,
-    "SOG": 4.2,
-    "TIME": "2025-07-30 16:38:17 GMT",
+    "SOG": 6.8,
+    "TIME": "2025-08-10 02:35:42 GMT",
     "TYPE": 52,
-    "last_seen": "2025-07-30T15:34:30.357393",
+    "last_seen": "2025-07-30T16:38:25.900633",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-30T16:38:25.900633"
+  "last_seen": "2025-08-10T02:35:46.029158"
 }
