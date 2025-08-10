@@ -333,17 +333,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50111,
-    "LONGITUDE": -0.06104,
+    "LONGITUDE": -0.06101,
     "MMSI": 235052131,
     "NAME": "MILLENIUM OF LONDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-10 12:56:50 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-10 13:37:09 GMT",
     "TYPE": 60,
-    "last_seen": "2025-08-10T11:24:24.541496",
+    "last_seen": "2025-08-10T12:56:52.280860",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-10T12:56:52.280860"
+  "last_seen": "2025-08-10T13:37:13.190581"
 }

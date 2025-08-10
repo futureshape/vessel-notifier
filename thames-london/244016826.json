@@ -7,31 +7,25 @@
     "B": 2,
     "C": 2,
     "CALLSIGN": "PC5290",
-    "COG": 136.1,
+    "COG": 360,
     "D": 2,
     "DEST": "AMSTERDAM",
     "DRAUGHT": 1.1,
     "ETA": "00-00 24:60",
-    "HEADING": 511,
+    "HEADING": 14,
     "IMO": 0,
-    "LATITUDE": 51.50376,
-    "LONGITUDE": -0.07088,
+    "LATITUDE": 51.50626,
+    "LONGITUDE": -0.07224,
     "MMSI": 244016826,
     "NAME": "SIMAIA",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0.7,
-    "TIME": "2025-08-10 12:56:46 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-10 13:35:20 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2496,
-      3785,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-10T12:56:52.279756",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-10T12:56:52.279756"
+  "last_seen": "2025-08-10T13:37:13.188757"
 }
