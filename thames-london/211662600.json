@@ -14,7 +14,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "DH3366",
-    "COG": 180.8,
+    "COG": 80.9,
     "D": 3,
     "DEST": "CLASS B",
     "DRAUGHT": 0,
@@ -22,17 +22,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50799,
-    "LONGITUDE": -0.07268,
+    "LONGITUDE": -0.07262,
     "MMSI": 211662600,
     "NAME": "NEVERMIND",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-11 04:08:30 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-11 05:38:28 GMT",
     "TYPE": 36,
-    "last_seen": "2025-08-11T02:31:10.293125",
+    "last_seen": "2025-08-11T04:10:26.482322",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-11T04:10:26.482322"
+  "last_seen": "2025-08-11T05:40:10.230042"
 }
