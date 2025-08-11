@@ -9,33 +9,25 @@
     "B": 18,
     "C": 2,
     "CALLSIGN": "MYXD7",
-    "COG": 245.4,
+    "COG": 119.1,
     "D": 5,
     "DEST": "CHATHAM",
     "DRAUGHT": 3.5,
     "ETA": "08-08 14:00",
     "HEADING": 511,
     "IMO": 5185324,
-    "LATITUDE": 51.50701,
-    "LONGITUDE": 0.00063,
+    "LATITUDE": 51.50317,
+    "LONGITUDE": -0.06935,
     "MMSI": 235103436,
     "NAME": "KENT",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.3,
-    "TIME": "2025-08-11 13:47:56 GMT",
+    "SOG": 3.4,
+    "TIME": "2025-08-11 14:35:28 GMT",
     "TYPE": 52,
-    "last_seen": "2024-09-11T06:33:06.223917",
-    "received_by_stations": [
-      2103,
-      3880,
-      2115,
-      3785,
-      2665,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-11T13:48:02.270977",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-11T13:48:02.270977"
+  "last_seen": "2025-08-11T14:35:32.226014"
 }
