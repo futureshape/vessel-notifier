@@ -8,31 +8,25 @@
     "B": 2,
     "C": 0,
     "CALLSIGN": "PA3992",
-    "COG": 27.3,
+    "COG": 360,
     "D": 5,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50558,
-    "LONGITUDE": -0.07259,
+    "LATITUDE": 51.50709,
+    "LONGITUDE": -0.07144,
     "MMSI": 244850233,
     "NAME": "SOGGY",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 2.3,
-    "TIME": "2025-08-12 16:37:53 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-12 17:15:23 GMT",
     "TYPE": 37,
-    "last_seen": "2024-05-06T12:33:46.925425",
-    "received_by_stations": [
-      2496,
-      3785,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-12T16:38:01.359008",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-12T16:38:01.359008"
+  "last_seen": "2025-08-12T17:31:10.113200"
 }
