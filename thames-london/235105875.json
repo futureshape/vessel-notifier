@@ -7,31 +7,25 @@
     "B": 2,
     "C": 3,
     "CALLSIGN": "2HQU6",
-    "COG": 277.6,
+    "COG": 101,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50903,
-    "LONGITUDE": -0.04024,
+    "LATITUDE": 51.50773,
+    "LONGITUDE": -0.07232,
     "MMSI": 235105875,
     "NAME": "HISWAY TOO",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.3,
-    "TIME": "2025-08-12 13:43:10 GMT",
+    "SOG": 0.6,
+    "TIME": "2025-08-12 14:33:08 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-12T13:43:20.299912",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-12T13:43:20.299912"
+  "last_seen": "2025-08-12T14:33:22.609272"
 }

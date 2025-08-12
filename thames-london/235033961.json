@@ -7,33 +7,25 @@
     "B": 0,
     "C": 3,
     "CALLSIGN": "MLUF6",
-    "COG": 282.6,
+    "COG": 339.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48608,
-    "LONGITUDE": -0.01757,
+    "LATITUDE": 51.50539,
+    "LONGITUDE": -0.07285,
     "MMSI": 235033961,
     "NAME": "ISLAY",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4.9,
-    "TIME": "2025-08-12 13:43:13 GMT",
+    "SOG": 1.8,
+    "TIME": "2025-08-12 14:33:11 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      3880,
-      3785,
-      2115,
-      2665,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-12T13:43:20.851067",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-12T13:43:20.851067"
+  "last_seen": "2025-08-12T14:33:22.608153"
 }
