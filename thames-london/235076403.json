@@ -128,20 +128,20 @@
     "DEST": "LONDON",
     "DRAUGHT": 11.8,
     "ETA": "08-13 01:00",
-    "HEADING": 268,
+    "HEADING": 267,
     "IMO": 0,
-    "LATITUDE": 51.51002,
-    "LONGITUDE": -0.11556,
+    "LATITUDE": 51.51012,
+    "LONGITUDE": -0.11571,
     "MMSI": 235076403,
     "NAME": "SEADOG",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-08-12 02:18:08 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-12 03:53:58 GMT",
     "TYPE": 39,
-    "last_seen": "2025-08-11T19:26:42.553532",
+    "last_seen": "2025-08-12T02:18:14.161366",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-12T02:18:14.161366"
+  "last_seen": "2025-08-12T03:54:01.208444"
 }
