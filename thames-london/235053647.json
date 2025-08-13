@@ -152,20 +152,20 @@
     "DEST": "LONDON",
     "DRAUGHT": 2.1,
     "ETA": "00-00 00:00",
-    "HEADING": 511,
+    "HEADING": 96,
     "IMO": 0,
-    "LATITUDE": 51.49449,
-    "LONGITUDE": 0.02659,
+    "LATITUDE": 51.4945,
+    "LONGITUDE": 0.02662,
     "MMSI": 235053647,
     "NAME": "REGAIN",
     "NAVSTAT": 11,
     "PAC": 1,
-    "ROT": 128,
+    "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-08-13 09:33:21 GMT",
+    "TIME": "2025-08-13 10:35:22 GMT",
     "TYPE": 52,
-    "last_seen": "2025-08-08T14:35:41.179124",
+    "last_seen": "2025-08-13T09:33:24.677948",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-13T09:33:24.677948"
+  "last_seen": "2025-08-13T10:35:22.663558"
 }
