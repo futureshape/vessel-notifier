@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-08-12"
+    "2025-08-12",
+    "2025-08-13"
   ],
   "last_full_data": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "CALLSIGN": "",
-    "COG": 360,
-    "D": 0,
+    "A": 12,
+    "B": 6,
+    "C": 2,
+    "CALLSIGN": "MJSD4",
+    "COG": 74.6,
+    "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.43007,
-    "LONGITUDE": -0.31844,
+    "LATITUDE": 51.48384,
+    "LONGITUDE": -0.13592,
     "MMSI": 232037416,
     "NAME": "KRAKEN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-12 17:05:09 GMT",
-    "TYPE": 0,
-    "last_seen": "2025-08-12T11:25:49.923059",
+    "SOG": 7.2,
+    "TIME": "2025-08-13 08:39:05 GMT",
+    "TYPE": 37,
+    "last_seen": "2025-08-12T17:31:10.100522",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-12T17:31:10.100522"
+  "last_seen": "2025-08-13T08:39:09.176750"
 }
