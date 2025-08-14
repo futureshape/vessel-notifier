@@ -14,20 +14,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 0,
     "IMO": 0,
-    "LATITUDE": 51.48754,
-    "LONGITUDE": -0.07297,
+    "LATITUDE": 51.48749,
+    "LONGITUDE": -0.07303,
     "MMSI": 232043223,
     "NAME": "LATHENE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-08-14 19:19:25 GMT",
+    "TIME": "2025-08-14 20:31:25 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-08-14T19:23:32.687850",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-14T19:23:32.687850"
+  "last_seen": "2025-08-14T20:32:09.659543"
 }
