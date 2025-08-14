@@ -7,30 +7,25 @@
     "B": 0,
     "C": 2,
     "CALLSIGN": "MJJH6",
-    "COG": 328.9,
+    "COG": 0,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48951,
-    "LONGITUDE": -0.02656,
+    "LATITUDE": 51.50615,
+    "LONGITUDE": -0.07233,
     "MMSI": 235019062,
     "NAME": "AQUATRACK",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 4.7,
-    "TIME": "2025-08-14 15:32:00 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-14 16:35:58 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-14T15:32:03.464178",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-14T15:32:03.464178"
+  "last_seen": "2025-08-14T16:38:16.330601"
 }
