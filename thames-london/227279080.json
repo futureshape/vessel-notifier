@@ -7,31 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "FGA8164",
-    "COG": 329.2,
+    "COG": 61.9,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49083,
-    "LONGITUDE": -0.02655,
+    "LATITUDE": 51.50547,
+    "LONGITUDE": -0.07294,
     "MMSI": 227279080,
     "NAME": "HILIOS II",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5,
-    "TIME": "2025-08-14 14:33:05 GMT",
+    "SOG": 0.9,
+    "TIME": "2025-08-14 15:31:38 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-14T14:33:20.652433",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-14T14:33:20.652433"
+  "last_seen": "2025-08-14T15:32:02.596722"
 }
