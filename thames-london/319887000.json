@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-08-14"
+    "2025-08-14",
+    "2025-08-15"
   ],
   "last_full_data": {
     "A": 20,
     "B": 23,
     "C": 3,
     "CALLSIGN": "ZCIG8",
-    "COG": 193.9,
+    "COG": 187.4,
     "D": 6,
     "DEST": "GBLON",
     "DRAUGHT": 2.8,
     "ETA": "08-14 17:30",
-    "HEADING": 116,
+    "HEADING": 117,
     "IMO": 1007419,
     "LATITUDE": 51.50585,
-    "LONGITUDE": -0.07318,
+    "LONGITUDE": -0.07319,
     "MMSI": 319887000,
     "NAME": "MOONSHADOW",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-08-14 23:26:51 GMT",
+    "TIME": "2025-08-15 02:20:52 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-14T22:31:06.420735",
+    "last_seen": "2025-08-14T23:27:21.222152",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-14T23:27:21.222152"
+  "last_seen": "2025-08-15T02:21:43.926972"
 }
