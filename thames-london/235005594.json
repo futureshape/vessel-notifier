@@ -7,30 +7,25 @@
     "B": 3,
     "C": 1,
     "CALLSIGN": "MGSD6",
-    "COG": 301,
+    "COG": 18,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 1.4,
     "ETA": "07-18 13:43",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49924,
-    "LONGITUDE": 0.0185,
+    "LATITUDE": 51.50633,
+    "LONGITUDE": -0.0723,
     "MMSI": 235005594,
     "NAME": "WHITE SILK",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.5,
-    "TIME": "2025-08-15 14:31:03 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-15 15:28:02 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-15T14:31:19.724608",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-15T14:31:19.724608"
+  "last_seen": "2025-08-15T15:30:18.232782"
 }
