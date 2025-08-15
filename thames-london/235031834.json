@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-08-01"
+    "2025-08-01",
+    "2025-08-15"
   ],
   "last_full_data": {
     "A": 6,
     "B": 7,
     "C": 2,
     "CALLSIGN": "MHJW4",
-    "COG": 250.4,
+    "COG": 75.5,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 254,
+    "HEADING": 77,
     "IMO": 0,
-    "LATITUDE": 51.46458,
-    "LONGITUDE": -0.19019,
+    "LATITUDE": 51.48357,
+    "LONGITUDE": -0.15766,
     "MMSI": 235031834,
     "NAME": "SABRE BLUE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.2,
-    "TIME": "2025-08-01 16:15:54 GMT",
+    "SOG": 10.7,
+    "TIME": "2025-08-15 07:28:49 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-01T15:33:46.753542",
+    "last_seen": "2025-08-01T16:41:13.352575",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-01T16:41:13.352575"
+  "last_seen": "2025-08-15T07:28:59.256787"
 }
