@@ -400,7 +400,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MVMT8",
-    "COG": 5.6,
+    "COG": 285.4,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -408,17 +408,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50706,
-    "LONGITUDE": 0.00759,
+    "LONGITUDE": 0.0076,
     "MMSI": 235057012,
     "NAME": "TORNADO CLIPPER",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-08-16 07:25:50 GMT",
+    "TIME": "2025-08-16 08:34:22 GMT",
     "TYPE": 0,
-    "last_seen": "2025-08-16T06:39:34.257541",
+    "last_seen": "2025-08-16T07:25:55.006760",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-16T07:25:55.006760"
+  "last_seen": "2025-08-16T08:34:40.773379"
 }
