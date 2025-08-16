@@ -72,7 +72,7 @@
     "B": 24,
     "C": 10,
     "CALLSIGN": "MXAW7",
-    "COG": 1,
+    "COG": 336,
     "D": 9,
     "DEST": "GB CHN>=1803/2",
     "DRAUGHT": 4.5,
@@ -83,14 +83,14 @@
     "LONGITUDE": 0.02067,
     "MMSI": 232215000,
     "NAME": "SAND FALCON",
-    "NAVSTAT": 5,
+    "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0.1,
-    "TIME": "2025-08-16 20:26:55 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-16 21:25:42 GMT",
     "TYPE": 33,
-    "last_seen": "2025-08-16T19:22:29.544908",
+    "last_seen": "2025-08-16T20:29:25.218609",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-16T20:29:25.218609"
+  "last_seen": "2025-08-16T21:25:45.521379"
 }
