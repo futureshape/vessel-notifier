@@ -7,31 +7,25 @@
     "B": 4,
     "C": 4,
     "CALLSIGN": "MHIS 8",
-    "COG": 159.9,
+    "COG": 181.9,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49615,
-    "LONGITUDE": -0.00399,
+    "LATITUDE": 51.50617,
+    "LONGITUDE": -0.07226,
     "MMSI": 235024907,
     "NAME": "SHERINGHAM LADY",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 8.4,
-    "TIME": "2025-08-17 16:34:26 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-17 17:25:28 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2115,
-      3880,
-      3785,
-      3999,
-      2648
-    ]
+    "last_seen": "2025-08-17T16:34:30.560388",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-17T16:34:30.560388"
+  "last_seen": "2025-08-17T17:27:39.609950"
 }

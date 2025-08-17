@@ -7,31 +7,25 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "MQXN6",
-    "COG": 171.1,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 185,
+    "HEADING": 26,
     "IMO": 0,
-    "LATITUDE": 51.49349,
-    "LONGITUDE": -0.00268,
+    "LATITUDE": 51.50632,
+    "LONGITUDE": -0.07219,
     "MMSI": 232034220,
     "NAME": "PARIS",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 8.5,
-    "TIME": "2025-08-17 16:34:13 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-17 17:26:40 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      2115,
-      2648,
-      3785,
-      3999
-    ]
+    "last_seen": "2025-08-17T16:34:31.410817",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-17T16:34:31.410817"
+  "last_seen": "2025-08-17T17:27:39.610186"
 }
