@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-08-14"
+    "2025-08-14",
+    "2025-08-17"
   ],
   "last_full_data": {
     "A": 10,
     "B": 1,
     "C": 2,
     "CALLSIGN": "PG3798",
-    "COG": 0,
+    "COG": 104.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50714,
-    "LONGITUDE": -0.06947,
+    "LATITUDE": 51.50206,
+    "LONGITUDE": -0.06565,
     "MMSI": 244060773,
     "NAME": "KUIFEEND",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-14 17:19:58 GMT",
+    "SOG": 4,
+    "TIME": "2025-08-17 06:40:50 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-14T16:38:16.330843",
+    "last_seen": "2025-08-14T17:30:21.321294",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-14T17:30:21.321294"
+  "last_seen": "2025-08-17T06:40:56.380953"
 }
