@@ -16,7 +16,7 @@
     "B": 0,
     "C": 2,
     "CALLSIGN": "MRZX3",
-    "COG": 103.1,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -24,17 +24,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50681,
-    "LONGITUDE": -0.0723,
+    "LONGITUDE": -0.07226,
     "MMSI": 232060894,
     "NAME": "TUFF ENUFF",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-08-18 02:27:04 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-18 04:03:04 GMT",
     "TYPE": 36,
-    "last_seen": "2025-08-17T23:27:11.217042",
+    "last_seen": "2025-08-18T02:28:00.507544",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-18T02:28:00.507544"
+  "last_seen": "2025-08-18T04:05:55.431195"
 }
