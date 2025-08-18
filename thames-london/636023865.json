@@ -7,14 +7,14 @@
     "B": 14,
     "C": 10,
     "CALLSIGN": "5LPU6",
-    "COG": 271.7,
+    "COG": 254.6,
     "D": 2,
     "DEST": "MURPHY'S WHARF",
     "DRAUGHT": 2.2,
     "ETA": "08-18 06:00",
     "HEADING": 281,
     "IMO": 9030474,
-    "LATITUDE": 51.4944,
+    "LATITUDE": 51.49439,
     "LONGITUDE": 0.02381,
     "MMSI": 636023865,
     "NAME": "CM NEPTUNE",
@@ -22,16 +22,10 @@
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-08-18 08:38:15 GMT",
+    "TIME": "2025-08-18 09:35:17 GMT",
     "TYPE": 70,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-18T08:40:45.172096",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-18T08:40:45.172096"
+  "last_seen": "2025-08-18T09:36:07.277565"
 }

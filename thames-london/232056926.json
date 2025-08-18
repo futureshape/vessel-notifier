@@ -162,7 +162,7 @@
     "B": 1,
     "C": 2,
     "CALLSIGN": "MPWH2",
-    "COG": 318.9,
+    "COG": 349.3,
     "D": 1,
     "DEST": "TRAINING RIB",
     "DRAUGHT": 0.7,
@@ -170,17 +170,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49561,
-    "LONGITUDE": 0.0188,
+    "LONGITUDE": 0.01882,
     "MMSI": 232056926,
     "NAME": "THAMES NAVIGATOR",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-18 08:40:42 GMT",
+    "SOG": 0.3,
+    "TIME": "2025-08-18 09:36:02 GMT",
     "TYPE": 40,
-    "last_seen": "2025-08-17T16:34:31.413689",
+    "last_seen": "2025-08-18T08:40:44.592717",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-18T08:40:44.592717"
+  "last_seen": "2025-08-18T09:36:07.276914"
 }
