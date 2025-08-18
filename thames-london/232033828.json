@@ -21,7 +21,7 @@
     "B": 7,
     "C": 1,
     "CALLSIGN": "MITF9",
-    "COG": 360,
+    "COG": 58.5,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 1.2,
@@ -29,17 +29,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50849,
-    "LONGITUDE": -0.04654,
+    "LONGITUDE": -0.04653,
     "MMSI": 232033828,
     "NAME": "SWS ENTERPRISE",
     "NAVSTAT": 8,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-18 11:26:32 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-18 13:01:42 GMT",
     "TYPE": 0,
-    "last_seen": "2025-08-18T10:36:39.312480",
+    "last_seen": "2025-08-18T11:26:36.337923",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-18T11:26:36.337923"
+  "last_seen": "2025-08-18T13:01:46.863054"
 }
