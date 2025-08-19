@@ -33,17 +33,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5068,
-    "LONGITUDE": -0.07081,
+    "LONGITUDE": -0.07078,
     "MMSI": 232045358,
     "NAME": "BROWN OWL",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-19 10:32:01 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-19 11:23:00 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-19T09:30:06.799342",
+    "last_seen": "2025-08-19T10:33:36.913163",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-19T10:33:36.913163"
+  "last_seen": "2025-08-19T11:24:18.385444"
 }
