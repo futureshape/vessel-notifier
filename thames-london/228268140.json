@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-08-19"
+  ],
+  "last_full_data": {
+    "A": 10,
+    "B": 1,
+    "C": 2,
+    "CALLSIGN": "FU3787",
+    "COG": 26,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 26,
+    "IMO": 0,
+    "LATITUDE": 51.48333,
+    "LONGITUDE": -0.1,
+    "MMSI": 228268140,
+    "NAME": "BALTHAZAR",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 5,
+    "TIME": "2025-08-19 09:29:59 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2321,
+      3864,
+      2085
+    ]
+  },
+  "last_seen": "2025-08-19T09:30:06.793222"
+}

@@ -7,31 +7,25 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "DF5657",
-    "COG": 161.6,
+    "COG": 0,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 164,
+    "HEADING": 32,
     "IMO": 0,
-    "LATITUDE": 51.49348,
-    "LONGITUDE": -0.00222,
+    "LATITUDE": 51.50625,
+    "LONGITUDE": -0.07223,
     "MMSI": 211890380,
     "NAME": "PELICAN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.1,
-    "TIME": "2025-08-19 08:36:36 GMT",
+    "SOG": 0.7,
+    "TIME": "2025-08-19 09:27:46 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3785,
-      3880,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-19T08:36:50.548485",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-19T08:36:50.548485"
+  "last_seen": "2025-08-19T09:30:06.798675"
 }
