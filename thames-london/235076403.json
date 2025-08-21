@@ -130,7 +130,7 @@
     "B": 6,
     "C": 4,
     "CALLSIGN": "MNSY6",
-    "COG": 303.8,
+    "COG": 9.8,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 11.8,
@@ -138,17 +138,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.51005,
-    "LONGITUDE": -0.11539,
+    "LONGITUDE": -0.11536,
     "MMSI": 235076403,
     "NAME": "SEADOG",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-21 07:29:10 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-21 08:35:41 GMT",
     "TYPE": 39,
-    "last_seen": "2025-08-21T06:51:12.401337",
+    "last_seen": "2025-08-21T07:29:20.249311",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-21T07:29:20.249311"
+  "last_seen": "2025-08-21T08:35:45.475594"
 }
