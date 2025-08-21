@@ -1,0 +1,43 @@
+{
+  "dates_seen": [
+    "2025-08-21"
+  ],
+  "last_full_data": {
+    "A": 31,
+    "B": 31,
+    "C": 8,
+    "CALLSIGN": "MCGS",
+    "COG": 20.5,
+    "D": 8,
+    "DEST": "GB PME  GB FBN",
+    "DRAUGHT": 2.3,
+    "ETA": "05-11 17:00",
+    "HEADING": 141,
+    "IMO": 0,
+    "LATITUDE": 51.46392,
+    "LONGITUDE": -0.09331,
+    "MMSI": 111232525,
+    "NAME": "O\\",
+    "NAVSTAT": 0,
+    "PAC": 2,
+    "ROT": 0,
+    "SOG": 3,
+    "TIME": "2025-08-21 15:30:06 GMT",
+    "TYPE": 60,
+    "last_seen": null,
+    "received_by_stations": [
+      3445,
+      2055,
+      2130,
+      2665,
+      2496,
+      3806,
+      2115,
+      3785,
+      2103,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-08-21T15:30:16.949705"
+}
