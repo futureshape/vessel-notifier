@@ -7,27 +7,25 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "2DHM4",
-    "COG": 328.9,
+    "COG": 247.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50161,
-    "LONGITUDE": 0.0138,
+    "LATITUDE": 51.50884,
+    "LONGITUDE": -0.0436,
     "MMSI": 235079032,
     "NAME": "INDRA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.4,
-    "TIME": "2025-08-22 10:32:59 GMT",
+    "SOG": 5.2,
+    "TIME": "2025-08-22 11:23:36 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999
-    ]
+    "last_seen": "2025-08-22T10:33:05.920220",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-22T10:33:05.920220"
+  "last_seen": "2025-08-22T11:23:39.713452"
 }
