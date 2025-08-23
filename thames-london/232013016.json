@@ -1,32 +1,39 @@
 {
   "dates_seen": [
     "2024-08-24",
-    "2024-08-26"
+    "2024-08-26",
+    "2025-08-23"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MCIQ9",
-    "COG": 7.6,
+    "COG": 271.1,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49045,
-    "LONGITUDE": 2e-05,
+    "LATITUDE": 51.48555,
+    "LONGITUDE": -0.01375,
     "MMSI": 232013016,
     "NAME": "TRUE SPIRIT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 10.6,
-    "TIME": "2024-08-26 07:21:38 GMT",
+    "SOG": 11.1,
+    "TIME": "2025-08-23 12:51:21 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-24T15:23:47.013662",
-    "received_by_stations": []
+    "last_seen": "2024-08-26T07:21:46.299954",
+    "received_by_stations": [
+      3880,
+      2115,
+      2648,
+      3785,
+      3999
+    ]
   },
-  "last_seen": "2024-08-26T07:21:46.299954"
+  "last_seen": "2025-08-23T12:51:32.920666"
 }
