@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2025-08-23"
+  ],
+  "last_full_data": {
+    "A": 12,
+    "B": 0,
+    "C": 2,
+    "CALLSIGN": "MVHF8",
+    "COG": 219,
+    "D": 2,
+    "DEST": "TROMSO",
+    "DRAUGHT": 1.8,
+    "ETA": "06-30 16:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50426,
+    "LONGITUDE": -0.00528,
+    "MMSI": 235030368,
+    "NAME": "MARDLER",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 6.9,
+    "TIME": "2025-08-23 11:21:36 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3880,
+      2115,
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-08-23T11:21:43.278622"
+}
