@@ -9,31 +9,25 @@
     "B": 0,
     "C": 3,
     "CALLSIGN": "MAGS5",
-    "COG": 158.8,
+    "COG": 130.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49861,
-    "LONGITUDE": -0.00547,
+    "LATITUDE": 51.50546,
+    "LONGITUDE": -0.0723,
     "MMSI": 232025135,
     "NAME": "MAID OF DITCHLING",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.3,
-    "TIME": "2025-08-23 09:26:07 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-08-23 10:28:40 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-23T14:27:07.015968",
-    "received_by_stations": [
-      3880,
-      2115,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-23T09:26:18.069182",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-23T09:26:18.069182"
+  "last_seen": "2025-08-23T10:29:46.731660"
 }
