@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-08-23"
+    "2025-08-23",
+    "2025-08-24"
   ],
   "last_full_data": {
     "A": 5,
@@ -14,18 +15,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 347,
     "IMO": 0,
-    "LATITUDE": 51.50711,
-    "LONGITUDE": -0.07101,
+    "LATITUDE": 51.5071,
+    "LONGITUDE": -0.071,
     "MMSI": 235091221,
     "NAME": "SCAMANDRA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-08-23 23:23:17 GMT",
+    "TIME": "2025-08-24 02:20:17 GMT",
     "TYPE": 36,
-    "last_seen": "2025-08-23T22:27:44.479124",
+    "last_seen": "2025-08-23T23:25:13.291629",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-23T23:25:13.291629"
+  "last_seen": "2025-08-24T02:22:04.608794"
 }

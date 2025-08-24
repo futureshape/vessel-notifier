@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-08-21",
     "2025-08-22",
-    "2025-08-23"
+    "2025-08-23",
+    "2025-08-24"
   ],
   "last_full_data": {
     "A": 11,
     "B": 1,
     "C": 2,
     "CALLSIGN": "PA2632",
-    "COG": 355.8,
+    "COG": 128.7,
     "D": 2,
     "DEST": "AMSTERDAM",
     "DRAUGHT": 0,
     "ETA": "08-30 06:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50775,
-    "LONGITUDE": -0.07294,
+    "LATITUDE": 51.50799,
+    "LONGITUDE": -0.07247,
     "MMSI": 244564436,
     "NAME": "BEAGLE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0.2,
-    "TIME": "2025-08-23 23:23:29 GMT",
+    "TIME": "2025-08-24 02:20:46 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-23T22:27:44.477635",
+    "last_seen": "2025-08-23T23:25:13.290315",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-23T23:25:13.290315"
+  "last_seen": "2025-08-24T02:22:04.607642"
 }
