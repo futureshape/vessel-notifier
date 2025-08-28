@@ -8,33 +8,25 @@
     "B": 0,
     "C": 6,
     "CALLSIGN": "PB2312",
-    "COG": 37.1,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50618,
-    "LONGITUDE": -0.07223,
+    "LATITUDE": 51.5067,
+    "LONGITUDE": -0.07082,
     "MMSI": 244870986,
     "NAME": "MAR-JOLIE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.5,
-    "TIME": "2025-08-28 15:29:26 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-28 16:33:27 GMT",
     "TYPE": 36,
-    "last_seen": "2024-05-18T10:17:16.714191",
-    "received_by_stations": [
-      2055,
-      3416,
-      2496,
-      3785,
-      2115,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-28T15:29:26.875701",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-28T15:29:26.875701"
+  "last_seen": "2025-08-28T16:34:37.431679"
 }
