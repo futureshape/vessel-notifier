@@ -57,12 +57,12 @@
     "B": 15,
     "C": 4,
     "CALLSIGN": "MPVV8",
-    "COG": 225,
+    "COG": 301,
     "D": 4,
     "DEST": "GBLON",
     "DRAUGHT": 2.2,
     "ETA": "08-11 20:00",
-    "HEADING": 217,
+    "HEADING": 219,
     "IMO": 9407299,
     "LATITUDE": 51.48751,
     "LONGITUDE": -0.00068,
@@ -71,11 +71,11 @@
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-08-28 10:32:13 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-28 11:22:43 GMT",
     "TYPE": 52,
-    "last_seen": "2025-08-28T09:28:59.098566",
+    "last_seen": "2025-08-28T10:32:21.117508",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-28T10:32:21.117508"
+  "last_seen": "2025-08-28T11:22:53.266198"
 }

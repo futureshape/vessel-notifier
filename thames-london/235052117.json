@@ -373,18 +373,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50112,
-    "LONGITUDE": -0.06104,
+    "LATITUDE": 51.50113,
+    "LONGITUDE": -0.061,
     "MMSI": 235052117,
     "NAME": "MILLENNIUM DAWN",
     "NAVSTAT": 7,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-08-28 09:28:51 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-28 10:58:43 GMT",
     "TYPE": 99,
-    "last_seen": "2025-08-28T08:35:12.434367",
+    "last_seen": "2025-08-28T09:28:59.092934",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-28T09:28:59.092934"
+  "last_seen": "2025-08-28T11:22:53.259606"
 }
