@@ -12,20 +12,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 306,
+    "HEADING": 305,
     "IMO": 0,
-    "LATITUDE": 51.5035,
-    "LONGITUDE": -0.06623,
+    "LATITUDE": 51.50353,
+    "LONGITUDE": -0.06622,
     "MMSI": 269114340,
     "NAME": "ANAM CARA",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-08-28 16:33:14 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-28 17:24:09 GMT",
     "TYPE": 36,
-    "last_seen": "2025-08-28T15:29:26.878287",
+    "last_seen": "2025-08-28T16:34:37.432771",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-28T16:34:37.432771"
+  "last_seen": "2025-08-28T17:26:36.090833"
 }
