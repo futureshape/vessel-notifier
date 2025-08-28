@@ -57,7 +57,7 @@
     "B": 15,
     "C": 4,
     "CALLSIGN": "MPVV8",
-    "COG": 319,
+    "COG": 252,
     "D": 4,
     "DEST": "GBLON",
     "DRAUGHT": 2.2,
@@ -65,17 +65,17 @@
     "HEADING": 215,
     "IMO": 9407299,
     "LATITUDE": 51.48752,
-    "LONGITUDE": -0.00073,
+    "LONGITUDE": -0.00075,
     "MMSI": 235040596,
     "NAME": "MTS VALOUR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-08-28 14:30:33 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-08-28 15:29:23 GMT",
     "TYPE": 52,
-    "last_seen": "2025-08-28T13:36:09.951441",
+    "last_seen": "2025-08-28T14:30:38.465957",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-28T14:30:38.465957"
+  "last_seen": "2025-08-28T15:29:26.884714"
 }
