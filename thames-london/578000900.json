@@ -1,0 +1,42 @@
+{
+  "dates_seen": [
+    "2025-08-29"
+  ],
+  "last_full_data": {
+    "A": 31,
+    "B": 100,
+    "C": 9,
+    "CALLSIGN": "FLBD",
+    "COG": 265.7,
+    "D": 9,
+    "DEST": "UK LON",
+    "DRAUGHT": 4.7,
+    "ETA": "08-28 22:00",
+    "HEADING": 255,
+    "IMO": 9814026,
+    "LATITUDE": 51.50817,
+    "LONGITUDE": -0.04013,
+    "MMSI": 578000900,
+    "NAME": "LE LAPEROUSE",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": -7,
+    "SOG": 4.5,
+    "TIME": "2025-08-29 04:31:57 GMT",
+    "TYPE": 60,
+    "last_seen": null,
+    "received_by_stations": [
+      2055,
+      3416,
+      3806,
+      2496,
+      2103,
+      3880,
+      2115,
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-08-29T04:32:06.582302"
+}
