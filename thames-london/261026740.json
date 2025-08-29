@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-08-02",
     "2025-08-04",
-    "2025-08-05"
+    "2025-08-05",
+    "2025-08-29"
   ],
   "last_full_data": {
     "A": 6,
     "B": 4,
     "C": 3,
     "CALLSIGN": "SPG4001",
-    "COG": 132.5,
+    "COG": 227.8,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 132,
+    "HEADING": 227,
     "IMO": 0,
-    "LATITUDE": 51.50403,
-    "LONGITUDE": 0.00792,
+    "LATITUDE": 51.48741,
+    "LONGITUDE": -0.00308,
     "MMSI": 261026740,
     "NAME": "RESET",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 4.9,
-    "TIME": "2025-08-05 09:37:23 GMT",
+    "SOG": 3.6,
+    "TIME": "2025-08-29 10:30:48 GMT",
     "TYPE": 36,
-    "last_seen": "2025-08-05T08:44:47.292923",
+    "last_seen": "2025-08-05T09:37:38.157932",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-05T09:37:38.157932"
+  "last_seen": "2025-08-29T10:31:22.044275"
 }
