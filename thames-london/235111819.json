@@ -12,31 +12,25 @@
     "B": 1,
     "C": 2,
     "CALLSIGN": "2IPZ5",
-    "COG": 2.6,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49848,
-    "LONGITUDE": -0.0296,
+    "LATITUDE": 51.50684,
+    "LONGITUDE": -0.07239,
     "MMSI": 235111819,
     "NAME": "ILLIRIA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.6,
-    "TIME": "2025-08-30 17:23:27 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-30 18:33:34 GMT",
     "TYPE": 36,
-    "last_seen": "2024-09-14T09:23:57.819045",
-    "received_by_stations": [
-      2496,
-      3880,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-08-30T17:23:48.112566",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-30T17:23:48.112566"
+  "last_seen": "2025-08-30T18:34:08.161288"
 }

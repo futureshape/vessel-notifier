@@ -11,30 +11,25 @@
     "B": 5,
     "C": 1,
     "CALLSIGN": "MGTZ8",
-    "COG": 48.6,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48482,
-    "LONGITUDE": -0.13224,
+    "LATITUDE": 51.50635,
+    "LONGITUDE": -0.07235,
     "MMSI": 232026294,
     "NAME": "LADY OF MANN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4.3,
-    "TIME": "2025-08-30 17:23:41 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-30 18:32:44 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-01T15:27:25.808265",
-    "received_by_stations": [
-      3999,
-      3806,
-      3785,
-      2648
-    ]
+    "last_seen": "2025-08-30T17:23:47.443309",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-30T17:23:47.443309"
+  "last_seen": "2025-08-30T18:34:08.161542"
 }
