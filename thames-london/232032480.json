@@ -8,27 +8,25 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "MGAF7",
-    "COG": 76.2,
+    "COG": 7.3,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48366,
-    "LONGITUDE": -0.15617,
+    "LATITUDE": 51.50714,
+    "LONGITUDE": -0.07293,
     "MMSI": 232032480,
     "NAME": "DEUX POISSONS",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.5,
-    "TIME": "2025-08-31 17:23:36 GMT",
+    "SOG": 0,
+    "TIME": "2025-08-31 18:31:02 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-30T10:28:39.671492",
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-08-31T17:24:19.140548",
+    "received_by_stations": []
   },
-  "last_seen": "2025-08-31T17:24:19.140548"
+  "last_seen": "2025-08-31T18:34:44.275059"
 }
