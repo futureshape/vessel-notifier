@@ -16,32 +16,33 @@
     "2025-02-24",
     "2025-03-20",
     "2025-07-15",
-    "2025-07-16"
+    "2025-07-16",
+    "2025-09-01"
   ],
   "last_full_data": {
     "A": 7,
     "B": 2,
     "C": 1,
     "CALLSIGN": "2HGP7",
-    "COG": 158,
+    "COG": 0,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49362,
-    "LONGITUDE": -0.03718,
+    "LATITUDE": 51.4938,
+    "LONGITUDE": -0.03411,
     "MMSI": 235103513,
     "NAME": "BLUE LIGHTNING",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-07-16 10:30:06 GMT",
+    "TIME": "2025-09-01 09:32:19 GMT",
     "TYPE": 42,
-    "last_seen": "2025-07-15T17:31:26.890325",
+    "last_seen": "2025-07-16T10:36:58.260096",
     "received_by_stations": []
   },
-  "last_seen": "2025-07-16T10:36:58.260096"
+  "last_seen": "2025-09-01T09:32:26.257549"
 }
