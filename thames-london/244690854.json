@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2025-09-01"
+  ],
+  "last_full_data": {
+    "A": 10,
+    "B": 3,
+    "C": 2,
+    "CALLSIGN": "PA4248",
+    "COG": 272.8,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 169,
+    "IMO": 0,
+    "LATITUDE": 51.5022,
+    "LONGITUDE": -0.0611,
+    "MMSI": 244690854,
+    "NAME": "KEMPER",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 6.5,
+    "TIME": "2025-09-01 16:33:19 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      2496,
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-09-01T16:33:27.755865"
+}
