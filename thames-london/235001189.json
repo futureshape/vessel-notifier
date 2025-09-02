@@ -7,30 +7,25 @@
     "B": 4,
     "C": 1,
     "CALLSIGN": "ZNAG5",
-    "COG": 167.1,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 184,
+    "HEADING": 13,
     "IMO": 0,
-    "LATITUDE": 51.49437,
-    "LONGITUDE": -0.00266,
+    "LATITUDE": 51.50627,
+    "LONGITUDE": -0.07247,
     "MMSI": 235001189,
     "NAME": "C RIDER",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.7,
-    "TIME": "2025-09-02 05:29:41 GMT",
+    "SOG": 1.4,
+    "TIME": "2025-09-02 06:41:28 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-09-02T05:30:11.441338",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-02T05:30:11.441338"
+  "last_seen": "2025-09-02T06:41:44.925394"
 }
