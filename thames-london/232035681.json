@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-08-23"
+    "2025-08-23",
+    "2025-09-02"
   ],
   "last_full_data": {
     "A": 10,
     "B": 7,
     "C": 2,
     "CALLSIGN": "MJFC9",
-    "COG": 88.9,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "08-23 14:03",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50817,
-    "LONGITUDE": -0.07285,
+    "LATITUDE": 51.50814,
+    "LONGITUDE": -0.07324,
     "MMSI": 232035681,
     "NAME": "JUPITER",
-    "NAVSTAT": 1,
-    "PAC": 0,
+    "NAVSTAT": 15,
+    "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-08-23 15:05:53 GMT",
+    "TIME": "2025-09-02 05:29:14 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-23T14:27:02.097803",
+    "last_seen": "2025-08-23T15:25:19.939509",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-23T15:25:19.939509"
+  "last_seen": "2025-09-02T05:30:10.480128"
 }
