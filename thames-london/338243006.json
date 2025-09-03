@@ -55,7 +55,7 @@
     "B": 9,
     "C": 4,
     "CALLSIGN": "WDE8865",
-    "COG": 306.8,
+    "COG": 228.4,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 2.5,
@@ -63,17 +63,17 @@
     "HEADING": 149,
     "IMO": 0,
     "LATITUDE": 51.50781,
-    "LONGITUDE": -0.07019,
+    "LONGITUDE": -0.07023,
     "MMSI": 338243006,
     "NAME": "EMMANOU",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-09-03 12:53:29 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-09-03 13:32:28 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-03T11:22:17.567537",
+    "last_seen": "2025-09-03T12:53:49.464334",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-03T12:53:49.464334"
+  "last_seen": "2025-09-03T13:34:28.100451"
 }
