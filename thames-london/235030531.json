@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-09-02"
+    "2025-09-02",
+    "2025-09-03"
   ],
   "last_full_data": {
     "A": 5,
     "B": 5,
     "C": 2,
     "CALLSIGN": "MXWA3",
-    "COG": 159.7,
+    "COG": 351.3,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 159,
+    "HEADING": 351,
     "IMO": 0,
-    "LATITUDE": 51.50708,
-    "LONGITUDE": -0.07183,
+    "LATITUDE": 51.50707,
+    "LONGITUDE": -0.07204,
     "MMSI": 235030531,
     "NAME": "PAPILLON",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-09-02 19:12:01 GMT",
+    "TIME": "2025-09-03 09:28:06 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-02T18:35:55.272910",
+    "last_seen": "2025-09-02T19:20:40.111700",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-02T19:20:40.111700"
+  "last_seen": "2025-09-03T09:28:16.797100"
 }
