@@ -160,7 +160,7 @@
     "B": 3,
     "C": 4,
     "CALLSIGN": "2EJR5",
-    "COG": 168.2,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -168,17 +168,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50324,
-    "LONGITUDE": -0.05198,
+    "LONGITUDE": -0.05196,
     "MMSI": 235085697,
     "NAME": "BARNES",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2025-09-04 12:52:07 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-09-04 13:34:07 GMT",
     "TYPE": 53,
-    "last_seen": "2025-09-04T11:22:44.929424",
+    "last_seen": "2025-09-04T12:52:08.607394",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-04T12:52:08.607394"
+  "last_seen": "2025-09-04T13:34:14.068123"
 }
