@@ -173,7 +173,7 @@
     "B": 4,
     "C": 1,
     "CALLSIGN": "2AHC8",
-    "COG": 245.3,
+    "COG": 254.1,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -181,17 +181,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48506,
-    "LONGITUDE": -0.00518,
+    "LONGITUDE": -0.00521,
     "MMSI": 235059592,
     "NAME": "OASIS",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-09-05 03:36:30 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-09-05 04:31:10 GMT",
     "TYPE": 80,
-    "last_seen": "2025-09-05T03:04:22.792940",
+    "last_seen": "2025-09-05T03:36:34.603746",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-05T03:36:34.603746"
+  "last_seen": "2025-09-05T04:31:10.941610"
 }
