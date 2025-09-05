@@ -9,27 +9,25 @@
     "B": 32,
     "C": 1,
     "CALLSIGN": "MPFUA",
-    "COG": 15.9,
+    "COG": 191.2,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47137,
-    "LONGITUDE": -0.17988,
+    "LATITUDE": 51.47163,
+    "LONGITUDE": -0.18023,
     "MMSI": 235057669,
     "NAME": "CLIFTON CASTLE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 8.4,
-    "TIME": "2025-09-05 13:29:16 GMT",
+    "SOG": 5.3,
+    "TIME": "2025-09-05 14:12:56 GMT",
     "TYPE": 60,
-    "last_seen": "2025-03-22T23:24:01.492046",
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-09-05T13:33:47.143458",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-05T13:33:47.143458"
+  "last_seen": "2025-09-05T14:28:15.822985"
 }
