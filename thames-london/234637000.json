@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-09-07"
+  ],
+  "last_full_data": {
+    "A": 24,
+    "B": 56,
+    "C": 7,
+    "CALLSIGN": "",
+    "COG": 283.5,
+    "D": 7,
+    "DEST": "",
+    "DRAUGHT": 4.7,
+    "ETA": "00-00 24:60",
+    "HEADING": 88,
+    "IMO": 9261346,
+    "LATITUDE": 51.5068,
+    "LONGITUDE": 0.03254,
+    "MMSI": 234637000,
+    "NAME": "HMS MERSEY",
+    "NAVSTAT": 5,
+    "PAC": 0,
+    "ROT": 0,
+    "SOG": 0.1,
+    "TIME": "2025-09-07 22:23:24 GMT",
+    "TYPE": 35,
+    "last_seen": null,
+    "received_by_stations": [
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-09-07T22:26:09.789816"
+}
