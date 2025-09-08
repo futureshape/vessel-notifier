@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-09-08"
+  ],
+  "last_full_data": {
+    "A": 10,
+    "B": 44,
+    "C": 8,
+    "CALLSIGN": "ORJU",
+    "COG": 269.4,
+    "D": 2,
+    "DEST": "LONDON",
+    "DRAUGHT": 3.4,
+    "ETA": "07-09 20:00",
+    "HEADING": 269,
+    "IMO": 0,
+    "LATITUDE": 51.50627,
+    "LONGITUDE": 0.03137,
+    "MMSI": 205661000,
+    "NAME": "BNS POLLUX",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 0,
+    "SOG": 3.2,
+    "TIME": "2025-09-08 02:04:38 GMT",
+    "TYPE": 90,
+    "last_seen": null,
+    "received_by_stations": [
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-09-08T02:04:49.640045"
+}
