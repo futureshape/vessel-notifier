@@ -395,18 +395,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50779,
+    "LATITUDE": 51.5078,
     "LONGITUDE": 0.0055,
     "MMSI": 235003346,
     "NAME": "MOON CLIPPER",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-09-08 07:27:25 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-09-08 08:36:45 GMT",
     "TYPE": 40,
-    "last_seen": "2025-09-08T06:41:20.012801",
+    "last_seen": "2025-09-08T07:27:44.042330",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-08T07:27:44.042330"
+  "last_seen": "2025-09-08T08:36:56.323370"
 }
