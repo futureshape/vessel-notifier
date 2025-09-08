@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-03-31",
     "2025-04-20",
-    "2025-06-06"
+    "2025-06-06",
+    "2025-09-08"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": null,
-    "COG": 238.7,
+    "COG": 56.7,
     "D": 0,
     "DEST": null,
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 332,
+    "HEADING": 148,
     "IMO": 0,
-    "LATITUDE": 51.45209,
-    "LONGITUDE": -0.13942,
+    "LATITUDE": 51.47088,
+    "LONGITUDE": -0.09286,
     "MMSI": 111232014,
     "NAME": null,
     "NAVSTAT": 0,
     "PAC": 2,
     "ROT": 0,
-    "SOG": 6.7,
-    "TIME": "2025-06-06 09:30:22 GMT",
+    "SOG": 7.6,
+    "TIME": "2025-09-08 11:23:09 GMT",
     "TYPE": 0,
-    "last_seen": "2025-04-20T14:27:23.503104",
+    "last_seen": "2025-06-06T09:30:24.627171",
     "received_by_stations": []
   },
-  "last_seen": "2025-06-06T09:30:24.627171"
+  "last_seen": "2025-09-08T11:23:12.934715"
 }

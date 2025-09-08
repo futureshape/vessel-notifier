@@ -13,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 7,
+    "HEADING": 5,
     "IMO": 0,
-    "LATITUDE": 51.50707,
-    "LONGITUDE": 0.03419,
+    "LATITUDE": 51.50703,
+    "LONGITUDE": 0.03417,
     "MMSI": 232056810,
     "NAME": "IMPERATOR",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-09-08 10:23:47 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-09-08 11:20:48 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-07T11:19:40.175896",
+    "last_seen": "2025-09-08T10:32:29.579006",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-08T10:32:29.579006"
+  "last_seen": "2025-09-08T11:23:13.620195"
 }
