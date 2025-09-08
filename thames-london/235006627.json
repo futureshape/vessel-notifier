@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-09-08"
+  ],
+  "last_full_data": {
+    "A": 9,
+    "B": 0,
+    "C": 3,
+    "CALLSIGN": "MEHP2",
+    "COG": 281.6,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 300,
+    "IMO": 0,
+    "LATITUDE": 51.50227,
+    "LONGITUDE": -0.06354,
+    "MMSI": 235006627,
+    "NAME": "TREGUNNA",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 5.5,
+    "TIME": "2025-09-08 12:57:01 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2496,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-09-08T12:57:05.781770"
+}
