@@ -7,30 +7,25 @@
     "B": 19,
     "C": 4,
     "CALLSIGN": "ZCXZ3",
-    "COG": 213.7,
+    "COG": 115.5,
     "D": 4,
     "DEST": "GBLON",
     "DRAUGHT": 2.6,
     "ETA": "09-09 14:00",
-    "HEADING": 179,
+    "HEADING": 97,
     "IMO": 9537458,
-    "LATITUDE": 51.50185,
-    "LONGITUDE": -0.00632,
+    "LATITUDE": 51.50115,
+    "LONGITUDE": -0.01248,
     "MMSI": 319002200,
     "NAME": "REEF CHIEF",
-    "NAVSTAT": 0,
-    "PAC": 0,
-    "ROT": 6,
-    "SOG": 0.4,
-    "TIME": "2025-09-09 14:29:10 GMT",
+    "NAVSTAT": 5,
+    "PAC": 1,
+    "ROT": -11,
+    "SOG": 0,
+    "TIME": "2025-09-09 15:28:02 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3880,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-09-09T14:29:18.099804",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-09T14:29:18.099804"
+  "last_seen": "2025-09-09T15:30:05.211122"
 }
