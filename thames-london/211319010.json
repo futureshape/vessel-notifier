@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-09-08"
+    "2025-09-08",
+    "2025-09-09"
   ],
   "last_full_data": {
     "A": 8,
     "B": 4,
     "C": 3,
     "CALLSIGN": "DJ2516",
-    "COG": 80.1,
+    "COG": 99.6,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50756,
-    "LONGITUDE": -0.07157,
+    "LATITUDE": 51.50773,
+    "LONGITUDE": -0.07155,
     "MMSI": 211319010,
     "NAME": "RAKETE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-09-08 12:55:21 GMT",
+    "TIME": "2025-09-09 07:23:45 GMT",
     "TYPE": 36,
-    "last_seen": "2025-09-08T11:23:13.608951",
+    "last_seen": "2025-09-08T12:57:05.032692",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-08T12:57:05.032692"
+  "last_seen": "2025-09-09T07:26:26.400190"
 }
