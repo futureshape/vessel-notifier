@@ -7,30 +7,25 @@
     "B": 2,
     "C": 3,
     "CALLSIGN": "PE7505",
-    "COG": 128.5,
+    "COG": 21.9,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50539,
-    "LONGITUDE": -0.07344,
+    "LATITUDE": 51.50627,
+    "LONGITUDE": -0.07218,
     "MMSI": 244130934,
     "NAME": "INFINITA2",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 1.3,
-    "TIME": "2025-09-09 12:57:49 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-09-09 13:35:59 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2496,
-      3785,
-      2648
-    ]
+    "last_seen": "2025-09-09T12:57:56.661416",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-09T12:57:56.661416"
+  "last_seen": "2025-09-09T13:38:26.509412"
 }
