@@ -16,28 +16,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "",
-    "COG": 300.4,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50768,
-    "LONGITUDE": -0.0328,
+    "LATITUDE": 51.50617,
+    "LONGITUDE": -0.07223,
     "MMSI": 235101974,
     "NAME": "PADDINGTON V",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 9.3,
-    "TIME": "2025-09-09 13:38:11 GMT",
+    "SOG": 0,
+    "TIME": "2025-09-09 14:26:10 GMT",
     "TYPE": 37,
-    "last_seen": "2025-05-19T06:41:27.769283",
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2025-09-09T13:38:27.449868",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-09T13:38:27.449868"
+  "last_seen": "2025-09-09T14:29:16.499486"
 }
