@@ -26,27 +26,25 @@
     "B": 4,
     "C": 1,
     "CALLSIGN": "MCSH2",
-    "COG": 205,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48112,
-    "LONGITUDE": -0.17098,
+    "LATITUDE": 51.48094,
+    "LONGITUDE": -0.17095,
     "MMSI": 232014296,
     "NAME": "RAY",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 2.5,
-    "TIME": "2025-09-09 09:29:14 GMT",
+    "SOG": 0,
+    "TIME": "2025-09-09 10:19:04 GMT",
     "TYPE": 53,
-    "last_seen": "2025-02-27T10:31:11.101752",
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-09-09T09:30:10.815871",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-09T09:30:10.815871"
+  "last_seen": "2025-09-09T10:32:38.623626"
 }
