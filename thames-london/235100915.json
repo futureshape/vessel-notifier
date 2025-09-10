@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-08-19"
+    "2025-08-19",
+    "2025-09-10"
   ],
   "last_full_data": {
     "A": 11,
     "B": 8,
     "C": 2,
     "CALLSIGN": "2GVQ2",
-    "COG": 256,
+    "COG": 76.6,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48356,
-    "LONGITUDE": -0.15879,
+    "LATITUDE": 51.48249,
+    "LONGITUDE": -0.16427,
     "MMSI": 235100915,
     "NAME": "GOODWILL",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 4.4,
-    "TIME": "2025-08-19 07:26:53 GMT",
+    "SOG": 6.8,
+    "TIME": "2025-09-10 17:19:09 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-19T06:42:18.102027",
+    "last_seen": "2025-08-19T07:27:17.396768",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-19T07:27:17.396768"
+  "last_seen": "2025-09-10T17:24:59.358388"
 }
