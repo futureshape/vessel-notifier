@@ -1,14 +1,15 @@
 {
   "dates_seen": [
     "2024-05-13",
-    "2025-09-09"
+    "2025-09-09",
+    "2025-09-10"
   ],
   "last_full_data": {
     "A": 11,
     "B": 0,
     "C": 1,
     "CALLSIGN": "MMMV5",
-    "COG": 252.4,
+    "COG": 195.4,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -16,17 +17,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50703,
-    "LONGITUDE": -0.07207,
+    "LONGITUDE": -0.07206,
     "MMSI": 235036275,
     "NAME": "SHANTI 2",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-09-09 15:26:02 GMT",
+    "TIME": "2025-09-10 12:50:33 GMT",
     "TYPE": 36,
-    "last_seen": "2025-09-09T14:29:16.499715",
+    "last_seen": "2025-09-09T15:30:05.206216",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-09T15:30:05.206216"
+  "last_seen": "2025-09-10T12:53:32.564640"
 }

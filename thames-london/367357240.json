@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-09-10"
+  ],
+  "last_full_data": {
+    "A": 8,
+    "B": 6,
+    "C": 2,
+    "CALLSIGN": "WDE4741",
+    "COG": 231.8,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 15.3,
+    "ETA": "01-01 23:18",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50624,
+    "LONGITUDE": -0.00099,
+    "MMSI": 367357240,
+    "NAME": "SPELLBOUND",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 6.4,
+    "TIME": "2025-09-10 12:53:08 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-09-10T12:53:33.231629"
+}
