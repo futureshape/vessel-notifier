@@ -1,7 +1,8 @@
 {
   "dates_seen": [
     "2025-09-09",
-    "2025-09-10"
+    "2025-09-10",
+    "2025-09-11"
   ],
   "last_full_data": {
     "A": 8,
@@ -13,20 +14,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 259,
+    "HEADING": 258,
     "IMO": 0,
-    "LATITUDE": 51.50707,
-    "LONGITUDE": -0.07236,
+    "LATITUDE": 51.50696,
+    "LONGITUDE": -0.07246,
     "MMSI": 211891800,
     "NAME": "AMAZING GREYS",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-09-10 18:59:07 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-09-11 12:52:52 GMT",
     "TYPE": 36,
-    "last_seen": "2025-09-10T18:37:24.438332",
+    "last_seen": "2025-09-10T19:21:16.079185",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-10T19:21:16.079185"
+  "last_seen": "2025-09-11T12:53:02.179999"
 }
