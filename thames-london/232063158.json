@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-09-08"
+    "2025-09-08",
+    "2025-09-11"
   ],
   "last_full_data": {
     "A": 3,
     "B": 6,
     "C": 1,
     "CALLSIGN": "MSQL6",
-    "COG": 0,
+    "COG": 103.8,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 168,
+    "HEADING": 167,
     "IMO": 0,
-    "LATITUDE": 51.50705,
-    "LONGITUDE": 0.03417,
+    "LATITUDE": 51.50703,
+    "LONGITUDE": 0.03388,
     "MMSI": 232063158,
     "NAME": "KS18",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-09-08 09:07:41 GMT",
+    "SOG": 0,
+    "TIME": "2025-09-11 08:10:21 GMT",
     "TYPE": 37,
-    "last_seen": null,
+    "last_seen": "2025-09-08T09:31:25.668921",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-08T09:31:25.668921"
+  "last_seen": "2025-09-11T08:34:06.124230"
 }
