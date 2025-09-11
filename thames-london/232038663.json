@@ -448,12 +448,12 @@
     "B": 4,
     "C": 4,
     "CALLSIGN": "MKFI2",
-    "COG": 224.3,
+    "COG": 182,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 10,
+    "HEADING": 9,
     "IMO": 0,
     "LATITUDE": 51.49297,
     "LONGITUDE": -0.12239,
@@ -462,11 +462,11 @@
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 16,
-    "SOG": 0,
-    "TIME": "2025-09-11 16:32:42 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-09-11 17:24:53 GMT",
     "TYPE": 51,
-    "last_seen": "2025-09-11T15:26:24.651026",
+    "last_seen": "2025-09-11T16:32:44.567323",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-11T16:32:44.567323"
+  "last_seen": "2025-09-11T17:24:56.093832"
 }
