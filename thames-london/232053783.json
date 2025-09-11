@@ -362,32 +362,33 @@
     "2025-09-07",
     "2025-09-08",
     "2025-09-09",
-    "2025-09-10"
+    "2025-09-10",
+    "2025-09-11"
   ],
   "last_full_data": {
     "A": 19,
     "B": 21,
     "C": 3,
     "CALLSIGN": "MOWK6",
-    "COG": 112.7,
+    "COG": 0,
     "D": 6,
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 295,
+    "HEADING": 289,
     "IMO": 9997256,
-    "LATITUDE": 51.507,
-    "LONGITUDE": 0.00566,
+    "LATITUDE": 51.50769,
+    "LONGITUDE": 0.00565,
     "MMSI": 232053783,
     "NAME": "MARS CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 127,
-    "SOG": 1.2,
-    "TIME": "2025-09-10 23:23:32 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2025-09-11 04:31:34 GMT",
     "TYPE": 40,
-    "last_seen": "2025-09-10T22:27:28.893448",
+    "last_seen": "2025-09-10T23:23:35.025920",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-10T23:23:35.025920"
+  "last_seen": "2025-09-11T04:31:39.301793"
 }
