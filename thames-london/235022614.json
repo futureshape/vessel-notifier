@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-09-09",
     "2025-09-10",
-    "2025-09-11"
+    "2025-09-11",
+    "2025-09-12"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MMXD7",
-    "COG": 86.1,
+    "COG": 315,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 5,
     "ETA": "01-19 14:57",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50162,
-    "LONGITUDE": -0.05972,
+    "LATITUDE": 51.48813,
+    "LONGITUDE": -0.02402,
     "MMSI": 235022614,
     "NAME": "DRIFTWOOD 3",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.9,
-    "TIME": "2025-09-11 15:26:24 GMT",
+    "SOG": 5.2,
+    "TIME": "2025-09-12 06:38:08 GMT",
     "TYPE": 99,
-    "last_seen": "2025-09-11T14:29:13.948889",
+    "last_seen": "2025-09-11T15:26:24.661206",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-11T15:26:24.661206"
+  "last_seen": "2025-09-12T06:38:17.444445"
 }
