@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-09-09"
+    "2025-09-09",
+    "2025-09-12"
   ],
   "last_full_data": {
     "A": 0,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 511,
+    "HEADING": 103,
     "IMO": 0,
     "LATITUDE": 51.5066,
-    "LONGITUDE": -0.07158,
+    "LONGITUDE": -0.07155,
     "MMSI": 244150352,
     "NAME": "IMAGINE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-09-09 13:21:02 GMT",
+    "TIME": "2025-09-12 04:30:16 GMT",
     "TYPE": 36,
-    "last_seen": "2025-09-09T12:57:59.265714",
+    "last_seen": "2025-09-09T13:38:26.510886",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-09T13:38:26.510886"
+  "last_seen": "2025-09-12T04:30:21.186640"
 }
