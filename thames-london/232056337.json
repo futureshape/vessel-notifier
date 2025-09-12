@@ -1,36 +1,32 @@
 {
   "dates_seen": [
-    "2025-09-07"
+    "2025-09-07",
+    "2025-09-12"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MPQO5",
-    "COG": 269.5,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 1.6,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50612,
-    "LONGITUDE": 0.03322,
+    "LATITUDE": 51.50695,
+    "LONGITUDE": 0.03336,
     "MMSI": 232056337,
     "NAME": "USV PIONEER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 1.6,
-    "TIME": "2025-09-07 11:19:37 GMT",
+    "SOG": 0,
+    "TIME": "2025-09-12 16:29:29 GMT",
     "TYPE": 0,
-    "last_seen": null,
-    "received_by_stations": [
-      2665,
-      3785,
-      3999,
-      2648
-    ]
+    "last_seen": "2025-09-07T11:19:39.431014",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-07T11:19:39.431014"
+  "last_seen": "2025-09-12T16:29:30.982728"
 }
