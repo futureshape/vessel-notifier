@@ -7,31 +7,25 @@
     "B": 1,
     "C": 1,
     "CALLSIGN": "DGZM2",
-    "COG": 232.3,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 231,
+    "HEADING": 265,
     "IMO": 0,
-    "LATITUDE": 51.5068,
-    "LONGITUDE": -0.04739,
+    "LATITUDE": 51.5069,
+    "LONGITUDE": -0.0723,
     "MMSI": 211473250,
     "NAME": "PACHMO",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 4.8,
-    "TIME": "2025-09-13 15:22:11 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-09-13 16:28:03 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2103,
-      3785,
-      3999,
-      2648
-    ]
+    "last_seen": "2025-09-13T15:22:30.786921",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-13T15:22:30.786921"
+  "last_seen": "2025-09-13T16:28:21.965505"
 }
