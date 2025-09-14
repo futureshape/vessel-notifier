@@ -17,7 +17,7 @@
     "B": 10,
     "C": 5,
     "CALLSIGN": "GABA",
-    "COG": 299.9,
+    "COG": 292.2,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -25,17 +25,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50495,
-    "LONGITUDE": -0.07136,
+    "LONGITUDE": -0.07135,
     "MMSI": 235009890,
     "NAME": "HMS EXAMPLE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-09-14 19:16:56 GMT",
+    "SOG": 0,
+    "TIME": "2025-09-14 20:22:56 GMT",
     "TYPE": 35,
-    "last_seen": "2025-09-14T18:32:33.548674",
+    "last_seen": "2025-09-14T19:18:56.142795",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-14T19:18:56.142795"
+  "last_seen": "2025-09-14T20:25:45.024441"
 }
