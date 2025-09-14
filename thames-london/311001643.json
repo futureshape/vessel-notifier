@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-09-02",
-    "2025-09-04"
+    "2025-09-04",
+    "2025-09-14"
   ],
   "last_full_data": {
     "A": 14,
     "B": 15,
     "C": 6,
     "CALLSIGN": "C6ID8",
-    "COG": 37.8,
+    "COG": 296.1,
     "D": 6,
     "DEST": "TILBURY",
     "DRAUGHT": 6.4,
     "ETA": "08-29 19:30",
-    "HEADING": 42,
+    "HEADING": 293,
     "IMO": 9489948,
-    "LATITUDE": 51.48844,
-    "LONGITUDE": -0.00168,
+    "LATITUDE": 51.50828,
+    "LONGITUDE": -0.03544,
     "MMSI": 311001643,
     "NAME": "VB BAYDAN",
     "NAVSTAT": 0,
-    "PAC": 0,
-    "ROT": 127,
-    "SOG": 6.1,
-    "TIME": "2025-09-04 21:24:01 GMT",
+    "PAC": 1,
+    "ROT": -127,
+    "SOG": 9.7,
+    "TIME": "2025-09-14 16:28:13 GMT",
     "TYPE": 52,
-    "last_seen": "2025-09-04T20:27:55.449037",
+    "last_seen": "2025-09-04T21:24:03.640798",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-04T21:24:03.640798"
+  "last_seen": "2025-09-14T16:28:16.774308"
 }
