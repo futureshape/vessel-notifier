@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-09-12",
     "2025-09-13",
-    "2025-09-14"
+    "2025-09-14",
+    "2025-09-15"
   ],
   "last_full_data": {
     "A": 19,
     "B": 20,
     "C": 4,
     "CALLSIGN": "V7BT2",
-    "COG": 250.5,
+    "COG": 30.1,
     "D": 6,
     "DEST": "TOWER BRIDGE QUAY",
     "DRAUGHT": 2.8,
     "ETA": "09-12 05:00",
     "HEADING": 117,
     "IMO": 1002225,
-    "LATITUDE": 51.50587,
-    "LONGITUDE": -0.07321,
+    "LATITUDE": 51.50586,
+    "LONGITUDE": -0.0732,
     "MMSI": 538070946,
     "NAME": "GLACIAL BEAR",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-09-14 23:20:53 GMT",
+    "TIME": "2025-09-15 02:02:52 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-14T22:26:04.832994",
+    "last_seen": "2025-09-14T23:23:06.356077",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-14T23:23:06.356077"
+  "last_seen": "2025-09-15T02:05:49.914978"
 }
