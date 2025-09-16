@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-09-15"
+    "2025-09-15",
+    "2025-09-16"
   ],
   "last_full_data": {
     "A": 8,
     "B": 4,
     "C": 2,
     "CALLSIGN": "MORD5",
-    "COG": 0,
+    "COG": 224.8,
     "D": 2,
     "DEST": "PORT OF ROTTERDAM",
     "DRAUGHT": 2.4,
     "ETA": "05-15 14:00",
-    "HEADING": 139,
+    "HEADING": 138,
     "IMO": 1024687,
-    "LATITUDE": 51.50603,
-    "LONGITUDE": -0.07351,
+    "LATITUDE": 51.50598,
+    "LONGITUDE": -0.07348,
     "MMSI": 232052642,
     "NAME": "ARTEMIS EF12-001",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": 7,
-    "SOG": 0.1,
-    "TIME": "2025-09-15 23:21:51 GMT",
+    "ROT": 10,
+    "SOG": 0.2,
+    "TIME": "2025-09-16 09:26:33 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-15T22:27:22.052762",
+    "last_seen": "2025-09-15T23:23:13.569315",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-15T23:23:13.569315"
+  "last_seen": "2025-09-16T09:29:20.375274"
 }
