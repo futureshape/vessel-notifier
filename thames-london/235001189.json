@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-09-02"
+    "2025-09-02",
+    "2025-09-18"
   ],
   "last_full_data": {
     "A": 2,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 229,
+    "HEADING": 210,
     "IMO": 0,
-    "LATITUDE": 51.5066,
-    "LONGITUDE": -0.07106,
+    "LATITUDE": 51.50615,
+    "LONGITUDE": -0.07217,
     "MMSI": 235001189,
     "NAME": "C RIDER",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-09-02 09:27:34 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-09-18 10:31:01 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-02T08:36:03.775181",
+    "last_seen": "2025-09-02T09:29:48.278760",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-02T09:29:48.278760"
+  "last_seen": "2025-09-18T10:31:11.122710"
 }
