@@ -14,28 +14,25 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "2EOX7",
-    "COG": 74.4,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48224,
-    "LONGITUDE": -0.16813,
+    "LATITUDE": 51.50626,
+    "LONGITUDE": -0.07222,
     "MMSI": 235086971,
     "NAME": "HOME RUN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.6,
-    "TIME": "2025-09-18 10:30:51 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-09-18 11:19:22 GMT",
     "TYPE": 37,
-    "last_seen": "2025-05-01T13:34:10.253600",
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2025-09-18T10:31:11.109150",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-18T10:31:11.109150"
+  "last_seen": "2025-09-18T11:21:57.469897"
 }
