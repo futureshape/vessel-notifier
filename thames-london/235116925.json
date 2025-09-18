@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-09-17"
+    "2025-09-17",
+    "2025-09-18"
   ],
   "last_full_data": {
     "A": 10,
     "B": 1,
     "C": 1,
     "CALLSIGN": "MWRG5",
-    "COG": 360,
+    "COG": 63.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 177,
+    "HEADING": 75,
     "IMO": 0,
-    "LATITUDE": 51.50711,
-    "LONGITUDE": -0.072,
+    "LATITUDE": 51.50753,
+    "LONGITUDE": -0.04347,
     "MMSI": 235116925,
     "NAME": "BLUE MOON",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 102.3,
-    "TIME": "2025-09-17 09:28:03 GMT",
+    "SOG": 5.5,
+    "TIME": "2025-09-18 09:27:32 GMT",
     "TYPE": 56,
-    "last_seen": "2025-09-17T08:34:23.447599",
+    "last_seen": "2025-09-17T09:28:13.382193",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-17T09:28:13.382193"
+  "last_seen": "2025-09-18T09:28:19.638788"
 }
