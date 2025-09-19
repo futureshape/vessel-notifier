@@ -7,32 +7,35 @@
     "2024-10-05",
     "2025-04-19",
     "2025-04-20",
-    "2025-04-21"
+    "2025-04-21",
+    "2025-09-19"
   ],
   "last_full_data": {
     "A": 4,
     "B": 1,
     "C": 1,
     "CALLSIGN": "MMCA9",
-    "COG": 66.1,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50587,
-    "LONGITUDE": 0.00129,
+    "LATITUDE": 51.49562,
+    "LONGITUDE": 0.0191,
     "MMSI": 232043399,
     "NAME": "RIBROULETE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 12.3,
-    "TIME": "2025-04-21 11:09:26 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-09-19 19:20:14 GMT",
     "TYPE": 41,
-    "last_seen": "2025-04-21T10:33:30.663902",
-    "received_by_stations": []
+    "last_seen": "2025-04-21T11:22:48.564816",
+    "received_by_stations": [
+      3999
+    ]
   },
-  "last_seen": "2025-04-21T11:22:48.564816"
+  "last_seen": "2025-09-19T19:21:03.666680"
 }
