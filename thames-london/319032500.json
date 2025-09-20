@@ -4,32 +4,33 @@
     "2025-09-16",
     "2025-09-17",
     "2025-09-18",
-    "2025-09-19"
+    "2025-09-19",
+    "2025-09-20"
   ],
   "last_full_data": {
     "A": 59,
     "B": 9,
     "C": 9,
     "CALLSIGN": "ZGAS2",
-    "COG": 109.7,
+    "COG": 120.9,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 3.8,
     "ETA": "09-15 05:30",
-    "HEADING": 281,
+    "HEADING": 280,
     "IMO": 1010698,
-    "LATITUDE": 51.50169,
-    "LONGITUDE": -0.017,
+    "LATITUDE": 51.49467,
+    "LONGITUDE": -0.01768,
     "MMSI": 319032500,
     "NAME": "LADY CHRISTINE",
     "NAVSTAT": 5,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-09-19 23:22:55 GMT",
+    "TIME": "2025-09-20 01:53:04 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-19T22:27:08.142273",
+    "last_seen": "2025-09-19T23:23:33.084606",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-19T23:23:33.084606"
+  "last_seen": "2025-09-20T01:54:33.927250"
 }
