@@ -7,29 +7,25 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "MBOC8",
-    "COG": 283.7,
+    "COG": 144.4,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48576,
-    "LONGITUDE": -0.01641,
+    "LATITUDE": 51.50617,
+    "LONGITUDE": -0.07231,
     "MMSI": 232010130,
     "NAME": "AKAMAS",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 4.3,
-    "TIME": "2025-09-20 11:20:14 GMT",
+    "SOG": 0.5,
+    "TIME": "2025-09-20 12:48:44 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-09-20T11:20:28.747043",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-20T11:20:28.747043"
+  "last_seen": "2025-09-20T12:50:12.082289"
 }
