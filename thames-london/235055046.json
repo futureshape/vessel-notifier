@@ -7,29 +7,25 @@
     "B": 0,
     "C": 1,
     "CALLSIGN": "MRYK2",
-    "COG": 97.5,
+    "COG": 94.4,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.46437,
-    "LONGITUDE": -0.20139,
+    "LATITUDE": 51.50819,
+    "LONGITUDE": -0.03933,
     "MMSI": 235055046,
     "NAME": "BISTROMATH",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.6,
-    "TIME": "2025-09-20 06:35:12 GMT",
+    "SOG": 10,
+    "TIME": "2025-09-20 07:23:12 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3785,
-      2103,
-      2648
-    ]
+    "last_seen": "2025-09-20T06:36:12.285111",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-20T06:36:12.285111"
+  "last_seen": "2025-09-20T07:23:18.459536"
 }
