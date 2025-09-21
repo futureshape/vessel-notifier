@@ -5,34 +5,33 @@
     "2024-11-27",
     "2025-01-17",
     "2025-03-04",
-    "2025-09-08"
+    "2025-09-08",
+    "2025-09-21"
   ],
   "last_full_data": {
     "A": 11,
     "B": 15,
     "C": 1,
     "CALLSIGN": "MPDK6",
-    "COG": 357.5,
+    "COG": 52,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49545,
-    "LONGITUDE": -0.12372,
+    "LATITUDE": 51.49838,
+    "LONGITUDE": -0.12114,
     "MMSI": 235055001,
     "NAME": "MERCEDES",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-09-08 10:23:46 GMT",
+    "TIME": "2025-09-21 17:01:13 GMT",
     "TYPE": 60,
-    "last_seen": "2025-03-04T15:28:27.005929",
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-09-08T10:32:29.554527",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-08T10:32:29.554527"
+  "last_seen": "2025-09-21T17:23:46.622177"
 }
