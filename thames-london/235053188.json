@@ -378,32 +378,33 @@
     "2025-09-17",
     "2025-09-18",
     "2025-09-19",
-    "2025-09-20"
+    "2025-09-20",
+    "2025-09-21"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "VSSF6",
-    "COG": 74.1,
+    "COG": 42,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 7,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48407,
-    "LONGITUDE": -0.01019,
+    "LATITUDE": 51.50683,
+    "LONGITUDE": 0.00782,
     "MMSI": 235053188,
     "NAME": "HURRICANE CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 1,
-    "TIME": "2025-09-20 23:22:49 GMT",
+    "SOG": 0,
+    "TIME": "2025-09-21 02:07:29 GMT",
     "TYPE": 0,
-    "last_seen": "2025-09-20T22:25:56.577561",
+    "last_seen": "2025-09-20T23:22:50.758457",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-20T23:22:50.758457"
+  "last_seen": "2025-09-21T02:07:38.294249"
 }
