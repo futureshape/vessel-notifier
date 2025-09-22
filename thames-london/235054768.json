@@ -154,17 +154,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50442,
-    "LONGITUDE": -0.06898,
+    "LONGITUDE": -0.069,
     "MMSI": 235054768,
     "NAME": "KARO",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-09-22 08:36:38 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-09-22 09:32:09 GMT",
     "TYPE": 80,
-    "last_seen": "2025-09-22T07:27:53.404086",
+    "last_seen": "2025-09-22T08:36:46.088813",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-22T08:36:46.088813"
+  "last_seen": "2025-09-22T09:32:17.148085"
 }
