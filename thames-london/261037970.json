@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-09-22"
+    "2025-09-22",
+    "2025-09-23"
   ],
   "last_full_data": {
     "A": 12,
@@ -15,17 +16,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50664,
-    "LONGITUDE": -0.07081,
+    "LONGITUDE": -0.07084,
     "MMSI": 261037970,
     "NAME": "PACIFIC STAR",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-09-22 14:28:14 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-09-23 08:34:48 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-22T13:36:09.484665",
+    "last_seen": "2025-09-22T14:31:37.046659",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-22T14:31:37.046659"
+  "last_seen": "2025-09-23T08:34:56.327210"
 }
