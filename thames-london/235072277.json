@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2025-08-18"
+    "2025-08-18",
+    "2025-09-24"
   ],
   "last_full_data": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "CALLSIGN": null,
+    "A": 8,
+    "B": 8,
+    "C": 2,
+    "CALLSIGN": "MHGB7",
     "COG": 0,
-    "D": 0,
-    "DEST": null,
+    "D": 2,
+    "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 0,
     "IMO": 0,
-    "LATITUDE": 51.48756,
-    "LONGITUDE": -0.07291,
+    "LATITUDE": 51.48744,
+    "LONGITUDE": -0.07331,
     "MMSI": 235072277,
-    "NAME": null,
+    "NAME": "MARIGOT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-08-18 14:34:01 GMT",
-    "TYPE": 0,
-    "last_seen": null,
+    "TIME": "2025-09-24 08:35:11 GMT",
+    "TYPE": 37,
+    "last_seen": "2025-08-18T14:34:27.650807",
     "received_by_stations": []
   },
-  "last_seen": "2025-08-18T14:34:27.650807"
+  "last_seen": "2025-09-24T08:36:00.679599"
 }
