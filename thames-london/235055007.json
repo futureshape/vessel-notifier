@@ -59,7 +59,7 @@
     "B": 20,
     "C": 2,
     "CALLSIGN": "MMQW7",
-    "COG": 255.7,
+    "COG": 18.6,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1.2,
@@ -67,17 +67,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50918,
-    "LONGITUDE": -0.11089,
+    "LONGITUDE": -0.11091,
     "MMSI": 235055007,
     "NAME": "CHAY BLYTH",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-09-25 13:35:30 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-09-25 14:31:38 GMT",
     "TYPE": 60,
-    "last_seen": "2025-09-24T20:29:50.613924",
+    "last_seen": "2025-09-25T13:36:24.837223",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-25T13:36:24.837223"
+  "last_seen": "2025-09-25T14:31:49.102494"
 }
