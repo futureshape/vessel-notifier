@@ -11,7 +11,7 @@
     "B": 13,
     "C": 5,
     "CALLSIGN": "PECA",
-    "COG": 294.3,
+    "COG": 268,
     "D": 5,
     "DEST": "GBLON",
     "DRAUGHT": 4.8,
@@ -19,17 +19,17 @@
     "HEADING": 121,
     "IMO": 9185554,
     "LATITUDE": 51.50364,
-    "LONGITUDE": -0.07142,
+    "LONGITUDE": -0.07139,
     "MMSI": 246494000,
     "NAME": "STAD AMSTERDAM",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0.1,
-    "TIME": "2025-09-26 10:28:59 GMT",
+    "SOG": 0,
+    "TIME": "2025-09-26 11:23:00 GMT",
     "TYPE": 36,
-    "last_seen": "2025-09-26T09:29:13.456792",
+    "last_seen": "2025-09-26T10:31:46.289399",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-26T10:31:46.289399"
+  "last_seen": "2025-09-26T11:23:11.404755"
 }
