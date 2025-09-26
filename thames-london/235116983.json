@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-09-26"
+  ],
+  "last_full_data": {
+    "A": 14,
+    "B": 6,
+    "C": 1,
+    "CALLSIGN": "2JLS8",
+    "COG": 294,
+    "D": 8,
+    "DEST": "RIVER THAMES",
+    "DRAUGHT": 2.2,
+    "ETA": "00-00 24:60",
+    "HEADING": 300,
+    "IMO": 0,
+    "LATITUDE": 51.48597,
+    "LONGITUDE": -0.02019,
+    "MMSI": 235116983,
+    "NAME": "EFFY.D",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 127,
+    "SOG": 9.5,
+    "TIME": "2025-09-26 12:54:55 GMT",
+    "TYPE": 92,
+    "last_seen": null,
+    "received_by_stations": [
+      2103,
+      3785,
+      3999
+    ]
+  },
+  "last_seen": "2025-09-26T12:54:59.016060"
+}
