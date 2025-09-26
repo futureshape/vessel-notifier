@@ -3,32 +3,33 @@
     "2025-09-22",
     "2025-09-23",
     "2025-09-24",
-    "2025-09-25"
+    "2025-09-25",
+    "2025-09-26"
   ],
   "last_full_data": {
     "A": 63,
     "B": 13,
     "C": 5,
     "CALLSIGN": "PECA",
-    "COG": 317.6,
+    "COG": 40.7,
     "D": 5,
     "DEST": "GBLON",
     "DRAUGHT": 4.8,
     "ETA": "06-22 13:00",
-    "HEADING": 121,
+    "HEADING": 120,
     "IMO": 9185554,
-    "LATITUDE": 51.5036,
-    "LONGITUDE": -0.07128,
+    "LATITUDE": 51.50366,
+    "LONGITUDE": -0.07133,
     "MMSI": 246494000,
     "NAME": "STAD AMSTERDAM",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0.2,
-    "TIME": "2025-09-25 23:22:58 GMT",
+    "SOG": 0,
+    "TIME": "2025-09-26 01:56:00 GMT",
     "TYPE": 36,
-    "last_seen": "2025-09-25T22:26:27.668698",
+    "last_seen": "2025-09-25T23:23:43.634857",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-25T23:23:43.634857"
+  "last_seen": "2025-09-26T01:58:47.734274"
 }
