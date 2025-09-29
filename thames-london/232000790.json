@@ -270,32 +270,33 @@
     "2025-09-24",
     "2025-09-25",
     "2025-09-27",
-    "2025-09-28"
+    "2025-09-28",
+    "2025-09-29"
   ],
   "last_full_data": {
     "A": 8,
     "B": 91,
     "C": 16,
     "CALLSIGN": "MLLN8",
-    "COG": 244.2,
+    "COG": 260.2,
     "D": 1,
     "DEST": "GBCHN",
     "DRAUGHT": 6.4,
-    "ETA": "09-28 02:15",
-    "HEADING": 106,
+    "ETA": "09-29 13:30",
+    "HEADING": 105,
     "IMO": 8902278,
-    "LATITUDE": 51.49537,
-    "LONGITUDE": 0.02384,
+    "LATITUDE": 51.49541,
+    "LONGITUDE": 0.0239,
     "MMSI": 232000790,
     "NAME": "CITY OF WESTMINSTER",
-    "NAVSTAT": 5,
+    "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-09-28 08:30:17 GMT",
+    "TIME": "2025-09-29 13:36:27 GMT",
     "TYPE": 33,
-    "last_seen": "2025-09-28T07:22:42.545845",
+    "last_seen": "2025-09-28T08:30:38.367379",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-28T08:30:38.367379"
+  "last_seen": "2025-09-29T13:36:34.468337"
 }
