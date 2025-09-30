@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-09-27"
+    "2025-09-27",
+    "2025-09-30"
   ],
   "last_full_data": {
     "A": 6,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 114,
+    "HEADING": 112,
     "IMO": 0,
-    "LATITUDE": 51.5067,
-    "LONGITUDE": -0.07114,
+    "LATITUDE": 51.50658,
+    "LONGITUDE": -0.07115,
     "MMSI": 235005938,
     "NAME": "GRAPEVINE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2025-09-27 16:15:45 GMT",
+    "SOG": 0,
+    "TIME": "2025-09-30 05:26:28 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-27T15:23:40.243208",
+    "last_seen": "2025-09-27T16:30:12.759944",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-27T16:30:12.759944"
+  "last_seen": "2025-09-30T05:29:24.195957"
 }
