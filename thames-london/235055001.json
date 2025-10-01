@@ -23,7 +23,7 @@
     "B": 15,
     "C": 1,
     "CALLSIGN": "MPDK6",
-    "COG": 193.2,
+    "COG": 23.1,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -31,17 +31,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49838,
-    "LONGITUDE": -0.1212,
+    "LONGITUDE": -0.12116,
     "MMSI": 235055001,
     "NAME": "MERCEDES",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-10-01 08:28:44 GMT",
+    "SOG": 0,
+    "TIME": "2025-10-01 09:20:15 GMT",
     "TYPE": 60,
-    "last_seen": "2025-10-01T06:40:02.185244",
+    "last_seen": "2025-10-01T08:35:45.274664",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-01T08:35:45.274664"
+  "last_seen": "2025-10-01T09:29:48.457475"
 }
