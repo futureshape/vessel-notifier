@@ -271,32 +271,33 @@
     "2025-09-25",
     "2025-09-27",
     "2025-09-28",
-    "2025-09-29"
+    "2025-09-29",
+    "2025-10-01"
   ],
   "last_full_data": {
     "A": 8,
     "B": 91,
     "C": 16,
     "CALLSIGN": "MLLN8",
-    "COG": 260.2,
+    "COG": 259.9,
     "D": 1,
-    "DEST": "WEST THURROCK",
+    "DEST": "GBCHN",
     "DRAUGHT": 6.4,
-    "ETA": "09-29 18:30",
-    "HEADING": 106,
+    "ETA": "10-01 17:00",
+    "HEADING": 105,
     "IMO": 8902278,
-    "LATITUDE": 51.49539,
-    "LONGITUDE": 0.02387,
+    "LATITUDE": 51.49537,
+    "LONGITUDE": 0.02384,
     "MMSI": 232000790,
     "NAME": "CITY OF WESTMINSTER",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-09-29 16:27:04 GMT",
+    "TIME": "2025-10-01 16:34:20 GMT",
     "TYPE": 33,
-    "last_seen": "2025-09-29T15:28:44.597806",
+    "last_seen": "2025-09-29T16:28:29.411549",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-29T16:28:29.411549"
+  "last_seen": "2025-10-01T16:34:31.677213"
 }
