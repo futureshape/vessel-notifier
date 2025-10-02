@@ -19,7 +19,7 @@
     "B": 13,
     "C": 1,
     "CALLSIGN": "MHXH",
-    "COG": 360,
+    "COG": 336.1,
     "D": 4,
     "DEST": "RIVER THAMES",
     "DRAUGHT": 2.8,
@@ -27,17 +27,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50162,
-    "LONGITUDE": 0.01596,
+    "LONGITUDE": 0.01591,
     "MMSI": 235053642,
     "NAME": "MERIT",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-10-02 19:19:46 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-10-02 20:28:57 GMT",
     "TYPE": 52,
-    "last_seen": "2025-10-01T20:29:34.422220",
+    "last_seen": "2025-10-02T19:19:49.360040",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-02T19:19:49.360040"
+  "last_seen": "2025-10-02T20:28:59.434747"
 }
