@@ -252,7 +252,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MMQZ7",
-    "COG": 360,
+    "COG": 258.6,
     "D": 8,
     "DEST": "RIVER THAMES",
     "DRAUGHT": 1.7,
@@ -260,17 +260,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.51014,
-    "LONGITUDE": -0.11536,
+    "LONGITUDE": -0.11535,
     "MMSI": 235053516,
     "NAME": "GOLDEN FLAME",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-10-06 11:22:51 GMT",
+    "SOG": 0.3,
+    "TIME": "2025-10-06 12:56:01 GMT",
     "TYPE": 37,
-    "last_seen": "2025-10-06T10:32:42.174993",
+    "last_seen": "2025-10-06T11:22:55.031989",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-06T11:22:55.031989"
+  "last_seen": "2025-10-06T12:56:47.467395"
 }
