@@ -1,33 +1,32 @@
 {
   "dates_seen": [
-    "2025-09-27"
+    "2025-09-27",
+    "2025-10-12"
   ],
   "last_full_data": {
     "A": 5,
     "B": 3,
     "C": 1,
     "CALLSIGN": "MDCT5",
-    "COG": 360,
+    "COG": 297.7,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49572,
-    "LONGITUDE": 0.01877,
+    "LATITUDE": 51.49777,
+    "LONGITUDE": 0.02069,
     "MMSI": 235026428,
     "NAME": "DEMON OF ARUN",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-09-27 14:25:07 GMT",
+    "SOG": 5,
+    "TIME": "2025-10-12 13:11:31 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999
-    ]
+    "last_seen": "2025-09-27T14:25:28.910051",
+    "received_by_stations": []
   },
-  "last_seen": "2025-09-27T14:25:28.910051"
+  "last_seen": "2025-10-12T13:28:15.667668"
 }
