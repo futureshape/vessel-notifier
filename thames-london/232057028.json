@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-10-12"
+  ],
+  "last_full_data": {
+    "A": 11,
+    "B": 1,
+    "C": 3,
+    "CALLSIGN": "MPXH3",
+    "COG": 177.1,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49945,
+    "LONGITUDE": -0.00514,
+    "MMSI": 232057028,
+    "NAME": "MAROTA",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 7.8,
+    "TIME": "2025-10-12 14:24:58 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      3785,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-10-12T14:25:22.401458"
+}
