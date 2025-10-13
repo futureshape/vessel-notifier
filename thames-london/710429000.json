@@ -12,33 +12,25 @@
     "B": 90,
     "C": 6,
     "CALLSIGN": "PWBL",
-    "COG": 175.3,
+    "COG": 272.2,
     "D": 6,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "01-01 00:00",
-    "HEADING": 174,
+    "HEADING": 285,
     "IMO": 0,
-    "LATITUDE": 51.4988,
-    "LONGITUDE": -0.00397,
+    "LATITUDE": 51.50684,
+    "LONGITUDE": -0.08176,
     "MMSI": 710429000,
     "NAME": "NE BRASIL",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 6.5,
-    "TIME": "2025-10-13 05:30:22 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-10-13 06:43:02 GMT",
     "TYPE": 35,
-    "last_seen": "2024-10-28T09:28:08.369371",
-    "received_by_stations": [
-      3416,
-      3174,
-      2130,
-      2103,
-      3785,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-10-13T05:30:28.865091",
+    "received_by_stations": []
   },
-  "last_seen": "2025-10-13T05:30:28.865091"
+  "last_seen": "2025-10-13T06:43:08.694413"
 }
