@@ -89,7 +89,7 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "MFUW2",
-    "COG": 360,
+    "COG": 84.8,
     "D": 0,
     "DEST": "WATERLOO",
     "DRAUGHT": 1.6,
@@ -97,17 +97,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5018,
-    "LONGITUDE": -0.06534,
+    "LONGITUDE": -0.06538,
     "MMSI": 232023648,
     "NAME": "ALBION",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-10-15 13:38:48 GMT",
+    "SOG": 0.5,
+    "TIME": "2025-10-15 14:33:08 GMT",
     "TYPE": 52,
-    "last_seen": "2025-10-15T12:58:29.706718",
+    "last_seen": "2025-10-15T13:38:52.087236",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-15T13:38:52.087236"
+  "last_seen": "2025-10-15T14:33:14.495718"
 }
