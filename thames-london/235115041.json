@@ -11,32 +11,36 @@
     "2025-02-20",
     "2025-02-21",
     "2025-04-22",
-    "2025-04-23"
+    "2025-04-23",
+    "2025-10-15"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "2JD07",
-    "COG": 95.9,
+    "COG": 286.6,
     "D": 0,
     "DEST": "GREENWICH",
     "DRAUGHT": 1.8,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.51026,
-    "LONGITUDE": -0.11557,
+    "LATITUDE": 51.48584,
+    "LONGITUDE": -0.01879,
     "MMSI": 235115041,
     "NAME": "REBEL",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-04-23 16:14:56 GMT",
+    "SOG": 5.2,
+    "TIME": "2025-10-15 11:23:42 GMT",
     "TYPE": 52,
-    "last_seen": "2025-04-23T15:30:42.205273",
-    "received_by_stations": []
+    "last_seen": "2025-04-23T16:36:10.078663",
+    "received_by_stations": [
+      2648,
+      3999
+    ]
   },
-  "last_seen": "2025-04-23T16:36:10.078663"
+  "last_seen": "2025-10-15T11:23:44.168716"
 }
