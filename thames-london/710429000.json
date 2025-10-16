@@ -15,7 +15,7 @@
     "B": 90,
     "C": 7,
     "CALLSIGN": "PWBL",
-    "COG": 294.5,
+    "COG": 278.5,
     "D": 7,
     "DEST": "HAMB_DEU X LOND_GBR",
     "DRAUGHT": 6,
@@ -23,17 +23,17 @@
     "HEADING": 285,
     "IMO": 0,
     "LATITUDE": 51.50686,
-    "LONGITUDE": -0.08177,
+    "LONGITUDE": -0.08174,
     "MMSI": 710429000,
     "NAME": "NE BRASIL",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-10-16 15:29:51 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-10-16 16:35:52 GMT",
     "TYPE": 0,
-    "last_seen": "2025-10-16T14:32:04.716613",
+    "last_seen": "2025-10-16T15:30:00.486816",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-16T15:30:00.486816"
+  "last_seen": "2025-10-16T16:35:56.911131"
 }
