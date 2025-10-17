@@ -7,14 +7,14 @@
     "B": 9,
     "C": 2,
     "CALLSIGN": "MBLM2",
-    "COG": 360,
+    "COG": 21.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4729,
+    "LATITUDE": 51.47288,
     "LONGITUDE": -0.18026,
     "MMSI": 232009726,
     "NAME": "JUDITH R",
@@ -22,10 +22,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-10-17 08:20:46 GMT",
+    "TIME": "2025-10-17 09:23:46 GMT",
     "TYPE": 37,
-    "last_seen": null,
+    "last_seen": "2025-10-17T08:36:14.439887",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-17T08:36:14.439887"
+  "last_seen": "2025-10-17T09:29:32.910389"
 }
