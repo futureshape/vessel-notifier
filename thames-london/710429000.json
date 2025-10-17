@@ -8,32 +8,33 @@
     "2025-10-13",
     "2025-10-14",
     "2025-10-15",
-    "2025-10-16"
+    "2025-10-16",
+    "2025-10-17"
   ],
   "last_full_data": {
     "A": 40,
     "B": 90,
     "C": 7,
     "CALLSIGN": "PWBL",
-    "COG": 299.8,
+    "COG": 258,
     "D": 7,
     "DEST": "HAMB_DEU X LOND_GBR",
     "DRAUGHT": 6,
     "ETA": "10-13 09:00",
     "HEADING": 285,
     "IMO": 0,
-    "LATITUDE": 51.50684,
-    "LONGITUDE": -0.08175,
+    "LATITUDE": 51.50687,
+    "LONGITUDE": -0.08171,
     "MMSI": 710429000,
     "NAME": "NE BRASIL",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0.1,
-    "TIME": "2025-10-16 23:21:41 GMT",
+    "TIME": "2025-10-17 02:00:22 GMT",
     "TYPE": 0,
-    "last_seen": "2025-10-16T22:25:48.370871",
+    "last_seen": "2025-10-16T23:21:51.206062",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-16T23:21:51.206062"
+  "last_seen": "2025-10-17T02:00:30.084648"
 }
