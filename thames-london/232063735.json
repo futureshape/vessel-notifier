@@ -1,33 +1,32 @@
 {
   "dates_seen": [
-    "2025-10-18"
+    "2025-10-18",
+    "2025-10-19"
   ],
   "last_full_data": {
     "A": 5,
     "B": 6,
     "C": 1,
     "CALLSIGN": "MBXF6",
-    "COG": 107.7,
+    "COG": 0,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 107,
+    "HEADING": 0,
     "IMO": 0,
-    "LATITUDE": 51.48745,
-    "LONGITUDE": -0.07313,
+    "LATITUDE": 51.48746,
+    "LONGITUDE": -0.07331,
     "MMSI": 232063735,
     "NAME": "PIPEDREAMER",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-10-18 18:05:32 GMT",
+    "TIME": "2025-10-19 09:23:01 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2025-10-18T18:34:25.090930",
+    "received_by_stations": []
   },
-  "last_seen": "2025-10-18T18:34:25.090930"
+  "last_seen": "2025-10-19T09:24:56.489361"
 }
