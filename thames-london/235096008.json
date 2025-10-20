@@ -231,7 +231,7 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "2GBM3",
-    "COG": 193.8,
+    "COG": 190.6,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -239,17 +239,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.4722,
-    "LONGITUDE": -0.18056,
+    "LONGITUDE": -0.18055,
     "MMSI": 235096008,
     "NAME": "SHAKEN NOT STIRRED",
     "NAVSTAT": 8,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-10-20 13:37:10 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-10-20 14:30:30 GMT",
     "TYPE": 0,
-    "last_seen": "2025-10-20T12:57:36.415914",
+    "last_seen": "2025-10-20T13:37:19.920058",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-20T13:37:19.920058"
+  "last_seen": "2025-10-20T14:30:40.624675"
 }
