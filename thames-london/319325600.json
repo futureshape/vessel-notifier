@@ -7,31 +7,25 @@
     "B": 55,
     "C": 6,
     "CALLSIGN": "ZGVA7",
-    "COG": 274.9,
+    "COG": 273.4,
     "D": 7,
     "DEST": "LONDON",
     "DRAUGHT": 3.5,
     "ETA": "10-21 13:30",
-    "HEADING": 98,
+    "HEADING": 97,
     "IMO": 9993717,
-    "LATITUDE": 51.50109,
-    "LONGITUDE": -0.00704,
+    "LATITUDE": 51.50138,
+    "LONGITUDE": -0.01579,
     "MMSI": 319325600,
     "NAME": "VALOR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0.5,
-    "TIME": "2025-10-21 12:59:19 GMT",
+    "SOG": 1,
+    "TIME": "2025-10-21 13:41:39 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      2103,
-      2665,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-10-21T12:59:22.648632",
+    "received_by_stations": []
   },
-  "last_seen": "2025-10-21T12:59:22.648632"
+  "last_seen": "2025-10-21T13:41:45.313783"
 }
