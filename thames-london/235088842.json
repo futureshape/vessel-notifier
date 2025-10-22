@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-07-02"
+    "2025-07-02",
+    "2025-10-22"
   ],
   "last_full_data": {
     "A": 0,
@@ -14,18 +15,21 @@
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50894,
-    "LONGITUDE": -0.11943,
+    "LATITUDE": 51.46967,
+    "LONGITUDE": -0.21994,
     "MMSI": 235088842,
     "NAME": "LIGHTNING",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-07-02 13:22:01 GMT",
+    "TIME": "2025-10-22 08:38:01 GMT",
     "TYPE": 0,
-    "last_seen": "2025-07-02T12:58:34.081256",
-    "received_by_stations": []
+    "last_seen": "2025-07-02T13:40:33.455341",
+    "received_by_stations": [
+      2103,
+      2648
+    ]
   },
-  "last_seen": "2025-07-02T13:40:33.455341"
+  "last_seen": "2025-10-22T08:38:27.497385"
 }
