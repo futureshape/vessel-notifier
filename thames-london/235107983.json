@@ -7,32 +7,25 @@
     "B": 14,
     "C": 6,
     "CALLSIGN": "2HZW6",
-    "COG": 319.7,
+    "COG": 355.5,
     "D": 2,
     "DEST": "HMS PRESIDENT",
     "DRAUGHT": 3.2,
     "ETA": "10-22 16:00",
-    "HEADING": 309,
+    "HEADING": 358,
     "IMO": 9717369,
-    "LATITUDE": 51.49678,
-    "LONGITUDE": 0.02191,
+    "LATITUDE": 51.49448,
+    "LONGITUDE": -0.02967,
     "MMSI": 235107983,
     "NAME": "TS ROYALIST",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": -127,
-    "SOG": 0,
-    "TIME": "2025-10-22 13:40:45 GMT",
+    "ROT": 127,
+    "SOG": 6.1,
+    "TIME": "2025-10-22 14:34:17 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2130,
-      2103,
-      2665,
-      2648,
-      3999,
-      3445
-    ]
+    "last_seen": "2025-10-22T13:40:48.708107",
+    "received_by_stations": []
   },
-  "last_seen": "2025-10-22T13:40:48.708107"
+  "last_seen": "2025-10-22T14:34:25.795649"
 }
