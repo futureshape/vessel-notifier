@@ -282,17 +282,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50392,
-    "LONGITUDE": -0.07318,
+    "LONGITUDE": -0.07316,
     "MMSI": 235080607,
     "NAME": "RNLI LIFEBOAT E 09",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 2,
-    "SOG": 0,
-    "TIME": "2025-10-23 08:37:11 GMT",
+    "ROT": 128,
+    "SOG": 0.1,
+    "TIME": "2025-10-23 09:30:52 GMT",
     "TYPE": 51,
-    "last_seen": "2025-10-23T07:27:25.106999",
+    "last_seen": "2025-10-23T08:37:15.073925",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-23T08:37:15.073925"
+  "last_seen": "2025-10-23T09:30:55.596660"
 }
