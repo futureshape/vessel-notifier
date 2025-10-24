@@ -1,7 +1,34 @@
 {
   "dates_seen": [
-    "2024-06-11"
+    "2024-06-11",
+    "2025-10-24"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-11T16:24:18.677243"
+  "last_full_data": {
+    "A": 4,
+    "B": 3,
+    "C": 2,
+    "CALLSIGN": "2AXR6",
+    "COG": 122.1,
+    "D": 1,
+    "DEST": "GOSPOGOSPORT",
+    "DRAUGHT": 1.4,
+    "ETA": "10-11 11:00",
+    "HEADING": 207,
+    "IMO": 0,
+    "LATITUDE": 51.50317,
+    "LONGITUDE": -0.11375,
+    "MMSI": 235083105,
+    "NAME": "VELA",
+    "NAVSTAT": 8,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 3.3,
+    "TIME": "2025-10-24 09:30:02 GMT",
+    "TYPE": 36,
+    "last_seen": "2024-06-11T16:24:18.677243",
+    "received_by_stations": [
+      2333
+    ]
+  },
+  "last_seen": "2025-10-24T09:30:05.396171"
 }
