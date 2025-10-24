@@ -8,29 +8,25 @@
     "B": 87,
     "C": 15,
     "CALLSIGN": "PAJW",
-    "COG": 267.6,
+    "COG": 92.9,
     "D": 15,
     "DEST": "MILITARY OPERATIONS",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 91,
+    "HEADING": 93,
     "IMO": 9280768,
-    "LATITUDE": 51.485,
-    "LONGITUDE": -0.01319,
+    "LATITUDE": 51.48424,
+    "LONGITUDE": -0.01496,
     "MMSI": 244527000,
     "NAME": "NATO WARSHIP",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 1.7,
-    "TIME": "2025-10-24 01:58:11 GMT",
+    "SOG": 0,
+    "TIME": "2025-10-24 03:05:34 GMT",
     "TYPE": 35,
-    "last_seen": "2023-11-13T12:33:45.679733",
-    "received_by_stations": [
-      2665,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-10-24T01:58:14.591063",
+    "received_by_stations": []
   },
-  "last_seen": "2025-10-24T01:58:14.591063"
+  "last_seen": "2025-10-24T03:06:46.739784"
 }
