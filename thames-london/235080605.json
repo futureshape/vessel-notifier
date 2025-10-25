@@ -346,32 +346,33 @@
     "2025-10-21",
     "2025-10-22",
     "2025-10-23",
-    "2025-10-24"
+    "2025-10-24",
+    "2025-10-25"
   ],
   "last_full_data": {
     "A": 4,
     "B": 6,
     "C": 3,
     "CALLSIGN": "2DNW5",
-    "COG": 217.3,
+    "COG": 360,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48413,
-    "LONGITUDE": -0.24935,
+    "LATITUDE": 51.483,
+    "LONGITUDE": -0.25051,
     "MMSI": 235080605,
     "NAME": "RNLI LIFEBOAT E 07",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 3.3,
-    "TIME": "2025-10-24 20:08:06 GMT",
+    "SOG": 0,
+    "TIME": "2025-10-25 01:54:44 GMT",
     "TYPE": 51,
-    "last_seen": "2025-10-24T19:23:02.566898",
+    "last_seen": "2025-10-24T20:30:37.791206",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-24T20:30:37.791206"
+  "last_seen": "2025-10-25T02:00:04.998972"
 }
