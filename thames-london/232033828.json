@@ -49,32 +49,33 @@
     "2025-10-15",
     "2025-10-16",
     "2025-10-21",
-    "2025-10-29"
+    "2025-10-29",
+    "2025-10-30"
   ],
   "last_full_data": {
     "A": 3,
     "B": 7,
     "C": 1,
     "CALLSIGN": "MITF9",
-    "COG": 266.2,
+    "COG": 360,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1.2,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50235,
-    "LONGITUDE": -0.05997,
+    "LATITUDE": 51.50178,
+    "LONGITUDE": -0.06587,
     "MMSI": 232033828,
     "NAME": "SWS ENTERPRISE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4.7,
-    "TIME": "2025-10-29 09:30:02 GMT",
+    "SOG": 0,
+    "TIME": "2025-10-30 07:26:46 GMT",
     "TYPE": 0,
-    "last_seen": "2025-10-29T08:37:53.287262",
+    "last_seen": "2025-10-29T09:30:10.259794",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-29T09:30:10.259794"
+  "last_seen": "2025-10-30T07:26:46.754095"
 }
