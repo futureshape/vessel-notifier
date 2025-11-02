@@ -7,28 +7,25 @@
     "B": 3,
     "C": 3,
     "CALLSIGN": "MRHT5",
-    "COG": 267.3,
+    "COG": 234.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 260,
+    "HEADING": 230,
     "IMO": 0,
-    "LATITUDE": 51.49708,
-    "LONGITUDE": 0.03077,
+    "LATITUDE": 51.50366,
+    "LONGITUDE": -0.05429,
     "MMSI": 232058262,
     "NAME": "COMMANDER",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": -29,
-    "SOG": 9.6,
-    "TIME": "2025-11-02 12:50:45 GMT",
+    "ROT": 11,
+    "SOG": 8.4,
+    "TIME": "2025-11-02 13:29:05 GMT",
     "TYPE": 50,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2025-11-02T12:50:47.949970",
+    "received_by_stations": []
   },
-  "last_seen": "2025-11-02T12:50:47.949970"
+  "last_seen": "2025-11-02T13:29:10.563407"
 }
