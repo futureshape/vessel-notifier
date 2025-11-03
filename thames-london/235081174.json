@@ -266,32 +266,33 @@
     "2025-10-27",
     "2025-10-28",
     "2025-10-29",
-    "2025-10-30"
+    "2025-10-30",
+    "2025-11-03"
   ],
   "last_full_data": {
     "A": 4,
     "B": 10,
     "C": 3,
     "CALLSIGN": "2DPL4",
-    "COG": 321.8,
+    "COG": 360,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1.8,
     "ETA": "09-16 13:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50371,
-    "LONGITUDE": 0.01221,
+    "LATITUDE": 51.50409,
+    "LONGITUDE": 0.0122,
     "MMSI": 235081174,
     "NAME": "HAVEN SUPPORTER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-10-30 07:14:15 GMT",
+    "SOG": 0,
+    "TIME": "2025-11-03 06:44:43 GMT",
     "TYPE": 52,
-    "last_seen": "2025-10-30T06:40:52.603694",
+    "last_seen": "2025-10-30T07:26:46.761197",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-30T07:26:46.761197"
+  "last_seen": "2025-11-03T06:44:48.574830"
 }
