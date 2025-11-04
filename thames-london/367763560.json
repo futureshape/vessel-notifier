@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-10-01"
+    "2025-10-01",
+    "2025-11-04"
   ],
   "last_full_data": {
     "A": 13,
@@ -14,18 +15,18 @@
     "ETA": "05-13 13:10",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5068,
-    "LONGITUDE": -0.07184,
+    "LATITUDE": 51.50704,
+    "LONGITUDE": -0.07186,
     "MMSI": 367763560,
     "NAME": "NEXT CHAPTER",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.4,
-    "TIME": "2025-10-01 19:10:02 GMT",
+    "SOG": 0,
+    "TIME": "2025-11-04 14:30:30 GMT",
     "TYPE": 37,
-    "last_seen": "2025-10-01T18:38:04.149617",
+    "last_seen": "2025-10-01T19:21:26.481260",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-01T19:21:26.481260"
+  "last_seen": "2025-11-04T14:33:21.065623"
 }
