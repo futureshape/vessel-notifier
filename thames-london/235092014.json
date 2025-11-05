@@ -79,32 +79,33 @@
     "2025-10-22",
     "2025-10-23",
     "2025-10-24",
-    "2025-10-25"
+    "2025-10-25",
+    "2025-11-05"
   ],
   "last_full_data": {
     "A": 50,
     "B": 10,
     "C": 8,
     "CALLSIGN": "2FKK6",
-    "COG": 338.5,
+    "COG": 4.7,
     "D": 8,
     "DEST": "PORT OF LONDON",
     "DRAUGHT": 1,
     "ETA": "01-19 14:57",
-    "HEADING": 339,
+    "HEADING": 2,
     "IMO": 0,
-    "LATITUDE": 51.49489,
-    "LONGITUDE": -0.00111,
+    "LATITUDE": 51.49964,
+    "LONGITUDE": -0.02926,
     "MMSI": 235092014,
     "NAME": "THAME",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 0,
-    "SOG": 8,
-    "TIME": "2025-10-25 11:21:19 GMT",
+    "ROT": -127,
+    "SOG": 21.6,
+    "TIME": "2025-11-05 09:32:40 GMT",
     "TYPE": 53,
-    "last_seen": "2025-10-25T10:28:58.456940",
+    "last_seen": "2025-10-25T11:21:23.185483",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-25T11:21:23.185483"
+  "last_seen": "2025-11-05T09:32:40.869710"
 }
