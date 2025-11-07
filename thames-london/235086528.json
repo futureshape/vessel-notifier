@@ -7,29 +7,25 @@
     "B": 6,
     "C": 6,
     "CALLSIGN": "2ENC3",
-    "COG": 204.7,
+    "COG": 330.5,
     "D": 0,
     "DEST": "GRAVESEND",
     "DRAUGHT": 1.2,
     "ETA": "11-07 16:00",
-    "HEADING": 204,
+    "HEADING": 332,
     "IMO": 0,
-    "LATITUDE": 51.50305,
-    "LONGITUDE": -0.00528,
+    "LATITUDE": 51.48973,
+    "LONGITUDE": -0.02615,
     "MMSI": 235086528,
     "NAME": "HUMBER GUARDIAN",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": -127,
-    "SOG": 12.2,
-    "TIME": "2025-11-07 10:34:00 GMT",
+    "SOG": 11.5,
+    "TIME": "2025-11-07 11:24:34 GMT",
     "TYPE": 55,
-    "last_seen": null,
-    "received_by_stations": [
-      2665,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-11-07T10:34:02.662656",
+    "received_by_stations": []
   },
-  "last_seen": "2025-11-07T10:34:02.662656"
+  "last_seen": "2025-11-07T11:24:36.274702"
 }
