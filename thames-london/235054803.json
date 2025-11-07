@@ -2,32 +2,33 @@
   "dates_seen": [
     "2023-10-16",
     "2025-10-20",
-    "2025-10-30"
+    "2025-10-30",
+    "2025-11-07"
   ],
   "last_full_data": {
     "A": 4,
     "B": 8,
     "C": 2,
     "CALLSIGN": "MEJC3",
-    "COG": 176.2,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47811,
-    "LONGITUDE": -0.22556,
+    "LATITUDE": 51.50449,
+    "LONGITUDE": -0.06943,
     "MMSI": 235054803,
     "NAME": "DANCHA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.3,
-    "TIME": "2025-10-30 20:56:03 GMT",
+    "SOG": 0,
+    "TIME": "2025-11-07 10:33:57 GMT",
     "TYPE": 52,
-    "last_seen": "2025-10-30T20:30:24.005910",
+    "last_seen": "2025-10-30T21:26:03.752311",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-30T21:26:03.752311"
+  "last_seen": "2025-11-07T10:34:01.276448"
 }
