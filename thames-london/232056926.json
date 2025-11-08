@@ -189,32 +189,33 @@
     "2025-11-03",
     "2025-11-04",
     "2025-11-06",
-    "2025-11-07"
+    "2025-11-07",
+    "2025-11-08"
   ],
   "last_full_data": {
     "A": 7,
     "B": 1,
     "C": 2,
     "CALLSIGN": "MPWH2",
-    "COG": 310.3,
+    "COG": 119.3,
     "D": 1,
     "DEST": "TRAINING RIB",
     "DRAUGHT": 0.7,
-    "ETA": "11-07 16:30",
+    "ETA": "11-08 16:30",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49558,
-    "LONGITUDE": 0.01882,
+    "LATITUDE": 51.49638,
+    "LONGITUDE": 0.01802,
     "MMSI": 232056926,
     "NAME": "THAMES NAVIGATOR",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-11-07 16:03:28 GMT",
+    "SOG": 5.5,
+    "TIME": "2025-11-08 10:29:14 GMT",
     "TYPE": 40,
-    "last_seen": "2025-11-07T14:31:03.282803",
+    "last_seen": "2025-11-07T16:33:14.184874",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-07T16:33:14.184874"
+  "last_seen": "2025-11-08T10:29:18.500098"
 }
