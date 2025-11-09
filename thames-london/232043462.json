@@ -2,32 +2,35 @@
   "dates_seen": [
     "2024-11-15",
     "2024-11-16",
-    "2025-02-20"
+    "2025-02-20",
+    "2025-11-09"
   ],
   "last_full_data": {
     "A": 4,
     "B": 0,
     "C": 0,
     "CALLSIGN": "ZR8442",
-    "COG": 262.7,
+    "COG": 234.4,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 254,
+    "HEADING": 223,
     "IMO": 0,
-    "LATITUDE": 51.46388,
-    "LONGITUDE": -0.19672,
+    "LATITUDE": 51.47999,
+    "LONGITUDE": -0.17554,
     "MMSI": 232043462,
     "NAME": "CRAZY SOPHIA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 69,
-    "SOG": 1,
-    "TIME": "2025-02-20 18:15:34 GMT",
+    "SOG": 3.2,
+    "TIME": "2025-11-09 17:17:38 GMT",
     "TYPE": 37,
-    "last_seen": "2024-11-16T16:31:52.707308",
-    "received_by_stations": []
+    "last_seen": "2025-02-20T18:33:55.713715",
+    "received_by_stations": [
+      2103
+    ]
   },
-  "last_seen": "2025-02-20T18:33:55.713715"
+  "last_seen": "2025-11-09T17:24:34.809164"
 }

@@ -88,7 +88,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2FEY8",
-    "COG": 360,
+    "COG": 206.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -100,13 +100,13 @@
     "MMSI": 235090688,
     "NAME": "PATRICK COLQUHOUN 2",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-11-09 16:31:23 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-11-09 17:22:23 GMT",
     "TYPE": 55,
-    "last_seen": "2025-11-09T15:25:25.913548",
+    "last_seen": "2025-11-09T16:31:29.488497",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-09T16:31:29.488497"
+  "last_seen": "2025-11-09T17:24:34.821098"
 }
