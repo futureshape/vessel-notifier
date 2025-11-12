@@ -196,32 +196,33 @@
     "2025-11-05",
     "2025-11-06",
     "2025-11-07",
-    "2025-11-10"
+    "2025-11-10",
+    "2025-11-12"
   ],
   "last_full_data": {
     "A": 13,
     "B": 13,
     "C": 6,
     "CALLSIGN": "MXOE5",
-    "COG": 83.9,
+    "COG": 294.3,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 2.1,
     "ETA": "00-00 00:00",
-    "HEADING": 81,
+    "HEADING": 297,
     "IMO": 0,
-    "LATITUDE": 51.4961,
-    "LONGITUDE": 0.03878,
+    "LATITUDE": 51.50585,
+    "LONGITUDE": 0.00581,
     "MMSI": 235053647,
     "NAME": "REGAIN",
-    "NAVSTAT": 0,
+    "NAVSTAT": 11,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 7.9,
-    "TIME": "2025-11-10 06:45:26 GMT",
+    "SOG": 6.5,
+    "TIME": "2025-11-12 06:44:09 GMT",
     "TYPE": 52,
-    "last_seen": "2025-11-07T19:23:11.429767",
+    "last_seen": "2025-11-10T06:45:28.796933",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-10T06:45:28.796933"
+  "last_seen": "2025-11-12T06:44:15.321782"
 }
