@@ -305,17 +305,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50704,
-    "LONGITUDE": -0.07107,
+    "LONGITUDE": -0.07111,
     "MMSI": 235069936,
     "NAME": "BLUE SKY",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-11-13 11:23:41 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-11-13 12:59:41 GMT",
     "TYPE": 37,
-    "last_seen": "2025-11-13T10:35:53.756120",
+    "last_seen": "2025-11-13T11:25:53.736733",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-13T11:25:53.736733"
+  "last_seen": "2025-11-13T13:00:33.810633"
 }
