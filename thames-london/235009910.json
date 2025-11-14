@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-11-06",
-    "2025-11-07"
+    "2025-11-07",
+    "2025-11-14"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "GABB",
-    "COG": 100.5,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50632,
-    "LONGITUDE": -0.07869,
+    "LATITUDE": 51.50485,
+    "LONGITUDE": -0.0711,
     "MMSI": 235009910,
     "NAME": "HMS EXPLORER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 2.4,
-    "TIME": "2025-11-07 14:30:43 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-11-14 08:37:02 GMT",
     "TYPE": 35,
-    "last_seen": "2025-11-07T13:35:48.697327",
+    "last_seen": "2025-11-07T14:31:03.267877",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-07T14:31:03.267877"
+  "last_seen": "2025-11-14T08:37:02.699281"
 }
