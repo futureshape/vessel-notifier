@@ -5,18 +5,18 @@
     "2025-11-14"
   ],
   "last_full_data": {
-    "A": 28,
+    "A": 0,
     "B": 0,
     "C": 0,
-    "CALLSIGN": "FBAI",
+    "CALLSIGN": "....",
     "COG": 360,
-    "D": 8,
-    "DEST": "T",
+    "D": 0,
+    "DEST": "0",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50494,
+    "LATITUDE": 51.50495,
     "LONGITUDE": -0.07137,
     "MMSI": 227000000,
     "NAME": "FRENCH WARSHIP",
@@ -24,10 +24,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-11-14 21:26:37 GMT",
-    "TYPE": 0,
-    "last_seen": "2025-11-14T20:31:28.265892",
+    "TIME": "2025-11-14 22:30:08 GMT",
+    "TYPE": 35,
+    "last_seen": "2025-11-14T21:26:40.077798",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-14T21:26:40.077798"
+  "last_seen": "2025-11-14T22:30:21.987355"
 }
