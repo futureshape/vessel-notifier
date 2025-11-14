@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2025-11-14"
+  ],
+  "last_full_data": {
+    "A": 10,
+    "B": 10,
+    "C": 3,
+    "CALLSIGN": "MRNF9",
+    "COG": 241.1,
+    "D": 3,
+    "DEST": "GBLON",
+    "DRAUGHT": 2.5,
+    "ETA": "11-14 14:00",
+    "HEADING": 246,
+    "IMO": 8943569,
+    "LATITUDE": 51.49564,
+    "LONGITUDE": 0.02937,
+    "MMSI": 232059056,
+    "NAME": "AQUATIC WARRIOR",
+    "NAVSTAT": 3,
+    "PAC": 0,
+    "ROT": -127,
+    "SOG": 4.2,
+    "TIME": "2025-11-14 13:37:17 GMT",
+    "TYPE": 39,
+    "last_seen": null,
+    "received_by_stations": [
+      2665,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-11-14T13:37:31.274655"
+}
