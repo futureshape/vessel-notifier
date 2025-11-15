@@ -6,29 +6,29 @@
     "2025-11-15"
   ],
   "last_full_data": {
-    "A": 0,
+    "A": 42,
     "B": 0,
     "C": 0,
-    "CALLSIGN": "....",
+    "CALLSIGN": "FYCL",
     "COG": 360,
-    "D": 0,
-    "DEST": "0",
+    "D": 8,
+    "DEST": "8",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50494,
-    "LONGITUDE": -0.07137,
+    "LATITUDE": 51.50495,
+    "LONGITUDE": -0.07135,
     "MMSI": 227000000,
     "NAME": "FRENCH WARSHIP",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-11-15 22:25:49 GMT",
+    "TIME": "2025-11-15 23:24:58 GMT",
     "TYPE": 35,
-    "last_seen": "2025-11-15T21:23:26.935202",
+    "last_seen": "2025-11-15T22:26:02.302860",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-15T22:26:02.302860"
+  "last_seen": "2025-11-15T23:25:03.007604"
 }
