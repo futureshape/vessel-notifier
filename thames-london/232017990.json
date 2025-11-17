@@ -7,28 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MDVN2",
-    "COG": 329.3,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 327,
+    "HEADING": 293,
     "IMO": 0,
-    "LATITUDE": 51.50492,
-    "LONGITUDE": -0.03003,
+    "LATITUDE": 51.50359,
+    "LONGITUDE": -0.06651,
     "MMSI": 232017990,
     "NAME": "RIDGEBACK",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8,
-    "TIME": "2025-11-17 18:40:42 GMT",
+    "SOG": 0,
+    "TIME": "2025-11-17 19:23:36 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2025-11-17T18:40:47.918972",
+    "received_by_stations": []
   },
-  "last_seen": "2025-11-17T18:40:47.918972"
+  "last_seen": "2025-11-17T19:23:59.811444"
 }
