@@ -407,7 +407,7 @@
     "B": 28,
     "C": 5,
     "CALLSIGN": "MZGF7",
-    "COG": 360,
+    "COG": 101.4,
     "D": 5,
     "DEST": "",
     "DRAUGHT": 0,
@@ -415,17 +415,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50496,
-    "LONGITUDE": 0.00264,
+    "LONGITUDE": 0.00257,
     "MMSI": 235054917,
     "NAME": "CITY GAMMA",
     "NAVSTAT": 4,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-11-17 13:27:17 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-11-17 22:30:26 GMT",
     "TYPE": 60,
-    "last_seen": "2025-11-17T12:59:20.482019",
+    "last_seen": "2025-11-17T13:40:01.690528",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-17T13:40:01.690528"
+  "last_seen": "2025-11-17T22:30:29.772498"
 }
