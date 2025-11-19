@@ -179,7 +179,7 @@
     "B": 6,
     "C": 1,
     "CALLSIGN": "MKBC4",
-    "COG": 33.6,
+    "COG": 360,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 0,
@@ -187,17 +187,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50441,
-    "LONGITUDE": -0.06905,
+    "LONGITUDE": -0.06906,
     "MMSI": 235054768,
     "NAME": "KARO",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.5,
-    "TIME": "2025-11-19 12:59:35 GMT",
+    "SOG": 0,
+    "TIME": "2025-11-19 13:39:35 GMT",
     "TYPE": 80,
-    "last_seen": "2025-11-19T11:25:52.735001",
+    "last_seen": "2025-11-19T12:59:35.690053",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-19T12:59:35.690053"
+  "last_seen": "2025-11-19T13:39:42.583470"
 }
