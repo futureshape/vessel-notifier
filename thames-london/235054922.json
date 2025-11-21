@@ -221,32 +221,33 @@
     "2025-11-08",
     "2025-11-15",
     "2025-11-19",
-    "2025-11-20"
+    "2025-11-20",
+    "2025-11-21"
   ],
   "last_full_data": {
     "A": 7,
     "B": 25,
     "C": 6,
     "CALLSIGN": "MGJY3",
-    "COG": 196.2,
+    "COG": 2.9,
     "D": 0,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49624,
-    "LONGITUDE": -0.12237,
+    "LATITUDE": 51.50922,
+    "LONGITUDE": -0.10988,
     "MMSI": 235054922,
     "NAME": "JEWEL OF LONDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 2.2,
-    "TIME": "2025-11-20 14:16:34 GMT",
+    "SOG": 0,
+    "TIME": "2025-11-21 12:18:00 GMT",
     "TYPE": 60,
-    "last_seen": "2025-11-20T13:20:56.379138",
+    "last_seen": "2025-11-20T14:16:39.389479",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-20T14:16:39.389479"
+  "last_seen": "2025-11-21T12:18:01.895221"
 }
