@@ -63,30 +63,25 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "2CSG7",
-    "COG": 137.8,
+    "COG": 138,
     "D": 7,
     "DEST": "GBLON",
     "DRAUGHT": 2.2,
     "ETA": "11-22 18:00",
-    "HEADING": 356,
+    "HEADING": 36,
     "IMO": 9570905,
-    "LATITUDE": 51.48749,
-    "LONGITUDE": -0.00154,
+    "LATITUDE": 51.48754,
+    "LONGITUDE": -0.00117,
     "MMSI": 235075339,
     "NAME": "JENNY D",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": -127,
-    "SOG": 0.9,
-    "TIME": "2025-11-22 21:15:57 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2025-11-22 22:16:07 GMT",
     "TYPE": 52,
-    "last_seen": "2025-04-24T11:23:57.621613",
-    "received_by_stations": [
-      3416,
-      2103,
-      2648,
-      3999
-    ]
+    "last_seen": "2025-11-22T21:16:00.860264",
+    "received_by_stations": []
   },
-  "last_seen": "2025-11-22T21:16:00.860264"
+  "last_seen": "2025-11-22T22:16:10.126901"
 }
