@@ -318,20 +318,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 72,
+    "HEADING": 70,
     "IMO": 0,
     "LATITUDE": 51.46726,
-    "LONGITUDE": -0.21554,
+    "LONGITUDE": -0.21556,
     "MMSI": 235022608,
     "NAME": "RICHMOND",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 6,
-    "SOG": 0.1,
-    "TIME": "2025-11-22 11:14:55 GMT",
+    "ROT": -1,
+    "SOG": 0,
+    "TIME": "2025-11-22 12:17:45 GMT",
     "TYPE": 99,
-    "last_seen": "2025-11-22T10:16:25.254474",
+    "last_seen": "2025-11-22T11:15:23.640110",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-22T11:15:23.640110"
+  "last_seen": "2025-11-22T12:17:51.946172"
 }
