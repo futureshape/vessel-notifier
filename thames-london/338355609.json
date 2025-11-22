@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2025-11-22"
+  ],
+  "last_full_data": {
+    "A": 17,
+    "B": 7,
+    "C": 3,
+    "CALLSIGN": "DL5014A",
+    "COG": 326.5,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 323,
+    "IMO": 0,
+    "LATITUDE": 51.48898,
+    "LONGITUDE": -0.02524,
+    "MMSI": 338355609,
+    "NAME": "MAY",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 9.5,
+    "TIME": "2025-11-22 14:15:48 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      2103,
+      3416,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2025-11-22T14:15:59.398860"
+}
