@@ -164,7 +164,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MFOQ5",
-    "COG": 360,
+    "COG": 83,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 25.5,
@@ -172,17 +172,17 @@
     "HEADING": 511,
     "IMO": 9177181,
     "LATITUDE": 51.50739,
-    "LONGITUDE": 0.0072,
+    "LONGITUDE": 0.00721,
     "MMSI": 232022992,
     "NAME": "COMET CLIPPER",
     "NAVSTAT": 13,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-11-23 09:16:18 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-11-23 10:16:09 GMT",
     "TYPE": 36,
-    "last_seen": "2025-11-23T08:17:10.035586",
+    "last_seen": "2025-11-23T09:16:23.738764",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-23T09:16:23.738764"
+  "last_seen": "2025-11-23T10:16:18.470180"
 }
