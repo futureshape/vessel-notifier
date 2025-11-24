@@ -214,7 +214,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MMQN7",
-    "COG": 360,
+    "COG": 309,
     "D": 5,
     "DEST": "",
     "DRAUGHT": 0,
@@ -222,17 +222,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50429,
-    "LONGITUDE": -0.07373,
+    "LONGITUDE": -0.07377,
     "MMSI": 235055008,
     "NAME": "HOLLYWOOD",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-11-24 14:16:36 GMT",
+    "SOG": 0.5,
+    "TIME": "2025-11-24 15:17:17 GMT",
     "TYPE": 69,
-    "last_seen": "2025-11-24T13:22:41.125127",
+    "last_seen": "2025-11-24T14:16:37.612754",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-24T14:16:37.612754"
+  "last_seen": "2025-11-24T15:17:18.015226"
 }
