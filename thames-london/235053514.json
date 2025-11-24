@@ -227,32 +227,33 @@
     "2025-11-07",
     "2025-11-14",
     "2025-11-15",
-    "2025-11-19"
+    "2025-11-19",
+    "2025-11-24"
   ],
   "last_full_data": {
     "A": 5,
     "B": 23,
     "C": 1,
     "CALLSIGN": "MEDN2",
-    "COG": 103,
+    "COG": 136.5,
     "D": 6,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50959,
-    "LONGITUDE": -0.10943,
+    "LATITUDE": 51.51027,
+    "LONGITUDE": -0.11496,
     "MMSI": 235053514,
     "NAME": "GOLDEN JUBILEE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 2.1,
-    "TIME": "2025-11-19 23:16:11 GMT",
+    "SOG": 0,
+    "TIME": "2025-11-24 08:17:41 GMT",
     "TYPE": 60,
-    "last_seen": "2025-11-19T22:16:22.893167",
+    "last_seen": "2025-11-19T23:16:23.735730",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-19T23:16:23.735730"
+  "last_seen": "2025-11-24T08:17:47.502125"
 }
