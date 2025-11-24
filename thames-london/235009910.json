@@ -10,7 +10,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "GABB",
-    "COG": 360,
+    "COG": 6.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -18,17 +18,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50483,
-    "LONGITUDE": -0.07109,
+    "LONGITUDE": -0.07111,
     "MMSI": 235009910,
     "NAME": "HMS EXPLORER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-11-24 21:15:50 GMT",
+    "SOG": 0.2,
+    "TIME": "2025-11-24 22:15:51 GMT",
     "TYPE": 35,
-    "last_seen": "2025-11-24T20:16:58.110668",
+    "last_seen": "2025-11-24T21:16:23.256325",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-24T21:16:23.256325"
+  "last_seen": "2025-11-24T22:16:23.367586"
 }
