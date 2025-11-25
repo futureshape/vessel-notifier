@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-10-12",
-    "2025-10-13"
+    "2025-10-13",
+    "2025-11-25"
   ],
   "last_full_data": {
     "A": 72,
     "B": 16,
     "C": 6,
     "CALLSIGN": "V2YV6",
-    "COG": 253,
+    "COG": 285.6,
     "D": 5,
-    "DEST": "BEANR",
-    "DRAUGHT": 4.1,
-    "ETA": "10-14 20:00",
-    "HEADING": 281,
+    "DEST": "GBLON",
+    "DRAUGHT": 2.8,
+    "ETA": "11-25 16:00",
+    "HEADING": 280,
     "IMO": 9249831,
-    "LATITUDE": 51.49435,
-    "LONGITUDE": 0.02389,
+    "LATITUDE": 51.49431,
+    "LONGITUDE": 0.02398,
     "MMSI": 304193000,
     "NAME": "RMS RATINGEN",
     "NAVSTAT": 5,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2025-10-13 17:23:38 GMT",
+    "TIME": "2025-11-25 17:16:15 GMT",
     "TYPE": 70,
-    "last_seen": "2025-10-13T16:34:38.281280",
+    "last_seen": "2025-10-13T17:26:14.618895",
     "received_by_stations": []
   },
-  "last_seen": "2025-10-13T17:26:14.618895"
+  "last_seen": "2025-11-25T17:16:39.272647"
 }
