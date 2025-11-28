@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-11-24"
+    "2025-11-24",
+    "2025-11-28"
   ],
   "last_full_data": {
     "A": 4,
@@ -14,18 +15,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50627,
-    "LONGITUDE": -0.02238,
+    "LATITUDE": 51.50639,
+    "LONGITUDE": -0.02233,
     "MMSI": 235089882,
     "NAME": "THAMES EXPLORER",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-11-24 14:13:26 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-11-28 08:15:40 GMT",
     "TYPE": 37,
-    "last_seen": "2025-11-24T13:22:41.141938",
+    "last_seen": "2025-11-24T14:16:37.620113",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-24T14:16:37.620113"
+  "last_seen": "2025-11-28T08:17:29.692807"
 }
