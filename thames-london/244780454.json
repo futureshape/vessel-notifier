@@ -63,7 +63,7 @@
     "B": 5,
     "C": 1,
     "CALLSIGN": "PD3749",
-    "COG": 190.6,
+    "COG": 0,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 0.3,
@@ -71,17 +71,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50453,
-    "LONGITUDE": -0.06963,
+    "LONGITUDE": -0.0696,
     "MMSI": 244780454,
     "NAME": "REFUELLER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-11-28 09:16:57 GMT",
+    "TIME": "2025-11-28 10:16:48 GMT",
     "TYPE": 99,
-    "last_seen": "2025-11-25T13:22:36.620681",
+    "last_seen": "2025-11-28T09:17:01.274459",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-28T09:17:01.274459"
+  "last_seen": "2025-11-28T10:16:58.783002"
 }
