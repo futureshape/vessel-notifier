@@ -292,7 +292,7 @@
     "B": 10,
     "C": 4,
     "CALLSIGN": "MRZM2",
-    "COG": 253.6,
+    "COG": 141.6,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -300,17 +300,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50742,
-    "LONGITUDE": 0.00683,
+    "LONGITUDE": 0.00685,
     "MMSI": 235053187,
     "NAME": "SKY CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-11-29 18:17:17 GMT",
+    "SOG": 0,
+    "TIME": "2025-11-29 19:15:16 GMT",
     "TYPE": 40,
-    "last_seen": "2025-11-29T17:16:01.152502",
+    "last_seen": "2025-11-29T18:17:32.356022",
     "received_by_stations": []
   },
-  "last_seen": "2025-11-29T18:17:32.356022"
+  "last_seen": "2025-11-29T19:15:33.491245"
 }
