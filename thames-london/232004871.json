@@ -310,7 +310,7 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "",
-    "COG": 301,
+    "COG": 293.7,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -318,17 +318,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50741,
-    "LONGITUDE": 0.00723,
+    "LONGITUDE": 0.00724,
     "MMSI": 232004871,
     "NAME": "CANARY WHARF 4",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-12-02 11:15:35 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-12-02 12:17:46 GMT",
     "TYPE": 99,
-    "last_seen": "2025-12-02T10:17:04.138901",
+    "last_seen": "2025-12-02T11:16:29.347274",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-02T11:16:29.347274"
+  "last_seen": "2025-12-02T12:18:26.222519"
 }
