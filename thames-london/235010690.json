@@ -10,7 +10,7 @@
     "B": 22,
     "C": 5,
     "CALLSIGN": "MLPH9",
-    "COG": 28.6,
+    "COG": 209.6,
     "D": 3,
     "DEST": "SEA REACH 1",
     "DRAUGHT": 2.7,
@@ -18,17 +18,17 @@
     "HEADING": 302,
     "IMO": 9338618,
     "LATITUDE": 51.5049,
-    "LONGITUDE": -0.07126,
+    "LONGITUDE": -0.07127,
     "MMSI": 235010690,
     "NAME": "ALERT",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-12-03 21:14:24 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-12-03 22:14:24 GMT",
     "TYPE": 90,
-    "last_seen": "2025-12-03T20:17:09.789109",
+    "last_seen": "2025-12-03T21:16:32.104684",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-03T21:16:32.104684"
+  "last_seen": "2025-12-03T22:16:42.526769"
 }
