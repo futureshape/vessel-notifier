@@ -72,7 +72,7 @@
     "B": 7,
     "C": 1,
     "CALLSIGN": "MITF9",
-    "COG": 360,
+    "COG": 141.3,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1.2,
@@ -80,17 +80,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50143,
-    "LONGITUDE": -0.06449,
+    "LONGITUDE": -0.06451,
     "MMSI": 232033828,
     "NAME": "SWS ENTERPRISE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-12-03 14:16:55 GMT",
+    "SOG": 0.3,
+    "TIME": "2025-12-03 15:16:54 GMT",
     "TYPE": 0,
-    "last_seen": "2025-12-03T13:23:50.863520",
+    "last_seen": "2025-12-03T14:16:58.897289",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-03T14:16:58.897289"
+  "last_seen": "2025-12-03T15:16:59.546683"
 }
