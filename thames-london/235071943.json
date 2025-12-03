@@ -23,32 +23,33 @@
     "2025-11-25",
     "2025-11-26",
     "2025-12-01",
-    "2025-12-02"
+    "2025-12-02",
+    "2025-12-03"
   ],
   "last_full_data": {
     "A": 6,
     "B": 8,
     "C": 1,
     "CALLSIGN": "2CD47",
-    "COG": 174.2,
+    "COG": 360,
     "D": 4,
     "DEST": "LONDON EAST INDIA Q",
     "DRAUGHT": 1.2,
     "ETA": "10-08 20:00",
-    "HEADING": 177,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50468,
-    "LONGITUDE": -0.03089,
+    "LATITUDE": 51.50761,
+    "LONGITUDE": 0.00245,
     "MMSI": 235071943,
     "NAME": "THAMES BOSUN",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 127,
-    "SOG": 5.2,
-    "TIME": "2025-12-02 06:59:46 GMT",
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2025-12-03 07:16:32 GMT",
     "TYPE": 52,
-    "last_seen": "2025-12-01T19:16:56.419574",
+    "last_seen": "2025-12-02T07:17:24.215816",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-02T07:17:24.215816"
+  "last_seen": "2025-12-03T07:16:56.076417"
 }
