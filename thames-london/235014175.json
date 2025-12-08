@@ -1,32 +1,35 @@
 {
   "dates_seen": [
     "2025-07-13",
-    "2025-08-07"
+    "2025-08-07",
+    "2025-12-08"
   ],
   "last_full_data": {
     "A": 0,
     "B": 10,
     "C": 0,
     "CALLSIGN": "MDAY3",
-    "COG": 142,
+    "COG": 306.2,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50145,
-    "LONGITUDE": 0.01123,
+    "LATITUDE": 51.50481,
+    "LONGITUDE": -0.07115,
     "MMSI": 235014175,
     "NAME": "DARK STAR",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 8.2,
-    "TIME": "2025-08-07 14:37:15 GMT",
+    "SOG": 2.1,
+    "TIME": "2025-12-08 14:12:57 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-07T13:49:23.556225",
-    "received_by_stations": []
+    "last_seen": "2025-08-07T14:37:22.732843",
+    "received_by_stations": [
+      2648
+    ]
   },
-  "last_seen": "2025-08-07T14:37:22.732843"
+  "last_seen": "2025-12-08T14:17:16.781174"
 }
