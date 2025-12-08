@@ -425,7 +425,7 @@
     "B": 28,
     "C": 4,
     "CALLSIGN": "MZSM6",
-    "COG": 249.7,
+    "COG": 360,
     "D": 7,
     "DEST": "",
     "DRAUGHT": 0,
@@ -433,17 +433,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50126,
-    "LONGITUDE": -0.06152,
+    "LONGITUDE": -0.06156,
     "MMSI": 235052106,
     "NAME": "MILLENNIUM TIME",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-12-08 16:17:06 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-12-08 17:16:26 GMT",
     "TYPE": 99,
-    "last_seen": "2025-12-08T15:17:00.552857",
+    "last_seen": "2025-12-08T16:17:33.581097",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-08T16:17:33.581097"
+  "last_seen": "2025-12-08T17:16:41.897541"
 }
