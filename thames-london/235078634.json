@@ -470,7 +470,7 @@
     "B": 14,
     "C": 7,
     "CALLSIGN": "2DGB2",
-    "COG": 0,
+    "COG": 33.7,
     "D": 1,
     "DEST": "THAMES/OPPS",
     "DRAUGHT": 2.2,
@@ -478,17 +478,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49446,
-    "LONGITUDE": 0.02614,
+    "LONGITUDE": 0.02612,
     "MMSI": 235078634,
     "NAME": "RECOVERY",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-12-10 15:14:33 GMT",
+    "SOG": 0.4,
+    "TIME": "2025-12-10 15:47:34 GMT",
     "TYPE": 52,
-    "last_seen": "2025-12-10T14:17:04.932029",
+    "last_seen": "2025-12-10T15:17:15.194251",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-10T15:17:15.194251"
+  "last_seen": "2025-12-10T16:17:46.085223"
 }
