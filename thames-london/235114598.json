@@ -22,29 +22,25 @@
     "B": 8,
     "C": 3,
     "CALLSIGN": "2JBU6",
-    "COG": 77.4,
+    "COG": 86.9,
     "D": 3,
     "DEST": "I",
     "DRAUGHT": 1,
     "ETA": "01-19 14:57",
-    "HEADING": 77,
+    "HEADING": 86,
     "IMO": 0,
-    "LATITUDE": 51.49603,
-    "LONGITUDE": 0.03366,
+    "LATITUDE": 51.49731,
+    "LONGITUDE": 0.03238,
     "MMSI": 235114598,
     "NAME": "MAPLIN",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": -127,
-    "SOG": 9.2,
-    "TIME": "2025-12-11 09:17:40 GMT",
+    "SOG": 8.7,
+    "TIME": "2025-12-11 10:17:04 GMT",
     "TYPE": 33,
-    "last_seen": "2025-06-11T13:41:23.022653",
-    "received_by_stations": [
-      2665,
-      3218,
-      2648
-    ]
+    "last_seen": "2025-12-11T09:17:42.311028",
+    "received_by_stations": []
   },
-  "last_seen": "2025-12-11T09:17:42.311028"
+  "last_seen": "2025-12-11T10:17:05.357031"
 }
