@@ -488,7 +488,7 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "MVMT8",
-    "COG": 356.7,
+    "COG": 0.5,
     "D": 7,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -496,17 +496,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50705,
-    "LONGITUDE": 0.00785,
+    "LONGITUDE": 0.00787,
     "MMSI": 235057012,
     "NAME": "TORNADO CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-12-12 22:16:18 GMT",
+    "TIME": "2025-12-12 23:16:30 GMT",
     "TYPE": 40,
-    "last_seen": "2025-12-12T21:16:21.333601",
+    "last_seen": "2025-12-12T22:16:30.307621",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-12T22:16:30.307621"
+  "last_seen": "2025-12-12T23:16:35.826226"
 }
