@@ -242,7 +242,7 @@
     "B": 25,
     "C": 6,
     "CALLSIGN": "MGJY3",
-    "COG": 128.3,
+    "COG": 0,
     "D": 0,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -250,17 +250,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50694,
-    "LONGITUDE": -0.11796,
+    "LONGITUDE": -0.11797,
     "MMSI": 235054922,
     "NAME": "JEWEL OF LONDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-12-12 16:17:10 GMT",
+    "TIME": "2025-12-12 17:16:30 GMT",
     "TYPE": 60,
-    "last_seen": "2025-12-12T15:16:58.054951",
+    "last_seen": "2025-12-12T16:17:14.822916",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-12T16:17:14.822916"
+  "last_seen": "2025-12-12T17:16:37.396397"
 }
