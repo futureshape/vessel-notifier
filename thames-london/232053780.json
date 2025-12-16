@@ -1,34 +1,33 @@
 {
   "dates_seen": [
     "2025-03-29",
-    "2025-12-12"
+    "2025-12-12",
+    "2025-12-16"
   ],
   "last_full_data": {
     "A": 23,
     "B": 2,
     "C": 4,
     "CALLSIGN": "MOWH8",
-    "COG": 17.5,
+    "COG": 12.8,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 20,
+    "HEADING": 9,
     "IMO": 0,
-    "LATITUDE": 51.47621,
-    "LONGITUDE": -0.17847,
+    "LATITUDE": 51.50199,
+    "LONGITUDE": -0.02891,
     "MMSI": 232053780,
     "NAME": "",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 7,
-    "SOG": 35.1,
-    "TIME": "2025-12-12 23:13:22 GMT",
+    "ROT": 11,
+    "SOG": 3.8,
+    "TIME": "2025-12-16 14:09:50 GMT",
     "TYPE": 112,
-    "last_seen": "2025-03-29T13:28:28.561607",
-    "received_by_stations": [
-      2103
-    ]
+    "last_seen": "2025-12-12T23:16:35.806856",
+    "received_by_stations": []
   },
-  "last_seen": "2025-12-12T23:16:35.806856"
+  "last_seen": "2025-12-16T14:17:31.743149"
 }
