@@ -26,28 +26,25 @@
     "B": 30,
     "C": 11,
     "CALLSIGN": "PGZK",
-    "COG": 271.8,
+    "COG": 186.3,
     "D": 11,
     "DEST": "GBLON",
     "DRAUGHT": 7.8,
     "ETA": "12-17 20:45",
-    "HEADING": 269,
+    "HEADING": 293,
     "IMO": 9618240,
-    "LATITUDE": 51.4958,
-    "LONGITUDE": 0.02721,
+    "LATITUDE": 51.49571,
+    "LONGITUDE": 0.02176,
     "MMSI": 244116000,
     "NAME": "REIMERSWAAL",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 2.5,
-    "TIME": "2025-12-17 21:16:49 GMT",
+    "SOG": 0,
+    "TIME": "2025-12-17 22:16:08 GMT",
     "TYPE": 33,
-    "last_seen": "2025-05-30T21:25:26.617620",
-    "received_by_stations": [
-      3218,
-      2648
-    ]
+    "last_seen": "2025-12-17T21:16:56.766819",
+    "received_by_stations": []
   },
-  "last_seen": "2025-12-17T21:16:56.766819"
+  "last_seen": "2025-12-17T22:16:36.779737"
 }
