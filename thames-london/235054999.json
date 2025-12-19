@@ -487,18 +487,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49838,
-    "LONGITUDE": -0.12112,
+    "LATITUDE": 51.49842,
+    "LONGITUDE": -0.12111,
     "MMSI": 235054999,
     "NAME": "MERCURIA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-12-19 11:16:14 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-12-19 13:06:14 GMT",
     "TYPE": 60,
-    "last_seen": "2025-12-18T13:23:53.360694",
+    "last_seen": "2025-12-19T11:16:20.512067",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-19T11:16:20.512067"
+  "last_seen": "2025-12-19T13:22:32.960550"
 }
