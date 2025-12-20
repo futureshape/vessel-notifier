@@ -19,20 +19,20 @@
     "DEST": "LONDON",
     "DRAUGHT": 4,
     "ETA": "12-13 16:30",
-    "HEADING": 116,
+    "HEADING": 115,
     "IMO": 8977259,
-    "LATITUDE": 51.50342,
-    "LONGITUDE": -0.06637,
+    "LATITUDE": 51.50345,
+    "LONGITUDE": -0.06638,
     "MMSI": 244679599,
     "NAME": "WITNESS",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2025-12-20 22:15:53 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-12-20 23:15:50 GMT",
     "TYPE": 37,
-    "last_seen": "2025-12-20T21:15:58.626865",
+    "last_seen": "2025-12-20T22:16:17.350188",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-20T22:16:17.350188"
+  "last_seen": "2025-12-20T23:16:17.938636"
 }
