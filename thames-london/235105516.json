@@ -383,7 +383,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2HPH9",
-    "COG": 67,
+    "COG": 360,
     "D": 0,
     "DEST": "WATERLOO PIER",
     "DRAUGHT": 0,
@@ -391,17 +391,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50688,
-    "LONGITUDE": -0.11782,
+    "LONGITUDE": -0.11783,
     "MMSI": 235105516,
     "NAME": "ROCKET JUNIOR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2025-12-22 14:53:18 GMT",
+    "SOG": 0.1,
+    "TIME": "2025-12-22 16:06:26 GMT",
     "TYPE": 40,
-    "last_seen": "2025-12-22T13:23:07.938794",
+    "last_seen": "2025-12-22T15:17:01.181166",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-22T15:17:01.181166"
+  "last_seen": "2025-12-22T16:17:25.235529"
 }
