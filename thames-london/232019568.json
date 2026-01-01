@@ -87,18 +87,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50656,
-    "LONGITUDE": -0.07097,
+    "LATITUDE": 51.50668,
+    "LONGITUDE": -0.07096,
     "MMSI": 232019568,
     "NAME": "GOOD DOG",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-01-01 20:14:30 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-01-01 21:14:30 GMT",
     "TYPE": 37,
-    "last_seen": "2026-01-01T19:16:05.327402",
+    "last_seen": "2026-01-01T20:17:08.917572",
     "received_by_stations": []
   },
-  "last_seen": "2026-01-01T20:17:08.917572"
+  "last_seen": "2026-01-01T21:16:28.398090"
 }
