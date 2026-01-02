@@ -532,7 +532,7 @@
     "B": 7,
     "C": 3,
     "CALLSIGN": "2ITT4",
-    "COG": 0,
+    "COG": 144.1,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -540,17 +540,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50732,
-    "LONGITUDE": 0.00601,
+    "LONGITUDE": 0.00599,
     "MMSI": 235112741,
     "NAME": "GALAXY CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-01-02 04:26:52 GMT",
+    "TIME": "2026-01-02 05:17:42 GMT",
     "TYPE": 40,
-    "last_seen": "2026-01-02T03:44:31.893473",
+    "last_seen": "2026-01-02T04:26:57.067285",
     "received_by_stations": []
   },
-  "last_seen": "2026-01-02T04:26:57.067285"
+  "last_seen": "2026-01-02T05:17:44.437753"
 }
