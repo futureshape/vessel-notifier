@@ -11,32 +11,36 @@
     "2025-03-22",
     "2025-03-23",
     "2025-03-26",
-    "2025-07-25"
+    "2025-07-25",
+    "2026-01-04"
   ],
   "last_full_data": {
     "A": 13,
     "B": 2,
     "C": 2,
     "CALLSIGN": "CFK9413",
-    "COG": 48,
+    "COG": 154.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50781,
-    "LONGITUDE": -0.07289,
+    "LATITUDE": 51.5069,
+    "LONGITUDE": -0.07111,
     "MMSI": 316016583,
     "NAME": "INSPIRATION LADY",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2025-07-25 15:30:22 GMT",
+    "SOG": 1.1,
+    "TIME": "2026-01-04 16:16:49 GMT",
     "TYPE": 36,
-    "last_seen": "2025-07-25T14:33:09.113966",
-    "received_by_stations": []
+    "last_seen": "2025-07-25T15:32:49.675749",
+    "received_by_stations": [
+      3999,
+      2648
+    ]
   },
-  "last_seen": "2025-07-25T15:32:49.675749"
+  "last_seen": "2026-01-04T16:17:00.482385"
 }
