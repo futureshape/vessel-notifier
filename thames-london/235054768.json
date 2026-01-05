@@ -210,18 +210,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50457,
-    "LONGITUDE": -0.06955,
+    "LATITUDE": 51.50454,
+    "LONGITUDE": -0.06954,
     "MMSI": 235054768,
     "NAME": "KARO",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-01-05 11:16:22 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-01-05 12:03:22 GMT",
     "TYPE": 80,
-    "last_seen": "2026-01-05T10:17:18.514999",
+    "last_seen": "2026-01-05T11:16:29.491482",
     "received_by_stations": []
   },
-  "last_seen": "2026-01-05T11:16:29.491482"
+  "last_seen": "2026-01-05T12:18:25.377841"
 }
