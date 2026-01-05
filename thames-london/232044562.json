@@ -5,32 +5,35 @@
     "2024-07-29",
     "2025-05-17",
     "2025-08-15",
-    "2025-09-28"
+    "2025-09-28",
+    "2026-01-05"
   ],
   "last_full_data": {
     "A": 6,
     "B": 4,
     "C": 3,
     "CALLSIGN": "MMNX6",
-    "COG": 112.8,
+    "COG": 83.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 115,
+    "HEADING": 77,
     "IMO": 0,
-    "LATITUDE": 51.46477,
-    "LONGITUDE": -0.20454,
+    "LATITUDE": 51.48395,
+    "LONGITUDE": -0.13738,
     "MMSI": 232044562,
     "NAME": "MISTRAL",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 68,
-    "SOG": 0.2,
-    "TIME": "2025-09-28 20:15:17 GMT",
+    "SOG": 2.2,
+    "TIME": "2026-01-05 15:12:08 GMT",
     "TYPE": 36,
-    "last_seen": "2025-08-15T09:31:19.986137",
-    "received_by_stations": []
+    "last_seen": "2025-09-28T20:26:31.035303",
+    "received_by_stations": [
+      2103
+    ]
   },
-  "last_seen": "2025-09-28T20:26:31.035303"
+  "last_seen": "2026-01-05T15:17:11.341547"
 }
