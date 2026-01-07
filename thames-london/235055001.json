@@ -45,14 +45,14 @@
     "B": 15,
     "C": 1,
     "CALLSIGN": "MPDK6",
-    "COG": 54,
+    "COG": 0,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49815,
+    "LATITUDE": 51.49816,
     "LONGITUDE": -0.12109,
     "MMSI": 235055001,
     "NAME": "MERCEDES",
@@ -60,10 +60,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-01-07 10:16:09 GMT",
+    "TIME": "2026-01-07 11:16:39 GMT",
     "TYPE": 60,
-    "last_seen": "2026-01-07T09:18:08.216587",
+    "last_seen": "2026-01-07T10:17:04.510343",
     "received_by_stations": []
   },
-  "last_seen": "2026-01-07T10:17:04.510343"
+  "last_seen": "2026-01-07T11:16:39.739485"
 }
