@@ -429,20 +429,20 @@
     "DEST": "THAMES OPPS",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 301,
+    "HEADING": 242,
     "IMO": 0,
-    "LATITUDE": 51.49657,
-    "LONGITUDE": 0.0188,
+    "LATITUDE": 51.49667,
+    "LONGITUDE": 0.01889,
     "MMSI": 235078638,
     "NAME": "RESOURCE",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 127,
-    "SOG": 0,
-    "TIME": "2026-01-09 12:18:16 GMT",
+    "ROT": -127,
+    "SOG": 0.1,
+    "TIME": "2026-01-09 13:24:27 GMT",
     "TYPE": 52,
-    "last_seen": "2026-01-09T09:17:56.831713",
+    "last_seen": "2026-01-09T12:18:18.795527",
     "received_by_stations": []
   },
-  "last_seen": "2026-01-09T12:18:18.795527"
+  "last_seen": "2026-01-09T13:24:34.170523"
 }
