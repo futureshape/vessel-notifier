@@ -246,17 +246,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50266,
-    "LONGITUDE": -0.05793,
+    "LONGITUDE": -0.05792,
     "MMSI": 232046427,
     "NAME": "TIM RUPRECHT",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-01-09 11:15:15 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-01-09 12:18:14 GMT",
     "TYPE": 55,
-    "last_seen": "2026-01-09T10:16:54.582705",
+    "last_seen": "2026-01-09T11:16:33.734495",
     "received_by_stations": []
   },
-  "last_seen": "2026-01-09T11:16:33.734495"
+  "last_seen": "2026-01-09T12:18:18.788056"
 }
