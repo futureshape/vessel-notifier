@@ -525,7 +525,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MVMA6",
-    "COG": 299.9,
+    "COG": 318.8,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -533,17 +533,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50724,
-    "LONGITUDE": 0.00688,
+    "LONGITUDE": 0.00677,
     "MMSI": 235056991,
     "NAME": "METEOR CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-01-13 07:17:36 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-01-13 19:16:47 GMT",
     "TYPE": 0,
-    "last_seen": "2026-01-13T06:17:58.937487",
+    "last_seen": "2026-01-13T07:17:43.022462",
     "received_by_stations": []
   },
-  "last_seen": "2026-01-13T07:17:43.022462"
+  "last_seen": "2026-01-13T19:16:48.278249"
 }
