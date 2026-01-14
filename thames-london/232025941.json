@@ -340,7 +340,7 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "MGQJ2",
-    "COG": 360,
+    "COG": 152.2,
     "D": 1,
     "DEST": "LONDON SAR",
     "DRAUGHT": 0,
@@ -348,17 +348,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50991,
-    "LONGITUDE": -0.1171,
+    "LONGITUDE": -0.11708,
     "MMSI": 232025941,
     "NAME": "RNLI LIFEBOAT E 10",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-01-14 08:17:43 GMT",
+    "SOG": 0.3,
+    "TIME": "2026-01-14 10:17:12 GMT",
     "TYPE": 51,
-    "last_seen": "2026-01-14T07:18:08.311452",
+    "last_seen": "2026-01-14T08:17:49.129003",
     "received_by_stations": []
   },
-  "last_seen": "2026-01-14T08:17:49.129003"
+  "last_seen": "2026-01-14T10:17:13.456721"
 }
