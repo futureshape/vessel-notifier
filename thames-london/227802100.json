@@ -1,32 +1,40 @@
 {
   "dates_seen": [
     "2025-01-17",
-    "2025-01-20"
+    "2025-01-20",
+    "2026-01-15"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "FALN",
-    "COG": 44.3,
+    "COG": 276.5,
     "D": 0,
     "DEST": "0",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50153,
-    "LONGITUDE": -0.00559,
+    "LATITUDE": 51.50125,
+    "LONGITUDE": -0.0099,
     "MMSI": 227802100,
     "NAME": "FRENCH WARSHIP LIO",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.3,
-    "TIME": "2025-01-20 16:30:26 GMT",
+    "SOG": 0.4,
+    "TIME": "2026-01-15 10:16:55 GMT",
     "TYPE": 0,
-    "last_seen": "2025-01-20T15:26:11.701242",
-    "received_by_stations": []
+    "last_seen": "2025-01-20T16:30:31.264762",
+    "received_by_stations": [
+      3416,
+      2103,
+      3218,
+      2665,
+      2648,
+      3999
+    ]
   },
-  "last_seen": "2025-01-20T16:30:31.264762"
+  "last_seen": "2026-01-15T10:17:07.349437"
 }

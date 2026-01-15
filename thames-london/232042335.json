@@ -574,12 +574,12 @@
     "B": 3,
     "C": 0,
     "CALLSIGN": "MLPR8",
-    "COG": 92.2,
+    "COG": 295.3,
     "D": 5,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 10,
+    "HEADING": 11,
     "IMO": 0,
     "LATITUDE": 51.49313,
     "LONGITUDE": -0.12232,
@@ -587,12 +587,12 @@
     "NAME": "ERRINGTON",
     "NAVSTAT": 15,
     "PAC": 1,
-    "ROT": -19,
-    "SOG": 0.3,
-    "TIME": "2026-01-15 09:17:50 GMT",
+    "ROT": 21,
+    "SOG": 0.4,
+    "TIME": "2026-01-15 10:17:03 GMT",
     "TYPE": 51,
-    "last_seen": "2026-01-15T08:17:49.455535",
+    "last_seen": "2026-01-15T09:17:50.857974",
     "received_by_stations": []
   },
-  "last_seen": "2026-01-15T09:17:50.857974"
+  "last_seen": "2026-01-15T10:17:05.723253"
 }
