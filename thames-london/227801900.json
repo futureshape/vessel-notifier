@@ -7,27 +7,25 @@
     "B": 0,
     "C": 8,
     "CALLSIGN": "FATG",
-    "COG": 296.6,
+    "COG": 117.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50134,
-    "LONGITUDE": -0.01121,
+    "LATITUDE": 51.50099,
+    "LONGITUDE": -0.01317,
     "MMSI": 227801900,
     "NAME": "FRENCH WARSHIP TGR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-01-15 10:16:57 GMT",
+    "TIME": "2026-01-15 11:16:26 GMT",
     "TYPE": 35,
-    "last_seen": null,
-    "received_by_stations": [
-      3999
-    ]
+    "last_seen": "2026-01-15T10:17:06.407476",
+    "received_by_stations": []
   },
-  "last_seen": "2026-01-15T10:17:06.407476"
+  "last_seen": "2026-01-15T11:16:34.683211"
 }

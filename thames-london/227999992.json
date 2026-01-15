@@ -9,31 +9,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "FAAA2",
-    "COG": 238,
+    "COG": 360,
     "D": 0,
     "DEST": "0",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50145,
-    "LONGITUDE": -0.0057,
+    "LATITUDE": 51.5014,
+    "LONGITUDE": -0.01017,
     "MMSI": 227999992,
     "NAME": "FRENCH WARSHIP GPR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 3.1,
-    "TIME": "2026-01-15 10:17:04 GMT",
+    "SOG": 0,
+    "TIME": "2026-01-15 11:16:24 GMT",
     "TYPE": 35,
-    "last_seen": "2025-01-20T16:30:31.267692",
-    "received_by_stations": [
-      2103,
-      3416,
-      3218,
-      2648,
-      3999
-    ]
+    "last_seen": "2026-01-15T10:17:07.990197",
+    "received_by_stations": []
   },
-  "last_seen": "2026-01-15T10:17:07.990197"
+  "last_seen": "2026-01-15T11:16:34.684207"
 }
