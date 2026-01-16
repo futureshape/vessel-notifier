@@ -8,30 +8,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "FAAA",
-    "COG": 182.8,
+    "COG": 277.6,
     "D": 0,
     "DEST": "0",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50217,
-    "LONGITUDE": -0.00379,
+    "LATITUDE": 51.50175,
+    "LONGITUDE": -0.01542,
     "MMSI": 227999999,
     "NAME": "FRENCH WARSHIP PTR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4.9,
-    "TIME": "2026-01-16 11:16:29 GMT",
+    "SOG": 1.1,
+    "TIME": "2026-01-16 12:18:19 GMT",
     "TYPE": 0,
-    "last_seen": "2024-05-24T14:17:23.178096",
-    "received_by_stations": [
-      3416,
-      2103,
-      2648,
-      3999
-    ]
+    "last_seen": "2026-01-16T11:16:39.540777",
+    "received_by_stations": []
   },
-  "last_seen": "2026-01-16T11:16:39.540777"
+  "last_seen": "2026-01-16T12:18:21.124927"
 }
