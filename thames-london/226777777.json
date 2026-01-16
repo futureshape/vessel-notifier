@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2026-01-16"
+  ],
+  "last_full_data": {
+    "A": 54,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "FAXX",
+    "COG": 4,
+    "D": 10,
+    "DEST": "0",
+    "DRAUGHT": 0,
+    "ETA": "00-00 24:60",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49655,
+    "LONGITUDE": -0.02948,
+    "MMSI": 226777777,
+    "NAME": "FRENCH WARSHIP C",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 8.1,
+    "TIME": "2026-01-16 11:16:29 GMT",
+    "TYPE": 35,
+    "last_seen": null,
+    "received_by_stations": [
+      3416,
+      2103,
+      3218,
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2026-01-16T11:16:38.426491"
+}
