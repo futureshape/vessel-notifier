@@ -37,32 +37,33 @@
     "2025-11-28",
     "2025-12-01",
     "2025-12-12",
-    "2025-12-19"
+    "2025-12-19",
+    "2026-01-19"
   ],
   "last_full_data": {
     "A": 5,
     "B": 33,
     "C": 1,
     "CALLSIGN": "MRCR8",
-    "COG": 182.7,
+    "COG": 311.3,
     "D": 2,
     "DEST": "BATTERSEA",
     "DRAUGHT": 1.4,
     "ETA": "10-20 13:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.43006,
-    "LONGITUDE": -0.32159,
+    "LATITUDE": 51.43141,
+    "LONGITUDE": -0.32487,
     "MMSI": 235054043,
     "NAME": "TEDDINGTON",
-    "NAVSTAT": 0,
+    "NAVSTAT": 11,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.7,
-    "TIME": "2025-12-19 14:13:04 GMT",
+    "SOG": 1.1,
+    "TIME": "2026-01-19 13:52:16 GMT",
     "TYPE": 52,
-    "last_seen": "2025-12-12T08:17:45.105663",
+    "last_seen": "2025-12-19T14:16:47.374788",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-19T14:16:47.374788"
+  "last_seen": "2026-01-19T14:17:53.269731"
 }
