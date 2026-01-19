@@ -107,32 +107,33 @@
     "2026-01-10",
     "2026-01-13",
     "2026-01-14",
-    "2026-01-15"
+    "2026-01-15",
+    "2026-01-19"
   ],
   "last_full_data": {
     "A": 17,
     "B": 82,
     "C": 11,
     "CALLSIGN": "GKGF",
-    "COG": 268.5,
+    "COG": 173.9,
     "D": 6,
-    "DEST": "SOUTH WIGHT DA500",
-    "DRAUGHT": 3.8,
-    "ETA": "01-16 08:00",
+    "DEST": "CHARLTON",
+    "DRAUGHT": 6,
+    "ETA": "01-19 23:00",
     "HEADING": 104,
     "IMO": 8806058,
     "LATITUDE": 51.49542,
-    "LONGITUDE": 0.02389,
+    "LONGITUDE": 0.02385,
     "MMSI": 233322000,
     "NAME": "CITY OF LONDON",
     "NAVSTAT": 5,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-01-15 11:14:29 GMT",
+    "TIME": "2026-01-19 23:14:04 GMT",
     "TYPE": 33,
-    "last_seen": "2026-01-15T10:17:07.993802",
+    "last_seen": "2026-01-15T11:16:34.687881",
     "received_by_stations": []
   },
-  "last_seen": "2026-01-15T11:16:34.687881"
+  "last_seen": "2026-01-19T23:16:42.175201"
 }
