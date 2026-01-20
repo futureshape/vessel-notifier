@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-06-02"
+    "2025-06-02",
+    "2026-01-20"
   ],
   "last_full_data": {
     "A": 5,
@@ -11,21 +12,23 @@
     "D": 1,
     "DEST": "",
     "DRAUGHT": 1.2,
-    "ETA": "06-02 11:14",
+    "ETA": "01-18 15:26",
     "HEADING": 359,
     "IMO": 0,
-    "LATITUDE": 51.51489,
-    "LONGITUDE": -0.07186,
+    "LATITUDE": 51.5156,
+    "LONGITUDE": -0.06998,
     "MMSI": 235115189,
     "NAME": "EVANIA",
-    "NAVSTAT": 5,
+    "NAVSTAT": 8,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2025-06-02 11:23:26 GMT",
+    "SOG": 2.4,
+    "TIME": "2026-01-20 12:18:46 GMT",
     "TYPE": 36,
-    "last_seen": "2025-06-02T10:35:03.114369",
-    "received_by_stations": []
+    "last_seen": "2025-06-02T11:25:45.111436",
+    "received_by_stations": [
+      2333
+    ]
   },
-  "last_seen": "2025-06-02T11:25:45.111436"
+  "last_seen": "2026-01-20T12:18:54.265981"
 }
