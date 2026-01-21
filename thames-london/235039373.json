@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2025-10-08"
+    "2025-10-08",
+    "2026-01-21"
   ],
   "last_full_data": {
     "A": 5,
@@ -14,22 +15,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50111,
-    "LONGITUDE": -0.01145,
+    "LATITUDE": 51.50109,
+    "LONGITUDE": -0.0114,
     "MMSI": 235039373,
     "NAME": "MASSEY SHAW",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-10-08 12:55:15 GMT",
+    "TIME": "2026-01-21 14:53:08 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3785,
-      3999,
-      2648
-    ]
+    "last_seen": "2025-10-08T12:56:49.962165",
+    "received_by_stations": []
   },
-  "last_seen": "2025-10-08T12:56:49.962165"
+  "last_seen": "2026-01-21T15:18:19.079599"
 }
