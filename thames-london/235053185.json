@@ -257,7 +257,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MCJP5",
-    "COG": 175,
+    "COG": 157.2,
     "D": 0,
     "DEST": "DT#U",
     "DRAUGHT": 1.8,
@@ -265,17 +265,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5048,
-    "LONGITUDE": -0.03137,
+    "LONGITUDE": -0.03128,
     "MMSI": 235053185,
     "NAME": "STAR CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-01-28 19:17:48 GMT",
+    "SOG": 1,
+    "TIME": "2026-01-28 20:17:38 GMT",
     "TYPE": 0,
-    "last_seen": "2026-01-28T18:19:06.051527",
+    "last_seen": "2026-01-28T19:17:56.571733",
     "received_by_stations": []
   },
-  "last_seen": "2026-01-28T19:17:56.571733"
+  "last_seen": "2026-01-28T20:17:43.831648"
 }
