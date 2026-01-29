@@ -21,28 +21,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2JD07",
-    "COG": 101.6,
+    "COG": 0,
     "D": 0,
     "DEST": "GREENWICH",
     "DRAUGHT": 1.8,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.51009,
-    "LONGITUDE": -0.11576,
+    "LATITUDE": 51.5106,
+    "LONGITUDE": -0.11422,
     "MMSI": 235115041,
     "NAME": "REBEL",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-01-29 13:34:11 GMT",
+    "TIME": "2026-01-29 14:01:41 GMT",
     "TYPE": 52,
-    "last_seen": "2025-10-20T11:25:00.854050",
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-01-29T13:34:12.483828",
+    "received_by_stations": []
   },
-  "last_seen": "2026-01-29T13:34:12.483828"
+  "last_seen": "2026-01-29T14:24:17.390997"
 }
