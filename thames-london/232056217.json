@@ -556,18 +556,18 @@
     "ETA": "07-11 19:00",
     "HEADING": 93,
     "IMO": 1022225,
-    "LATITUDE": 51.49459,
-    "LONGITUDE": 0.02663,
+    "LATITUDE": 51.49462,
+    "LONGITUDE": 0.02662,
     "MMSI": 232056217,
     "NAME": "RESOLUTE 1",
     "NAVSTAT": 11,
     "PAC": 1,
-    "ROT": -6,
-    "SOG": 0.1,
-    "TIME": "2026-02-03 21:19:55 GMT",
+    "ROT": 2,
+    "SOG": 0,
+    "TIME": "2026-02-03 23:17:55 GMT",
     "TYPE": 31,
-    "last_seen": "2026-02-03T20:19:49.839099",
+    "last_seen": "2026-02-03T21:19:57.852252",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-03T21:19:57.852252"
+  "last_seen": "2026-02-03T23:18:00.582651"
 }
