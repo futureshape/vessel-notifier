@@ -49,21 +49,18 @@
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50183,
-    "LONGITUDE": 0.01591,
+    "LATITUDE": 51.50182,
+    "LONGITUDE": 0.01593,
     "MMSI": 232009347,
     "NAME": "GPS VINCIA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-02-04 13:36:35 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-02-04 14:25:46 GMT",
     "TYPE": 31,
-    "last_seen": "2025-08-18T08:40:44.588453",
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-02-04T13:36:43.189395",
+    "received_by_stations": []
   },
-  "last_seen": "2026-02-04T13:36:43.189395"
+  "last_seen": "2026-02-04T14:25:48.739389"
 }
