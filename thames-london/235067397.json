@@ -408,17 +408,17 @@
     "HEADING": 511,
     "IMO": 5145520,
     "LATITUDE": 51.50698,
-    "LONGITUDE": 0.0081,
+    "LONGITUDE": 0.00809,
     "MMSI": 235067397,
     "NAME": "HEIKO",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-02-06 09:25:07 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-02-06 10:23:29 GMT",
     "TYPE": 80,
-    "last_seen": "2026-02-06T08:23:10.244598",
+    "last_seen": "2026-02-06T09:25:20.601391",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-06T09:25:20.601391"
+  "last_seen": "2026-02-06T10:23:34.570515"
 }
