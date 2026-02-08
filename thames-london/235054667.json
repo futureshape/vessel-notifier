@@ -578,17 +578,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5031,
-    "LONGITUDE": -0.12063,
+    "LONGITUDE": -0.1206,
     "MMSI": 235054667,
     "NAME": "SILVER BONITO",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-02-08 06:26:54 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-02-08 07:25:14 GMT",
     "TYPE": 60,
-    "last_seen": "2026-02-08T05:39:22.980134",
+    "last_seen": "2026-02-08T06:26:56.274526",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-08T06:26:56.274526"
+  "last_seen": "2026-02-08T07:25:20.144997"
 }
