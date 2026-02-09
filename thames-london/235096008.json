@@ -299,14 +299,14 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "2GBM3",
-    "COG": 5.3,
+    "COG": 0,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47221,
+    "LATITUDE": 51.4722,
     "LONGITUDE": -0.18058,
     "MMSI": 235096008,
     "NAME": "SHAKEN NOT STIRRED",
@@ -314,10 +314,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-02-09 20:22:27 GMT",
+    "TIME": "2026-02-09 21:23:08 GMT",
     "TYPE": 0,
-    "last_seen": "2026-02-09T19:39:13.722220",
+    "last_seen": "2026-02-09T20:22:28.707401",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-09T20:22:28.707401"
+  "last_seen": "2026-02-09T21:23:10.674158"
 }
