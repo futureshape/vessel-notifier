@@ -570,17 +570,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49837,
-    "LONGITUDE": -0.12115,
+    "LONGITUDE": -0.12111,
     "MMSI": 235054851,
     "NAME": "SAPELE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-02-09 12:29:14 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-02-09 13:42:14 GMT",
     "TYPE": 99,
-    "last_seen": "2026-02-09T11:27:05.930848",
+    "last_seen": "2026-02-09T12:29:24.555964",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-09T12:29:24.555964"
+  "last_seen": "2026-02-09T13:42:21.606117"
 }
