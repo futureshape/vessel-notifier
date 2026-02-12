@@ -81,7 +81,7 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "MORM3",
-    "COG": 151.7,
+    "COG": 19.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -89,17 +89,17 @@
     "HEADING": 240,
     "IMO": 0,
     "LATITUDE": 51.50257,
-    "LONGITUDE": -0.05869,
+    "LONGITUDE": -0.05868,
     "MMSI": 232052716,
     "NAME": "HURRICANE 3",
     "NAVSTAT": 15,
     "PAC": 1,
-    "ROT": -23,
-    "SOG": 0.2,
-    "TIME": "2026-02-12 10:26:30 GMT",
+    "ROT": 11,
+    "SOG": 0.1,
+    "TIME": "2026-02-12 11:25:54 GMT",
     "TYPE": 55,
-    "last_seen": "2026-02-12T07:32:33.191564",
+    "last_seen": "2026-02-12T10:26:33.423191",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-12T10:26:33.423191"
+  "last_seen": "2026-02-12T11:26:01.154163"
 }
