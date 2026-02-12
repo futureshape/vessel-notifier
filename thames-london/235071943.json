@@ -58,12 +58,12 @@
     "B": 5,
     "C": 3,
     "CALLSIGN": "2CD47",
-    "COG": 335,
+    "COG": 360,
     "D": 4,
     "DEST": "DENTON WHARF",
     "DRAUGHT": 1.2,
     "ETA": "10-08 20:00",
-    "HEADING": 235,
+    "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50761,
     "LONGITUDE": -0.11688,
@@ -71,12 +71,12 @@
     "NAME": "THAMES BOSUN",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 0,
-    "SOG": 0,
-    "TIME": "2026-02-12 03:14:01 GMT",
+    "ROT": 128,
+    "SOG": 102.3,
+    "TIME": "2026-02-12 04:49:40 GMT",
     "TYPE": 52,
-    "last_seen": "2026-02-12T01:46:56.481753",
+    "last_seen": "2026-02-12T03:14:16.922326",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-12T03:14:16.922326"
+  "last_seen": "2026-02-12T04:49:47.462154"
 }
