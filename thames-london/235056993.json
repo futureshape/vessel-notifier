@@ -523,32 +523,33 @@
     "2026-02-10",
     "2026-02-11",
     "2026-02-12",
-    "2026-02-13"
+    "2026-02-13",
+    "2026-02-14"
   ],
   "last_full_data": {
     "A": 30,
     "B": 8,
     "C": 2,
     "CALLSIGN": "MVMD2",
-    "COG": 334.4,
+    "COG": 360,
     "D": 7,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50705,
-    "LONGITUDE": 0.00761,
+    "LATITUDE": 51.50464,
+    "LONGITUDE": 0.01074,
     "MMSI": 235056993,
     "NAME": "CYCLONE CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-02-13 23:18:11 GMT",
+    "SOG": 0,
+    "TIME": "2026-02-14 07:22:48 GMT",
     "TYPE": 40,
-    "last_seen": "2026-02-13T21:21:14.922454",
+    "last_seen": "2026-02-13T23:18:18.997830",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-13T23:18:18.997830"
+  "last_seen": "2026-02-14T07:23:02.039581"
 }
