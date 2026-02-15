@@ -12,23 +12,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 261,
+    "HEADING": 258,
     "IMO": 0,
-    "LATITUDE": 51.50748,
-    "LONGITUDE": -0.07278,
+    "LATITUDE": 51.5075,
+    "LONGITUDE": -0.07275,
     "MMSI": 232046459,
     "NAME": "MAY",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-02-15 15:15:44 GMT",
+    "TIME": "2026-02-15 16:14:44 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-02-15T15:17:26.077721",
+    "received_by_stations": []
   },
-  "last_seen": "2026-02-15T15:17:26.077721"
+  "last_seen": "2026-02-15T16:17:42.611039"
 }
