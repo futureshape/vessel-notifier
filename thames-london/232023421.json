@@ -92,28 +92,25 @@
     "B": 11,
     "C": 3,
     "CALLSIGN": "MFSN8",
-    "COG": 270,
+    "COG": 113.2,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 2.5,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49796,
-    "LONGITUDE": 0.03928,
+    "LATITUDE": 51.50782,
+    "LONGITUDE": -0.08993,
     "MMSI": 232023421,
     "NAME": "PROSPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.7,
-    "TIME": "2026-02-17 09:28:20 GMT",
+    "SOG": 6.2,
+    "TIME": "2026-02-17 10:27:09 GMT",
     "TYPE": 52,
-    "last_seen": "2025-04-13T12:48:29.242359",
-    "received_by_stations": [
-      3999,
-      3218
-    ]
+    "last_seen": "2026-02-17T09:28:29.175084",
+    "received_by_stations": []
   },
-  "last_seen": "2026-02-17T09:28:29.175084"
+  "last_seen": "2026-02-17T10:27:13.341314"
 }
