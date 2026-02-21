@@ -17,7 +17,7 @@
     "B": 5,
     "C": 6,
     "CALLSIGN": "2CO12",
-    "COG": 70.7,
+    "COG": 12.8,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -25,17 +25,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50773,
-    "LONGITUDE": -0.07063,
+    "LONGITUDE": -0.07066,
     "MMSI": 235074473,
     "NAME": "KOMMANDOREN",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-02-21 04:41:06 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-02-21 05:26:05 GMT",
     "TYPE": 37,
-    "last_seen": "2026-02-21T03:52:26.121793",
+    "last_seen": "2026-02-21T04:43:28.449296",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-21T04:43:28.449296"
+  "last_seen": "2026-02-21T05:28:46.398687"
 }
