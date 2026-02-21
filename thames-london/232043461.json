@@ -501,14 +501,14 @@
     "B": 19,
     "C": 7,
     "CALLSIGN": "MMCS9",
-    "COG": 112.1,
+    "COG": 0,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "01-31 00:00",
-    "HEADING": 288,
+    "HEADING": 287,
     "IMO": 9963499,
-    "LATITUDE": 51.50775,
+    "LATITUDE": 51.5077,
     "LONGITUDE": 0.00563,
     "MMSI": 232043461,
     "NAME": "EARTH CLIPPER",
@@ -516,10 +516,10 @@
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-02-21 00:21:06 GMT",
+    "TIME": "2026-02-21 07:20:40 GMT",
     "TYPE": 40,
-    "last_seen": "2026-02-20T23:17:58.208610",
+    "last_seen": "2026-02-21T00:47:11.752169",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-21T00:47:11.752169"
+  "last_seen": "2026-02-21T07:20:47.996768"
 }
