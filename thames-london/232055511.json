@@ -217,7 +217,7 @@
     "B": 1,
     "C": 1,
     "CALLSIGN": "MPJA3",
-    "COG": 207.1,
+    "COG": 181,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
@@ -225,17 +225,17 @@
     "HEADING": 7,
     "IMO": 0,
     "LATITUDE": 51.50264,
-    "LONGITUDE": -0.12043,
+    "LONGITUDE": -0.12044,
     "MMSI": 232055511,
     "NAME": "ROCKET REBEL",
     "NAVSTAT": 15,
     "PAC": 0,
-    "ROT": -5,
+    "ROT": 7,
     "SOG": 0,
-    "TIME": "2026-02-21 14:17:10 GMT",
+    "TIME": "2026-02-21 15:17:15 GMT",
     "TYPE": 40,
-    "last_seen": "2026-02-21T13:27:03.168378",
+    "last_seen": "2026-02-21T14:17:29.855473",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-21T14:17:29.855473"
+  "last_seen": "2026-02-21T15:17:19.299843"
 }
