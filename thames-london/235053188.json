@@ -515,32 +515,33 @@
     "2026-02-21",
     "2026-02-22",
     "2026-02-23",
-    "2026-02-24"
+    "2026-02-24",
+    "2026-02-26"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "VSSF6",
-    "COG": 246,
+    "COG": 204.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 7,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50697,
-    "LONGITUDE": 0.00813,
+    "LATITUDE": 51.507,
+    "LONGITUDE": 0.00791,
     "MMSI": 235053188,
     "NAME": "HURRICANE CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-02-24 08:25:17 GMT",
+    "TIME": "2026-02-26 08:25:06 GMT",
     "TYPE": 0,
-    "last_seen": "2026-02-24T07:31:37.410262",
+    "last_seen": "2026-02-24T08:25:21.946282",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-24T08:25:21.946282"
+  "last_seen": "2026-02-26T08:25:13.898353"
 }

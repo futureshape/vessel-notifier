@@ -15,32 +15,33 @@
     "2025-11-25",
     "2025-11-26",
     "2025-12-04",
-    "2025-12-08"
+    "2025-12-08",
+    "2026-02-26"
   ],
   "last_full_data": {
     "A": 26,
     "B": 11,
     "C": 4,
     "CALLSIGN": "2HFE5",
-    "COG": 98.7,
+    "COG": 64.6,
     "D": 9,
     "DEST": "GRAVESEND",
     "DRAUGHT": 2.2,
     "ETA": "00-00 24:60",
-    "HEADING": 97,
+    "HEADING": 274,
     "IMO": 9670406,
-    "LATITUDE": 51.49596,
-    "LONGITUDE": 0.02931,
+    "LATITUDE": 51.48417,
+    "LONGITUDE": -0.01541,
     "MMSI": 235103165,
     "NAME": "LONDON TITAN",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 7.5,
-    "TIME": "2025-12-08 12:18:14 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-02-26 08:25:10 GMT",
     "TYPE": 90,
-    "last_seen": "2025-12-08T11:16:25.960570",
+    "last_seen": "2025-12-08T12:18:19.783406",
     "received_by_stations": []
   },
-  "last_seen": "2025-12-08T12:18:19.783406"
+  "last_seen": "2026-02-26T08:25:13.896010"
 }
