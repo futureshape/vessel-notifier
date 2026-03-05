@@ -588,7 +588,7 @@
     "B": 33,
     "C": 10,
     "CALLSIGN": "2FON2",
-    "COG": 0,
+    "COG": 65.5,
     "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 2,
@@ -596,17 +596,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5012,
-    "LONGITUDE": -0.06088,
+    "LONGITUDE": -0.06086,
     "MMSI": 235092958,
     "NAME": "MILLENNIUM DIAMOND",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-03-05 09:25:01 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-03-05 10:23:10 GMT",
     "TYPE": 60,
-    "last_seen": "2026-03-05T08:21:50.987303",
+    "last_seen": "2026-03-05T09:25:04.814679",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-05T09:25:04.814679"
+  "last_seen": "2026-03-05T10:23:15.892958"
 }
