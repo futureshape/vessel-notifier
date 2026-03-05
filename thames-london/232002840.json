@@ -7,28 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "GAAQ",
-    "COG": 2.5,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49908,
-    "LONGITUDE": -0.02936,
+    "LATITUDE": 51.50497,
+    "LONGITUDE": -0.07111,
     "MMSI": 232002840,
     "NAME": "HMS ARCHER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 11.6,
-    "TIME": "2026-03-05 14:25:29 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-03-05 15:00:26 GMT",
     "TYPE": 35,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-03-05T14:25:52.900153",
+    "received_by_stations": []
   },
-  "last_seen": "2026-03-05T14:25:52.900153"
+  "last_seen": "2026-03-05T15:28:24.528951"
 }
