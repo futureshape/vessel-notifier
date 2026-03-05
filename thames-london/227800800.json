@@ -1,7 +1,35 @@
 {
   "dates_seen": [
-    "2023-11-14"
+    "2023-11-14",
+    "2026-03-05"
   ],
-  "last_full_data": {},
-  "last_seen": "2023-11-14T09:17:07.981125"
+  "last_full_data": {
+    "A": 55,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "FAFM",
+    "COG": 360,
+    "D": 10,
+    "DEST": "3",
+    "DRAUGHT": 0,
+    "ETA": "00-00 24:60",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50481,
+    "LONGITUDE": -0.0712,
+    "MMSI": 227800800,
+    "NAME": "FRENCH WARSHIP",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0.1,
+    "TIME": "2026-03-05 13:37:07 GMT",
+    "TYPE": 35,
+    "last_seen": "2023-11-14T09:17:07.981125",
+    "received_by_stations": [
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2026-03-05T13:37:13.103819"
 }
