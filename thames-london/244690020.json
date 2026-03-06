@@ -330,32 +330,33 @@
     "2026-02-24",
     "2026-02-26",
     "2026-02-27",
-    "2026-02-28"
+    "2026-02-28",
+    "2026-03-06"
   ],
   "last_full_data": {
     "A": 50,
     "B": 4,
     "C": 3,
     "CALLSIGN": "PB6045",
-    "COG": 83.7,
+    "COG": 268.5,
     "D": 4,
-    "DEST": "KALLO",
+    "DEST": "LONDON",
     "DRAUGHT": 1.4,
     "ETA": "02-13 16:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50764,
-    "LONGITUDE": 0.0029,
+    "LATITUDE": 51.50763,
+    "LONGITUDE": 0.00302,
     "MMSI": 244690020,
     "NAME": "SCHELDEMOND I",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 1.9,
-    "TIME": "2026-02-28 08:17:26 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-03-06 10:19:39 GMT",
     "TYPE": 33,
-    "last_seen": "2026-02-27T15:23:37.358687",
+    "last_seen": "2026-02-28T08:17:27.839775",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-28T08:17:27.839775"
+  "last_seen": "2026-03-06T10:19:47.355614"
 }
