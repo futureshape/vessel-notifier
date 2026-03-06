@@ -8,7 +8,7 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "VSQN2",
-    "COG": 28.8,
+    "COG": 86.1,
     "D": 3,
     "DEST": "STKTH",
     "DRAUGHT": 1.3,
@@ -19,17 +19,14 @@
     "LONGITUDE": -0.07099,
     "MMSI": 235052734,
     "NAME": "FTV XPLORER",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-03-06 14:23:11 GMT",
+    "TIME": "2026-03-06 15:19:21 GMT",
     "TYPE": 33,
-    "last_seen": "2024-03-15T04:20:25.466997",
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-03-06T14:23:12.230151",
+    "received_by_stations": []
   },
-  "last_seen": "2026-03-06T14:23:12.230151"
+  "last_seen": "2026-03-06T15:21:32.479191"
 }
