@@ -12,7 +12,7 @@
     "DEST": "GBLON",
     "DRAUGHT": 3.9,
     "ETA": "03-06 11:30",
-    "HEADING": 280,
+    "HEADING": 281,
     "IMO": 9375903,
     "LATITUDE": 51.49432,
     "LONGITUDE": 0.02399,
@@ -22,15 +22,10 @@
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-03-06 16:18:59 GMT",
+    "TIME": "2026-03-06 17:18:58 GMT",
     "TYPE": 70,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999,
-      3218,
-      2665
-    ]
+    "last_seen": "2026-03-06T16:21:11.156590",
+    "received_by_stations": []
   },
-  "last_seen": "2026-03-06T16:21:11.156590"
+  "last_seen": "2026-03-06T17:21:55.821948"
 }
