@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2026-03-06"
+    "2026-03-06",
+    "2026-03-07"
   ],
   "last_full_data": {
     "A": 72,
@@ -12,20 +13,20 @@
     "DEST": "GBLON",
     "DRAUGHT": 3.9,
     "ETA": "03-06 11:30",
-    "HEADING": 279,
+    "HEADING": 281,
     "IMO": 9375903,
-    "LATITUDE": 51.49435,
-    "LONGITUDE": 0.02399,
+    "LATITUDE": 51.49436,
+    "LONGITUDE": 0.02398,
     "MMSI": 255806466,
     "NAME": "RHEINTAL",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-03-06 23:16:06 GMT",
+    "TIME": "2026-03-07 00:46:03 GMT",
     "TYPE": 70,
-    "last_seen": "2026-03-06T22:17:37.373234",
+    "last_seen": "2026-03-06T23:18:00.050458",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-06T23:18:00.050458"
+  "last_seen": "2026-03-07T00:46:37.644662"
 }
