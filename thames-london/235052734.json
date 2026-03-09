@@ -3,32 +3,33 @@
     "2024-03-15",
     "2026-03-06",
     "2026-03-07",
-    "2026-03-08"
+    "2026-03-08",
+    "2026-03-09"
   ],
   "last_full_data": {
     "A": 8,
     "B": 4,
     "C": 3,
     "CALLSIGN": "VSQN2",
-    "COG": 140.7,
+    "COG": 360,
     "D": 3,
     "DEST": "KGV",
     "DRAUGHT": 1.3,
     "ETA": "03-07 16:00",
-    "HEADING": 137,
+    "HEADING": 92,
     "IMO": 0,
-    "LATITUDE": 51.50146,
-    "LONGITUDE": 0.01162,
+    "LATITUDE": 51.507,
+    "LONGITUDE": 0.02783,
     "MMSI": 235052734,
     "NAME": "FTV XPLORER",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": -127,
-    "SOG": 8,
-    "TIME": "2026-03-08 16:17:23 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2026-03-09 05:35:42 GMT",
     "TYPE": 33,
-    "last_seen": "2026-03-08T15:16:59.019616",
+    "last_seen": "2026-03-08T16:17:26.421989",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-08T16:17:26.421989"
+  "last_seen": "2026-03-09T05:35:42.846928"
 }
