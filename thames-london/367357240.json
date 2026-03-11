@@ -18,18 +18,18 @@
     "ETA": "01-01 23:18",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50705,
-    "LONGITUDE": -0.07219,
+    "LATITUDE": 51.50715,
+    "LONGITUDE": -0.07194,
     "MMSI": 367357240,
     "NAME": "SPELLBOUND",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-03-11 12:22:42 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-03-11 13:37:42 GMT",
     "TYPE": 36,
-    "last_seen": "2026-03-11T11:21:14.117577",
+    "last_seen": "2026-03-11T12:25:14.574827",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-11T12:25:14.574827"
+  "last_seen": "2026-03-11T13:37:56.175543"
 }
