@@ -2,32 +2,33 @@
   "dates_seen": [
     "2026-03-09",
     "2026-03-10",
-    "2026-03-11"
+    "2026-03-11",
+    "2026-03-12"
   ],
   "last_full_data": {
     "A": 14,
     "B": 4,
     "C": 3,
     "CALLSIGN": "2FGL4",
-    "COG": 87.2,
+    "COG": 271.1,
     "D": 3,
     "DEST": "GALLIONS POINT",
     "DRAUGHT": 1.4,
-    "ETA": "03-09 09:30",
-    "HEADING": 91,
+    "ETA": "03-12 09:30",
+    "HEADING": 90,
     "IMO": 0,
     "LATITUDE": 51.50695,
-    "LONGITUDE": 0.02972,
+    "LONGITUDE": 0.0297,
     "MMSI": 235091051,
     "NAME": "MERSEY GUARDIAN",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-03-11 16:28:00 GMT",
+    "TIME": "2026-03-12 08:21:28 GMT",
     "TYPE": 55,
-    "last_seen": "2026-03-11T15:27:01.927824",
+    "last_seen": "2026-03-11T16:28:41.441489",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-11T16:28:41.441489"
+  "last_seen": "2026-03-12T08:23:35.065726"
 }
