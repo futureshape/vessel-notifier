@@ -2,32 +2,33 @@
   "dates_seen": [
     "2026-03-09",
     "2026-03-10",
-    "2026-03-11"
+    "2026-03-11",
+    "2026-03-12"
   ],
   "last_full_data": {
     "A": 4,
     "B": 2,
     "C": 1,
     "CALLSIGN": "LF2032",
-    "COG": 164.5,
+    "COG": 265.3,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 90,
+    "HEADING": 307,
     "IMO": 0,
-    "LATITUDE": 51.50692,
-    "LONGITUDE": 0.02887,
+    "LATITUDE": 51.50596,
+    "LONGITUDE": 0.02535,
     "MMSI": 257136060,
     "NAME": "DOLPHIN02",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-03-11 16:03:33 GMT",
+    "SOG": 0.4,
+    "TIME": "2026-03-12 10:22:43 GMT",
     "TYPE": 90,
-    "last_seen": "2026-03-11T15:27:01.927370",
+    "last_seen": "2026-03-11T16:28:41.441017",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-11T16:28:41.441017"
+  "last_seen": "2026-03-12T10:23:33.016851"
 }
