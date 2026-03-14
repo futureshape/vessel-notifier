@@ -7,32 +7,25 @@
     "B": 48,
     "C": 7,
     "CALLSIGN": "ZGUI6",
-    "COG": 348.4,
+    "COG": 354.9,
     "D": 7,
     "DEST": "GB LON",
     "DRAUGHT": 3.7,
     "ETA": "03-14 20:00",
-    "HEADING": 350,
+    "HEADING": 122,
     "IMO": 9932452,
-    "LATITUDE": 51.49448,
-    "LONGITUDE": -0.02939,
+    "LATITUDE": 51.50356,
+    "LONGITUDE": -0.07121,
     "MMSI": 319345100,
     "NAME": "ODISEA",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 127,
-    "SOG": 9.8,
-    "TIME": "2026-03-14 20:17:27 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2026-03-14 21:18:06 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2665,
-      3416,
-      3218,
-      2103,
-      3999,
-      2648
-    ]
+    "last_seen": "2026-03-14T20:17:29.490403",
+    "received_by_stations": []
   },
-  "last_seen": "2026-03-14T20:17:29.490403"
+  "last_seen": "2026-03-14T21:18:09.633562"
 }
