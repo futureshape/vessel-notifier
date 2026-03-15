@@ -343,7 +343,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MPZM2",
-    "COG": 4,
+    "COG": 288.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -351,17 +351,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50747,
-    "LONGITUDE": 0.00689,
+    "LONGITUDE": 0.00686,
     "MMSI": 235053187,
     "NAME": "SKY CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-03-15 09:19:55 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-03-15 11:17:45 GMT",
     "TYPE": 0,
-    "last_seen": "2026-03-15T08:20:43.051214",
+    "last_seen": "2026-03-15T09:20:04.844031",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-15T09:20:04.844031"
+  "last_seen": "2026-03-15T11:17:54.486890"
 }
