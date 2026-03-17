@@ -8,32 +8,36 @@
     "2025-09-04",
     "2025-09-05",
     "2025-10-07",
-    "2025-10-11"
+    "2025-10-11",
+    "2026-03-17"
   ],
   "last_full_data": {
     "A": 3,
     "B": 4,
     "C": 1,
     "CALLSIGN": "MLEB6",
-    "COG": 360,
+    "COG": 351.8,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 1,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50734,
-    "LONGITUDE": 0.00742,
+    "LATITUDE": 51.50731,
+    "LONGITUDE": 0.0074,
     "MMSI": 232041137,
     "NAME": "PELTAST",
     "NAVSTAT": 0,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
     "SOG": 0.1,
-    "TIME": "2025-10-11 16:15:52 GMT",
+    "TIME": "2026-03-17 15:28:01 GMT",
     "TYPE": 0,
-    "last_seen": "2025-10-11T15:23:30.659087",
-    "received_by_stations": []
+    "last_seen": "2025-10-11T16:29:30.263047",
+    "received_by_stations": [
+      3999,
+      2648
+    ]
   },
-  "last_seen": "2025-10-11T16:29:30.263047"
+  "last_seen": "2026-03-17T15:33:25.600174"
 }
