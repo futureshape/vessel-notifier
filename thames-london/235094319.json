@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-03-16"
+    "2026-03-16",
+    "2026-03-17"
   ],
   "last_full_data": {
     "A": 7,
     "B": 0,
     "C": 0,
     "CALLSIGN": "2FUI3",
-    "COG": 126.4,
+    "COG": 188.4,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50323,
-    "LONGITUDE": -0.06959,
+    "LATITUDE": 51.49039,
+    "LONGITUDE": -0.00095,
     "MMSI": 235094319,
     "NAME": "DD4",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.2,
-    "TIME": "2026-03-16 11:27:49 GMT",
+    "SOG": 7.3,
+    "TIME": "2026-03-17 07:33:29 GMT",
     "TYPE": 99,
-    "last_seen": "2026-03-16T10:33:21.355075",
+    "last_seen": "2026-03-16T11:27:58.880885",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-16T11:27:58.880885"
+  "last_seen": "2026-03-17T07:33:33.323804"
 }
