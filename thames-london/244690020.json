@@ -341,18 +341,18 @@
     "2026-03-17"
   ],
   "last_full_data": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
+    "A": 50,
+    "B": 4,
+    "C": 3,
     "CALLSIGN": "PB6045",
-    "COG": 85.3,
-    "D": 0,
+    "COG": 80.6,
+    "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1.4,
     "ETA": "02-13 16:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49389,
+    "LATITUDE": 51.49386,
     "LONGITUDE": 0.02837,
     "MMSI": 244690020,
     "NAME": "SCHELDEMOND I",
@@ -360,10 +360,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-03-17 12:30:15 GMT",
+    "TIME": "2026-03-17 13:43:55 GMT",
     "TYPE": 33,
-    "last_seen": "2026-03-17T11:26:39.087767",
+    "last_seen": "2026-03-17T12:30:16.013661",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-17T12:30:16.013661"
+  "last_seen": "2026-03-17T13:44:00.376817"
 }
