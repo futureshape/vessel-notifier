@@ -139,20 +139,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 0,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50265,
-    "LONGITUDE": -0.05849,
+    "LATITUDE": 51.50768,
+    "LONGITUDE": 0.00578,
     "MMSI": 235090688,
     "NAME": "PATRICK COLQUHOUN 2",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-03-18 09:25:42 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-03-18 12:29:06 GMT",
     "TYPE": 55,
-    "last_seen": "2026-03-17T15:33:24.724509",
+    "last_seen": "2026-03-18T09:29:29.848503",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-18T09:29:29.848503"
+  "last_seen": "2026-03-18T12:31:20.475783"
 }
