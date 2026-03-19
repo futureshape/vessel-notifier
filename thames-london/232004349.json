@@ -1,32 +1,38 @@
 {
   "dates_seen": [
     "2024-06-07",
-    "2024-06-29"
+    "2024-06-29",
+    "2026-03-19"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MCXN4",
-    "COG": 122.5,
+    "COG": 253.8,
     "D": 0,
-    "DEST": "CHATHAM",
-    "DRAUGHT": 1.5,
-    "ETA": "07-29 14:30",
-    "HEADING": 113,
+    "DEST": "SOUTH DOCK",
+    "DRAUGHT": 1.6,
+    "ETA": "03-19 13:30",
+    "HEADING": 250,
     "IMO": 0,
-    "LATITUDE": 51.49795,
-    "LONGITUDE": 0.01738,
+    "LATITUDE": 51.486,
+    "LONGITUDE": -0.00907,
     "MMSI": 232004349,
     "NAME": "NIPASHORE",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": -127,
-    "SOG": 9.6,
-    "TIME": "2024-06-29 08:26:33 GMT",
+    "ROT": 127,
+    "SOG": 8.7,
+    "TIME": "2026-03-19 13:40:28 GMT",
     "TYPE": 52,
-    "last_seen": "2024-06-29T07:21:54.541104",
-    "received_by_stations": []
+    "last_seen": "2024-06-29T08:26:35.368061",
+    "received_by_stations": [
+      3416,
+      3999,
+      2648,
+      3218
+    ]
   },
-  "last_seen": "2024-06-29T08:26:35.368061"
+  "last_seen": "2026-03-19T13:40:31.275000"
 }
