@@ -9,30 +9,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MCXN4",
-    "COG": 253.8,
+    "COG": 150.8,
     "D": 0,
     "DEST": "SOUTH DOCK",
     "DRAUGHT": 1.6,
     "ETA": "03-19 13:30",
-    "HEADING": 250,
+    "HEADING": 144,
     "IMO": 0,
-    "LATITUDE": 51.486,
-    "LONGITUDE": -0.00907,
+    "LATITUDE": 51.49085,
+    "LONGITUDE": -0.0288,
     "MMSI": 232004349,
     "NAME": "NIPASHORE",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 127,
-    "SOG": 8.7,
-    "TIME": "2026-03-19 13:40:28 GMT",
+    "ROT": 0,
+    "SOG": 3.8,
+    "TIME": "2026-03-19 14:29:27 GMT",
     "TYPE": 52,
-    "last_seen": "2024-06-29T08:26:35.368061",
-    "received_by_stations": [
-      3416,
-      3999,
-      2648,
-      3218
-    ]
+    "last_seen": "2026-03-19T13:40:31.275000",
+    "received_by_stations": []
   },
-  "last_seen": "2026-03-19T13:40:31.275000"
+  "last_seen": "2026-03-19T14:29:35.102230"
 }
