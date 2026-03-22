@@ -17,28 +17,25 @@
     "B": 2,
     "C": 2,
     "CALLSIGN": "MMVC8",
-    "COG": 360,
+    "COG": 358.7,
     "D": 2,
     "DEST": "GBCTM",
     "DRAUGHT": 1.5,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49341,
-    "LONGITUDE": -0.03115,
+    "LATITUDE": 51.49245,
+    "LONGITUDE": -0.03063,
     "MMSI": 232045311,
     "NAME": "PLASHY",
     "NAVSTAT": 11,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-03-22 15:17:19 GMT",
+    "SOG": 1.1,
+    "TIME": "2026-03-22 16:17:29 GMT",
     "TYPE": 52,
-    "last_seen": "2025-10-12T15:24:18.878133",
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-03-22T15:17:22.621844",
+    "received_by_stations": []
   },
-  "last_seen": "2026-03-22T15:17:22.621844"
+  "last_seen": "2026-03-22T16:17:36.084867"
 }
