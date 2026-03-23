@@ -470,18 +470,18 @@
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49461,
-    "LONGITUDE": 0.02611,
+    "LATITUDE": 51.49462,
+    "LONGITUDE": 0.0261,
     "MMSI": 235078639,
     "NAME": "RECLAIM",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-03-23 00:53:36 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-03-23 01:46:56 GMT",
     "TYPE": 52,
-    "last_seen": "2026-03-22T23:17:41.871089",
+    "last_seen": "2026-03-23T00:53:40.209441",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-23T00:53:40.209441"
+  "last_seen": "2026-03-23T01:46:59.865668"
 }
