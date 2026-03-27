@@ -7,30 +7,25 @@
     "B": 11,
     "C": 2,
     "CALLSIGN": "ZGVO5",
-    "COG": 312.3,
+    "COG": 360,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 311,
+    "HEADING": 290,
     "IMO": 0,
-    "LATITUDE": 51.50512,
-    "LONGITUDE": 0.00906,
+    "LATITUDE": 51.50343,
+    "LONGITUDE": -0.0662,
     "MMSI": 319337900,
     "NAME": "ENDURANCE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.5,
-    "TIME": "2026-03-27 15:27:06 GMT",
+    "SOG": 0,
+    "TIME": "2026-03-27 16:26:04 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648,
-      2665,
-      3218
-    ]
+    "last_seen": "2026-03-27T15:27:21.355562",
+    "received_by_stations": []
   },
-  "last_seen": "2026-03-27T15:27:21.355562"
+  "last_seen": "2026-03-27T16:28:45.711687"
 }
