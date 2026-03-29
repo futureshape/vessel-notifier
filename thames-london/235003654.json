@@ -655,17 +655,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49343,
-    "LONGITUDE": -0.03671,
+    "LONGITUDE": -0.03672,
     "MMSI": 235003654,
     "NAME": "MV ANDANTE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-03-29 14:18:38 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-03-29 15:15:37 GMT",
     "TYPE": 37,
-    "last_seen": "2026-03-29T12:22:05.885792",
+    "last_seen": "2026-03-29T14:21:06.303092",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-29T14:21:06.303092"
+  "last_seen": "2026-03-29T15:18:13.840906"
 }
