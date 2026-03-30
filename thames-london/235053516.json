@@ -314,32 +314,33 @@
     "2026-03-24",
     "2026-03-26",
     "2026-03-27",
-    "2026-03-28"
+    "2026-03-28",
+    "2026-03-30"
   ],
   "last_full_data": {
     "A": 24,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MMQZ7",
-    "COG": 282.8,
+    "COG": 360,
     "D": 8,
     "DEST": "RIVER THAMES",
     "DRAUGHT": 1.7,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.51018,
-    "LONGITUDE": -0.09918,
+    "LATITUDE": 51.51005,
+    "LONGITUDE": -0.11555,
     "MMSI": 235053516,
     "NAME": "GOLDEN FLAME",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.6,
-    "TIME": "2026-03-28 23:18:08 GMT",
+    "SOG": 0,
+    "TIME": "2026-03-30 09:43:05 GMT",
     "TYPE": 37,
-    "last_seen": "2026-03-28T22:17:35.300617",
+    "last_seen": "2026-03-28T23:18:14.715269",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-28T23:18:14.715269"
+  "last_seen": "2026-03-30T09:43:10.307466"
 }
