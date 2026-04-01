@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2026-04-01"
+  ],
+  "last_full_data": {
+    "A": 18,
+    "B": 28,
+    "C": 5,
+    "CALLSIGN": "FAZL",
+    "COG": 271.8,
+    "D": 3,
+    "DEST": "LONDON",
+    "DRAUGHT": 2.4,
+    "ETA": "04-01 12:00",
+    "HEADING": 273,
+    "IMO": 0,
+    "LATITUDE": 51.49649,
+    "LONGITUDE": 0.02859,
+    "MMSI": 228870400,
+    "NAME": "FRENCH WARSHIP",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 9.3,
+    "TIME": "2026-04-01 10:32:14 GMT",
+    "TYPE": 35,
+    "last_seen": null,
+    "received_by_stations": [
+      2665,
+      2648,
+      3218,
+      3999
+    ]
+  },
+  "last_seen": "2026-04-01T10:32:17.050854"
+}
