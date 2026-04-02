@@ -20,30 +20,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2HFC5",
-    "COG": 277.7,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49676,
-    "LONGITUDE": 0.03927,
+    "LATITUDE": 51.46398,
+    "LONGITUDE": -0.20231,
     "MMSI": 235103148,
     "NAME": "BENFLEET",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 14,
-    "TIME": "2026-04-02 05:44:16 GMT",
+    "SOG": 0,
+    "TIME": "2026-04-02 06:38:47 GMT",
     "TYPE": 53,
-    "last_seen": "2025-05-08T11:24:07.957029",
-    "received_by_stations": [
-      3999,
-      2665,
-      3218,
-      2648
-    ]
+    "last_seen": "2026-04-02T05:44:24.702195",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-02T05:44:24.702195"
+  "last_seen": "2026-04-02T06:40:12.664758"
 }
