@@ -7,30 +7,25 @@
     "B": 2,
     "C": 4,
     "CALLSIGN": "PI8090",
-    "COG": 282.7,
+    "COG": 67.8,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50851,
-    "LONGITUDE": -0.0891,
+    "LATITUDE": 51.46393,
+    "LONGITUDE": -0.19122,
     "MMSI": 244210297,
     "NAME": "GIPSY",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 9.4,
-    "TIME": "2026-04-02 10:29:44 GMT",
+    "SOG": 4,
+    "TIME": "2026-04-02 11:27:01 GMT",
     "TYPE": 69,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      2648,
-      3999,
-      2055
-    ]
+    "last_seen": "2026-04-02T10:29:51.909298",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-02T10:29:51.909298"
+  "last_seen": "2026-04-02T11:27:10.278980"
 }

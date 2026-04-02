@@ -23,7 +23,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MMXD7",
-    "COG": 197.4,
+    "COG": 191,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 5,
@@ -31,17 +31,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.46737,
-    "LONGITUDE": -0.21543,
+    "LONGITUDE": -0.21544,
     "MMSI": 235022614,
     "NAME": "DRIFTWOOD 3",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-04-02 10:17:33 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-04-02 11:26:53 GMT",
     "TYPE": 99,
-    "last_seen": "2026-04-02T09:32:27.568608",
+    "last_seen": "2026-04-02T10:29:51.047264",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-02T10:29:51.047264"
+  "last_seen": "2026-04-02T11:27:10.278104"
 }
