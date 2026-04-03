@@ -4,32 +4,40 @@
     "2024-09-26",
     "2024-09-27",
     "2025-10-18",
-    "2025-10-19"
+    "2025-10-19",
+    "2026-04-03"
   ],
   "last_full_data": {
     "A": 18,
     "B": 121,
     "C": 11,
     "CALLSIGN": "9HA5276",
-    "COG": 122.9,
+    "COG": 267.6,
     "D": 11,
-    "DEST": "DEHAM",
-    "DRAUGHT": 5.7,
-    "ETA": "10-20 22:00",
-    "HEADING": 125,
+    "DEST": "GBLON",
+    "DRAUGHT": 5.6,
+    "ETA": "04-03 15:45",
+    "HEADING": 263,
     "IMO": 9817133,
-    "LATITUDE": 51.50739,
-    "LONGITUDE": -0.03359,
+    "LATITUDE": 51.50187,
+    "LONGITUDE": -0.06044,
     "MMSI": 215768000,
     "NAME": "HANSEATIC NATURE",
-    "NAVSTAT": 5,
+    "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 21,
-    "SOG": 7.9,
-    "TIME": "2025-10-19 13:28:45 GMT",
+    "ROT": 19,
+    "SOG": 4.7,
+    "TIME": "2026-04-03 15:25:29 GMT",
     "TYPE": 60,
-    "last_seen": "2025-10-19T12:50:33.847597",
-    "received_by_stations": []
+    "last_seen": "2025-10-19T13:28:51.249471",
+    "received_by_stations": [
+      2103,
+      3218,
+      3416,
+      2055,
+      3999,
+      2648
+    ]
   },
-  "last_seen": "2025-10-19T13:28:51.249471"
+  "last_seen": "2026-04-03T15:25:36.553766"
 }
