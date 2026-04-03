@@ -1,31 +1,35 @@
 {
   "dates_seen": [
-    "2025-08-12"
+    "2025-08-12",
+    "2026-04-03"
   ],
   "last_full_data": {
     "A": 12,
     "B": 5,
     "C": 3,
     "CALLSIGN": "2FBT6",
-    "COG": 146.1,
+    "COG": 168.5,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50504,
-    "LONGITUDE": -0.07229,
+    "LATITUDE": 51.50796,
+    "LONGITUDE": -0.07252,
     "MMSI": 235089932,
     "NAME": "FOCHINTULLA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 1.5,
-    "TIME": "2025-08-12 15:31:56 GMT",
+    "SOG": 0,
+    "TIME": "2026-04-03 09:28:23 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-12T14:33:23.381916",
-    "received_by_stations": []
+    "last_seen": "2025-08-12T15:32:17.348176",
+    "received_by_stations": [
+      3999,
+      2648
+    ]
   },
-  "last_seen": "2025-08-12T15:32:17.348176"
+  "last_seen": "2026-04-03T09:30:07.706325"
 }
