@@ -8,29 +8,25 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "2EHE9",
-    "COG": 308.2,
+    "COG": 294.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0.9,
     "ETA": "08-04 15:47",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49899,
-    "LONGITUDE": 0.01995,
+    "LATITUDE": 51.50471,
+    "LONGITUDE": -0.07165,
     "MMSI": 235085078,
     "NAME": "ELSIE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.3,
-    "TIME": "2026-04-06 13:41:14 GMT",
+    "SOG": 7.2,
+    "TIME": "2026-04-06 14:29:16 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-09T07:21:14.235787",
-    "received_by_stations": [
-      3999,
-      3218,
-      2648
-    ]
+    "last_seen": "2026-04-06T13:41:41.860115",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-06T13:41:41.860115"
+  "last_seen": "2026-04-06T14:30:09.648096"
 }
