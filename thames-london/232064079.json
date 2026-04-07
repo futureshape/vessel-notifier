@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2026-04-07"
+  ],
+  "last_full_data": {
+    "A": 1,
+    "B": 1,
+    "C": 2,
+    "CALLSIGN": "MSXA8",
+    "COG": 360,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49579,
+    "LONGITUDE": -0.0046,
+    "MMSI": 232064079,
+    "NAME": "JACKAL",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0.1,
+    "TIME": "2026-04-07 07:44:28 GMT",
+    "TYPE": 52,
+    "last_seen": null,
+    "received_by_stations": [
+      2648,
+      3999,
+      3218
+    ]
+  },
+  "last_seen": "2026-04-07T07:44:32.966099"
+}
