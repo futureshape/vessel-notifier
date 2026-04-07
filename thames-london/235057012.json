@@ -590,32 +590,33 @@
     "2026-04-03",
     "2026-04-04",
     "2026-04-05",
-    "2026-04-06"
+    "2026-04-06",
+    "2026-04-07"
   ],
   "last_full_data": {
     "A": 30,
     "B": 8,
     "C": 2,
     "CALLSIGN": "MVMT8",
-    "COG": 289.8,
+    "COG": 142.7,
     "D": 7,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50738,
-    "LONGITUDE": 0.00631,
+    "LATITUDE": 51.50737,
+    "LONGITUDE": 0.00632,
     "MMSI": 235057012,
     "NAME": "TORNADO CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-04-06 23:21:23 GMT",
+    "TIME": "2026-04-07 00:56:00 GMT",
     "TYPE": 40,
-    "last_seen": "2026-04-06T22:19:41.023282",
+    "last_seen": "2026-04-06T23:21:32.290315",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-06T23:21:32.290315"
+  "last_seen": "2026-04-07T00:56:01.753206"
 }
