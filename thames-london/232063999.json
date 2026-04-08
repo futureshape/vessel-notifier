@@ -21,32 +21,33 @@
     "2026-03-24",
     "2026-03-25",
     "2026-03-26",
-    "2026-04-02"
+    "2026-04-02",
+    "2026-04-08"
   ],
   "last_full_data": {
     "A": 17,
     "B": 23,
     "C": 7,
     "CALLSIGN": "MSWN8",
-    "COG": 49.4,
+    "COG": 199.5,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1.2,
     "ETA": "00-00 24:60",
-    "HEADING": 511,
+    "HEADING": 293,
     "IMO": 1079321,
-    "LATITUDE": 51.50759,
-    "LONGITUDE": 0.00617,
+    "LATITUDE": 51.50758,
+    "LONGITUDE": 0.00612,
     "MMSI": 232063999,
     "NAME": "LIGHTNING CLIPPER",
-    "NAVSTAT": 5,
+    "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 128,
+    "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-04-02 16:20:35 GMT",
+    "TIME": "2026-04-08 07:44:32 GMT",
     "TYPE": 60,
-    "last_seen": "2026-04-02T15:32:17.920744",
+    "last_seen": "2026-04-02T16:30:26.058488",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-02T16:30:26.058488"
+  "last_seen": "2026-04-08T07:44:37.481996"
 }
