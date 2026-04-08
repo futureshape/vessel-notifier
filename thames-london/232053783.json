@@ -545,14 +545,14 @@
     "B": 23,
     "C": 5,
     "CALLSIGN": "MOWK6",
-    "COG": 67,
+    "COG": 0,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 9997256,
-    "LATITUDE": 51.50731,
+    "LATITUDE": 51.5073,
     "LONGITUDE": 0.00676,
     "MMSI": 232053783,
     "NAME": "MARS CLIPPER",
@@ -560,10 +560,10 @@
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-04-08 03:15:08 GMT",
+    "TIME": "2026-04-08 04:59:28 GMT",
     "TYPE": 40,
-    "last_seen": "2026-04-08T01:47:15.314411",
+    "last_seen": "2026-04-08T03:15:11.777719",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-08T03:15:11.777719"
+  "last_seen": "2026-04-08T04:59:37.420872"
 }
