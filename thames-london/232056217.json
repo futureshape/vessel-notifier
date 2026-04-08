@@ -617,20 +617,20 @@
     "DEST": "LONDON",
     "DRAUGHT": 2,
     "ETA": "07-11 19:00",
-    "HEADING": 95,
+    "HEADING": 94,
     "IMO": 1022225,
-    "LATITUDE": 51.49443,
-    "LONGITUDE": 0.02662,
+    "LATITUDE": 51.49444,
+    "LONGITUDE": 0.02664,
     "MMSI": 232056217,
     "NAME": "RESOLUTE 1",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": 9,
-    "SOG": 0.1,
-    "TIME": "2026-04-08 17:33:28 GMT",
+    "ROT": -6,
+    "SOG": 0,
+    "TIME": "2026-04-08 18:36:28 GMT",
     "TYPE": 31,
-    "last_seen": "2026-04-08T16:37:09.839994",
+    "last_seen": "2026-04-08T17:34:56.849566",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-08T17:34:56.849566"
+  "last_seen": "2026-04-08T18:39:08.475989"
 }
