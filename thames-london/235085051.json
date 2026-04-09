@@ -8,29 +8,25 @@
     "B": 9,
     "C": 2,
     "CALLSIGN": "MTUT",
-    "COG": 284.7,
+    "COG": 281.6,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50253,
-    "LONGITUDE": -0.06292,
+    "LATITUDE": 51.46498,
+    "LONGITUDE": -0.2037,
     "MMSI": 235085051,
     "NAME": "CALINA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 9.4,
-    "TIME": "2026-04-09 15:43:59 GMT",
+    "SOG": 8.9,
+    "TIME": "2026-04-09 16:26:59 GMT",
     "TYPE": 37,
-    "last_seen": "2024-11-10T09:23:16.780284",
-    "received_by_stations": [
-      2675,
-      2648,
-      3999
-    ]
+    "last_seen": "2026-04-09T15:44:24.390991",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-09T15:44:24.390991"
+  "last_seen": "2026-04-09T16:40:46.473413"
 }
