@@ -242,32 +242,33 @@
     "2026-03-28",
     "2026-03-29",
     "2026-03-30",
-    "2026-03-31"
+    "2026-03-31",
+    "2026-04-10"
   ],
   "last_full_data": {
     "A": 7,
     "B": 1,
     "C": 2,
     "CALLSIGN": "MPWH2",
-    "COG": 33.4,
+    "COG": 244.4,
     "D": 1,
     "DEST": "GREENWICH YACHT CLUB",
     "DRAUGHT": 0.7,
     "ETA": "03-30 09:16",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49498,
-    "LONGITUDE": 0.01819,
+    "LATITUDE": 51.49557,
+    "LONGITUDE": 0.0188,
     "MMSI": 232056926,
     "NAME": "THAMES NAVIGATOR",
-    "NAVSTAT": 5,
+    "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-03-31 12:30:55 GMT",
+    "TIME": "2026-04-10 13:17:29 GMT",
     "TYPE": 40,
-    "last_seen": "2026-03-31T11:28:11.995972",
+    "last_seen": "2026-03-31T12:33:35.925612",
     "received_by_stations": []
   },
-  "last_seen": "2026-03-31T12:33:35.925612"
+  "last_seen": "2026-04-10T13:42:59.600902"
 }
