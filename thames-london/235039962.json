@@ -221,20 +221,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 268,
+    "HEADING": 271,
     "IMO": 0,
-    "LATITUDE": 51.48985,
-    "LONGITUDE": -0.23435,
+    "LATITUDE": 51.48992,
+    "LONGITUDE": -0.23437,
     "MMSI": 235039962,
     "NAME": "CHELSEA",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": -7,
-    "SOG": 0,
-    "TIME": "2026-04-11 11:17:41 GMT",
+    "ROT": 2,
+    "SOG": 0.1,
+    "TIME": "2026-04-11 12:22:51 GMT",
     "TYPE": 99,
-    "last_seen": "2026-04-11T10:19:22.433311",
+    "last_seen": "2026-04-11T11:18:20.420015",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-11T11:18:20.420015"
+  "last_seen": "2026-04-11T12:23:16.241177"
 }
