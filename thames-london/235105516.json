@@ -437,32 +437,33 @@
     "2026-04-07",
     "2026-04-08",
     "2026-04-09",
-    "2026-04-10"
+    "2026-04-10",
+    "2026-04-11"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "2HPH9",
-    "COG": 1.7,
+    "COG": 360,
     "D": 0,
     "DEST": "WATERLOO PIER",
     "DRAUGHT": 0,
     "ETA": "08-07 18:15",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50685,
-    "LONGITUDE": -0.11779,
+    "LATITUDE": 51.50684,
+    "LONGITUDE": -0.1178,
     "MMSI": 235105516,
     "NAME": "ROCKET JUNIOR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-04-10 18:05:11 GMT",
+    "SOG": 0,
+    "TIME": "2026-04-11 09:23:59 GMT",
     "TYPE": 40,
-    "last_seen": "2026-04-10T17:27:56.919204",
+    "last_seen": "2026-04-10T18:28:55.942987",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-10T18:28:55.942987"
+  "last_seen": "2026-04-11T09:24:14.189816"
 }
