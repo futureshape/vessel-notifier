@@ -9,27 +9,25 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "?",
-    "COG": 0,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
-    "ETA": "04-12 15:09",
+    "ETA": "04-12 20:12",
     "HEADING": 359,
     "IMO": 0,
-    "LATITUDE": 51.46242,
-    "LONGITUDE": -0.19902,
+    "LATITUDE": 51.46238,
+    "LONGITUDE": -0.199,
     "MMSI": 235102566,
     "NAME": "HERA",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-04-12 15:11:48 GMT",
+    "TIME": "2026-04-12 20:11:54 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-17T08:35:21.235010",
-    "received_by_stations": [
-      2333
-    ]
+    "last_seen": "2026-04-12T15:22:04.736049",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-12T15:22:04.736049"
+  "last_seen": "2026-04-12T20:18:47.061949"
 }
