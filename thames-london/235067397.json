@@ -444,17 +444,17 @@
     "HEADING": 511,
     "IMO": 5145520,
     "LATITUDE": 51.49442,
-    "LONGITUDE": 0.026,
+    "LONGITUDE": 0.02601,
     "MMSI": 235067397,
     "NAME": "HEIKO",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-04-13 07:47:35 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-04-13 08:54:07 GMT",
     "TYPE": 80,
-    "last_seen": "2026-04-13T07:00:30.851885",
+    "last_seen": "2026-04-13T07:47:39.516175",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-13T07:47:39.516175"
+  "last_seen": "2026-04-13T08:54:14.303645"
 }
