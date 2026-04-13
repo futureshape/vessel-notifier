@@ -397,18 +397,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 75,
     "IMO": 0,
-    "LATITUDE": 51.46227,
-    "LONGITUDE": -0.3166,
+    "LATITUDE": 51.46226,
+    "LONGITUDE": -0.31665,
     "MMSI": 235022608,
     "NAME": "RICHMOND",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": -7,
-    "SOG": 0,
-    "TIME": "2026-04-13 06:53:11 GMT",
+    "ROT": 3,
+    "SOG": 0.1,
+    "TIME": "2026-04-13 07:20:20 GMT",
     "TYPE": 99,
-    "last_seen": "2026-04-10T15:27:30.374297",
+    "last_seen": "2026-04-13T07:00:30.833537",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-13T07:00:30.833537"
+  "last_seen": "2026-04-13T07:47:39.494988"
 }
