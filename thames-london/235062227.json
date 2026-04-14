@@ -1,7 +1,37 @@
 {
   "dates_seen": [
-    "2024-01-17"
+    "2024-01-17",
+    "2026-04-14"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-01-17T17:16:17.572586"
+  "last_full_data": {
+    "A": 5,
+    "B": 3,
+    "C": 1,
+    "CALLSIGN": "2AQY2",
+    "COG": 5.3,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 5,
+    "ETA": "01-19 14:57",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50028,
+    "LONGITUDE": -0.007,
+    "MMSI": 235062227,
+    "NAME": "GALLOPER",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 2.8,
+    "TIME": "2026-04-14 10:39:16 GMT",
+    "TYPE": 79,
+    "last_seen": "2024-01-17T17:16:17.572586",
+    "received_by_stations": [
+      3999,
+      2648,
+      3218,
+      3679
+    ]
+  },
+  "last_seen": "2026-04-14T10:39:19.786721"
 }
