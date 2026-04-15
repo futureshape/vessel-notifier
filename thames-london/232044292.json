@@ -242,7 +242,7 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "MMKX2",
-    "COG": 69.6,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -250,17 +250,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50406,
-    "LONGITUDE": -0.07361,
+    "LONGITUDE": -0.07362,
     "MMSI": 232044292,
     "NAME": "ROMEO LIMA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2026-04-15 13:45:18 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-04-15 14:45:38 GMT",
     "TYPE": 20,
-    "last_seen": "2026-04-15T12:36:31.810026",
+    "last_seen": "2026-04-15T13:45:21.794599",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-15T13:45:21.794599"
+  "last_seen": "2026-04-15T14:45:42.051655"
 }
