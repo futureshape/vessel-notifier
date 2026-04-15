@@ -627,17 +627,17 @@
     "HEADING": 92,
     "IMO": 1022225,
     "LATITUDE": 51.49441,
-    "LONGITUDE": 0.0266,
+    "LONGITUDE": 0.02661,
     "MMSI": 232056217,
     "NAME": "RESOLUTE 1",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": -7,
-    "SOG": 0,
-    "TIME": "2026-04-15 10:35:40 GMT",
+    "ROT": 3,
+    "SOG": 0.1,
+    "TIME": "2026-04-15 11:29:37 GMT",
     "TYPE": 31,
-    "last_seen": "2026-04-15T09:43:42.168830",
+    "last_seen": "2026-04-15T10:38:20.569807",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-15T10:38:20.569807"
+  "last_seen": "2026-04-15T11:32:19.504062"
 }
