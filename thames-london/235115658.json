@@ -79,7 +79,7 @@
     "B": 14,
     "C": 3,
     "CALLSIGN": "2JGG4",
-    "COG": 104.3,
+    "COG": 108.7,
     "D": 3,
     "DEST": "MEDWAY",
     "DRAUGHT": 2.2,
@@ -87,17 +87,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50032,
-    "LONGITUDE": 0.01791,
+    "LONGITUDE": 0.01794,
     "MMSI": 235115658,
     "NAME": "GPS ARCADIA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-04-16 10:39:47 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-04-16 11:33:16 GMT",
     "TYPE": 52,
-    "last_seen": "2026-04-15T11:32:19.504509",
+    "last_seen": "2026-04-16T10:39:47.953182",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-16T10:39:47.953182"
+  "last_seen": "2026-04-16T11:33:21.339428"
 }

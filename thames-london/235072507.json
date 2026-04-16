@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-02-02"
+    "2026-02-02",
+    "2026-04-16"
   ],
   "last_full_data": {
     "A": 10,
     "B": 10,
     "C": 3,
     "CALLSIGN": "",
-    "COG": 0,
+    "COG": 226.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.44637,
-    "LONGITUDE": -0.3235,
+    "LATITUDE": 51.46656,
+    "LONGITUDE": -0.18416,
     "MMSI": 235072507,
     "NAME": "CALYPSO OF COWES",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-02-02 13:20:46 GMT",
+    "SOG": 5.8,
+    "TIME": "2026-04-16 11:33:14 GMT",
     "TYPE": 37,
-    "last_seen": null,
+    "last_seen": "2026-02-02T13:36:14.710848",
     "received_by_stations": []
   },
-  "last_seen": "2026-02-02T13:36:14.710848"
+  "last_seen": "2026-04-16T11:33:20.501492"
 }
