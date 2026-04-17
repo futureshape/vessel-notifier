@@ -1,7 +1,35 @@
 {
   "dates_seen": [
-    "2024-06-18"
+    "2024-06-18",
+    "2026-04-17"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-18T11:16:27.865928"
+  "last_full_data": {
+    "A": 2,
+    "B": 7,
+    "C": 2,
+    "CALLSIGN": "MJVW7",
+    "COG": 360,
+    "D": 1,
+    "DEST": "IMPERIAL WHARF",
+    "DRAUGHT": 0.6,
+    "ETA": "02-23 20:22",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49381,
+    "LONGITUDE": -0.03313,
+    "MMSI": 232037790,
+    "NAME": "RUBY",
+    "NAVSTAT": 3,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2026-04-17 13:44:41 GMT",
+    "TYPE": 49,
+    "last_seen": "2024-06-18T11:16:27.865928",
+    "received_by_stations": [
+      3999,
+      2648
+    ]
+  },
+  "last_seen": "2026-04-17T13:44:48.648505"
 }
