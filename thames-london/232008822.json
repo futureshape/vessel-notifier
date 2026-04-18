@@ -632,8 +632,8 @@
   ],
   "last_full_data": {
     "A": 0,
-    "B": 32,
-    "C": 7,
+    "B": 0,
+    "C": 0,
     "CALLSIGN": "MBFQ2",
     "COG": 360,
     "D": 0,
@@ -642,18 +642,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50748,
-    "LONGITUDE": 0.00602,
+    "LATITUDE": 51.48551,
+    "LONGITUDE": -0.01896,
     "MMSI": 232008822,
     "NAME": "MERCURY CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-04-18 06:38:36 GMT",
+    "SOG": 102.3,
+    "TIME": "2026-04-18 07:17:28 GMT",
     "TYPE": 40,
-    "last_seen": "2026-04-18T05:44:35.052718",
+    "last_seen": "2026-04-18T06:38:40.845441",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-18T06:38:40.845441"
+  "last_seen": "2026-04-18T07:36:06.781943"
 }
