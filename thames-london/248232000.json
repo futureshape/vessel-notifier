@@ -2,32 +2,39 @@
   "dates_seen": [
     "2025-06-23",
     "2025-06-24",
-    "2025-06-25"
+    "2025-06-25",
+    "2026-04-20"
   ],
   "last_full_data": {
     "A": 19,
     "B": 36,
     "C": 5,
     "CALLSIGN": "9HA2262",
-    "COG": 107.4,
+    "COG": 166,
     "D": 5,
-    "DEST": "HARLINGEN",
+    "DEST": "LONDON",
     "DRAUGHT": 3.5,
-    "ETA": "06-26 18:00",
-    "HEADING": 96,
+    "ETA": "04-20 16:30",
+    "HEADING": 159,
     "IMO": 1010430,
-    "LATITUDE": 51.50121,
-    "LONGITUDE": -0.0107,
+    "LATITUDE": 51.49942,
+    "LONGITUDE": -0.00486,
     "MMSI": 248232000,
     "NAME": "KAHALANI",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 4,
-    "SOG": 0,
-    "TIME": "2025-06-25 11:25:38 GMT",
+    "ROT": -127,
+    "SOG": 6.1,
+    "TIME": "2026-04-20 12:40:07 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-25T10:35:18.900943",
-    "received_by_stations": []
+    "last_seen": "2025-06-25T11:25:47.497718",
+    "received_by_stations": [
+      3999,
+      2103,
+      3218,
+      2665,
+      2648
+    ]
   },
-  "last_seen": "2025-06-25T11:25:47.497718"
+  "last_seen": "2026-04-20T12:40:09.262037"
 }
