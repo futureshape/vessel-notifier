@@ -10,31 +10,25 @@
     "B": 36,
     "C": 5,
     "CALLSIGN": "9HA2262",
-    "COG": 166,
+    "COG": 245.3,
     "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 3.5,
     "ETA": "04-20 16:30",
-    "HEADING": 159,
+    "HEADING": 113,
     "IMO": 1010430,
-    "LATITUDE": 51.49942,
-    "LONGITUDE": -0.00486,
+    "LATITUDE": 51.50627,
+    "LONGITUDE": -0.07807,
     "MMSI": 248232000,
     "NAME": "KAHALANI",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": -127,
-    "SOG": 6.1,
-    "TIME": "2026-04-20 12:40:07 GMT",
+    "ROT": 0,
+    "SOG": 0.1,
+    "TIME": "2026-04-20 13:45:38 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-25T11:25:47.497718",
-    "received_by_stations": [
-      3999,
-      2103,
-      3218,
-      2665,
-      2648
-    ]
+    "last_seen": "2026-04-20T12:40:09.262037",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-20T12:40:09.262037"
+  "last_seen": "2026-04-20T13:45:38.851292"
 }
