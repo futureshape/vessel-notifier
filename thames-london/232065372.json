@@ -7,31 +7,25 @@
     "B": 8,
     "C": 3,
     "CALLSIGN": "MTEW4",
-    "COG": 291.4,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 294,
+    "HEADING": 282,
     "IMO": 0,
-    "LATITUDE": 51.50331,
-    "LONGITUDE": -0.06741,
+    "LATITUDE": 51.5067,
+    "LONGITUDE": -0.07171,
     "MMSI": 232065372,
     "NAME": "ANNIE III",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.2,
-    "TIME": "2026-04-24 05:13:38 GMT",
+    "SOG": 0,
+    "TIME": "2026-04-24 06:46:14 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      3416,
-      2648,
-      2675,
-      3999
-    ]
+    "last_seen": "2026-04-24T05:13:58.909764",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-24T05:13:58.909764"
+  "last_seen": "2026-04-24T06:53:32.212609"
 }
