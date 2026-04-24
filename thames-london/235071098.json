@@ -7,29 +7,25 @@
     "B": 5,
     "C": 0,
     "CALLSIGN": "2CAU3",
-    "COG": 99.3,
+    "COG": 234.6,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50551,
-    "LONGITUDE": -0.07223,
+    "LATITUDE": 51.50613,
+    "LONGITUDE": -0.07227,
     "MMSI": 235071098,
     "NAME": "MONEYPENNY",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-04-24 17:28:45 GMT",
+    "SOG": 0,
+    "TIME": "2026-04-24 18:23:15 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2675,
-      3999,
-      2648
-    ]
+    "last_seen": "2026-04-24T17:30:10.141001",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-24T17:30:10.141001"
+  "last_seen": "2026-04-24T18:26:01.591741"
 }
