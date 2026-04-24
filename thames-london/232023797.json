@@ -18,21 +18,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50705,
-    "LONGITUDE": -0.07143,
+    "LATITUDE": 51.507,
+    "LONGITUDE": -0.07145,
     "MMSI": 232023797,
     "NAME": "NO WHERE MAN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-04-24 15:37:24 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-04-24 16:28:25 GMT",
     "TYPE": 37,
-    "last_seen": "2025-12-31T13:22:20.070900",
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-04-24T15:37:52.655348",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-24T15:37:52.655348"
+  "last_seen": "2026-04-24T16:31:15.791697"
 }
