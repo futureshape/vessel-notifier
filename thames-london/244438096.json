@@ -7,28 +7,25 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "PI9344",
-    "COG": 352.4,
+    "COG": 120.3,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50318,
-    "LONGITUDE": -0.02874,
+    "LATITUDE": 51.50668,
+    "LONGITUDE": -0.07083,
     "MMSI": 244438096,
     "NAME": "PLINIUS",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.2,
-    "TIME": "2026-04-27 09:02:13 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-04-27 09:47:38 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-04-27T09:02:39.737608",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-27T09:02:39.737608"
+  "last_seen": "2026-04-27T09:56:58.983998"
 }
