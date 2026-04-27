@@ -542,7 +542,7 @@
     "B": 12,
     "C": 3,
     "CALLSIGN": "MNCV9",
-    "COG": 234,
+    "COG": 111.3,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -550,17 +550,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50478,
-    "LONGITUDE": -0.03123,
+    "LONGITUDE": -0.0314,
     "MMSI": 235053178,
     "NAME": "TWIN STAR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0.1,
-    "TIME": "2026-04-27 05:17:00 GMT",
+    "TIME": "2026-04-27 07:09:38 GMT",
     "TYPE": 60,
-    "last_seen": "2026-04-26T23:23:21.292635",
+    "last_seen": "2026-04-27T05:17:08.211045",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-27T05:17:08.211045"
+  "last_seen": "2026-04-27T07:09:41.654626"
 }
