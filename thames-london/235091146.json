@@ -278,32 +278,33 @@
     "2026-04-21",
     "2026-04-22",
     "2026-04-23",
-    "2026-04-24"
+    "2026-04-24",
+    "2026-04-27"
   ],
   "last_full_data": {
     "A": 9,
     "B": 4,
     "C": 3,
     "CALLSIGN": "2FGV4",
-    "COG": 79.1,
+    "COG": 244.2,
     "D": 2,
     "DEST": "RAINHAM COLD HARBOUR",
     "DRAUGHT": 1.8,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50612,
-    "LONGITUDE": 0.00188,
+    "LATITUDE": 51.48647,
+    "LONGITUDE": -0.00592,
     "MMSI": 235091146,
     "NAME": "SWS ESSEX",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 11.2,
-    "TIME": "2026-04-24 09:45:27 GMT",
+    "SOG": 9,
+    "TIME": "2026-04-27 05:17:07 GMT",
     "TYPE": 59,
-    "last_seen": "2026-04-24T08:52:21.754947",
+    "last_seen": "2026-04-24T09:45:30.989713",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-24T09:45:30.989713"
+  "last_seen": "2026-04-27T05:17:08.212352"
 }
