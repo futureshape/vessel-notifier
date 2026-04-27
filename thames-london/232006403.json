@@ -209,7 +209,7 @@
     "B": 25,
     "C": 4,
     "CALLSIGN": "GUZM",
-    "COG": 360,
+    "COG": 24,
     "D": 5,
     "DEST": "LONDON",
     "DRAUGHT": 1.5,
@@ -217,17 +217,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50938,
-    "LONGITUDE": -0.10989,
+    "LONGITUDE": -0.1099,
     "MMSI": 232006403,
     "NAME": "PEARL OF LONDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-04-27 12:49:08 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-04-27 13:46:28 GMT",
     "TYPE": 60,
-    "last_seen": "2026-04-27T11:45:22.882174",
+    "last_seen": "2026-04-27T12:49:09.462645",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-27T12:49:09.462645"
+  "last_seen": "2026-04-27T13:46:32.339291"
 }
