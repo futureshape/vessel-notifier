@@ -7,31 +7,25 @@
     "B": 10,
     "C": 2,
     "CALLSIGN": "MTBO9",
-    "COG": 342.2,
+    "COG": 262.4,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 340,
+    "HEADING": 269,
     "IMO": 0,
-    "LATITUDE": 51.49251,
-    "LONGITUDE": -0.02881,
+    "LATITUDE": 51.50199,
+    "LONGITUDE": -0.05911,
     "MMSI": 232064771,
     "NAME": "EXUMA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.2,
-    "TIME": "2026-04-27 07:56:41 GMT",
+    "SOG": 6.3,
+    "TIME": "2026-04-27 09:02:22 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2103,
-      3739,
-      2665,
-      2648
-    ]
+    "last_seen": "2026-04-27T07:56:52.697028",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-27T07:56:52.697028"
+  "last_seen": "2026-04-27T09:02:38.436636"
 }
