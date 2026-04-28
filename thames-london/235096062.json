@@ -341,17 +341,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50963,
-    "LONGITUDE": -0.10463,
+    "LONGITUDE": -0.10483,
     "MMSI": 235096062,
     "NAME": "EDDIE C",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-04-28 09:02:02 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-04-28 09:54:32 GMT",
     "TYPE": 53,
-    "last_seen": "2026-04-28T07:56:01.213183",
+    "last_seen": "2026-04-28T09:02:11.838092",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-28T09:02:11.838092"
+  "last_seen": "2026-04-28T09:57:15.736007"
 }

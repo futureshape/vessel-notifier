@@ -9,30 +9,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "PD7088",
-    "COG": 320.7,
+    "COG": 302.9,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50233,
-    "LONGITUDE": 0.01287,
+    "LATITUDE": 51.50453,
+    "LONGITUDE": -0.07119,
     "MMSI": 244040004,
     "NAME": "SCALDIS",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.3,
-    "TIME": "2026-04-28 09:01:40 GMT",
+    "SOG": 2.1,
+    "TIME": "2026-04-28 09:57:11 GMT",
     "TYPE": 37,
-    "last_seen": "2025-04-30T15:29:47.978298",
-    "received_by_stations": [
-      3999,
-      3218,
-      2648,
-      2665
-    ]
+    "last_seen": "2026-04-28T09:02:12.749575",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-28T09:02:12.749575"
+  "last_seen": "2026-04-28T09:57:15.739505"
 }
