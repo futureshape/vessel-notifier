@@ -7,30 +7,25 @@
     "B": 2,
     "C": 2,
     "CALLSIGN": "OF 5230",
-    "COG": 305.3,
+    "COG": 54.1,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49889,
-    "LONGITUDE": 0.01917,
+    "LATITUDE": 51.50526,
+    "LONGITUDE": -0.07271,
     "MMSI": 205523010,
     "NAME": "DAIKIRI 3",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 7.2,
-    "TIME": "2026-04-29 09:51:43 GMT",
+    "SOG": 2.7,
+    "TIME": "2026-04-29 10:47:12 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3218,
-      2665,
-      3999
-    ]
+    "last_seen": "2026-04-29T09:52:06.321516",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-29T09:52:06.321516"
+  "last_seen": "2026-04-29T10:47:24.259303"
 }
