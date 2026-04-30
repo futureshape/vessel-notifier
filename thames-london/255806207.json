@@ -8,30 +8,25 @@
     "B": 85,
     "C": 12,
     "CALLSIGN": "CQAL5",
-    "COG": 295.2,
+    "COG": 105.5,
     "D": 7,
     "DEST": "GB LON",
     "DRAUGHT": 4.8,
     "ETA": "04-30 03:00",
-    "HEADING": 284,
+    "HEADING": 105,
     "IMO": 9871531,
-    "LATITUDE": 51.50765,
-    "LONGITUDE": -0.03401,
+    "LATITUDE": 51.50667,
+    "LONGITUDE": -0.08049,
     "MMSI": 255806207,
     "NAME": "WORLD NAVIGATOR",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": -127,
-    "SOG": 4.7,
-    "TIME": "2026-04-30 10:47:11 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2026-04-30 11:44:22 GMT",
     "TYPE": 60,
-    "last_seen": "2024-05-17T19:14:29.437608",
-    "received_by_stations": [
-      3999,
-      3416,
-      2648,
-      2103
-    ]
+    "last_seen": "2026-04-30T10:47:16.936406",
+    "received_by_stations": []
   },
-  "last_seen": "2026-04-30T10:47:16.936406"
+  "last_seen": "2026-04-30T11:44:34.943959"
 }
