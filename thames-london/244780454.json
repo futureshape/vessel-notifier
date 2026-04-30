@@ -74,14 +74,14 @@
     "B": 5,
     "C": 1,
     "CALLSIGN": "PD3749",
-    "COG": 251.3,
+    "COG": 0,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 0.3,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50419,
+    "LATITUDE": 51.5042,
     "LONGITUDE": -0.06907,
     "MMSI": 244780454,
     "NAME": "REFUELLER",
@@ -89,10 +89,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-04-30 07:06:41 GMT",
+    "TIME": "2026-04-30 07:35:01 GMT",
     "TYPE": 99,
-    "last_seen": "2026-04-29T11:45:09.023283",
+    "last_seen": "2026-04-30T07:06:51.938961",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-30T07:06:51.938961"
+  "last_seen": "2026-04-30T07:53:39.587481"
 }
