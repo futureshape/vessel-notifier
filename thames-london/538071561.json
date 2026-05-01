@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2026-05-01"
+  ],
+  "last_full_data": {
+    "A": 33,
+    "B": 10,
+    "C": 5,
+    "CALLSIGN": "V7A4434",
+    "COG": 270.3,
+    "D": 5,
+    "DEST": "GBLON",
+    "DRAUGHT": 2.4,
+    "ETA": "05-01 13:00",
+    "HEADING": 274,
+    "IMO": 9408669,
+    "LATITUDE": 51.50122,
+    "LONGITUDE": -0.01076,
+    "MMSI": 538071561,
+    "NAME": "FRIENDLY CONFINES",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 0,
+    "SOG": 0.1,
+    "TIME": "2026-05-01 12:34:58 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      2648,
+      3999,
+      3218
+    ]
+  },
+  "last_seen": "2026-05-01T12:35:04.317412"
+}
