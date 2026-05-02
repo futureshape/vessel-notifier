@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2026-05-02"
+  ],
+  "last_full_data": {
+    "A": 14,
+    "B": 1,
+    "C": 1,
+    "CALLSIGN": "DH5687",
+    "COG": 167.6,
+    "D": 4,
+    "DEST": "",
+    "DRAUGHT": 15.3,
+    "ETA": "01-01 23:18",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49529,
+    "LONGITUDE": -0.00359,
+    "MMSI": 211227040,
+    "NAME": "MOLA",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 4,
+    "TIME": "2026-05-02 07:45:10 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2648,
+      3218,
+      3999
+    ]
+  },
+  "last_seen": "2026-05-02T07:45:33.707219"
+}
