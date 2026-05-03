@@ -7,29 +7,25 @@
     "B": 3,
     "C": 3,
     "CALLSIGN": "FGD4884",
-    "COG": 283.4,
+    "COG": 252.3,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50187,
-    "LONGITUDE": -0.06226,
+    "LATITUDE": 51.50701,
+    "LONGITUDE": -0.07236,
     "MMSI": 227196130,
     "NAME": "AGAPE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.8,
-    "TIME": "2026-05-03 12:31:01 GMT",
+    "SOG": 0,
+    "TIME": "2026-05-03 13:33:25 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648,
-      2675
-    ]
+    "last_seen": "2026-05-03T12:31:18.409339",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-03T12:31:18.409339"
+  "last_seen": "2026-05-03T13:42:46.420174"
 }
