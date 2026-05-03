@@ -71,7 +71,7 @@
     "B": 5,
     "C": 1,
     "CALLSIGN": "2FIE3",
-    "COG": 23.5,
+    "COG": 74.7,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -79,17 +79,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50273,
-    "LONGITUDE": -0.05799,
+    "LONGITUDE": -0.05798,
     "MMSI": 235091484,
     "NAME": " ROBIN LOCKER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-05-03 11:23:18 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-05-03 12:29:21 GMT",
     "TYPE": 55,
-    "last_seen": "2026-05-03T10:30:36.523411",
+    "last_seen": "2026-05-03T11:24:44.176957",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-03T11:24:44.176957"
+  "last_seen": "2026-05-03T12:31:18.410566"
 }
