@@ -20,33 +20,25 @@
     "B": 185,
     "C": 17,
     "CALLSIGN": "LAYU7",
-    "COG": 213.8,
+    "COG": 137.5,
     "D": 17,
     "DEST": "GBLON",
     "DRAUGHT": 6.9,
     "ETA": "05-04 20:00",
-    "HEADING": 201,
+    "HEADING": 94,
     "IMO": 9650420,
-    "LATITUDE": 51.50408,
-    "LONGITUDE": -0.00331,
+    "LATITUDE": 51.48424,
+    "LONGITUDE": -0.01461,
     "MMSI": 259186000,
     "NAME": "VIKING SKY",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": -8,
-    "SOG": 3.9,
-    "TIME": "2026-05-05 01:47:49 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2026-05-05 03:18:08 GMT",
     "TYPE": 60,
-    "last_seen": "2025-07-30T16:38:25.900871",
-    "received_by_stations": [
-      3218,
-      3999,
-      3416,
-      2665,
-      2648,
-      3129,
-      2103
-    ]
+    "last_seen": "2026-05-05T01:47:57.373337",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-05T01:47:57.373337"
+  "last_seen": "2026-05-05T03:18:16.899067"
 }
