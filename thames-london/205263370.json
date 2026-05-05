@@ -1,0 +1,34 @@
+{
+  "dates_seen": [
+    "2026-05-05"
+  ],
+  "last_full_data": {
+    "A": 10,
+    "B": 5,
+    "C": 1,
+    "CALLSIGN": "OQ2633",
+    "COG": 261.2,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49742,
+    "LONGITUDE": 0.03047,
+    "MMSI": 205263370,
+    "NAME": "WINSTON",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 6.9,
+    "TIME": "2026-05-05 11:38:00 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      3218,
+      3999
+    ]
+  },
+  "last_seen": "2026-05-05T11:38:02.844085"
+}

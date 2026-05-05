@@ -247,18 +247,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50789,
-    "LONGITUDE": -0.07261,
+    "LATITUDE": 51.50785,
+    "LONGITUDE": -0.0726,
     "MMSI": 232042632,
     "NAME": "ELMO 5",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-05-05 10:43:23 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-05-05 11:37:22 GMT",
     "TYPE": 37,
-    "last_seen": "2026-05-05T09:48:24.911246",
+    "last_seen": "2026-05-05T10:45:54.007651",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-05T10:45:54.007651"
+  "last_seen": "2026-05-05T11:38:02.228034"
 }
