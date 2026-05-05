@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2026-04-13"
+    "2026-04-13",
+    "2026-05-05"
   ],
   "last_full_data": {
     "A": 1,
@@ -14,18 +15,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49368,
-    "LONGITUDE": 0.02813,
+    "LATITUDE": 51.49355,
+    "LONGITUDE": 0.02807,
     "MMSI": 232065883,
     "NAME": "SIERRA LIMA",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-04-13 12:37:56 GMT",
+    "SOG": 1.2,
+    "TIME": "2026-05-05 15:47:26 GMT",
     "TYPE": 90,
-    "last_seen": "2026-04-13T11:39:17.627275",
+    "last_seen": "2026-04-13T12:37:59.059491",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-13T12:37:59.059491"
+  "last_seen": "2026-05-05T15:47:27.711341"
 }
