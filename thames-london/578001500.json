@@ -1,32 +1,39 @@
 {
   "dates_seen": [
     "2025-05-03",
-    "2025-05-04"
+    "2025-05-04",
+    "2026-05-06"
   ],
   "last_full_data": {
     "A": 31,
     "B": 100,
     "C": 9,
     "CALLSIGN": "FLZG",
-    "COG": 187,
+    "COG": 160.3,
     "D": 9,
-    "DEST": "GB DVR",
+    "DEST": "GB LON",
     "DRAUGHT": 4.7,
-    "ETA": "05-05 06:15",
-    "HEADING": 187,
+    "ETA": "05-06 07:00",
+    "HEADING": 158,
     "IMO": 9852418,
-    "LATITUDE": 51.49965,
-    "LONGITUDE": -0.02989,
+    "LATITUDE": 51.49626,
+    "LONGITUDE": -0.00317,
     "MMSI": 578001500,
     "NAME": "LE BELLOT",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": -7,
-    "SOG": 8.4,
-    "TIME": "2025-05-04 19:21:56 GMT",
+    "ROT": -11,
+    "SOG": 8.3,
+    "TIME": "2026-05-06 12:52:41 GMT",
     "TYPE": 60,
-    "last_seen": "2025-05-04T18:34:14.868237",
-    "received_by_stations": []
+    "last_seen": "2025-05-04T19:22:02.825577",
+    "received_by_stations": [
+      3999,
+      3218,
+      2665,
+      2648,
+      2103
+    ]
   },
-  "last_seen": "2025-05-04T19:22:02.825577"
+  "last_seen": "2026-05-06T12:52:48.782493"
 }
