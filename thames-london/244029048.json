@@ -7,28 +7,25 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "PD8362",
-    "COG": 322.4,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49007,
-    "LONGITUDE": -0.02588,
+    "LATITUDE": 51.5055,
+    "LONGITUDE": -0.07265,
     "MMSI": 244029048,
     "NAME": "ATLANTIC WIND",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 6.4,
-    "TIME": "2026-05-06 12:52:25 GMT",
+    "SOG": 0,
+    "TIME": "2026-05-06 13:47:26 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-05-06T12:52:48.327638",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-06T12:52:48.327638"
+  "last_seen": "2026-05-06T13:47:40.347114"
 }

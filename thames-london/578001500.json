@@ -9,31 +9,25 @@
     "B": 100,
     "C": 9,
     "CALLSIGN": "FLZG",
-    "COG": 160.3,
+    "COG": 270.6,
     "D": 9,
     "DEST": "GB LON",
     "DRAUGHT": 4.7,
     "ETA": "05-06 07:00",
-    "HEADING": 158,
+    "HEADING": 108,
     "IMO": 9852418,
-    "LATITUDE": 51.49626,
-    "LONGITUDE": -0.00317,
+    "LATITUDE": 51.50649,
+    "LONGITUDE": -0.07886,
     "MMSI": 578001500,
     "NAME": "LE BELLOT",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": -11,
-    "SOG": 8.3,
-    "TIME": "2026-05-06 12:52:41 GMT",
+    "ROT": 20,
+    "SOG": 1.4,
+    "TIME": "2026-05-06 13:47:32 GMT",
     "TYPE": 60,
-    "last_seen": "2025-05-04T19:22:02.825577",
-    "received_by_stations": [
-      3999,
-      3218,
-      2665,
-      2648,
-      2103
-    ]
+    "last_seen": "2026-05-06T12:52:48.782493",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-06T12:52:48.782493"
+  "last_seen": "2026-05-06T13:47:40.345396"
 }
