@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2024-05-03",
-    "2026-05-05"
+    "2026-05-05",
+    "2026-05-07"
   ],
   "last_full_data": {
     "A": 5,
     "B": 6,
     "C": 2,
     "CALLSIGN": "FAG7404",
-    "COG": 236.1,
+    "COG": 103.4,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50546,
-    "LONGITUDE": -0.0722,
+    "LATITUDE": 51.50756,
+    "LONGITUDE": -0.03736,
     "MMSI": 227968710,
     "NAME": "PHILICK",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-05-05 12:39:54 GMT",
+    "SOG": 5.5,
+    "TIME": "2026-05-07 05:18:00 GMT",
     "TYPE": 36,
-    "last_seen": "2026-05-05T11:38:03.379787",
+    "last_seen": "2026-05-05T12:40:30.029266",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-05T12:40:30.029266"
+  "last_seen": "2026-05-07T05:18:23.297538"
 }
