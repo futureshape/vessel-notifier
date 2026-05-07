@@ -15,18 +15,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5067,
-    "LONGITUDE": -0.07213,
+    "LATITUDE": 51.50692,
+    "LONGITUDE": -0.07251,
     "MMSI": 244029048,
     "NAME": "ATLANTIC WIND",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-05-07 09:04:22 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-05-07 10:01:24 GMT",
     "TYPE": 37,
-    "last_seen": "2026-05-07T07:15:41.791901",
+    "last_seen": "2026-05-07T09:06:24.424111",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-07T09:06:24.424111"
+  "last_seen": "2026-05-07T10:01:32.357846"
 }
