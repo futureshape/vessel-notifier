@@ -163,7 +163,7 @@
     "B": 7,
     "C": 3,
     "CALLSIGN": "MZCY7",
-    "COG": 210.6,
+    "COG": 308.3,
     "D": 1,
     "DEST": "THAMES",
     "DRAUGHT": 2,
@@ -171,17 +171,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48522,
-    "LONGITUDE": -0.14805,
+    "LONGITUDE": -0.14826,
     "MMSI": 235040606,
     "NAME": "PROTECTOR",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-05-08 12:45:28 GMT",
+    "SOG": 0.5,
+    "TIME": "2026-05-08 13:45:58 GMT",
     "TYPE": 52,
-    "last_seen": "2026-05-07T10:01:32.346147",
+    "last_seen": "2026-05-08T12:45:33.650282",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-08T12:45:33.650282"
+  "last_seen": "2026-05-08T13:45:59.738723"
 }
