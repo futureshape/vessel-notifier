@@ -546,18 +546,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5011,
-    "LONGITUDE": -0.06156,
+    "LATITUDE": 51.50118,
+    "LONGITUDE": -0.06153,
     "MMSI": 235054917,
     "NAME": "CITY GAMMA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-05-09 15:29:45 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-05-09 16:29:06 GMT",
     "TYPE": 60,
-    "last_seen": "2026-05-09T14:32:20.125828",
+    "last_seen": "2026-05-09T15:29:56.115477",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-09T15:29:56.115477"
+  "last_seen": "2026-05-09T16:29:15.431944"
 }
