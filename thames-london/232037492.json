@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-05-04"
+    "2026-05-04",
+    "2026-05-09"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "",
-    "COG": 332.2,
+    "COG": 271.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48906,
-    "LONGITUDE": -0.02496,
+    "LATITUDE": 51.48436,
+    "LONGITUDE": -0.13692,
     "MMSI": 232037492,
     "NAME": "FLYING ARROW",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.8,
-    "TIME": "2026-05-04 15:30:45 GMT",
+    "SOG": 6,
+    "TIME": "2026-05-09 17:04:13 GMT",
     "TYPE": 0,
-    "last_seen": null,
+    "last_seen": "2026-05-04T15:50:56.709767",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-04T15:50:56.709767"
+  "last_seen": "2026-05-09T17:29:19.560233"
 }
