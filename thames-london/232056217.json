@@ -651,17 +651,17 @@
     "HEADING": 511,
     "IMO": 1022225,
     "LATITUDE": 51.49456,
-    "LONGITUDE": 0.02613,
+    "LONGITUDE": 0.02616,
     "MMSI": 232056217,
     "NAME": "RESOLUTE 1",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-05-09 17:26:45 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-05-09 18:29:45 GMT",
     "TYPE": 31,
-    "last_seen": "2026-05-09T16:29:15.440682",
+    "last_seen": "2026-05-09T17:29:19.586575",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-09T17:29:19.586575"
+  "last_seen": "2026-05-09T18:30:28.244731"
 }
