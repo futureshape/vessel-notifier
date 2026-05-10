@@ -1,13 +1,14 @@
 {
   "dates_seen": [
-    "2026-05-09"
+    "2026-05-09",
+    "2026-05-10"
   ],
   "last_full_data": {
     "A": 11,
     "B": 1,
     "C": 1,
     "CALLSIGN": "MPWU6",
-    "COG": 140.4,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 2.4,
@@ -15,17 +16,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50666,
-    "LONGITUDE": -0.07101,
+    "LONGITUDE": -0.07102,
     "MMSI": 235052016,
     "NAME": "WHITE ROSE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-05-09 17:19:36 GMT",
+    "TIME": "2026-05-10 07:05:16 GMT",
     "TYPE": 36,
-    "last_seen": "2026-05-09T16:29:15.428555",
+    "last_seen": "2026-05-09T17:29:19.579920",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-09T17:29:19.579920"
+  "last_seen": "2026-05-10T07:07:42.859932"
 }
