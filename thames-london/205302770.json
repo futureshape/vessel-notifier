@@ -7,27 +7,25 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "OQ3027",
-    "COG": 304.3,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50469,
-    "LONGITUDE": -0.07146,
+    "LATITUDE": 51.5064,
+    "LONGITUDE": -0.07234,
     "MMSI": 205302770,
     "NAME": "KIEKUUT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.7,
-    "TIME": "2026-05-10 16:29:10 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-05-10 17:28:34 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2026-05-10T16:29:21.420618",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-10T16:29:21.420618"
+  "last_seen": "2026-05-10T17:29:35.034013"
 }
