@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-05-17",
     "2026-04-30",
-    "2026-05-01"
+    "2026-05-01",
+    "2026-05-11"
   ],
   "last_full_data": {
     "A": 41,
     "B": 85,
     "C": 12,
     "CALLSIGN": "CQAL5",
-    "COG": 15.1,
+    "COG": 255.4,
     "D": 7,
-    "DEST": "GB LEI",
+    "DEST": "GB LON",
     "DRAUGHT": 4.8,
-    "ETA": "05-03 08:30",
-    "HEADING": 105,
+    "ETA": "05-11 06:30",
+    "HEADING": 257,
     "IMO": 9871531,
-    "LATITUDE": 51.50668,
-    "LONGITUDE": -0.08052,
+    "LATITUDE": 51.48521,
+    "LONGITUDE": -0.0097,
     "MMSI": 255806207,
     "NAME": "WORLD NAVIGATOR",
-    "NAVSTAT": 5,
+    "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 0,
-    "SOG": 0,
-    "TIME": "2026-05-01 23:28:35 GMT",
+    "ROT": 127,
+    "SOG": 7.7,
+    "TIME": "2026-05-11 05:30:58 GMT",
     "TYPE": 60,
-    "last_seen": "2026-05-01T22:28:00.327770",
+    "last_seen": "2026-05-01T23:29:09.934008",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-01T23:29:09.934008"
+  "last_seen": "2026-05-11T05:31:01.861351"
 }
