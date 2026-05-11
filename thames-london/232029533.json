@@ -7,7 +7,7 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "MZXF8",
-    "COG": 187.1,
+    "COG": 248.2,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -22,13 +22,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-05-11 17:03:53 GMT",
+    "TIME": "2026-05-11 17:45:52 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-05-11T17:05:26.556232",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-11T17:05:26.556232"
+  "last_seen": "2026-05-11T17:48:04.365291"
 }
