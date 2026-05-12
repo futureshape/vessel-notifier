@@ -538,7 +538,7 @@
     "B": 6,
     "C": 3,
     "CALLSIGN": "2DNW5",
-    "COG": 280.8,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -546,17 +546,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50969,
-    "LONGITUDE": -0.1171,
+    "LONGITUDE": -0.11708,
     "MMSI": 235080605,
     "NAME": "RNLI LIFEBOAT E 07",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2026-05-12 18:48:38 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-05-12 19:46:17 GMT",
     "TYPE": 51,
-    "last_seen": "2026-05-12T17:49:50.230263",
+    "last_seen": "2026-05-12T18:48:43.561176",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-12T18:48:43.561176"
+  "last_seen": "2026-05-12T19:46:22.981519"
 }
