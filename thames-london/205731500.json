@@ -1,7 +1,35 @@
 {
   "dates_seen": [
-    "2024-05-10"
+    "2024-05-10",
+    "2026-05-12"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-05-10T15:18:03.569898"
+  "last_full_data": {
+    "A": 6,
+    "B": 4,
+    "C": 2,
+    "CALLSIGN": "OS7315",
+    "COG": 214.3,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.48816,
+    "LONGITUDE": -0.00359,
+    "MMSI": 205731500,
+    "NAME": "MIROIR",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 7.7,
+    "TIME": "2026-05-12 07:14:08 GMT",
+    "TYPE": 37,
+    "last_seen": "2024-05-10T15:18:03.569898",
+    "received_by_stations": [
+      3999,
+      2648
+    ]
+  },
+  "last_seen": "2026-05-12T07:14:13.564949"
 }
