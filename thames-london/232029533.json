@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-05-11"
+    "2026-05-11",
+    "2026-05-12"
   ],
   "last_full_data": {
     "A": 8,
     "B": 3,
     "C": 2,
     "CALLSIGN": "MZXF8",
-    "COG": 248.2,
+    "COG": 116.9,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49579,
-    "LONGITUDE": 0.01869,
+    "LATITUDE": 51.50581,
+    "LONGITUDE": -0.07047,
     "MMSI": 232029533,
     "NAME": "STARGAZER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-05-11 17:45:52 GMT",
+    "SOG": 0.4,
+    "TIME": "2026-05-12 09:10:42 GMT",
     "TYPE": 36,
-    "last_seen": "2026-05-11T17:05:26.556232",
+    "last_seen": "2026-05-11T17:48:04.365291",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-11T17:48:04.365291"
+  "last_seen": "2026-05-12T09:10:52.708032"
 }
