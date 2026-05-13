@@ -11,28 +11,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2EDW3",
-    "COG": 250.6,
+    "COG": 275,
     "D": 0,
     "DEST": "GBLDN",
     "DRAUGHT": 2.7,
     "ETA": "10-18 23:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49718,
-    "LONGITUDE": 0.03185,
+    "LATITUDE": 51.50992,
+    "LONGITUDE": -0.09762,
     "MMSI": 235084268,
     "NAME": "COASTRUNNER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8,
-    "TIME": "2026-05-13 17:50:44 GMT",
+    "SOG": 7.1,
+    "TIME": "2026-05-13 18:49:54 GMT",
     "TYPE": 52,
-    "last_seen": "2025-09-15T13:32:59.671889",
-    "received_by_stations": [
-      3999,
-      3218
-    ]
+    "last_seen": "2026-05-13T17:50:47.139577",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-13T17:50:47.139577"
+  "last_seen": "2026-05-13T18:50:28.812690"
 }
