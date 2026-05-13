@@ -358,32 +358,33 @@
     "2026-05-07",
     "2026-05-09",
     "2026-05-10",
-    "2026-05-12"
+    "2026-05-12",
+    "2026-05-13"
   ],
   "last_full_data": {
     "A": 8,
     "B": 91,
     "C": 16,
     "CALLSIGN": "MLLN8",
-    "COG": 261.6,
+    "COG": 264.4,
     "D": 1,
-    "DEST": "SOUTHWOLD DA430",
-    "DRAUGHT": 4,
-    "ETA": "05-12 23:00",
+    "DEST": "GBCHN",
+    "DRAUGHT": 6.2,
+    "ETA": "05-13 19:00",
     "HEADING": 106,
     "IMO": 8902278,
     "LATITUDE": 51.49539,
-    "LONGITUDE": 0.02387,
+    "LONGITUDE": 0.02384,
     "MMSI": 232000790,
     "NAME": "CITY OF WESTMINSTER",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-05-12 12:56:03 GMT",
+    "TIME": "2026-05-13 19:46:30 GMT",
     "TYPE": 33,
-    "last_seen": "2026-05-12T11:47:45.238123",
+    "last_seen": "2026-05-12T12:56:09.433213",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-12T12:56:09.433213"
+  "last_seen": "2026-05-13T19:46:52.688695"
 }
