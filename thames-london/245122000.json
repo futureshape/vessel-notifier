@@ -12,26 +12,20 @@
     "DEST": "LONDON ANGERSTEIN",
     "DRAUGHT": 7.5,
     "ETA": "05-14 10:30",
-    "HEADING": 112,
+    "HEADING": 110,
     "IMO": 9174127,
-    "LATITUDE": 51.49595,
-    "LONGITUDE": 0.02106,
+    "LATITUDE": 51.49592,
+    "LONGITUDE": 0.02103,
     "MMSI": 245122000,
     "NAME": "SAND FULMAR",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-05-14 09:58:26 GMT",
+    "TIME": "2026-05-14 10:58:57 GMT",
     "TYPE": 33,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648,
-      3218,
-      2665,
-      2103
-    ]
+    "last_seen": "2026-05-14T09:58:31.658546",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-14T09:58:31.658546"
+  "last_seen": "2026-05-14T10:59:06.764447"
 }

@@ -7,28 +7,25 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "PA4048",
-    "COG": 317.1,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48743,
-    "LONGITUDE": -0.02312,
+    "LATITUDE": 51.50636,
+    "LONGITUDE": -0.0722,
     "MMSI": 244236766,
     "NAME": "BONAVENTURA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.1,
-    "TIME": "2026-05-14 09:57:33 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-05-14 10:57:07 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-05-14T09:58:30.942469",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-14T09:58:30.942469"
+  "last_seen": "2026-05-14T10:59:06.232158"
 }
