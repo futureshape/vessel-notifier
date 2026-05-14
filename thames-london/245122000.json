@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2026-05-14"
+  ],
+  "last_full_data": {
+    "A": 85,
+    "B": 15,
+    "C": 8,
+    "CALLSIGN": "PHTE",
+    "COG": 150.3,
+    "D": 12,
+    "DEST": "LONDON ANGERSTEIN",
+    "DRAUGHT": 7.5,
+    "ETA": "05-14 10:30",
+    "HEADING": 112,
+    "IMO": 9174127,
+    "LATITUDE": 51.49595,
+    "LONGITUDE": 0.02106,
+    "MMSI": 245122000,
+    "NAME": "SAND FULMAR",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2026-05-14 09:58:26 GMT",
+    "TYPE": 33,
+    "last_seen": null,
+    "received_by_stations": [
+      3999,
+      2648,
+      3218,
+      2665,
+      2103
+    ]
+  },
+  "last_seen": "2026-05-14T09:58:31.658546"
+}
