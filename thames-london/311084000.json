@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-05-12"
+    "2026-05-12",
+    "2026-05-15"
   ],
   "last_full_data": {
     "A": 33,
     "B": 126,
     "C": 10,
     "CALLSIGN": "C6FR5",
-    "COG": 79.6,
+    "COG": 270.2,
     "D": 9,
-    "DEST": "BEZEE",
+    "DEST": "GBLON",
     "DRAUGHT": 5.5,
-    "ETA": "05-13 19:00",
-    "HEADING": 80,
+    "ETA": "05-15 19:30",
+    "HEADING": 268,
     "IMO": 8707343,
-    "LATITUDE": 51.50845,
-    "LONGITUDE": -0.04191,
+    "LATITUDE": 51.50851,
+    "LONGITUDE": -0.03972,
     "MMSI": 311084000,
     "NAME": "STAR PRIDE",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 20,
-    "SOG": 5.7,
-    "TIME": "2026-05-12 22:36:42 GMT",
+    "ROT": -21,
+    "SOG": 6.7,
+    "TIME": "2026-05-15 12:50:52 GMT",
     "TYPE": 69,
-    "last_seen": "2026-05-12T21:38:49.750473",
+    "last_seen": "2026-05-12T22:36:43.351603",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-12T22:36:43.351603"
+  "last_seen": "2026-05-15T12:50:52.731796"
 }
