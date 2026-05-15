@@ -24,28 +24,25 @@
     "B": 8,
     "C": 1,
     "CALLSIGN": "2EYX7",
-    "COG": 270.6,
+    "COG": 303.3,
     "D": 4,
     "DEST": "ON-SURVEY",
     "DRAUGHT": 1.3,
     "ETA": "10-01 20:25",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.51004,
-    "LONGITUDE": -0.09993,
+    "LATITUDE": 51.46762,
+    "LONGITUDE": -0.21515,
     "MMSI": 235089286,
     "NAME": "THAMES GUARDIAN",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.3,
-    "TIME": "2026-05-15 10:59:17 GMT",
+    "SOG": 1.4,
+    "TIME": "2026-05-15 11:44:27 GMT",
     "TYPE": 55,
-    "last_seen": "2025-06-05T11:25:21.307042",
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-05-15T10:59:21.831201",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-15T10:59:21.831201"
+  "last_seen": "2026-05-15T11:47:30.201973"
 }
