@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2026-05-12",
-    "2026-05-15"
+    "2026-05-15",
+    "2026-05-16"
   ],
   "last_full_data": {
     "A": 33,
     "B": 126,
     "C": 10,
     "CALLSIGN": "C6FR5",
-    "COG": 348.9,
+    "COG": 128.6,
     "D": 9,
     "DEST": "FRSML",
     "DRAUGHT": 5.5,
     "ETA": "05-17 12:30",
-    "HEADING": 285,
+    "HEADING": 130,
     "IMO": 8707343,
-    "LATITUDE": 51.50692,
-    "LONGITUDE": -0.08204,
+    "LATITUDE": 51.50685,
+    "LONGITUDE": -0.03274,
     "MMSI": 311084000,
     "NAME": "STAR PRIDE",
-    "NAVSTAT": 5,
+    "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 0,
-    "SOG": 0,
-    "TIME": "2026-05-15 23:27:02 GMT",
+    "ROT": 13,
+    "SOG": 9.2,
+    "TIME": "2026-05-16 01:05:08 GMT",
     "TYPE": 69,
-    "last_seen": "2026-05-15T22:30:03.690846",
+    "last_seen": "2026-05-15T23:29:16.350932",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-15T23:29:16.350932"
+  "last_seen": "2026-05-16T01:05:13.107743"
 }
