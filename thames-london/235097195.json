@@ -139,7 +139,7 @@
     "B": 19,
     "C": 3,
     "CALLSIGN": "2GGM3",
-    "COG": 234.3,
+    "COG": 123,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -147,17 +147,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.4926,
-    "LONGITUDE": -0.12448,
+    "LONGITUDE": -0.12422,
     "MMSI": 235097195,
     "NAME": "VISCOUNT",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-05-16 06:58:46 GMT",
+    "TIME": "2026-05-16 07:47:33 GMT",
     "TYPE": 60,
-    "last_seen": "2026-03-27T14:30:46.972520",
+    "last_seen": "2026-05-16T06:59:35.859349",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-16T06:59:35.859349"
+  "last_seen": "2026-05-16T07:47:40.680445"
 }
