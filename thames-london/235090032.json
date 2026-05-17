@@ -7,29 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2FCE6",
-    "COG": 238.6,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48601,
-    "LONGITUDE": -0.00611,
+    "LATITUDE": 51.50638,
+    "LONGITUDE": -0.07215,
     "MMSI": 235090032,
     "NAME": "LYSANDER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 11.7,
-    "TIME": "2026-05-17 10:38:24 GMT",
+    "SOG": 0,
+    "TIME": "2026-05-17 11:32:51 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3218,
-      3999,
-      2648
-    ]
+    "last_seen": "2026-05-17T10:38:33.054490",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-17T10:38:33.054490"
+  "last_seen": "2026-05-17T11:34:41.492086"
 }
