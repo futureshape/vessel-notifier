@@ -280,32 +280,33 @@
     "2026-05-10",
     "2026-05-14",
     "2026-05-15",
-    "2026-05-16"
+    "2026-05-16",
+    "2026-05-17"
   ],
   "last_full_data": {
     "A": 7,
     "B": 25,
     "C": 6,
     "CALLSIGN": "MGJY3",
-    "COG": 3.8,
+    "COG": 26.7,
     "D": 0,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49029,
-    "LONGITUDE": -0.12553,
+    "LATITUDE": 51.50715,
+    "LONGITUDE": -0.11775,
     "MMSI": 235054922,
     "NAME": "JEWEL OF LONDON",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-05-16 17:17:35 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-05-17 16:29:48 GMT",
     "TYPE": 60,
-    "last_seen": "2026-05-16T16:29:35.076382",
+    "last_seen": "2026-05-16T17:30:05.889213",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-16T17:30:05.889213"
+  "last_seen": "2026-05-17T16:29:57.468482"
 }
