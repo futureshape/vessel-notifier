@@ -4,32 +4,29 @@
     "2026-05-18"
   ],
   "last_full_data": {
-    "A": 0,
+    "A": 12,
     "B": 0,
     "C": 0,
     "CALLSIGN": "OQ3481",
     "COG": 360,
-    "D": 0,
+    "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 31,
+    "HEADING": 16,
     "IMO": 0,
-    "LATITUDE": 51.5061,
-    "LONGITUDE": -0.07228,
+    "LATITUDE": 51.50665,
+    "LONGITUDE": -0.07158,
     "MMSI": 205348170,
     "NAME": "OFF GRID",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-05-18 13:23:39 GMT",
+    "TIME": "2026-05-18 14:52:33 GMT",
     "TYPE": 37,
-    "last_seen": "2024-05-09T13:21:12.136192",
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-05-18T13:32:15.068476",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-18T13:32:15.068476"
+  "last_seen": "2026-05-18T15:17:14.661309"
 }
