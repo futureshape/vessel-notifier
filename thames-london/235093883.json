@@ -451,32 +451,33 @@
     "2026-05-02",
     "2026-05-03",
     "2026-05-04",
-    "2026-05-05"
+    "2026-05-05",
+    "2026-05-18"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "2FSP3",
-    "COG": 112,
+    "COG": 332,
     "D": 0,
     "DEST": "GBLON",
     "DRAUGHT": 2.4,
     "ETA": "02-23 22:00",
-    "HEADING": 118,
+    "HEADING": 62,
     "IMO": 0,
-    "LATITUDE": 51.50733,
-    "LONGITUDE": -0.0346,
+    "LATITUDE": 51.51032,
+    "LONGITUDE": -0.11438,
     "MMSI": 235093883,
     "NAME": "SHAKEDOG",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 127,
-    "SOG": 5.9,
-    "TIME": "2026-05-05 01:47:54 GMT",
+    "SOG": 0.5,
+    "TIME": "2026-05-18 11:27:39 GMT",
     "TYPE": 52,
-    "last_seen": "2026-05-05T01:01:47.027912",
+    "last_seen": "2026-05-05T01:47:56.643201",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-05T01:47:56.643201"
+  "last_seen": "2026-05-18T11:29:58.526024"
 }
