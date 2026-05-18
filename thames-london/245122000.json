@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2026-05-14",
-    "2026-05-17"
+    "2026-05-17",
+    "2026-05-18"
   ],
   "last_full_data": {
     "A": 85,
     "B": 15,
     "C": 8,
     "CALLSIGN": "PHTE",
-    "COG": 262.1,
+    "COG": 146.4,
     "D": 12,
     "DEST": "ANGERSTEINS",
     "DRAUGHT": 7.2,
     "ETA": "05-18 23:30",
-    "HEADING": 268,
+    "HEADING": 110,
     "IMO": 9174127,
-    "LATITUDE": 51.49697,
-    "LONGITUDE": 0.03224,
+    "LATITUDE": 51.49594,
+    "LONGITUDE": 0.02105,
     "MMSI": 245122000,
     "NAME": "SAND FULMAR",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 127,
-    "SOG": 4.8,
-    "TIME": "2026-05-17 23:30:16 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2026-05-18 01:15:18 GMT",
     "TYPE": 33,
-    "last_seen": "2026-05-14T15:02:27.641894",
+    "last_seen": "2026-05-17T23:30:17.179051",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-17T23:30:17.179051"
+  "last_seen": "2026-05-18T01:15:21.894845"
 }
