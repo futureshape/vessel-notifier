@@ -7,28 +7,25 @@
     "B": 3,
     "C": 3,
     "CALLSIGN": "PF2297",
-    "COG": 301.4,
+    "COG": 14.6,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 2.1,
     "ETA": "12-19 08:02",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50496,
-    "LONGITUDE": -0.07147,
+    "LATITUDE": 51.50782,
+    "LONGITUDE": -0.07194,
     "MMSI": 244110015,
     "NAME": "GIPSY",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 3.3,
-    "TIME": "2026-05-19 13:24:05 GMT",
+    "SOG": 0.3,
+    "TIME": "2026-05-19 15:15:36 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-05-19T13:25:00.723675",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-19T13:25:00.723675"
+  "last_seen": "2026-05-19T15:17:06.722367"
 }
