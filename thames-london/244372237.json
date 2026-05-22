@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2026-05-22"
+  ],
+  "last_full_data": {
+    "A": 9,
+    "B": 3,
+    "C": 2,
+    "CALLSIGN": "PD5970",
+    "COG": 290.4,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 289,
+    "IMO": 0,
+    "LATITUDE": 51.50682,
+    "LONGITUDE": -0.07825,
+    "MMSI": 244372237,
+    "NAME": "VORTEX",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 7.1,
+    "TIME": "2026-05-22 15:14:00 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      2296,
+      2648,
+      2675
+    ]
+  },
+  "last_seen": "2026-05-22T15:14:03.306874"
+}
