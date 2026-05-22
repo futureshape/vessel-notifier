@@ -14,27 +14,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MOSI5",
-    "COG": 155.3,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48192,
-    "LONGITUDE": -0.27709,
+    "LATITUDE": 51.51006,
+    "LONGITUDE": -0.11536,
     "MMSI": 232052900,
     "NAME": "FEDALMA II",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 4.5,
-    "TIME": "2026-05-22 05:32:08 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-05-22 07:29:07 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-10T13:33:14.895652",
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2026-05-22T05:32:42.695240",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-22T05:32:42.695240"
+  "last_seen": "2026-05-22T07:30:06.040263"
 }

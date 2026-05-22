@@ -2,32 +2,33 @@
   "dates_seen": [
     "2026-04-03",
     "2026-04-05",
-    "2026-04-06"
+    "2026-04-06",
+    "2026-05-22"
   ],
   "last_full_data": {
     "A": 4,
     "B": 6,
     "C": 2,
     "CALLSIGN": "MSBE7",
-    "COG": 6,
+    "COG": 31.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 128,
+    "HEADING": 33,
     "IMO": 0,
-    "LATITUDE": 51.43157,
-    "LONGITUDE": -0.32357,
+    "LATITUDE": 51.48836,
+    "LONGITUDE": -0.12617,
     "MMSI": 232059540,
     "NAME": "GORKA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-04-06 09:32:59 GMT",
+    "SOG": 10.7,
+    "TIME": "2026-05-22 07:29:42 GMT",
     "TYPE": 37,
-    "last_seen": "2026-04-05T14:21:51.902070",
+    "last_seen": "2026-04-06T09:39:53.644958",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-06T09:39:53.644958"
+  "last_seen": "2026-05-22T07:30:06.037136"
 }
