@@ -7,31 +7,25 @@
     "B": 45,
     "C": 4,
     "CALLSIGN": "ZCDX5",
-    "COG": 266,
+    "COG": 270.7,
     "D": 10,
     "DEST": "GB LON",
     "DRAUGHT": 3.8,
     "ETA": "05-22 16:30",
-    "HEADING": 264,
+    "HEADING": 272,
     "IMO": 1009699,
-    "LATITUDE": 51.49701,
-    "LONGITUDE": 0.03131,
+    "LATITUDE": 51.5013,
+    "LONGITUDE": -0.01122,
     "MMSI": 319840000,
     "NAME": "ROCINANTE",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": -7,
-    "SOG": 9.1,
-    "TIME": "2026-05-22 16:55:33 GMT",
+    "ROT": 10,
+    "SOG": 0.5,
+    "TIME": "2026-05-22 17:46:52 GMT",
     "TYPE": 0,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      2665,
-      3129,
-      3999,
-      3218
-    ]
+    "last_seen": "2026-05-22T16:55:35.960654",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-22T16:55:35.960654"
+  "last_seen": "2026-05-22T17:46:54.722311"
 }

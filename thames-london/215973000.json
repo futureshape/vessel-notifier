@@ -2,32 +2,40 @@
   "dates_seen": [
     "2024-10-08",
     "2024-10-09",
-    "2025-04-07"
+    "2025-04-07",
+    "2026-05-22"
   ],
   "last_full_data": {
     "A": 18,
     "B": 121,
     "C": 11,
     "CALLSIGN": "9HA5400",
-    "COG": 141.7,
+    "COG": 262.6,
     "D": 11,
-    "DEST": "FRSML",
+    "DEST": "LONDON",
     "DRAUGHT": 5.7,
-    "ETA": "04-09 06:00",
-    "HEADING": 142,
+    "ETA": "05-22 12:00",
+    "HEADING": 261,
     "IMO": 9857640,
-    "LATITUDE": 51.48822,
-    "LONGITUDE": -0.02555,
+    "LATITUDE": 51.49702,
+    "LONGITUDE": 0.03193,
     "MMSI": 215973000,
     "NAME": "HANSEATIC SPIRIT",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": -18,
-    "SOG": 7.8,
-    "TIME": "2025-04-07 22:29:05 GMT",
+    "ROT": -7,
+    "SOG": 8.2,
+    "TIME": "2026-05-22 17:46:52 GMT",
     "TYPE": 69,
-    "last_seen": "2025-04-07T21:25:50.318926",
-    "received_by_stations": []
+    "last_seen": "2025-04-07T22:29:14.755059",
+    "received_by_stations": [
+      3999,
+      2648,
+      3129,
+      2665,
+      3806,
+      3218
+    ]
   },
-  "last_seen": "2025-04-07T22:29:14.755059"
+  "last_seen": "2026-05-22T17:46:55.332406"
 }
