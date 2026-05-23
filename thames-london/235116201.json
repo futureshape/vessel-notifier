@@ -12,28 +12,25 @@
     "B": 1,
     "C": 1,
     "CALLSIGN": "2JIO2",
-    "COG": 318.2,
+    "COG": 142.5,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 324,
+    "HEADING": 126,
     "IMO": 0,
-    "LATITUDE": 51.50475,
-    "LONGITUDE": 0.00928,
+    "LATITUDE": 51.50403,
+    "LONGITUDE": -0.07178,
     "MMSI": 235116201,
     "NAME": "SUN CREAM",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.3,
-    "TIME": "2026-05-23 15:34:47 GMT",
+    "SOG": 0.7,
+    "TIME": "2026-05-23 16:30:18 GMT",
     "TYPE": 36,
-    "last_seen": "2025-04-22T08:35:17.978855",
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-05-23T15:34:54.402323",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-23T15:34:54.402323"
+  "last_seen": "2026-05-23T16:30:37.040145"
 }
