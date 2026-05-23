@@ -7,28 +7,25 @@
     "B": 0,
     "C": 3,
     "CALLSIGN": "MJNL9",
-    "COG": 265.9,
+    "COG": 268.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50736,
-    "LONGITUDE": 0.00159,
+    "LATITUDE": 51.50214,
+    "LONGITUDE": -0.05993,
     "MMSI": 235028213,
     "NAME": "YEMAYA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6,
-    "TIME": "2026-05-23 14:41:33 GMT",
+    "SOG": 4.5,
+    "TIME": "2026-05-23 15:34:03 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-05-23T14:42:04.212415",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-23T14:42:04.212415"
+  "last_seen": "2026-05-23T15:34:53.770138"
 }
