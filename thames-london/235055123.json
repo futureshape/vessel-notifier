@@ -377,18 +377,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 8958007,
-    "LATITUDE": 51.50412,
-    "LONGITUDE": -0.07342,
+    "LATITUDE": 51.50414,
+    "LONGITUDE": -0.07341,
     "MMSI": 235055123,
     "NAME": "DIXIE QUEEN",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-05-23 17:31:50 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-05-23 18:32:00 GMT",
     "TYPE": 60,
-    "last_seen": "2026-05-23T16:30:37.037384",
+    "last_seen": "2026-05-23T17:31:51.949741",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-23T17:31:51.949741"
+  "last_seen": "2026-05-23T18:32:01.143240"
 }
