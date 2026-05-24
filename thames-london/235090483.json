@@ -7,28 +7,25 @@
     "B": 3,
     "C": 1,
     "CALLSIGN": "2FED9",
-    "COG": 302.1,
+    "COG": 5.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49816,
-    "LONGITUDE": 0.02124,
+    "LATITUDE": 51.49423,
+    "LONGITUDE": -0.03068,
     "MMSI": 235090483,
     "NAME": "FOLIE DOUCE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.8,
-    "TIME": "2026-05-24 17:30:22 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-05-24 18:30:22 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-05-24T17:30:45.610160",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-24T17:30:45.610160"
+  "last_seen": "2026-05-24T18:33:15.818468"
 }
