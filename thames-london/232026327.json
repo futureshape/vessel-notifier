@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2026-05-26"
+  ],
+  "last_full_data": {
+    "A": 8,
+    "B": 3,
+    "C": 2,
+    "CALLSIGN": "MGUK4",
+    "COG": 126,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 134,
+    "IMO": 0,
+    "LATITUDE": 51.50443,
+    "LONGITUDE": -0.07056,
+    "MMSI": 232026327,
+    "NAME": "CA'CANNY 1",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 2.7,
+    "TIME": "2026-05-26 09:25:48 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      2648,
+      2675,
+      3999
+    ]
+  },
+  "last_seen": "2026-05-26T09:26:05.193798"
+}

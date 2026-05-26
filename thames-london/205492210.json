@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2026-05-26"
+  ],
+  "last_full_data": {
+    "A": 12,
+    "B": 6,
+    "C": 1,
+    "CALLSIGN": "OR4922",
+    "COG": 310.1,
+    "D": 4,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.5036,
+    "LONGITUDE": 0.01155,
+    "MMSI": 205492210,
+    "NAME": "DAMAZ",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 10.5,
+    "TIME": "2026-05-26 09:25:35 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3999,
+      3218,
+      2648
+    ]
+  },
+  "last_seen": "2026-05-26T09:26:06.046508"
+}

@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-05-24"
+    "2026-05-24",
+    "2026-05-26"
   ],
   "last_full_data": {
     "A": 10,
     "B": 0,
     "C": 2,
     "CALLSIGN": "ZQMD6",
-    "COG": 196.6,
+    "COG": 306.8,
     "D": 2,
     "DEST": "SCARBOROUGH",
     "DRAUGHT": 1.4,
     "ETA": "08-12 10:54",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49638,
-    "LONGITUDE": -0.03035,
+    "LATITUDE": 51.48698,
+    "LONGITUDE": -0.02236,
     "MMSI": 235014706,
     "NAME": "HARVEST MOON",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.8,
-    "TIME": "2026-05-24 18:32:45 GMT",
+    "SOG": 5.6,
+    "TIME": "2026-05-26 09:25:40 GMT",
     "TYPE": 36,
-    "last_seen": "2026-05-24T17:30:45.236813",
+    "last_seen": "2026-05-24T18:33:15.818668",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-24T18:33:15.818668"
+  "last_seen": "2026-05-26T09:26:05.201229"
 }
