@@ -7,29 +7,25 @@
     "B": 9,
     "C": 2,
     "CALLSIGN": "MPFB9",
-    "COG": 305.2,
+    "COG": 360,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 15,
+    "HEADING": 168,
     "IMO": 0,
-    "LATITUDE": 51.50403,
-    "LONGITUDE": -0.07051,
+    "LATITUDE": 51.50702,
+    "LONGITUDE": -0.07203,
     "MMSI": 232055029,
     "NAME": "ZANDALEE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 2.7,
-    "TIME": "2026-05-27 09:24:13 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-05-27 11:22:24 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648,
-      2675
-    ]
+    "last_seen": "2026-05-27T09:24:43.426450",
+    "received_by_stations": []
   },
-  "last_seen": "2026-05-27T09:24:43.426450"
+  "last_seen": "2026-05-27T11:22:55.047861"
 }
