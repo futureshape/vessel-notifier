@@ -1,0 +1,39 @@
+{
+  "dates_seen": [
+    "2026-05-28"
+  ],
+  "last_full_data": {
+    "A": 4,
+    "B": 13,
+    "C": 3,
+    "CALLSIGN": "MSXZ8",
+    "COG": 280,
+    "D": 4,
+    "DEST": "GBGVS",
+    "DRAUGHT": 0,
+    "ETA": "03-16 15:00",
+    "HEADING": 280,
+    "IMO": 0,
+    "LATITUDE": 51.50776,
+    "LONGITUDE": -0.08451,
+    "MMSI": 232064219,
+    "NAME": "THAMES SPIRIT",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 127,
+    "SOG": 8.2,
+    "TIME": "2026-05-28 07:38:52 GMT",
+    "TYPE": 40,
+    "last_seen": null,
+    "received_by_stations": [
+      3999,
+      2675,
+      2296,
+      2103,
+      2055,
+      3129,
+      2648
+    ]
+  },
+  "last_seen": "2026-05-28T07:38:58.102999"
+}
