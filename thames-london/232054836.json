@@ -1,0 +1,39 @@
+{
+  "dates_seen": [
+    "2026-05-29"
+  ],
+  "last_full_data": {
+    "A": 10,
+    "B": 22,
+    "C": 6,
+    "CALLSIGN": "MPCY8",
+    "COG": 272.3,
+    "D": 7,
+    "DEST": "HARBOUR OPS",
+    "DRAUGHT": 6.7,
+    "ETA": "06-02 17:00",
+    "HEADING": 277,
+    "IMO": 9434814,
+    "LATITUDE": 51.49662,
+    "LONGITUDE": 0.02523,
+    "MMSI": 232054836,
+    "NAME": "VB PANTHER",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 127,
+    "SOG": 8.6,
+    "TIME": "2026-05-29 21:47:11 GMT",
+    "TYPE": 52,
+    "last_seen": null,
+    "received_by_stations": [
+      3129,
+      2103,
+      3416,
+      3218,
+      3999,
+      2665,
+      2648
+    ]
+  },
+  "last_seen": "2026-05-29T21:47:15.085149"
+}
