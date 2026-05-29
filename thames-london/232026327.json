@@ -1,7 +1,8 @@
 {
   "dates_seen": [
     "2026-05-26",
-    "2026-05-27"
+    "2026-05-27",
+    "2026-05-29"
   ],
   "last_full_data": {
     "A": 8,
@@ -13,20 +14,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 162,
+    "HEADING": 169,
     "IMO": 0,
-    "LATITUDE": 51.50715,
-    "LONGITUDE": -0.06956,
+    "LATITUDE": 51.50709,
+    "LONGITUDE": -0.06955,
     "MMSI": 232026327,
     "NAME": "CA'CANNY 1",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-05-27 07:42:17 GMT",
+    "TIME": "2026-05-29 12:56:55 GMT",
     "TYPE": 37,
-    "last_seen": "2026-05-26T09:26:05.193798",
+    "last_seen": "2026-05-27T07:43:21.294570",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-27T07:43:21.294570"
+  "last_seen": "2026-05-29T13:25:41.146911"
 }
