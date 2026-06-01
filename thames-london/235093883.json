@@ -477,20 +477,20 @@
     "DEST": "GBLON",
     "DRAUGHT": 2.4,
     "ETA": "02-23 22:00",
-    "HEADING": 302,
+    "HEADING": 142,
     "IMO": 0,
-    "LATITUDE": 51.49741,
-    "LONGITUDE": 0.01725,
+    "LATITUDE": 51.50046,
+    "LONGITUDE": 0.01118,
     "MMSI": 235093883,
     "NAME": "SHAKEDOG",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": 0,
+    "ROT": 127,
     "SOG": 0,
-    "TIME": "2026-06-01 08:05:43 GMT",
+    "TIME": "2026-06-01 10:00:41 GMT",
     "TYPE": 52,
-    "last_seen": "2026-06-01T05:49:49.800766",
+    "last_seen": "2026-06-01T08:09:53.183391",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-01T08:09:53.183391"
+  "last_seen": "2026-06-01T10:03:06.439852"
 }
