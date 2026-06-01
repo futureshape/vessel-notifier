@@ -1,0 +1,40 @@
+{
+  "dates_seen": [
+    "2026-06-01"
+  ],
+  "last_full_data": {
+    "A": 25,
+    "B": 19,
+    "C": 2,
+    "CALLSIGN": "3AYN",
+    "COG": 287.7,
+    "D": 6,
+    "DEST": "LONDON",
+    "DRAUGHT": 2.8,
+    "ETA": "06-01 15:00",
+    "HEADING": 136,
+    "IMO": 1122350,
+    "LATITUDE": 51.50128,
+    "LONGITUDE": -0.01325,
+    "MMSI": 254713000,
+    "NAME": "THE GREAT ESCAPE",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": -127,
+    "SOG": 0.3,
+    "TIME": "2026-06-01 14:21:09 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3218,
+      3129,
+      3811,
+      3416,
+      2665,
+      3999,
+      2648,
+      2103
+    ]
+  },
+  "last_seen": "2026-06-01T14:21:12.182057"
+}

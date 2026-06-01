@@ -16,7 +16,8 @@
     "2026-05-21",
     "2026-05-25",
     "2026-05-26",
-    "2026-05-27"
+    "2026-05-27",
+    "2026-06-01"
   ],
   "last_full_data": {
     "A": 10,
@@ -25,23 +26,23 @@
     "CALLSIGN": "2CSF6",
     "COG": 360,
     "D": 2,
-    "DEST": "HARWICH PIER",
+    "DEST": "LONDON",
     "DRAUGHT": 1.9,
-    "ETA": "05-27 21:00",
-    "HEADING": 304,
+    "ETA": "06-01 15:30",
+    "HEADING": 123,
     "IMO": 9533220,
-    "LATITUDE": 51.50485,
-    "LONGITUDE": -0.07109,
+    "LATITUDE": 51.50489,
+    "LONGITUDE": -0.0713,
     "MMSI": 235075328,
     "NAME": "TS JACK PETCHEY",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2026-05-27 09:24:32 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-06-01 14:18:13 GMT",
     "TYPE": 37,
-    "last_seen": "2026-05-27T07:43:21.293938",
+    "last_seen": "2026-05-27T09:24:42.891439",
     "received_by_stations": []
   },
-  "last_seen": "2026-05-27T09:24:42.891439"
+  "last_seen": "2026-06-01T14:21:11.653105"
 }
