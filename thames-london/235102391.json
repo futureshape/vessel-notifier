@@ -196,18 +196,18 @@
     "ETA": "09-19 15:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49546,
-    "LONGITUDE": 0.03761,
+    "LATITUDE": 51.49547,
+    "LONGITUDE": 0.037,
     "MMSI": 235102391,
     "NAME": "JUMBO",
     "NAVSTAT": 12,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-06-02 07:56:23 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-06-02 09:41:01 GMT",
     "TYPE": 90,
-    "last_seen": "2026-06-01T12:08:12.802566",
+    "last_seen": "2026-06-02T07:56:28.373558",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-02T07:56:28.373558"
+  "last_seen": "2026-06-02T09:41:08.461802"
 }
