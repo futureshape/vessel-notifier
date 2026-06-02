@@ -1,7 +1,39 @@
 {
   "dates_seen": [
-    "2024-06-11"
+    "2024-06-11",
+    "2026-06-02"
   ],
-  "last_full_data": {},
-  "last_seen": "2024-06-11T15:20:25.139134"
+  "last_full_data": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "CALLSIGN": "CGWH",
+    "COG": 292.7,
+    "D": 0,
+    "DEST": "BELGIUM",
+    "DRAUGHT": 2,
+    "ETA": "00-00 24:60",
+    "HEADING": 291,
+    "IMO": 4702539,
+    "LATITUDE": 51.50287,
+    "LONGITUDE": -0.06675,
+    "MMSI": 316014560,
+    "NAME": "CDN WARSHIP 433",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 18,
+    "SOG": 4.2,
+    "TIME": "2026-06-02 15:36:07 GMT",
+    "TYPE": 35,
+    "last_seen": "2024-06-11T15:20:25.139134",
+    "received_by_stations": [
+      2648,
+      3999,
+      2675,
+      3129,
+      3416,
+      2296
+    ]
+  },
+  "last_seen": "2026-06-02T15:36:13.608984"
 }
