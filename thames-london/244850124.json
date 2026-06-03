@@ -9,7 +9,7 @@
     "B": 5,
     "C": 1,
     "CALLSIGN": "PI5369",
-    "COG": 351.2,
+    "COG": 10.2,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 2,
@@ -17,17 +17,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50795,
-    "LONGITUDE": -0.07216,
+    "LONGITUDE": -0.07208,
     "MMSI": 244850124,
     "NAME": "GRIETJE 3",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-06-03 09:50:00 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-06-03 11:46:07 GMT",
     "TYPE": 37,
-    "last_seen": "2026-06-03T08:00:17.955207",
+    "last_seen": "2026-06-03T09:51:25.670510",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-03T09:51:25.670510"
+  "last_seen": "2026-06-03T11:48:02.762082"
 }
