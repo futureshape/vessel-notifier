@@ -8,30 +8,25 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "HBY4398",
-    "COG": 266.4,
+    "COG": 360,
     "D": 2,
     "DEST": "VERRASSING",
     "DRAUGHT": 0.3,
     "ETA": "06-01 11:11",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50885,
-    "LONGITUDE": -0.09258,
+    "LATITUDE": 51.50767,
+    "LONGITUDE": -0.07295,
     "MMSI": 269101940,
     "NAME": "ROLLING SWISS II",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.3,
-    "TIME": "2026-06-04 13:24:52 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-06-04 15:15:20 GMT",
     "TYPE": 37,
-    "last_seen": "2024-05-19T11:14:46.021144",
-    "received_by_stations": [
-      2675,
-      2296,
-      2648,
-      3999
-    ]
+    "last_seen": "2026-06-04T13:25:08.510368",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-04T13:25:08.510368"
+  "last_seen": "2026-06-04T15:16:06.236184"
 }

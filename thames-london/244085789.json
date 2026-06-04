@@ -1,35 +1,32 @@
 {
   "dates_seen": [
-    "2026-06-02"
+    "2026-06-02",
+    "2026-06-04"
   ],
   "last_full_data": {
     "A": 9,
     "B": 1,
     "C": 2,
     "CALLSIGN": "PD8644",
-    "COG": 93.8,
+    "COG": 108.5,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 100,
+    "HEADING": 109,
     "IMO": 0,
-    "LATITUDE": 51.50197,
-    "LONGITUDE": -0.06592,
+    "LATITUDE": 51.50697,
+    "LONGITUDE": -0.0342,
     "MMSI": 244085789,
     "NAME": "BREEZE CS",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 3.1,
-    "TIME": "2026-06-02 13:36:23 GMT",
+    "SOG": 4.7,
+    "TIME": "2026-06-04 15:15:37 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648,
-      2675
-    ]
+    "last_seen": "2026-06-02T13:36:42.958183",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-02T13:36:42.958183"
+  "last_seen": "2026-06-04T15:16:06.241266"
 }
