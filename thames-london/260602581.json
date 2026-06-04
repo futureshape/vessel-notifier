@@ -7,27 +7,25 @@
     "B": 5,
     "C": 5,
     "CALLSIGN": "",
-    "COG": 359.3,
+    "COG": 20.7,
     "D": 5,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 456,
     "IMO": 0,
-    "LATITUDE": 51.49469,
-    "LONGITUDE": 0.01815,
+    "LATITUDE": 51.49437,
+    "LONGITUDE": 0.01762,
     "MMSI": 260602581,
     "NAME": "TRACKERTEST1-99%",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 3.4,
-    "TIME": "2026-06-04 15:13:56 GMT",
+    "SOG": 0.3,
+    "TIME": "2026-06-04 17:10:39 GMT",
     "TYPE": 0,
-    "last_seen": null,
-    "received_by_stations": [
-      3999
-    ]
+    "last_seen": "2026-06-04T15:16:07.545780",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-04T15:16:07.545780"
+  "last_seen": "2026-06-04T17:14:45.394137"
 }
