@@ -10,7 +10,7 @@
     "B": 0,
     "C": 1,
     "CALLSIGN": "PG4185",
-    "COG": 0,
+    "COG": 171.6,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -18,17 +18,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50722,
-    "LONGITUDE": -0.06963,
+    "LONGITUDE": -0.06959,
     "MMSI": 244615986,
     "NAME": "ELISABETH",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-06-06 12:41:25 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-06-06 13:44:24 GMT",
     "TYPE": 36,
-    "last_seen": "2026-06-06T11:42:12.729297",
+    "last_seen": "2026-06-06T12:42:36.336768",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-06T12:42:36.336768"
+  "last_seen": "2026-06-06T13:45:36.679847"
 }
