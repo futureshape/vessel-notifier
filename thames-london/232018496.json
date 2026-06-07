@@ -7,29 +7,25 @@
     "B": 1,
     "C": 3,
     "CALLSIGN": "MEAF5",
-    "COG": 258.6,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 263,
+    "HEADING": 249,
     "IMO": 0,
-    "LATITUDE": 51.48595,
-    "LONGITUDE": -0.00927,
+    "LATITUDE": 51.50701,
+    "LONGITUDE": -0.07252,
     "MMSI": 232018496,
     "NAME": "ALIENOR II",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.7,
-    "TIME": "2026-06-07 16:41:04 GMT",
+    "SOG": 0,
+    "TIME": "2026-06-07 17:37:04 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999,
-      3416
-    ]
+    "last_seen": "2026-06-07T16:41:10.028481",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-07T16:41:10.028481"
+  "last_seen": "2026-06-07T17:39:16.150181"
 }
