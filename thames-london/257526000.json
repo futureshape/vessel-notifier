@@ -16,7 +16,7 @@
     "B": 202,
     "C": 17,
     "CALLSIGN": "LATY8",
-    "COG": 244.9,
+    "COG": 206.8,
     "D": 16,
     "DEST": "GREENWICH",
     "DRAUGHT": 6.5,
@@ -29,12 +29,12 @@
     "NAME": "VIKING VELA",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 0,
-    "SOG": 0,
-    "TIME": "2026-06-07 13:46:27 GMT",
+    "ROT": 5,
+    "SOG": 0.1,
+    "TIME": "2026-06-07 14:46:58 GMT",
     "TYPE": 60,
-    "last_seen": "2026-06-07T12:46:24.603045",
+    "last_seen": "2026-06-07T13:46:29.952284",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-07T13:46:29.952284"
+  "last_seen": "2026-06-07T14:47:07.361688"
 }
