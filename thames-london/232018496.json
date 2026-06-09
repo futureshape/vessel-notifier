@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-06-07"
+    "2026-06-07",
+    "2026-06-09"
   ],
   "last_full_data": {
     "A": 12,
     "B": 1,
     "C": 3,
     "CALLSIGN": "MEAF5",
-    "COG": 360,
+    "COG": 56.1,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 247,
+    "HEADING": 53,
     "IMO": 0,
-    "LATITUDE": 51.50708,
-    "LONGITUDE": -0.07241,
+    "LATITUDE": 51.50331,
+    "LONGITUDE": -0.05323,
     "MMSI": 232018496,
     "NAME": "ALIENOR II",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-06-07 18:37:04 GMT",
+    "SOG": 6.7,
+    "TIME": "2026-06-09 07:30:45 GMT",
     "TYPE": 36,
-    "last_seen": "2026-06-07T17:39:16.150181",
+    "last_seen": "2026-06-07T18:39:21.981861",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-07T18:39:21.981861"
+  "last_seen": "2026-06-09T07:31:08.292248"
 }
