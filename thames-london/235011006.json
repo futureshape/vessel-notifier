@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2025-07-31",
-    "2025-09-09"
+    "2025-09-09",
+    "2026-06-13"
   ],
   "last_full_data": {
     "A": 6,
     "B": 9,
     "C": 2,
     "CALLSIGN": "MAFU2",
-    "COG": 14.4,
+    "COG": 0,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 208,
+    "HEADING": 140,
     "IMO": 0,
-    "LATITUDE": 51.47259,
-    "LONGITUDE": -0.17928,
+    "LATITUDE": 51.47526,
+    "LONGITUDE": -0.18113,
     "MMSI": 235011006,
     "NAME": "NAUTI IMPULSE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7,
-    "TIME": "2025-09-09 14:27:52 GMT",
+    "SOG": 0,
+    "TIME": "2026-06-13 08:59:59 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-09T13:38:26.496273",
+    "last_seen": "2025-09-09T14:29:16.486926",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-09T14:29:16.486926"
+  "last_seen": "2026-06-13T09:16:05.109202"
 }
