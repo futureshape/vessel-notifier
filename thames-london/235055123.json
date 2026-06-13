@@ -385,7 +385,7 @@
     "B": 40,
     "C": 4,
     "CALLSIGN": "MZED8",
-    "COG": 360,
+    "COG": 226.1,
     "D": 8,
     "DEST": "",
     "DRAUGHT": 0,
@@ -393,17 +393,17 @@
     "HEADING": 511,
     "IMO": 8958007,
     "LATITUDE": 51.50415,
-    "LONGITUDE": -0.07343,
+    "LONGITUDE": -0.07341,
     "MMSI": 235055123,
     "NAME": "DIXIE QUEEN",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-06-13 10:58:32 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-06-13 11:47:22 GMT",
     "TYPE": 60,
-    "last_seen": "2026-06-13T09:16:05.119986",
+    "last_seen": "2026-06-13T10:58:40.887074",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-13T10:58:40.887074"
+  "last_seen": "2026-06-13T11:47:26.369133"
 }

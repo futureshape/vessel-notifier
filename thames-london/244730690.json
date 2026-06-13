@@ -7,28 +7,25 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "PC6822",
-    "COG": 333.3,
+    "COG": 326.4,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 329,
+    "HEADING": 314,
     "IMO": 0,
-    "LATITUDE": 51.49008,
-    "LONGITUDE": -0.02627,
+    "LATITUDE": 51.50551,
+    "LONGITUDE": -0.07226,
     "MMSI": 244730690,
     "NAME": "PIXEL",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.5,
-    "TIME": "2026-06-13 10:58:31 GMT",
+    "SOG": 0.5,
+    "TIME": "2026-06-13 11:45:28 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-06-13T10:58:41.484454",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-13T10:58:41.484454"
+  "last_seen": "2026-06-13T11:47:26.369685"
 }
