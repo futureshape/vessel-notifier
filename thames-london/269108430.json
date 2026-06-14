@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2026-06-09"
+    "2026-06-09",
+    "2026-06-14"
   ],
   "last_full_data": {
     "A": 6,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 178,
+    "HEADING": 180,
     "IMO": 0,
-    "LATITUDE": 51.50704,
-    "LONGITUDE": -0.07197,
+    "LATITUDE": 51.50644,
+    "LONGITUDE": -0.07227,
     "MMSI": 269108430,
     "NAME": "AMELIA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-06-09 18:32:17 GMT",
+    "TIME": "2026-06-14 11:05:16 GMT",
     "TYPE": 36,
-    "last_seen": "2026-06-09T17:48:31.190846",
+    "last_seen": "2026-06-09T18:56:56.192983",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-09T18:56:56.192983"
+  "last_seen": "2026-06-14T11:08:15.026357"
 }
