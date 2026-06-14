@@ -202,32 +202,33 @@
     "2026-06-05",
     "2026-06-11",
     "2026-06-12",
-    "2026-06-13"
+    "2026-06-13",
+    "2026-06-14"
   ],
   "last_full_data": {
     "A": 5,
     "B": 4,
     "C": 2,
     "CALLSIGN": "2HLP7",
-    "COG": 212,
+    "COG": 222.1,
     "D": 2,
     "DEST": "IMPERIAL WHARF",
     "DRAUGHT": 0.6,
     "ETA": "04-13 21:30",
-    "HEADING": 208,
+    "HEADING": 188,
     "IMO": 0,
-    "LATITUDE": 51.50791,
-    "LONGITUDE": -0.11855,
+    "LATITUDE": 51.47272,
+    "LONGITUDE": -0.18043,
     "MMSI": 235104656,
     "NAME": "THAMES LIMO",
     "NAVSTAT": 9,
     "PAC": 0,
-    "ROT": 127,
-    "SOG": 7.8,
-    "TIME": "2026-06-13 18:41:32 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2026-06-14 07:50:42 GMT",
     "TYPE": 60,
-    "last_seen": "2026-06-13T17:41:30.855513",
+    "last_seen": "2026-06-13T18:41:32.326327",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-13T18:41:32.326327"
+  "last_seen": "2026-06-14T07:50:46.835557"
 }
