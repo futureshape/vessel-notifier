@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2026-06-15"
+  ],
+  "last_full_data": {
+    "A": 25,
+    "B": 45,
+    "C": 5,
+    "CALLSIGN": "6YTX2",
+    "COG": 34.2,
+    "D": 6,
+    "DEST": "GB LON",
+    "DRAUGHT": 3.6,
+    "ETA": "06-15 12:28",
+    "HEADING": 117,
+    "IMO": 9837999,
+    "LATITUDE": 51.50364,
+    "LONGITUDE": -0.07111,
+    "MMSI": 339794000,
+    "NAME": "SPECTRE",
+    "NAVSTAT": 5,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 0.1,
+    "TIME": "2026-06-15 14:21:57 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3416,
+      3999,
+      2648,
+      3129,
+      2296
+    ]
+  },
+  "last_seen": "2026-06-15T14:23:13.705073"
+}
