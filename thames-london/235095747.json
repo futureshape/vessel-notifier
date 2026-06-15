@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-06-14"
+    "2026-06-14",
+    "2026-06-15"
   ],
   "last_full_data": {
     "A": 8,
     "B": 6,
     "C": 2,
     "CALLSIGN": "2GAI8",
-    "COG": 180.2,
+    "COG": 172.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 180,
+    "HEADING": 172,
     "IMO": 0,
     "LATITUDE": 51.50699,
-    "LONGITUDE": -0.07125,
+    "LONGITUDE": -0.07127,
     "MMSI": 235095747,
     "NAME": "MONCHIQUE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-06-14 23:36:26 GMT",
+    "TIME": "2026-06-15 01:25:26 GMT",
     "TYPE": 37,
-    "last_seen": "2026-06-14T22:35:50.472768",
+    "last_seen": "2026-06-14T23:37:27.886093",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-14T23:37:27.886093"
+  "last_seen": "2026-06-15T01:27:57.393010"
 }
