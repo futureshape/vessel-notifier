@@ -12,26 +12,20 @@
     "DEST": "LONDON",
     "DRAUGHT": 2.3,
     "ETA": "06-14 13:08",
-    "HEADING": 103,
+    "HEADING": 102,
     "IMO": 1080588,
-    "LATITUDE": 51.50667,
-    "LONGITUDE": -0.07153,
+    "LATITUDE": 51.50665,
+    "LONGITUDE": -0.07151,
     "MMSI": 319349400,
     "NAME": "LOLLIPOP",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-06-15 14:23:08 GMT",
+    "TIME": "2026-06-15 18:41:17 GMT",
     "TYPE": 38,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      3999,
-      2296,
-      3129,
-      2648
-    ]
+    "last_seen": "2026-06-15T14:23:13.029987",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-15T14:23:13.029987"
+  "last_seen": "2026-06-15T18:43:47.147348"
 }

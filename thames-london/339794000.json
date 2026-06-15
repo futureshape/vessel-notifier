@@ -7,31 +7,25 @@
     "B": 45,
     "C": 5,
     "CALLSIGN": "6YTX2",
-    "COG": 34.2,
+    "COG": 215.7,
     "D": 6,
     "DEST": "GB LON",
     "DRAUGHT": 3.6,
     "ETA": "06-15 12:28",
-    "HEADING": 117,
+    "HEADING": 126,
     "IMO": 9837999,
-    "LATITUDE": 51.50364,
-    "LONGITUDE": -0.07111,
+    "LATITUDE": 51.50354,
+    "LONGITUDE": -0.07117,
     "MMSI": 339794000,
     "NAME": "SPECTRE",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0.1,
-    "TIME": "2026-06-15 14:21:57 GMT",
+    "TIME": "2026-06-15 18:42:56 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3416,
-      3999,
-      2648,
-      3129,
-      2296
-    ]
+    "last_seen": "2026-06-15T14:23:13.705073",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-15T14:23:13.705073"
+  "last_seen": "2026-06-15T18:43:47.147874"
 }
