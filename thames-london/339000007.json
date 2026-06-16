@@ -14,22 +14,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50588,
-    "LONGITUDE": -0.07345,
+    "LATITUDE": 51.50346,
+    "LONGITUDE": -0.0714,
     "MMSI": 339000007,
     "NAME": "SPECTRE TOO",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2026-06-16 14:43:45 GMT",
+    "SOG": 0,
+    "TIME": "2026-06-16 20:12:22 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      2296,
-      2675
-    ]
+    "last_seen": "2026-06-16T14:48:30.498264",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-16T14:48:30.498264"
+  "last_seen": "2026-06-16T20:15:14.102255"
 }
