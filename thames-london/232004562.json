@@ -220,32 +220,33 @@
     "2026-06-11",
     "2026-06-12",
     "2026-06-15",
-    "2026-06-16"
+    "2026-06-16",
+    "2026-06-17"
   ],
   "last_full_data": {
     "A": 5,
     "B": 10,
     "C": 2,
     "CALLSIGN": "MYZU9",
-    "COG": 12.3,
+    "COG": 247.5,
     "D": 3,
     "DEST": "VIC DOCK BUOY",
     "DRAUGHT": 2,
     "ETA": "05-16 14:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50163,
-    "LONGITUDE": 0.01449,
+    "LATITUDE": 51.50139,
+    "LONGITUDE": 0.0148,
     "MMSI": 232004562,
     "NAME": "ASSASSIN",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0.1,
-    "TIME": "2026-06-16 14:29:22 GMT",
+    "TIME": "2026-06-17 08:10:33 GMT",
     "TYPE": 52,
-    "last_seen": "2026-06-15T08:25:55.401311",
+    "last_seen": "2026-06-16T14:48:30.512596",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-16T14:48:30.512596"
+  "last_seen": "2026-06-17T08:10:51.397746"
 }
