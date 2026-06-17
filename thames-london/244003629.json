@@ -14,23 +14,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50776,
-    "LONGITUDE": -0.07189,
+    "LATITUDE": 51.50778,
+    "LONGITUDE": -0.07188,
     "MMSI": 244003629,
     "NAME": "FREE SPIRIT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0.1,
-    "TIME": "2026-06-17 14:18:12 GMT",
+    "TIME": "2026-06-17 16:24:11 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2675,
-      2296,
-      3999,
-      2648
-    ]
+    "last_seen": "2026-06-17T14:19:21.346360",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-17T14:19:21.346360"
+  "last_seen": "2026-06-17T16:25:22.276388"
 }
