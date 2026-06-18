@@ -7,28 +7,25 @@
     "B": 9,
     "C": 1,
     "CALLSIGN": "DFCU2",
-    "COG": 314.5,
+    "COG": 17.2,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 312,
+    "HEADING": 179,
     "IMO": 0,
-    "LATITUDE": 51.50746,
-    "LONGITUDE": -0.03217,
+    "LATITUDE": 51.50704,
+    "LONGITUDE": -0.07123,
     "MMSI": 211134410,
     "NAME": "CLOUD SEVEN",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.1,
-    "TIME": "2026-06-18 13:26:10 GMT",
+    "SOG": 0,
+    "TIME": "2026-06-18 15:09:28 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-06-18T13:26:13.463523",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-18T13:26:13.463523"
+  "last_seen": "2026-06-18T15:16:40.549755"
 }
