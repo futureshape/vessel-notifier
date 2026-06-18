@@ -15,20 +15,20 @@
     "DEST": "GB LON",
     "DRAUGHT": 3.6,
     "ETA": "06-15 12:28",
-    "HEADING": 120,
+    "HEADING": 121,
     "IMO": 9837999,
-    "LATITUDE": 51.50352,
-    "LONGITUDE": -0.07118,
+    "LATITUDE": 51.5036,
+    "LONGITUDE": -0.07115,
     "MMSI": 339794000,
     "NAME": "SPECTRE",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2026-06-18 11:32:09 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-06-18 13:26:06 GMT",
     "TYPE": 37,
-    "last_seen": "2026-06-18T09:42:02.299117",
+    "last_seen": "2026-06-18T11:32:57.502419",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-18T11:32:57.502419"
+  "last_seen": "2026-06-18T13:26:12.839078"
 }
