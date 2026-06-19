@@ -7,32 +7,33 @@
     "2025-07-07",
     "2026-06-16",
     "2026-06-17",
-    "2026-06-18"
+    "2026-06-18",
+    "2026-06-19"
   ],
   "last_full_data": {
     "A": 45,
     "B": 184,
     "C": 14,
     "CALLSIGN": "LAYP7",
-    "COG": 326,
+    "COG": 8.1,
     "D": 14,
-    "DEST": "GB LEI",
+    "DEST": "GB NHV",
     "DRAUGHT": 7.1,
     "ETA": "06-20 06:00",
-    "HEADING": 94,
+    "HEADING": 95,
     "IMO": 9796262,
-    "LATITUDE": 51.48419,
-    "LONGITUDE": -0.0144,
+    "LATITUDE": 51.48421,
+    "LONGITUDE": -0.01442,
     "MMSI": 257058920,
     "NAME": "VIKING JUPITER",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": 5,
+    "ROT": 0,
     "SOG": 0.1,
-    "TIME": "2026-06-18 23:41:24 GMT",
+    "TIME": "2026-06-19 01:29:25 GMT",
     "TYPE": 60,
-    "last_seen": "2026-06-18T22:48:09.640199",
+    "last_seen": "2026-06-18T23:45:36.006998",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-18T23:45:36.006998"
+  "last_seen": "2026-06-19T01:29:35.370033"
 }
