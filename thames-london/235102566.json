@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-08-16",
     "2025-08-17",
-    "2026-04-12"
+    "2026-04-12",
+    "2026-06-19"
   ],
   "last_full_data": {
-    "A": 5,
-    "B": 5,
+    "A": 7,
+    "B": 3,
     "C": 2,
-    "CALLSIGN": "?",
-    "COG": 360,
+    "CALLSIGN": "2HCU9",
+    "COG": 105,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "04-12 20:12",
-    "HEADING": 359,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.46238,
-    "LONGITUDE": -0.199,
+    "LATITUDE": 51.46505,
+    "LONGITUDE": -0.20664,
     "MMSI": 235102566,
     "NAME": "HERA",
-    "NAVSTAT": 5,
+    "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-04-12 20:11:54 GMT",
+    "SOG": 14.9,
+    "TIME": "2026-06-19 19:43:20 GMT",
     "TYPE": 37,
-    "last_seen": "2026-04-12T15:22:04.736049",
+    "last_seen": "2026-04-12T20:18:47.061949",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-12T20:18:47.061949"
+  "last_seen": "2026-06-19T19:46:13.964409"
 }
