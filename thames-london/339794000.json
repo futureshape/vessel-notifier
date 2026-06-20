@@ -17,20 +17,20 @@
     "DEST": "IT LIV",
     "DRAUGHT": 3.6,
     "ETA": "06-30 12:00",
-    "HEADING": 120,
+    "HEADING": 118,
     "IMO": 9837999,
-    "LATITUDE": 51.50355,
-    "LONGITUDE": -0.07116,
+    "LATITUDE": 51.50358,
+    "LONGITUDE": -0.07112,
     "MMSI": 339794000,
     "NAME": "SPECTRE",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2026-06-20 15:44:09 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-06-20 16:41:07 GMT",
     "TYPE": 37,
-    "last_seen": "2026-06-20T14:54:38.385956",
+    "last_seen": "2026-06-20T15:45:19.646562",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-20T15:45:19.646562"
+  "last_seen": "2026-06-20T16:42:26.990375"
 }
