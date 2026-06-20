@@ -1,0 +1,39 @@
+{
+  "dates_seen": [
+    "2026-06-20"
+  ],
+  "last_full_data": {
+    "A": 20,
+    "B": 112,
+    "C": 12,
+    "CALLSIGN": "9HA2851",
+    "COG": 286.4,
+    "D": 9,
+    "DEST": "LONDON",
+    "DRAUGHT": 5.3,
+    "ETA": "06-17 21:00",
+    "HEADING": 257,
+    "IMO": 7302914,
+    "LATITUDE": 51.50669,
+    "LONGITUDE": 0.03302,
+    "MMSI": 256375000,
+    "NAME": "LOGOS HOPE",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 0,
+    "SOG": 0.3,
+    "TIME": "2026-06-20 19:44:47 GMT",
+    "TYPE": 69,
+    "last_seen": null,
+    "received_by_stations": [
+      3999,
+      3416,
+      3129,
+      2103,
+      2665,
+      2648,
+      3218
+    ]
+  },
+  "last_seen": "2026-06-20T19:44:53.655970"
+}
