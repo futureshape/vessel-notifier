@@ -10,31 +10,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "M11F5",
-    "COG": 272.4,
+    "COG": 299.9,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4973,
-    "LONGITUDE": 0.02596,
+    "LATITUDE": 51.50814,
+    "LONGITUDE": -0.03435,
     "MMSI": 232031305,
     "NAME": "THE PERFECT MATCH",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.3,
-    "TIME": "2026-06-21 14:58:26 GMT",
+    "SOG": 5.8,
+    "TIME": "2026-06-21 15:46:44 GMT",
     "TYPE": 90,
-    "last_seen": "2024-08-28T10:27:44.708369",
-    "received_by_stations": [
-      3218,
-      2648,
-      2665,
-      3129,
-      3999
-    ]
+    "last_seen": "2026-06-21T14:58:32.154782",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-21T14:58:32.154782"
+  "last_seen": "2026-06-21T15:46:53.309794"
 }
