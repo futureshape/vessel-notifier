@@ -1,0 +1,38 @@
+{
+  "dates_seen": [
+    "2026-06-22"
+  ],
+  "last_full_data": {
+    "A": 22,
+    "B": 23,
+    "C": 4,
+    "CALLSIGN": "ZGCA6",
+    "COG": 261.8,
+    "D": 4,
+    "DEST": "LONDON",
+    "DRAUGHT": 2.9,
+    "ETA": "06-22 11:00",
+    "HEADING": 263,
+    "IMO": 1009326,
+    "LATITUDE": 51.49714,
+    "LONGITUDE": 0.03574,
+    "MMSI": 319011900,
+    "NAME": "AWATEA",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 7,
+    "SOG": 8.1,
+    "TIME": "2026-06-22 06:04:10 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3416,
+      3999,
+      3129,
+      2648,
+      2665,
+      3218
+    ]
+  },
+  "last_seen": "2026-06-22T06:04:16.827659"
+}
