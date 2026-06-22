@@ -7,29 +7,25 @@
     "B": 0,
     "C": 2,
     "CALLSIGN": "PE2443",
-    "COG": 241.3,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50291,
-    "LONGITUDE": -0.05678,
+    "LATITUDE": 51.50775,
+    "LONGITUDE": -0.07191,
     "MMSI": 244820192,
     "NAME": "GROTE BEER",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 7.2,
-    "TIME": "2026-06-22 16:46:43 GMT",
+    "SOG": 0,
+    "TIME": "2026-06-22 18:24:06 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      3416,
-      2648
-    ]
+    "last_seen": "2026-06-22T16:47:05.270179",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-22T16:47:05.270179"
+  "last_seen": "2026-06-22T18:30:54.226550"
 }

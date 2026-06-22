@@ -7,29 +7,25 @@
     "B": 0,
     "C": 3,
     "CALLSIGN": "PF7058",
-    "COG": 294.4,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50515,
-    "LONGITUDE": -0.07254,
+    "LATITUDE": 51.50675,
+    "LONGITUDE": -0.07101,
     "MMSI": 244620498,
     "NAME": "SUNNY GIRL",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4,
-    "TIME": "2026-06-22 16:46:36 GMT",
+    "SOG": 0,
+    "TIME": "2026-06-22 18:30:02 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2675,
-      3999,
-      2648
-    ]
+    "last_seen": "2026-06-22T16:47:00.669756",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-22T16:47:00.669756"
+  "last_seen": "2026-06-22T18:30:54.227892"
 }

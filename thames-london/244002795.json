@@ -7,29 +7,25 @@
     "B": 7,
     "C": 3,
     "CALLSIGN": "PF8021",
-    "COG": 248.8,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50554,
-    "LONGITUDE": -0.07309,
+    "LATITUDE": 51.50663,
+    "LONGITUDE": -0.07107,
     "MMSI": 244002795,
     "NAME": "VASSILIA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.5,
-    "TIME": "2026-06-22 16:41:07 GMT",
+    "SOG": 0,
+    "TIME": "2026-06-22 18:28:36 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      2296,
-      3999
-    ]
+    "last_seen": "2026-06-22T16:46:58.692424",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-22T16:46:58.692424"
+  "last_seen": "2026-06-22T18:30:54.227676"
 }
