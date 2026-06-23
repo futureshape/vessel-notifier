@@ -545,17 +545,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49456,
-    "LONGITUDE": 0.02613,
+    "LONGITUDE": 0.02612,
     "MMSI": 235078639,
     "NAME": "RECLAIM",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-06-23 18:51:54 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-06-23 19:45:54 GMT",
     "TYPE": 52,
-    "last_seen": "2026-06-23T07:30:40.923866",
+    "last_seen": "2026-06-23T18:54:39.895247",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-23T18:54:39.895247"
+  "last_seen": "2026-06-23T19:47:45.631125"
 }
