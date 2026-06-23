@@ -211,32 +211,33 @@
     "2026-06-17",
     "2026-06-18",
     "2026-06-20",
-    "2026-06-21"
+    "2026-06-21",
+    "2026-06-23"
   ],
   "last_full_data": {
     "A": 4,
     "B": 11,
     "C": 4,
     "CALLSIGN": "MHUC4",
-    "COG": 360,
+    "COG": 234.4,
     "D": 1,
     "DEST": "IMPERIAL WHARF",
     "DRAUGHT": 1.6,
     "ETA": "10-23 15:30",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47264,
-    "LONGITUDE": -0.18026,
+    "LATITUDE": 51.50873,
+    "LONGITUDE": -0.11807,
     "MMSI": 232028891,
     "NAME": "BOURNE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-06-21 20:14:40 GMT",
+    "SOG": 7,
+    "TIME": "2026-06-23 15:14:38 GMT",
     "TYPE": 40,
-    "last_seen": "2026-06-21T19:45:21.360659",
+    "last_seen": "2026-06-21T20:43:17.944068",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-21T20:43:17.944068"
+  "last_seen": "2026-06-23T15:14:45.166223"
 }
