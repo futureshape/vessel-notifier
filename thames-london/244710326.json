@@ -7,32 +7,25 @@
     "B": 11,
     "C": 2,
     "CALLSIGN": "PH7361",
-    "COG": 259.4,
+    "COG": 65.9,
     "D": 4,
     "DEST": "ST KATHERIN DOCK LON",
     "DRAUGHT": 1.5,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48519,
-    "LONGITUDE": -0.0122,
+    "LATITUDE": 51.50258,
+    "LONGITUDE": -0.05508,
     "MMSI": 244710326,
     "NAME": "YOLANDA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.2,
-    "TIME": "2026-06-23 16:59:43 GMT",
+    "SOG": 3.9,
+    "TIME": "2026-06-23 17:46:54 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3129,
-      2103,
-      3416,
-      3999,
-      2665
-    ]
+    "last_seen": "2026-06-23T16:59:50.710736",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-23T16:59:50.710736"
+  "last_seen": "2026-06-23T17:47:00.079588"
 }
