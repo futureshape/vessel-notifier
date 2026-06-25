@@ -732,17 +732,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.43977,
-    "LONGITUDE": -0.331,
+    "LONGITUDE": -0.33099,
     "MMSI": 232038663,
     "NAME": "TANNER",
     "NAVSTAT": 15,
     "PAC": 1,
-    "ROT": 18,
-    "SOG": 0.1,
-    "TIME": "2026-06-25 10:49:35 GMT",
+    "ROT": -1,
+    "SOG": 0,
+    "TIME": "2026-06-25 11:49:30 GMT",
     "TYPE": 51,
-    "last_seen": "2026-06-25T09:18:03.286488",
+    "last_seen": "2026-06-25T11:07:53.670263",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-25T11:07:53.670263"
+  "last_seen": "2026-06-25T12:02:31.051996"
 }
