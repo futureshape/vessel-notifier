@@ -49,18 +49,18 @@
     "ETA": "05-22 16:16",
     "HEADING": 99,
     "IMO": 1009699,
-    "LATITUDE": 51.50123,
-    "LONGITUDE": -0.01462,
+    "LATITUDE": 51.50122,
+    "LONGITUDE": -0.01464,
     "MMSI": 319840000,
     "NAME": "ROCINANTE",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": -2,
-    "SOG": 0,
-    "TIME": "2026-06-26 01:14:35 GMT",
+    "ROT": 0,
+    "SOG": 0.1,
+    "TIME": "2026-06-26 03:20:38 GMT",
     "TYPE": 0,
-    "last_seen": "2026-06-25T23:41:21.062965",
+    "last_seen": "2026-06-26T01:17:56.241155",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-26T01:17:56.241155"
+  "last_seen": "2026-06-26T03:21:07.178839"
 }
