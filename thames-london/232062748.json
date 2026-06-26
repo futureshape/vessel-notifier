@@ -1,32 +1,35 @@
 {
   "dates_seen": [
     "2025-08-12",
-    "2025-08-13"
+    "2025-08-13",
+    "2026-06-26"
   ],
   "last_full_data": {
     "A": 5,
     "B": 4,
     "C": 2,
     "CALLSIGN": "MSNV3",
-    "COG": 168.5,
+    "COG": 294.7,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 1.9,
-    "ETA": "08-13 09:32",
+    "ETA": "06-26 11:07",
     "HEADING": 359,
     "IMO": 0,
-    "LATITUDE": 51.4946,
-    "LONGITUDE": -0.03075,
+    "LATITUDE": 51.48682,
+    "LONGITUDE": -0.02095,
     "MMSI": 232062748,
     "NAME": "RAN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6,
-    "TIME": "2025-08-13 09:32:59 GMT",
+    "SOG": 9.3,
+    "TIME": "2026-06-26 11:11:34 GMT",
     "TYPE": 37,
-    "last_seen": "2025-08-13T08:39:09.176504",
-    "received_by_stations": []
+    "last_seen": "2025-08-13T09:33:24.672181",
+    "received_by_stations": [
+      2333
+    ]
   },
-  "last_seen": "2025-08-13T09:33:24.672181"
+  "last_seen": "2026-06-26T11:11:37.593599"
 }
