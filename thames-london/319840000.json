@@ -48,20 +48,20 @@
     "DEST": "GB LON",
     "DRAUGHT": 3.8,
     "ETA": "05-22 16:16",
-    "HEADING": 99,
+    "HEADING": 100,
     "IMO": 1009699,
-    "LATITUDE": 51.5012,
+    "LATITUDE": 51.50123,
     "LONGITUDE": -0.01466,
     "MMSI": 319840000,
     "NAME": "ROCINANTE",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": 3,
-    "SOG": 0,
-    "TIME": "2026-06-27 17:33:48 GMT",
+    "ROT": -1,
+    "SOG": 0.1,
+    "TIME": "2026-06-27 19:39:53 GMT",
     "TYPE": 0,
-    "last_seen": "2026-06-27T16:34:26.219189",
+    "last_seen": "2026-06-27T17:34:22.006796",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-27T17:34:22.006796"
+  "last_seen": "2026-06-27T19:41:40.784938"
 }
