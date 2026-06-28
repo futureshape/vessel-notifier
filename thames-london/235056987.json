@@ -648,32 +648,33 @@
     "2026-06-24",
     "2026-06-25",
     "2026-06-26",
-    "2026-06-27"
+    "2026-06-27",
+    "2026-06-28"
   ],
   "last_full_data": {
     "A": 30,
     "B": 8,
     "C": 2,
     "CALLSIGN": "MVLY9",
-    "COG": 71.7,
+    "COG": 360,
     "D": 7,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50208,
-    "LONGITUDE": -0.05714,
+    "LATITUDE": 51.50696,
+    "LONGITUDE": 0.00785,
     "MMSI": 235056987,
     "NAME": "AURORA CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 11,
-    "TIME": "2026-06-27 23:32:14 GMT",
+    "SOG": 0,
+    "TIME": "2026-06-28 01:19:37 GMT",
     "TYPE": 40,
-    "last_seen": "2026-06-27T22:33:04.681572",
+    "last_seen": "2026-06-27T23:32:20.110207",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-27T23:32:20.110207"
+  "last_seen": "2026-06-28T01:19:41.050041"
 }
