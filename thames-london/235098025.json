@@ -7,28 +7,25 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "2GJU9",
-    "COG": 163,
+    "COG": 182.7,
     "D": 1,
     "DEST": "LAST UPDATE TIME",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49505,
-    "LONGITUDE": -0.00291,
+    "LATITUDE": 51.50526,
+    "LONGITUDE": -0.07181,
     "MMSI": 235098025,
     "NAME": "JULES",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 12.4,
-    "TIME": "2026-06-28 14:46:04 GMT",
+    "SOG": 0.6,
+    "TIME": "2026-06-28 15:36:03 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-06-28T14:46:15.706430",
+    "received_by_stations": []
   },
-  "last_seen": "2026-06-28T14:46:15.706430"
+  "last_seen": "2026-06-28T15:39:01.899391"
 }
