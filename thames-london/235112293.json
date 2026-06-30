@@ -54,17 +54,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50705,
-    "LONGITUDE": -0.07146,
+    "LONGITUDE": -0.07143,
     "MMSI": 235112293,
     "NAME": "IRIDIUM",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-06-30 12:54:54 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-06-30 13:45:52 GMT",
     "TYPE": 37,
-    "last_seen": "2026-06-30T11:14:32.351493",
+    "last_seen": "2026-06-30T12:55:59.735831",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-30T12:55:59.735831"
+  "last_seen": "2026-06-30T13:48:23.709254"
 }
