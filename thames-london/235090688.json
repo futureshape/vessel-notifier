@@ -172,32 +172,33 @@
     "2026-06-18",
     "2026-06-22",
     "2026-06-25",
-    "2026-06-29"
+    "2026-06-29",
+    "2026-06-30"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "2FEY8",
-    "COG": 25.6,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 62,
+    "HEADING": 63,
     "IMO": 0,
-    "LATITUDE": 51.4856,
-    "LONGITUDE": -0.12871,
+    "LATITUDE": 51.5027,
+    "LONGITUDE": -0.05851,
     "MMSI": 235090688,
     "NAME": "PATRICK COLQUHOUN 2",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.8,
-    "TIME": "2026-06-29 15:18:04 GMT",
+    "SOG": 0,
+    "TIME": "2026-06-30 09:18:30 GMT",
     "TYPE": 55,
-    "last_seen": "2026-06-29T13:44:36.987909",
+    "last_seen": "2026-06-29T15:19:18.356092",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-29T15:19:18.356092"
+  "last_seen": "2026-06-30T09:20:22.732022"
 }
