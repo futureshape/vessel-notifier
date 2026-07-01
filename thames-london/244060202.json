@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-06-28"
+    "2026-06-28",
+    "2026-07-01"
   ],
   "last_full_data": {
     "A": 8,
     "B": 5,
     "C": 3,
     "CALLSIGN": "PD5424",
-    "COG": 312.4,
+    "COG": 0,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0.3,
     "ETA": "00-00 00:43",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49394,
-    "LONGITUDE": -0.03448,
+    "LATITUDE": 51.49386,
+    "LONGITUDE": -0.03452,
     "MMSI": 244060202,
     "NAME": "HAVANA BAY",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-06-28 14:32:02 GMT",
+    "TIME": "2026-07-01 13:08:12 GMT",
     "TYPE": 36,
-    "last_seen": "2026-06-28T13:45:49.283863",
+    "last_seen": "2026-06-28T14:46:15.105884",
     "received_by_stations": []
   },
-  "last_seen": "2026-06-28T14:46:15.105884"
+  "last_seen": "2026-07-01T13:10:41.784092"
 }

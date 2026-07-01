@@ -15,20 +15,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49371,
-    "LONGITUDE": -0.03431,
+    "LONGITUDE": -0.0343,
     "MMSI": 244101979,
     "NAME": "MERLIONNE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-07-01 07:41:28 GMT",
+    "TIME": "2026-07-01 13:09:10 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-07-01T07:46:58.597915",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-01T07:46:58.597915"
+  "last_seen": "2026-07-01T13:10:41.784648"
 }
