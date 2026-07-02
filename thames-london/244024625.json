@@ -7,28 +7,25 @@
     "B": 10,
     "C": 2,
     "CALLSIGN": "PD5723",
-    "COG": 263.5,
+    "COG": 284,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49731,
-    "LONGITUDE": 0.02969,
+    "LATITUDE": 51.50963,
+    "LONGITUDE": -0.09548,
     "MMSI": 244024625,
     "NAME": "SUNDOWNER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8,
-    "TIME": "2026-07-02 12:49:56 GMT",
+    "SOG": 6.8,
+    "TIME": "2026-07-02 13:46:25 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-07-02T12:50:17.270299",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-02T12:50:17.270299"
+  "last_seen": "2026-07-02T13:46:51.386320"
 }
