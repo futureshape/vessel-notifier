@@ -2,32 +2,33 @@
   "dates_seen": [
     "2024-03-16",
     "2026-07-01",
-    "2026-07-02"
+    "2026-07-02",
+    "2026-07-03"
   ],
   "last_full_data": {
     "A": 5,
     "B": 13,
     "C": 3,
     "CALLSIGN": "",
-    "COG": 101.9,
+    "COG": 0,
     "D": 3,
     "DEST": "A",
     "DRAUGHT": 1.1,
     "ETA": "00-00 24:60",
-    "HEADING": 28,
+    "HEADING": 300,
     "IMO": 0,
-    "LATITUDE": 51.5049,
-    "LONGITUDE": -0.07055,
+    "LATITUDE": 51.50497,
+    "LONGITUDE": -0.07117,
     "MMSI": 232015144,
     "NAME": "HMS MAGPIE",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 0,
-    "ROT": -127,
-    "SOG": 0.2,
-    "TIME": "2026-07-02 15:54:22 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2026-07-03 07:15:16 GMT",
     "TYPE": 35,
-    "last_seen": "2026-07-02T14:56:04.470963",
+    "last_seen": "2026-07-02T15:54:24.971503",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-02T15:54:24.971503"
+  "last_seen": "2026-07-03T07:17:04.278201"
 }
