@@ -7,28 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "PC3570",
-    "COG": 170.7,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 176,
+    "HEADING": 127,
     "IMO": 0,
-    "LATITUDE": 51.49823,
-    "LONGITUDE": -0.00467,
+    "LATITUDE": 51.50554,
+    "LONGITUDE": -0.07259,
     "MMSI": 244313688,
     "NAME": "STERN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.4,
-    "TIME": "2026-07-03 11:54:00 GMT",
+    "SOG": 0.4,
+    "TIME": "2026-07-03 12:47:03 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-07-03T11:54:28.266319",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-03T11:54:28.266319"
+  "last_seen": "2026-07-03T12:48:59.878871"
 }
