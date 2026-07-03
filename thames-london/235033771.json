@@ -172,20 +172,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 253,
+    "HEADING": 252,
     "IMO": 0,
-    "LATITUDE": 51.48304,
+    "LATITUDE": 51.48305,
     "LONGITUDE": -0.16493,
     "MMSI": 235033771,
     "NAME": "SIGRID OF CHELSEA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-07-03 15:47:18 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-07-03 16:41:18 GMT",
     "TYPE": 37,
-    "last_seen": "2026-07-02T21:35:48.923961",
+    "last_seen": "2026-07-03T15:47:32.891482",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-03T15:47:32.891482"
+  "last_seen": "2026-07-03T16:42:24.111814"
 }
