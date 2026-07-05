@@ -270,32 +270,33 @@
     "2026-06-30",
     "2026-07-01",
     "2026-07-02",
-    "2026-07-04"
+    "2026-07-04",
+    "2026-07-05"
   ],
   "last_full_data": {
     "A": 34,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MPFW4",
-    "COG": 18.7,
+    "COG": 48.4,
     "D": 5,
     "DEST": "WESTMINSTER",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49166,
-    "LONGITUDE": -0.1235,
+    "LATITUDE": 51.48618,
+    "LONGITUDE": -0.12951,
     "MMSI": 235057667,
     "NAME": "CONNAUGHT",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.9,
-    "TIME": "2026-07-04 17:03:30 GMT",
+    "SOG": 7.3,
+    "TIME": "2026-07-05 17:05:42 GMT",
     "TYPE": 69,
-    "last_seen": "2026-07-04T12:36:19.242070",
+    "last_seen": "2026-07-04T17:32:04.753752",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-04T17:32:04.753752"
+  "last_seen": "2026-07-05T17:33:55.133689"
 }
