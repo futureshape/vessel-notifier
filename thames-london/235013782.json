@@ -1,7 +1,40 @@
 {
   "dates_seen": [
-    "2023-11-13"
+    "2023-11-13",
+    "2026-07-06"
   ],
-  "last_full_data": {},
-  "last_seen": "2023-11-13T14:16:33.767946"
+  "last_full_data": {
+    "A": 14,
+    "B": 15,
+    "C": 4,
+    "CALLSIGN": "MCSV5",
+    "COG": 93.1,
+    "D": 7,
+    "DEST": "GRAVESEND",
+    "DRAUGHT": 5.7,
+    "ETA": "07-06 20:00",
+    "HEADING": 97,
+    "IMO": 9286683,
+    "LATITUDE": 51.5065,
+    "LONGITUDE": 0.00309,
+    "MMSI": 235013782,
+    "NAME": "SVITZER BOOTLE",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 127,
+    "SOG": 5.3,
+    "TIME": "2026-07-06 17:11:55 GMT",
+    "TYPE": 52,
+    "last_seen": "2023-11-13T14:16:33.767946",
+    "received_by_stations": [
+      3129,
+      2103,
+      3999,
+      2648,
+      3416,
+      3811,
+      2665
+    ]
+  },
+  "last_seen": "2026-07-06T17:11:57.993754"
 }

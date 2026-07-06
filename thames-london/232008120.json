@@ -1,0 +1,38 @@
+{
+  "dates_seen": [
+    "2026-07-06"
+  ],
+  "last_full_data": {
+    "A": 14,
+    "B": 14,
+    "C": 5,
+    "CALLSIGN": "MBAX8",
+    "COG": 45.9,
+    "D": 7,
+    "DEST": "GRAVESEND (THAMES)",
+    "DRAUGHT": 5.4,
+    "ETA": "03-26 08:00",
+    "HEADING": 51,
+    "IMO": 9788112,
+    "LATITUDE": 51.50565,
+    "LONGITUDE": -0.00146,
+    "MMSI": 232008120,
+    "NAME": "SVITZER ADIRA",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 127,
+    "SOG": 5.7,
+    "TIME": "2026-07-06 17:11:54 GMT",
+    "TYPE": 52,
+    "last_seen": null,
+    "received_by_stations": [
+      2648,
+      2103,
+      2665,
+      3999,
+      3416,
+      3129
+    ]
+  },
+  "last_seen": "2026-07-06T17:11:57.461152"
+}
