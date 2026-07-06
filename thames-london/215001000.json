@@ -7,12 +7,12 @@
     "B": 142,
     "C": 12,
     "CALLSIGN": "9HA4909",
-    "COG": 95.2,
+    "COG": 93.7,
     "D": 12,
     "DEST": "GBGNW",
     "DRAUGHT": 6,
     "ETA": "07-05 22:00",
-    "HEADING": 95,
+    "HEADING": 94,
     "IMO": 9823687,
     "LATITUDE": 51.48427,
     "LONGITUDE": -0.0149,
@@ -22,15 +22,10 @@
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-07-06 05:35:25 GMT",
+    "TIME": "2026-07-06 07:47:26 GMT",
     "TYPE": 69,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3129,
-      2665,
-      3999
-    ]
+    "last_seen": "2026-07-06T05:36:52.036760",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-06T05:36:52.036760"
+  "last_seen": "2026-07-06T07:49:39.723206"
 }
