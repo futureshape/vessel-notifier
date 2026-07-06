@@ -566,21 +566,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50127,
-    "LONGITUDE": -0.0623,
+    "LONGITUDE": -0.06233,
     "MMSI": 235054916,
     "NAME": "CITY ALPHA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-07-06 11:41:53 GMT",
+    "TIME": "2026-07-06 13:15:53 GMT",
     "TYPE": 60,
-    "last_seen": "2026-04-02T14:35:32.904437",
-    "received_by_stations": [
-      3999,
-      2675,
-      2648
-    ]
+    "last_seen": "2026-07-06T11:41:58.809128",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-06T11:41:58.809128"
+  "last_seen": "2026-07-06T13:26:32.307555"
 }
