@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-07-06"
+    "2026-07-06",
+    "2026-07-07"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "OP2816",
-    "COG": 334.9,
+    "COG": 92.8,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50734,
-    "LONGITUDE": -0.0726,
+    "LATITUDE": 51.50766,
+    "LONGITUDE": -0.07263,
     "MMSI": 205281630,
     "NAME": "KALLIOPE",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2026-07-06 23:32:44 GMT",
+    "SOG": 0,
+    "TIME": "2026-07-07 00:59:45 GMT",
     "TYPE": 36,
-    "last_seen": "2026-07-06T22:38:01.934919",
+    "last_seen": "2026-07-06T23:33:24.864447",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-06T23:33:24.864447"
+  "last_seen": "2026-07-07T01:01:28.302930"
 }
