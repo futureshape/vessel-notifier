@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-07-03"
+    "2026-07-03",
+    "2026-07-07"
   ],
   "last_full_data": {
     "A": 7,
     "B": 7,
     "C": 2,
     "CALLSIGN": "PC8904",
-    "COG": 117.2,
+    "COG": 0,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 100,
+    "HEADING": 99,
     "IMO": 0,
-    "LATITUDE": 51.50782,
-    "LONGITUDE": -0.07217,
+    "LATITUDE": 51.50785,
+    "LONGITUDE": -0.07208,
     "MMSI": 244060548,
     "NAME": "MARIA ANGELA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0.7,
-    "TIME": "2026-07-03 15:17:57 GMT",
+    "TIME": "2026-07-07 05:30:46 GMT",
     "TYPE": 37,
-    "last_seen": "2026-07-03T14:55:51.145381",
+    "last_seen": "2026-07-03T15:47:32.905878",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-03T15:47:32.905878"
+  "last_seen": "2026-07-07T05:31:33.985629"
 }
