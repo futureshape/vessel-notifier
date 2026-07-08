@@ -17,32 +17,33 @@
     "2026-06-25",
     "2026-07-01",
     "2026-07-02",
-    "2026-07-04"
+    "2026-07-04",
+    "2026-07-08"
   ],
   "last_full_data": {
     "A": 7,
     "B": 32,
     "C": 1,
     "CALLSIGN": "MPFUA",
-    "COG": 228,
+    "COG": 255.1,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49255,
-    "LONGITUDE": -0.12436,
+    "LATITUDE": 51.48467,
+    "LONGITUDE": -0.13388,
     "MMSI": 235057669,
     "NAME": "CLIFTON CASTLE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-07-04 20:59:32 GMT",
+    "SOG": 5.4,
+    "TIME": "2026-07-08 12:45:07 GMT",
     "TYPE": 60,
-    "last_seen": "2026-07-04T20:29:49.083203",
+    "last_seen": "2026-07-04T21:29:28.081049",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-04T21:29:28.081049"
+  "last_seen": "2026-07-08T12:45:15.710167"
 }
