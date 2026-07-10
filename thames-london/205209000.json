@@ -7,31 +7,25 @@
     "B": 34,
     "C": 1,
     "CALLSIGN": "ORGL",
-    "COG": 332.4,
+    "COG": 306.3,
     "D": 8,
     "DEST": "",
     "DRAUGHT": 3.6,
     "ETA": "01-01 00:00",
-    "HEADING": 331,
+    "HEADING": 106,
     "IMO": 0,
-    "LATITUDE": 51.49099,
-    "LONGITUDE": -0.02792,
+    "LATITUDE": 51.5067,
+    "LONGITUDE": -0.08089,
     "MMSI": 205209000,
     "NAME": "BNS LOBELIA",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 7.2,
-    "TIME": "2026-07-10 07:22:32 GMT",
+    "SOG": 0,
+    "TIME": "2026-07-10 09:16:31 GMT",
     "TYPE": 35,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      3999,
-      2648,
-      3129,
-      3416
-    ]
+    "last_seen": "2026-07-10T07:22:36.057063",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-10T07:22:36.057063"
+  "last_seen": "2026-07-10T09:17:29.643857"
 }
