@@ -7,29 +7,25 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "MKGS3",
-    "COG": 322,
+    "COG": 107.8,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48812,
-    "LONGITUDE": -0.0244,
+    "LATITUDE": 51.50508,
+    "LONGITUDE": -0.07415,
     "MMSI": 232038797,
     "NAME": "EXPLORER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 11.8,
-    "TIME": "2026-07-12 10:40:10 GMT",
+    "SOG": 6.1,
+    "TIME": "2026-07-12 11:33:57 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3129,
-      2648,
-      3999
-    ]
+    "last_seen": "2026-07-12T10:40:21.746508",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-12T10:40:21.746508"
+  "last_seen": "2026-07-12T11:34:13.614149"
 }
