@@ -643,12 +643,12 @@
     "B": 22,
     "C": 5,
     "CALLSIGN": "MMNW9",
-    "COG": 112,
+    "COG": 317.1,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "01-01 00:00",
-    "HEADING": 288,
+    "HEADING": 287,
     "IMO": 9963504,
     "LATITUDE": 51.50731,
     "LONGITUDE": 0.00676,
@@ -657,11 +657,11 @@
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 0.2,
-    "TIME": "2026-07-12 21:27:16 GMT",
+    "SOG": 0,
+    "TIME": "2026-07-12 22:27:07 GMT",
     "TYPE": 45,
-    "last_seen": "2026-07-12T20:24:43.960159",
+    "last_seen": "2026-07-12T21:27:17.738082",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-12T21:27:17.738082"
+  "last_seen": "2026-07-12T22:27:17.543841"
 }
