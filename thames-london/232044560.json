@@ -637,32 +637,33 @@
     "2026-07-10",
     "2026-07-11",
     "2026-07-12",
-    "2026-07-13"
+    "2026-07-13",
+    "2026-07-14"
   ],
   "last_full_data": {
     "A": 16,
     "B": 22,
     "C": 5,
     "CALLSIGN": "MMNW9",
-    "COG": 174,
+    "COG": 55.1,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "01-01 00:00",
     "HEADING": 287,
     "IMO": 9963504,
-    "LATITUDE": 51.5073,
-    "LONGITUDE": 0.00675,
+    "LATITUDE": 51.50728,
+    "LONGITUDE": 0.00674,
     "MMSI": 232044560,
     "NAME": "CELESTIAL CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-07-13 23:27:56 GMT",
+    "TIME": "2026-07-14 00:47:26 GMT",
     "TYPE": 45,
-    "last_seen": "2026-07-13T22:29:29.744490",
+    "last_seen": "2026-07-13T23:28:03.307223",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-13T23:28:03.307223"
+  "last_seen": "2026-07-14T00:47:26.595699"
 }
