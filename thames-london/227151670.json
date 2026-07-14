@@ -13,7 +13,7 @@
     "B": 9,
     "C": 2,
     "CALLSIGN": "FAA7339",
-    "COG": 350.2,
+    "COG": 2.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -21,17 +21,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50706,
-    "LONGITUDE": -0.07195,
+    "LONGITUDE": -0.07186,
     "MMSI": 227151670,
     "NAME": "ELISE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-07-14 17:34:10 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-07-14 18:31:07 GMT",
     "TYPE": 36,
-    "last_seen": "2026-07-14T16:38:03.384046",
+    "last_seen": "2026-07-14T17:35:51.138655",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-14T17:35:51.138655"
+  "last_seen": "2026-07-14T18:33:28.514180"
 }
