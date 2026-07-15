@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-07-14"
+    "2026-07-14",
+    "2026-07-15"
   ],
   "last_full_data": {
-    "A": 10,
-    "B": 1,
-    "C": 1,
+    "A": 0,
+    "B": 0,
+    "C": 0,
     "CALLSIGN": "PD9646",
     "COG": 360,
-    "D": 3,
+    "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 258,
     "IMO": 0,
-    "LATITUDE": 51.50702,
-    "LONGITUDE": -0.07235,
+    "LATITUDE": 51.50704,
+    "LONGITUDE": -0.07236,
     "MMSI": 244084340,
     "NAME": "HANGOVER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-07-14 12:37:51 GMT",
+    "TIME": "2026-07-15 11:41:44 GMT",
     "TYPE": 36,
-    "last_seen": "2026-07-14T11:41:44.109115",
+    "last_seen": "2026-07-14T12:38:56.950586",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-14T12:38:56.950586"
+  "last_seen": "2026-07-15T11:43:16.807744"
 }
