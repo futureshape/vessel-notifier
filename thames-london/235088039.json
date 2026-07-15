@@ -133,7 +133,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2ETN7",
-    "COG": 0,
+    "COG": 333.2,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -141,17 +141,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50778,
-    "LONGITUDE": -0.07208,
+    "LONGITUDE": -0.07213,
     "MMSI": 235088039,
     "NAME": "CORISANDE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-07-15 16:40:54 GMT",
+    "TIME": "2026-07-15 17:37:54 GMT",
     "TYPE": 37,
-    "last_seen": "2026-07-15T15:42:42.138623",
+    "last_seen": "2026-07-15T16:41:15.878656",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-15T16:41:15.878656"
+  "last_seen": "2026-07-15T17:38:05.923692"
 }
