@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-07-13"
+    "2026-07-13",
+    "2026-07-15"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "",
-    "COG": 282.4,
+    "COG": 84.8,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 276,
+    "HEADING": 88,
     "IMO": 0,
-    "LATITUDE": 51.46532,
-    "LONGITUDE": -0.20654,
+    "LATITUDE": 51.50965,
+    "LONGITUDE": -0.11175,
     "MMSI": 235111703,
     "NAME": "SOOKATOO",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.6,
-    "TIME": "2026-07-13 10:57:47 GMT",
+    "SOG": 8.4,
+    "TIME": "2026-07-15 05:08:39 GMT",
     "TYPE": 37,
-    "last_seen": null,
+    "last_seen": "2026-07-13T11:15:03.915171",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-13T11:15:03.915171"
+  "last_seen": "2026-07-15T05:09:01.387519"
 }
