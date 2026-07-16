@@ -235,7 +235,7 @@
     "B": 10,
     "C": 2,
     "CALLSIGN": "MYZU9",
-    "COG": 17.7,
+    "COG": 1.4,
     "D": 3,
     "DEST": "VIC DOCK BUOY",
     "DRAUGHT": 2,
@@ -247,13 +247,13 @@
     "MMSI": 232004562,
     "NAME": "ASSASSIN",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-07-16 07:47:55 GMT",
+    "SOG": 0,
+    "TIME": "2026-07-16 08:57:15 GMT",
     "TYPE": 52,
-    "last_seen": "2026-07-16T07:00:36.761561",
+    "last_seen": "2026-07-16T07:48:14.540707",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-16T07:48:14.540707"
+  "last_seen": "2026-07-16T08:57:19.109207"
 }
