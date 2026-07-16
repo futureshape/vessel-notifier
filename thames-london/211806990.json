@@ -7,30 +7,25 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "DF3583",
-    "COG": 232.7,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 237,
+    "HEADING": 132,
     "IMO": 0,
-    "LATITUDE": 51.50423,
-    "LONGITUDE": -0.05261,
+    "LATITUDE": 51.50667,
+    "LONGITUDE": -0.07103,
     "MMSI": 211806990,
     "NAME": "ANORAK",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7,
-    "TIME": "2026-07-16 13:45:37 GMT",
+    "SOG": 0,
+    "TIME": "2026-07-16 14:30:32 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999,
-      3129,
-      3416
-    ]
+    "last_seen": "2026-07-16T13:46:03.403814",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-16T13:46:03.403814"
+  "last_seen": "2026-07-16T14:49:11.889323"
 }
