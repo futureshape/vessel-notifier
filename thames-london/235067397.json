@@ -501,18 +501,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 5145520,
-    "LATITUDE": 51.50421,
-    "LONGITUDE": -0.06898,
+    "LATITUDE": 51.50417,
+    "LONGITUDE": -0.069,
     "MMSI": 235067397,
     "NAME": "HEIKO",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-07-16 09:49:25 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-07-16 10:41:24 GMT",
     "TYPE": 80,
-    "last_seen": "2026-07-16T08:57:19.101158",
+    "last_seen": "2026-07-16T09:49:30.815551",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-16T09:49:30.815551"
+  "last_seen": "2026-07-16T10:47:47.643195"
 }
