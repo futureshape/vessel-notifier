@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-07-15"
+    "2026-07-15",
+    "2026-07-16"
   ],
   "last_full_data": {
     "A": 6,
     "B": 6,
     "C": 4,
     "CALLSIGN": "DH5666",
-    "COG": 359.3,
+    "COG": 5.8,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50696,
-    "LONGITUDE": -0.07197,
+    "LATITUDE": 51.50709,
+    "LONGITUDE": -0.07138,
     "MMSI": 211644550,
     "NAME": "SY ANTARES",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 1.7,
-    "TIME": "2026-07-15 23:29:29 GMT",
+    "SOG": 3.2,
+    "TIME": "2026-07-16 00:48:35 GMT",
     "TYPE": 37,
-    "last_seen": "2026-07-15T22:30:14.290100",
+    "last_seen": "2026-07-15T23:29:52.961264",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-15T23:29:52.961264"
+  "last_seen": "2026-07-16T00:48:49.351437"
 }
