@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-07-15"
+    "2026-07-15",
+    "2026-07-18"
   ],
   "last_full_data": {
     "A": 8,
     "B": 4,
     "C": 1,
     "CALLSIGN": "PG4576",
-    "COG": 8.9,
+    "COG": 134.4,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50689,
-    "LONGITUDE": -0.07174,
+    "LATITUDE": 51.50718,
+    "LONGITUDE": -0.06955,
     "MMSI": 244391071,
     "NAME": "XIU",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.7,
-    "TIME": "2026-07-15 12:39:45 GMT",
+    "SOG": 0,
+    "TIME": "2026-07-18 10:37:35 GMT",
     "TYPE": 37,
-    "last_seen": "2026-07-15T11:43:17.759961",
+    "last_seen": "2026-07-15T12:40:04.738931",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-15T12:40:04.738931"
+  "last_seen": "2026-07-18T10:39:16.831677"
 }
