@@ -36,7 +36,7 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "T162336",
-    "COG": 167.4,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0.8,
@@ -44,17 +44,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.47061,
-    "LONGITUDE": -0.18144,
+    "LONGITUDE": -0.1815,
     "MMSI": 235924377,
     "NAME": "HENDRINA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 1,
-    "TIME": "2026-07-18 21:22:10 GMT",
+    "SOG": 0.7,
+    "TIME": "2026-07-18 22:07:58 GMT",
     "TYPE": 37,
-    "last_seen": "2026-07-18T20:25:10.075579",
+    "last_seen": "2026-07-18T21:28:05.797944",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-18T21:28:05.797944"
+  "last_seen": "2026-07-18T22:27:21.345400"
 }
