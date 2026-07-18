@@ -2,32 +2,36 @@
   "dates_seen": [
     "2025-05-12",
     "2025-05-20",
-    "2025-05-23"
+    "2025-05-23",
+    "2026-07-18"
   ],
   "last_full_data": {
     "A": 8,
     "B": 4,
     "C": 2,
     "CALLSIGN": "MGME5",
-    "COG": 41.5,
+    "COG": 324.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 41,
+    "HEADING": 324,
     "IMO": 0,
-    "LATITUDE": 51.5067,
-    "LONGITUDE": -0.04665,
+    "LATITUDE": 51.48917,
+    "LONGITUDE": -0.02546,
     "MMSI": 232025454,
     "NAME": "COMMOCEAN",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.8,
-    "TIME": "2025-05-23 10:34:00 GMT",
+    "SOG": 8.3,
+    "TIME": "2026-07-18 12:28:54 GMT",
     "TYPE": 37,
-    "last_seen": "2025-05-20T07:28:02.584269",
-    "received_by_stations": []
+    "last_seen": "2025-05-23T10:34:06.143061",
+    "received_by_stations": [
+      2648,
+      3999
+    ]
   },
-  "last_seen": "2025-05-23T10:34:06.143061"
+  "last_seen": "2026-07-18T12:29:13.166848"
 }
