@@ -293,14 +293,15 @@
     "2026-07-11",
     "2026-07-15",
     "2026-07-16",
-    "2026-07-18"
+    "2026-07-18",
+    "2026-07-19"
   ],
   "last_full_data": {
     "A": 7,
     "B": 1,
     "C": 2,
     "CALLSIGN": "MPWH2",
-    "COG": 196,
+    "COG": 351.6,
     "D": 1,
     "DEST": "GREENWICH",
     "DRAUGHT": 0.7,
@@ -308,17 +309,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49561,
-    "LONGITUDE": 0.0188,
+    "LONGITUDE": 0.01881,
     "MMSI": 232056926,
     "NAME": "THAMES NAVIGATOR",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0.1,
-    "TIME": "2026-07-18 14:31:22 GMT",
+    "TIME": "2026-07-19 09:46:16 GMT",
     "TYPE": 40,
-    "last_seen": "2026-07-18T13:42:05.738227",
+    "last_seen": "2026-07-18T14:32:34.348023",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-18T14:32:34.348023"
+  "last_seen": "2026-07-19T09:46:47.071142"
 }
