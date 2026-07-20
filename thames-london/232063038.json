@@ -1,0 +1,40 @@
+{
+  "dates_seen": [
+    "2026-07-20"
+  ],
+  "last_full_data": {
+    "A": 70,
+    "B": 23,
+    "C": 4,
+    "CALLSIGN": "MSPO6",
+    "COG": 349.4,
+    "D": 14,
+    "DEST": "LONDON",
+    "DRAUGHT": 5.1,
+    "ETA": "07-17 19:00",
+    "HEADING": 339,
+    "IMO": 1048243,
+    "LATITUDE": 51.50432,
+    "LONGITUDE": -0.02977,
+    "MMSI": 232063038,
+    "NAME": "ORCA FISHER",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": -21,
+    "SOG": 5.9,
+    "TIME": "2026-07-20 16:41:11 GMT",
+    "TYPE": 80,
+    "last_seen": null,
+    "received_by_stations": [
+      2296,
+      3129,
+      2103,
+      2055,
+      3416,
+      2648,
+      3154,
+      3999
+    ]
+  },
+  "last_seen": "2026-07-20T16:41:14.620146"
+}
