@@ -7,12 +7,12 @@
     "B": 202,
     "C": 17,
     "CALLSIGN": "LAUS8",
-    "COG": 201.6,
+    "COG": 343.8,
     "D": 16,
     "DEST": "NE SPIT, GB (LONDON)",
     "DRAUGHT": 6.8,
     "ETA": "06-20 23:00",
-    "HEADING": 95,
+    "HEADING": 94,
     "IMO": 9852456,
     "LATITUDE": 51.48421,
     "LONGITUDE": -0.01425,
@@ -20,12 +20,12 @@
     "NAME": "VIKING MIRA",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": 0,
-    "SOG": 0,
-    "TIME": "2026-07-21 15:42:22 GMT",
+    "ROT": -7,
+    "SOG": 0.1,
+    "TIME": "2026-07-21 16:39:23 GMT",
     "TYPE": 60,
-    "last_seen": "2026-07-21T14:50:04.703245",
+    "last_seen": "2026-07-21T15:45:06.121598",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-21T15:45:06.121598"
+  "last_seen": "2026-07-21T16:39:41.358363"
 }

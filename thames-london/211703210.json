@@ -7,29 +7,25 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "DD8798",
-    "COG": 310.9,
+    "COG": 114.2,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5026,
-    "LONGITUDE": 0.01363,
+    "LATITUDE": 51.50539,
+    "LONGITUDE": -0.0728,
     "MMSI": 211703210,
     "NAME": "OYIBO",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.1,
-    "TIME": "2026-07-21 15:44:41 GMT",
+    "SOG": 0.6,
+    "TIME": "2026-07-21 16:39:12 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3218,
-      3999
-    ]
+    "last_seen": "2026-07-21T15:45:07.981713",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-21T15:45:07.981713"
+  "last_seen": "2026-07-21T16:39:41.349638"
 }

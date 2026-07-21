@@ -7,29 +7,25 @@
     "B": 0,
     "C": 6,
     "CALLSIGN": "",
-    "COG": 195.8,
+    "COG": 297.4,
     "D": 0,
     "DEST": "LAST UPDATE TIME",
     "DRAUGHT": 0,
     "ETA": "02-06 20:10",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50273,
-    "LONGITUDE": -0.00515,
+    "LATITUDE": 51.50368,
+    "LONGITUDE": -0.07094,
     "MMSI": 368321440,
     "NAME": "SALTAIR",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.3,
-    "TIME": "2026-07-21 15:45:05 GMT",
+    "SOG": 1.7,
+    "TIME": "2026-07-21 16:39:33 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      3129,
-      2648
-    ]
+    "last_seen": "2026-07-21T15:45:06.611515",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-21T15:45:06.611515"
+  "last_seen": "2026-07-21T16:39:41.351186"
 }

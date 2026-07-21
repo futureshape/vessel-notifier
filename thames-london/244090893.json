@@ -7,28 +7,25 @@
     "B": 5,
     "C": 0,
     "CALLSIGN": "PE7277",
-    "COG": 166.3,
+    "COG": 89.6,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49484,
-    "LONGITUDE": -0.00318,
+    "LATITUDE": 51.50785,
+    "LONGITUDE": -0.0409,
     "MMSI": 244090893,
     "NAME": "NOKIDDING",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.5,
-    "TIME": "2026-07-21 15:44:53 GMT",
+    "SOG": 5.1,
+    "TIME": "2026-07-21 16:39:26 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-07-21T15:45:07.033238",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-21T15:45:07.033238"
+  "last_seen": "2026-07-21T16:39:41.354512"
 }
