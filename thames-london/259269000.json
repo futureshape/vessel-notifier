@@ -1,0 +1,41 @@
+{
+  "dates_seen": [
+    "2026-07-21"
+  ],
+  "last_full_data": {
+    "A": 38,
+    "B": 202,
+    "C": 17,
+    "CALLSIGN": "LAUS8",
+    "COG": 218,
+    "D": 16,
+    "DEST": "NE SPIT, GB (LONDON)",
+    "DRAUGHT": 6.8,
+    "ETA": "06-20 23:00",
+    "HEADING": 44,
+    "IMO": 9852456,
+    "LATITUDE": 51.48835,
+    "LONGITUDE": -0.00178,
+    "MMSI": 259269000,
+    "NAME": "VIKING MIRA",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 9,
+    "SOG": 2.6,
+    "TIME": "2026-07-21 05:16:24 GMT",
+    "TYPE": 60,
+    "last_seen": null,
+    "received_by_stations": [
+      3416,
+      2103,
+      2055,
+      2665,
+      3129,
+      3999,
+      3811,
+      2648,
+      3806
+    ]
+  },
+  "last_seen": "2026-07-21T05:16:31.221730"
+}
