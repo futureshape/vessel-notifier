@@ -269,7 +269,7 @@
     "B": 22,
     "C": 3,
     "CALLSIGN": "MGVP8",
-    "COG": 360,
+    "COG": 245.6,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 0,
@@ -277,17 +277,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.5083,
-    "LONGITUDE": -0.08479,
+    "LONGITUDE": -0.08478,
     "MMSI": 235055376,
     "NAME": "REVELRY",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-07-22 14:48:41 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-07-22 15:44:33 GMT",
     "TYPE": 99,
-    "last_seen": "2026-07-19T13:43:24.318539",
+    "last_seen": "2026-07-22T14:48:48.549851",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-22T14:48:48.549851"
+  "last_seen": "2026-07-22T15:44:46.025565"
 }
