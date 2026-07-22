@@ -573,17 +573,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49444,
-    "LONGITUDE": 0.02612,
+    "LONGITUDE": 0.02614,
     "MMSI": 235078638,
     "NAME": "RESOURCE",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-07-22 07:02:07 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-07-22 07:56:08 GMT",
     "TYPE": 52,
-    "last_seen": "2026-07-22T05:16:17.962792",
+    "last_seen": "2026-07-22T07:03:54.941161",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-22T07:03:54.941161"
+  "last_seen": "2026-07-22T07:56:14.207898"
 }
