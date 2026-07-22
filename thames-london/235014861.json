@@ -446,7 +446,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MDJH4",
-    "COG": 0,
+    "COG": 0.3,
     "D": 0,
     "DEST": "THAMES",
     "DRAUGHT": 0,
@@ -454,17 +454,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50731,
-    "LONGITUDE": -0.07329,
+    "LONGITUDE": -0.07294,
     "MMSI": 235014861,
     "NAME": "SB ADIEU",
     "NAVSTAT": 8,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0.1,
-    "TIME": "2026-07-22 11:45:41 GMT",
+    "TIME": "2026-07-22 12:43:12 GMT",
     "TYPE": 36,
-    "last_seen": "2026-07-22T10:52:17.293493",
+    "last_seen": "2026-07-22T11:45:47.241110",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-22T11:45:47.241110"
+  "last_seen": "2026-07-22T12:43:16.376443"
 }
