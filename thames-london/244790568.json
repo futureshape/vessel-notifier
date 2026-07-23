@@ -2,32 +2,37 @@
   "dates_seen": [
     "2024-07-28",
     "2024-08-01",
-    "2024-08-02"
+    "2024-08-02",
+    "2026-07-23"
   ],
   "last_full_data": {
     "A": 12,
     "B": 0,
     "C": 2,
     "CALLSIGN": "PA4838",
-    "COG": 360,
+    "COG": 250.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50638,
-    "LONGITUDE": -0.0721,
+    "LATITUDE": 51.48584,
+    "LONGITUDE": -0.00818,
     "MMSI": 244790568,
     "NAME": "ANTONINA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2024-08-02 11:17:26 GMT",
+    "SOG": 6.9,
+    "TIME": "2026-07-23 16:41:31 GMT",
     "TYPE": 37,
-    "last_seen": "2024-08-01T12:43:44.697607",
-    "received_by_stations": []
+    "last_seen": "2024-08-02T11:19:24.693950",
+    "received_by_stations": [
+      2648,
+      3999,
+      2103
+    ]
   },
-  "last_seen": "2024-08-02T11:19:24.693950"
+  "last_seen": "2026-07-23T16:41:38.095105"
 }
