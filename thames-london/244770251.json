@@ -417,12 +417,12 @@
     "2026-07-23"
   ],
   "last_full_data": {
-    "A": 9,
-    "B": 6,
-    "C": 3,
-    "CALLSIGN": "PB9584",
-    "COG": 315.3,
-    "D": 2,
+    "A": 18,
+    "B": 5,
+    "C": 2,
+    "CALLSIGN": "PH3306",
+    "COG": 326.2,
+    "D": 3,
     "DEST": "REEDS WHARF",
     "DRAUGHT": 0.2,
     "ETA": "12-13 17:00",
@@ -431,15 +431,15 @@
     "LATITUDE": 51.5024,
     "LONGITUDE": -0.06998,
     "MMSI": 244770251,
-    "NAME": "BOREFT 4",
+    "NAME": "CORNELIA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-07-23 07:01:55 GMT",
-    "TYPE": 37,
-    "last_seen": "2026-07-23T05:17:12.567390",
+    "SOG": 0.2,
+    "TIME": "2026-07-23 07:57:55 GMT",
+    "TYPE": 69,
+    "last_seen": "2026-07-23T07:01:58.137456",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-23T07:01:58.137456"
+  "last_seen": "2026-07-23T07:57:58.918511"
 }
