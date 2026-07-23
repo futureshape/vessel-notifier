@@ -285,20 +285,20 @@
     "DEST": "THAMES",
     "DRAUGHT": 2.5,
     "ETA": "01-01 00:00",
-    "HEADING": 298,
+    "HEADING": 511,
     "IMO": 8790259,
-    "LATITUDE": 51.50438,
-    "LONGITUDE": -0.0695,
+    "LATITUDE": 51.50425,
+    "LONGITUDE": -0.06893,
     "MMSI": 232012297,
     "NAME": "ARMADOR II",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 0,
+    "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-07-23 07:57:49 GMT",
+    "TIME": "2026-07-23 12:44:14 GMT",
     "TYPE": 0,
-    "last_seen": "2026-07-23T07:01:58.137957",
+    "last_seen": "2026-07-23T07:57:58.918776",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-23T07:57:58.918776"
+  "last_seen": "2026-07-23T12:44:21.627993"
 }
