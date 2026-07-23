@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2026-04-26"
+    "2026-04-26",
+    "2026-07-23"
   ],
   "last_full_data": {
     "A": 11,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 100,
+    "HEADING": 95,
     "IMO": 0,
-    "LATITUDE": 51.50742,
-    "LONGITUDE": -0.07237,
+    "LATITUDE": 51.50752,
+    "LONGITUDE": -0.07211,
     "MMSI": 232032606,
     "NAME": "KINGS LEGEND",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-04-26 09:29:33 GMT",
+    "TIME": "2026-07-23 11:41:13 GMT",
     "TYPE": 36,
-    "last_seen": "2026-04-26T08:37:30.984202",
+    "last_seen": "2026-04-26T09:30:49.249269",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-26T09:30:49.249269"
+  "last_seen": "2026-07-23T11:46:43.241760"
 }
