@@ -38,18 +38,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50118,
-    "LONGITUDE": -0.01505,
+    "LATITUDE": 51.50583,
+    "LONGITUDE": -0.00828,
     "MMSI": 232049803,
     "NAME": "CONTINUUM",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-07-24 12:40:57 GMT",
+    "SOG": 0.3,
+    "TIME": "2026-07-24 13:43:59 GMT",
     "TYPE": 37,
-    "last_seen": "2026-07-24T11:44:49.015136",
+    "last_seen": "2026-07-24T12:41:12.325283",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-24T12:41:12.325283"
+  "last_seen": "2026-07-24T13:45:46.411984"
 }
