@@ -354,7 +354,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "ZQPE4",
-    "COG": 350,
+    "COG": 290.3,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -362,17 +362,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48414,
-    "LONGITUDE": -0.0084,
+    "LONGITUDE": -0.00842,
     "MMSI": 235056225,
     "NAME": "DUTCH MASTER",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-07-26 10:45:07 GMT",
+    "SOG": 0,
+    "TIME": "2026-07-26 11:36:58 GMT",
     "TYPE": 0,
-    "last_seen": "2026-07-26T09:48:02.353103",
+    "last_seen": "2026-07-26T10:45:13.656257",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-26T10:45:13.656257"
+  "last_seen": "2026-07-26T11:37:06.034807"
 }
