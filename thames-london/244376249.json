@@ -7,28 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "PB3003",
-    "COG": 287.9,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48604,
-    "LONGITUDE": -0.01936,
+    "LATITUDE": 51.5067,
+    "LONGITUDE": -0.07088,
     "MMSI": 244376249,
     "NAME": "FF NXX",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.5,
-    "TIME": "2026-07-26 09:48:01 GMT",
+    "SOG": 0,
+    "TIME": "2026-07-26 10:45:02 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-07-26T09:48:04.812343",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-26T09:48:04.812343"
+  "last_seen": "2026-07-26T10:45:13.604695"
 }
