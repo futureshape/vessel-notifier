@@ -404,32 +404,33 @@
     "2026-07-20",
     "2026-07-22",
     "2026-07-23",
-    "2026-07-24"
+    "2026-07-24",
+    "2026-07-26"
   ],
   "last_full_data": {
     "A": 8,
     "B": 91,
     "C": 16,
     "CALLSIGN": "MLLN8",
-    "COG": 254.4,
+    "COG": 224.8,
     "D": 1,
-    "DEST": "W.BASSURELLE 458",
-    "DRAUGHT": 4.5,
-    "ETA": "07-25 12:00",
+    "DEST": "GBCHN",
+    "DRAUGHT": 6.4,
+    "ETA": "07-26 07:30",
     "HEADING": 106,
     "IMO": 8902278,
     "LATITUDE": 51.49536,
-    "LONGITUDE": 0.02386,
+    "LONGITUDE": 0.02387,
     "MMSI": 232000790,
     "NAME": "CITY OF WESTMINSTER",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-07-24 23:30:39 GMT",
+    "TIME": "2026-07-26 07:54:03 GMT",
     "TYPE": 33,
-    "last_seen": "2026-07-24T22:32:08.124086",
+    "last_seen": "2026-07-24T23:30:54.064262",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-24T23:30:54.064262"
+  "last_seen": "2026-07-26T07:56:32.938583"
 }
