@@ -273,29 +273,25 @@
     "B": 16,
     "C": 4,
     "CALLSIGN": "PF6465",
-    "COG": 162.4,
+    "COG": 278.9,
     "D": 2,
     "DEST": "THAMES",
     "DRAUGHT": 3,
     "ETA": "01-25 18:57",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49439,
-    "LONGITUDE": -0.00194,
+    "LATITUDE": 51.48427,
+    "LONGITUDE": -0.13985,
     "MMSI": 244620729,
     "NAME": "GPS IBERIA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6,
-    "TIME": "2026-07-27 22:31:44 GMT",
+    "SOG": 7.7,
+    "TIME": "2026-07-27 23:31:45 GMT",
     "TYPE": 70,
-    "last_seen": "2026-02-19T15:26:39.373965",
-    "received_by_stations": [
-      3129,
-      3999,
-      2648
-    ]
+    "last_seen": "2026-07-27T22:31:52.807836",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-27T22:31:52.807836"
+  "last_seen": "2026-07-27T23:31:50.776681"
 }
