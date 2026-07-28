@@ -7,32 +7,25 @@
     "B": 9,
     "C": 1,
     "CALLSIGN": "2CRL6",
-    "COG": 116.3,
+    "COG": 134,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1.5,
     "ETA": "07-28 11:45",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5024,
-    "LONGITUDE": -0.06624,
+    "LATITUDE": 51.48786,
+    "LONGITUDE": -0.02635,
     "MMSI": 235075143,
     "NAME": "BOA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 3,
-    "TIME": "2026-07-28 10:58:31 GMT",
+    "SOG": 2.8,
+    "TIME": "2026-07-28 11:48:02 GMT",
     "TYPE": 31,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      2675,
-      3999,
-      3129,
-      2296,
-      2103
-    ]
+    "last_seen": "2026-07-28T10:58:36.065892",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-28T10:58:36.065892"
+  "last_seen": "2026-07-28T11:48:07.533716"
 }
