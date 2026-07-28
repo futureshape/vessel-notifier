@@ -7,29 +7,25 @@
     "B": 1,
     "C": 2,
     "CALLSIGN": "PA6634",
-    "COG": 44.9,
+    "COG": 92.3,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50329,
-    "LONGITUDE": -0.05415,
+    "LATITUDE": 51.49574,
+    "LONGITUDE": 0.02746,
     "MMSI": 244710954,
     "NAME": "LIMES",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5,
-    "TIME": "2026-07-28 11:47:58 GMT",
+    "SOG": 6.3,
+    "TIME": "2026-07-28 12:47:28 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648,
-      2675
-    ]
+    "last_seen": "2026-07-28T11:48:07.531148",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-28T11:48:07.531148"
+  "last_seen": "2026-07-28T12:47:36.193757"
 }
