@@ -1,13 +1,14 @@
 {
   "dates_seen": [
-    "2026-07-25"
+    "2026-07-25",
+    "2026-07-28"
   ],
   "last_full_data": {
     "A": 5,
     "B": 3,
     "C": 0,
     "CALLSIGN": "PI5085",
-    "COG": 335.5,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -15,17 +16,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50721,
-    "LONGITUDE": -0.06929,
+    "LONGITUDE": -0.06932,
     "MMSI": 244860418,
     "NAME": "THALASSA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-07-25 11:08:44 GMT",
+    "TIME": "2026-07-28 10:56:25 GMT",
     "TYPE": 37,
-    "last_seen": "2026-07-25T10:41:01.127992",
+    "last_seen": "2026-07-25T11:36:59.850736",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-25T11:36:59.850736"
+  "last_seen": "2026-07-28T10:58:35.227467"
 }
