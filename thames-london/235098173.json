@@ -11,31 +11,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2GKL7",
-    "COG": 224.7,
+    "COG": 238.6,
     "D": 0,
     "DEST": "THAMES__",
     "DRAUGHT": 1.7,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48776,
-    "LONGITUDE": -0.00312,
+    "LATITUDE": 51.48541,
+    "LONGITUDE": -0.13184,
     "MMSI": 235098173,
     "NAME": "SIR HENDRIK",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.8,
-    "TIME": "2026-07-29 11:01:40 GMT",
+    "SOG": 9.4,
+    "TIME": "2026-07-29 11:50:00 GMT",
     "TYPE": 52,
-    "last_seen": "2025-03-26T15:30:14.748166",
-    "received_by_stations": [
-      3416,
-      2648,
-      3999,
-      2103,
-      3129
-    ]
+    "last_seen": "2026-07-29T11:01:44.031846",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-29T11:01:44.031846"
+  "last_seen": "2026-07-29T11:50:01.045887"
 }
