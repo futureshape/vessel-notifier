@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2026-07-29"
+  ],
+  "last_full_data": {
+    "A": 22,
+    "B": 37,
+    "C": 5,
+    "CALLSIGN": "SQWM",
+    "COG": 82.3,
+    "D": 5,
+    "DEST": "GDYNIA",
+    "DRAUGHT": 2.8,
+    "ETA": "07-23 10:10",
+    "HEADING": 267,
+    "IMO": 4609438,
+    "LATITUDE": 51.50135,
+    "LONGITUDE": -0.01082,
+    "MMSI": 261094104,
+    "NAME": "NATO WARSHIP",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 0.1,
+    "TIME": "2026-07-29 13:47:26 GMT",
+    "TYPE": 35,
+    "last_seen": null,
+    "received_by_stations": [
+      2648,
+      3416,
+      3999,
+      3129
+    ]
+  },
+  "last_seen": "2026-07-29T13:47:31.573922"
+}

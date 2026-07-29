@@ -1,0 +1,39 @@
+{
+  "dates_seen": [
+    "2026-07-29"
+  ],
+  "last_full_data": {
+    "A": 22,
+    "B": 33,
+    "C": 7,
+    "CALLSIGN": "DRFB",
+    "COG": 83.6,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 2.4,
+    "ETA": "00-00 00:00",
+    "HEADING": 334,
+    "IMO": 0,
+    "LATITUDE": 51.49924,
+    "LONGITUDE": -0.00401,
+    "MMSI": 211211240,
+    "NAME": "NATO WARSHIP M1069",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 0.3,
+    "TIME": "2026-07-29 13:47:28 GMT",
+    "TYPE": 35,
+    "last_seen": null,
+    "received_by_stations": [
+      2648,
+      3129,
+      3218,
+      2103,
+      3811,
+      3416,
+      3999
+    ]
+  },
+  "last_seen": "2026-07-29T13:47:32.097870"
+}
