@@ -21,27 +21,25 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "MSBP3",
-    "COG": 77.5,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48427,
-    "LONGITUDE": -0.15226,
+    "LATITUDE": 51.50644,
+    "LONGITUDE": -0.07202,
     "MMSI": 232061108,
     "NAME": "GAY VENTURE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6,
-    "TIME": "2026-07-31 14:58:17 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-07-31 15:47:16 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-08T13:36:55.921188",
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2026-07-31T14:59:50.060983",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-31T14:59:50.060983"
+  "last_seen": "2026-07-31T15:49:10.401214"
 }

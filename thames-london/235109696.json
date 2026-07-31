@@ -7,31 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "",
-    "COG": 135,
+    "COG": 173,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5062,
-    "LONGITUDE": -0.0721,
+    "LATITUDE": 51.5069,
+    "LONGITUDE": -0.0714,
     "MMSI": 235109696,
     "NAME": "MARSAYRU ADLS",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-07-31 14:57:40 GMT",
+    "TIME": "2026-07-31 15:48:50 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2055,
-      2675,
-      2296,
-      2103,
-      2648
-    ]
+    "last_seen": "2026-07-31T14:59:50.481440",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-31T14:59:50.481440"
+  "last_seen": "2026-07-31T15:49:10.402038"
 }
