@@ -7,28 +7,25 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "DGDT2",
-    "COG": 238.4,
+    "COG": 279.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 246,
+    "HEADING": 279,
     "IMO": 0,
-    "LATITUDE": 51.50323,
-    "LONGITUDE": -0.0555,
+    "LATITUDE": 51.5077,
+    "LONGITUDE": -0.07258,
     "MMSI": 211477330,
     "NAME": "FILIA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.1,
-    "TIME": "2026-07-31 13:46:29 GMT",
+    "SOG": 0.7,
+    "TIME": "2026-07-31 14:57:01 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-07-31T13:47:05.367087",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-31T13:47:05.367087"
+  "last_seen": "2026-07-31T14:59:50.081548"
 }
