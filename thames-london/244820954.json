@@ -1,0 +1,34 @@
+{
+  "dates_seen": [
+    "2026-08-01"
+  ],
+  "last_full_data": {
+    "A": 6,
+    "B": 5,
+    "C": 1,
+    "CALLSIGN": "PB8954",
+    "COG": 99.3,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 107,
+    "IMO": 0,
+    "LATITUDE": 51.50518,
+    "LONGITUDE": -0.07234,
+    "MMSI": 244820954,
+    "NAME": "CAFE DEL MAR",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 1.2,
+    "TIME": "2026-08-01 13:43:54 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2648,
+      3999
+    ]
+  },
+  "last_seen": "2026-08-01T13:44:20.622901"
+}

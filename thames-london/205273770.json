@@ -14,29 +14,25 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "OQ2737",
-    "COG": 258.4,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49784,
-    "LONGITUDE": 0.03343,
+    "LATITUDE": 51.50554,
+    "LONGITUDE": -0.07215,
     "MMSI": 205273770,
     "NAME": "CARABOULOU",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.5,
-    "TIME": "2026-08-01 12:31:07 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-08-01 13:43:39 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-18T10:31:11.136536",
-    "received_by_stations": [
-      3999,
-      3218,
-      2648
-    ]
+    "last_seen": "2026-08-01T12:31:35.470541",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-01T12:31:35.470541"
+  "last_seen": "2026-08-01T13:44:20.623623"
 }
