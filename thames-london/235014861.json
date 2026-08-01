@@ -463,18 +463,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50746,
-    "LONGITUDE": -0.07348,
+    "LATITUDE": 51.50725,
+    "LONGITUDE": -0.0731,
     "MMSI": 235014861,
     "NAME": "SB ADIEU",
     "NAVSTAT": 8,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-08-01 09:47:41 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-08-01 10:46:41 GMT",
     "TYPE": 36,
-    "last_seen": "2026-08-01T08:55:12.536778",
+    "last_seen": "2026-08-01T09:47:47.231655",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-01T09:47:47.231655"
+  "last_seen": "2026-08-01T10:46:42.467074"
 }

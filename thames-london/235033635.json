@@ -7,29 +7,25 @@
     "B": 0,
     "C": 1,
     "CALLSIGN": "MLRM7",
-    "COG": 261.9,
+    "COG": 223.9,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49814,
-    "LONGITUDE": 0.03823,
+    "LATITUDE": 51.50657,
+    "LONGITUDE": -0.04846,
     "MMSI": 235033635,
     "NAME": "SULIS",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.7,
-    "TIME": "2026-08-01 09:47:37 GMT",
+    "SOG": 6.3,
+    "TIME": "2026-08-01 10:46:36 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999,
-      3218
-    ]
+    "last_seen": "2026-08-01T09:47:48.030955",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-01T09:47:48.030955"
+  "last_seen": "2026-08-01T10:46:42.474371"
 }
