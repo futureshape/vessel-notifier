@@ -7,28 +7,25 @@
     "B": 0,
     "C": 3,
     "CALLSIGN": "ZCDZ5",
-    "COG": 324.9,
+    "COG": 76,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 317,
+    "HEADING": 322,
     "IMO": 0,
-    "LATITUDE": 51.48981,
-    "LONGITUDE": -0.02669,
+    "LATITUDE": 51.50326,
+    "LONGITUDE": -0.05361,
     "MMSI": 310571000,
     "NAME": "BIG BEAR",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.7,
-    "TIME": "2026-08-02 13:44:10 GMT",
+    "SOG": 2.9,
+    "TIME": "2026-08-02 14:41:11 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-08-02T13:44:21.175915",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-02T13:44:21.175915"
+  "last_seen": "2026-08-02T14:41:23.329423"
 }
