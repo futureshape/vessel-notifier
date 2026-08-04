@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-08-01"
+    "2026-08-01",
+    "2026-08-04"
   ],
   "last_full_data": {
     "A": 7,
     "B": 6,
     "C": 3,
     "CALLSIGN": "PB4515",
-    "COG": 175.7,
+    "COG": 201.7,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50771,
-    "LONGITUDE": -0.07204,
+    "LATITUDE": 51.50626,
+    "LONGITUDE": -0.07231,
     "MMSI": 244660143,
     "NAME": "GIOIA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-08-01 14:26:37 GMT",
+    "TIME": "2026-08-04 05:12:52 GMT",
     "TYPE": 37,
-    "last_seen": "2026-08-01T13:44:20.624515",
+    "last_seen": "2026-08-01T14:39:34.570931",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-01T14:39:34.570931"
+  "last_seen": "2026-08-04T05:15:32.161545"
 }
