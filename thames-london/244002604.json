@@ -8,7 +8,7 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "PG8507",
-    "COG": 337.3,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -16,17 +16,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50745,
-    "LONGITUDE": -0.07156,
+    "LONGITUDE": -0.07158,
     "MMSI": 244002604,
     "NAME": "LORD NELSON",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2026-08-04 14:57:58 GMT",
+    "SOG": 0,
+    "TIME": "2026-08-04 15:54:56 GMT",
     "TYPE": 37,
-    "last_seen": "2026-08-04T13:47:42.435843",
+    "last_seen": "2026-08-04T15:00:42.036858",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-04T15:00:42.036858"
+  "last_seen": "2026-08-04T15:58:04.924837"
 }

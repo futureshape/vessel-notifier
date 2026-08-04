@@ -7,28 +7,25 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "OP7782",
-    "COG": 261.7,
+    "COG": 23.6,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50222,
-    "LONGITUDE": -0.05861,
+    "LATITUDE": 51.50643,
+    "LONGITUDE": -0.07213,
     "MMSI": 205778230,
     "NAME": "ULYSSES",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.4,
-    "TIME": "2026-08-04 15:00:32 GMT",
+    "SOG": 0,
+    "TIME": "2026-08-04 15:56:27 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-08-04T15:00:42.452939",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-04T15:00:42.452939"
+  "last_seen": "2026-08-04T15:58:04.924422"
 }
