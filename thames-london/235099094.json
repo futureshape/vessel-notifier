@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2026-08-06"
+  ],
+  "last_full_data": {
+    "A": 5,
+    "B": 5,
+    "C": 1,
+    "CALLSIGN": "2GOB7",
+    "COG": 84.6,
+    "D": 2,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 84,
+    "IMO": 0,
+    "LATITUDE": 51.46389,
+    "LONGITUDE": -0.19339,
+    "MMSI": 235099094,
+    "NAME": "SANCTUARY",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 6,
+    "TIME": "2026-08-06 06:40:41 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3999,
+      2103,
+      2648
+    ]
+  },
+  "last_seen": "2026-08-06T06:41:11.775179"
+}
