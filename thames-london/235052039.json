@@ -215,32 +215,33 @@
     "2026-07-24",
     "2026-07-29",
     "2026-07-30",
-    "2026-07-31"
+    "2026-07-31",
+    "2026-08-06"
   ],
   "last_full_data": {
     "A": 6,
     "B": 7,
     "C": 3,
     "CALLSIGN": "MMMT8",
-    "COG": 79.2,
+    "COG": 29.6,
     "D": 1,
     "DEST": "RIVER THAMES",
     "DRAUGHT": 5,
     "ETA": "01-19 14:57",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48501,
-    "LONGITUDE": -0.00981,
+    "LATITUDE": 51.49429,
+    "LONGITUDE": 0.02669,
     "MMSI": 235052039,
     "NAME": "LONDINIUM 3",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 10.6,
-    "TIME": "2026-07-31 19:44:21 GMT",
+    "SOG": 0,
+    "TIME": "2026-08-06 09:46:48 GMT",
     "TYPE": 79,
-    "last_seen": "2026-07-31T18:41:35.989722",
+    "last_seen": "2026-07-31T19:44:22.260239",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-31T19:44:22.260239"
+  "last_seen": "2026-08-06T09:46:52.271619"
 }
