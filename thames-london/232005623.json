@@ -7,29 +7,25 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "MAKX4",
-    "COG": 17.3,
+    "COG": 108.6,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47434,
-    "LONGITUDE": -0.17818,
+    "LATITUDE": 51.50235,
+    "LONGITUDE": -0.0657,
     "MMSI": 232005623,
     "NAME": "AMITY",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.6,
-    "TIME": "2026-08-07 11:03:29 GMT",
+    "SOG": 7,
+    "TIME": "2026-08-07 11:53:00 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      3999,
-      2648
-    ]
+    "last_seen": "2026-08-07T11:03:41.880495",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-07T11:03:41.880495"
+  "last_seen": "2026-08-07T11:53:11.988810"
 }

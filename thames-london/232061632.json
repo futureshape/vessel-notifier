@@ -7,29 +7,25 @@
     "B": 10,
     "C": 2,
     "CALLSIGN": "MSFR7",
-    "COG": 15.4,
+    "COG": 105.5,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.477,
-    "LONGITUDE": -0.17736,
+    "LATITUDE": 51.50163,
+    "LONGITUDE": -0.06286,
     "MMSI": 232061632,
     "NAME": "ISABEL",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.2,
-    "TIME": "2026-08-07 11:03:35 GMT",
+    "SOG": 6,
+    "TIME": "2026-08-07 11:53:04 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2103,
-      2648
-    ]
+    "last_seen": "2026-08-07T11:03:42.684190",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-07T11:03:42.684190"
+  "last_seen": "2026-08-07T11:53:11.989495"
 }
