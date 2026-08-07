@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2026-08-07"
+  ],
+  "last_full_data": {
+    "A": 91,
+    "B": 26,
+    "C": 3,
+    "CALLSIGN": "PGAA",
+    "COG": 120.2,
+    "D": 15,
+    "DEST": "NE SPIT",
+    "DRAUGHT": 6.5,
+    "ETA": "08-06 22:00",
+    "HEADING": 105,
+    "IMO": 9285366,
+    "LATITUDE": 51.49607,
+    "LONGITUDE": 0.02182,
+    "MMSI": 244476000,
+    "NAME": "SCELVERINGHE",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 3,
+    "SOG": 0,
+    "TIME": "2026-08-07 04:01:13 GMT",
+    "TYPE": 33,
+    "last_seen": null,
+    "received_by_stations": [
+      3129,
+      2648,
+      3999,
+      3218
+    ]
+  },
+  "last_seen": "2026-08-07T04:01:24.391278"
+}
