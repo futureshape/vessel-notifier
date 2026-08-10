@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2026-08-10"
+  ],
+  "last_full_data": {
+    "A": 15,
+    "B": 1,
+    "C": 1,
+    "CALLSIGN": "PB4668",
+    "COG": 16.6,
+    "D": 4,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50632,
+    "LONGITUDE": -0.07232,
+    "MMSI": 244660403,
+    "NAME": "SISI LAIS",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 0,
+    "TIME": "2026-08-10 10:32:50 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3999,
+      2675,
+      2296,
+      2648
+    ]
+  },
+  "last_seen": "2026-08-10T10:33:09.537635"
+}
