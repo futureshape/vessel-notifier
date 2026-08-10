@@ -7,28 +7,25 @@
     "B": 8,
     "C": 1,
     "CALLSIGN": "OS4253",
-    "COG": 8.3,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 8,
+    "HEADING": 24,
     "IMO": 0,
-    "LATITUDE": 51.49961,
-    "LONGITUDE": -0.02893,
+    "LATITUDE": 51.50634,
+    "LONGITUDE": -0.07212,
     "MMSI": 205425300,
     "NAME": "POLARREV",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.8,
-    "TIME": "2026-08-10 10:33:03 GMT",
+    "SOG": 0,
+    "TIME": "2026-08-10 11:54:29 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-08-10T10:33:11.262486",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-10T10:33:11.262486"
+  "last_seen": "2026-08-10T11:55:24.371390"
 }
