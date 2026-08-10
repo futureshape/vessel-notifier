@@ -7,28 +7,25 @@
     "B": 3,
     "C": 2,
     "CALLSIGN": "MRWH8",
-    "COG": 335.8,
+    "COG": 289.8,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0.8,
     "ETA": "06-26 23:00",
-    "HEADING": 330,
+    "HEADING": 296,
     "IMO": 0,
-    "LATITUDE": 51.49307,
-    "LONGITUDE": -0.02916,
+    "LATITUDE": 51.46507,
+    "LONGITUDE": -0.20613,
     "MMSI": 232060391,
     "NAME": "SUNRISE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 11.5,
-    "TIME": "2026-08-10 17:58:22 GMT",
+    "SOG": 7.3,
+    "TIME": "2026-08-10 19:04:54 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-08-10T17:58:32.836917",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-10T17:58:32.836917"
+  "last_seen": "2026-08-10T19:11:00.788741"
 }
