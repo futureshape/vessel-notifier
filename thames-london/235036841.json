@@ -228,7 +228,7 @@
     "B": 2,
     "C": 3,
     "CALLSIGN": "MDYB",
-    "COG": 214.9,
+    "COG": 360,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 2,
@@ -236,17 +236,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50681,
-    "LONGITUDE": -0.0843,
+    "LONGITUDE": -0.08425,
     "MMSI": 235036841,
     "NAME": "S.B GLADYS",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2026-08-10 13:37:11 GMT",
+    "SOG": 0,
+    "TIME": "2026-08-10 15:12:11 GMT",
     "TYPE": 36,
-    "last_seen": "2026-08-10T11:55:24.370156",
+    "last_seen": "2026-08-10T13:37:18.638762",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-10T13:37:18.638762"
+  "last_seen": "2026-08-10T15:12:15.667215"
 }
