@@ -84,32 +84,37 @@
     "2026-03-31",
     "2026-04-02",
     "2026-04-04",
-    "2026-04-05"
+    "2026-04-05",
+    "2026-08-11"
   ],
   "last_full_data": {
     "A": 6,
     "B": 6,
     "C": 2,
     "CALLSIGN": "",
-    "COG": 0,
+    "COG": 263.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 5,
     "ETA": "01-19 14:57",
-    "HEADING": 229,
+    "HEADING": 268,
     "IMO": 0,
-    "LATITUDE": 51.48759,
-    "LONGITUDE": -0.001,
+    "LATITUDE": 51.49799,
+    "LONGITUDE": 0.03705,
     "MMSI": 235082675,
     "NAME": "SOUTHWARK",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 0,
-    "SOG": 0,
-    "TIME": "2026-04-05 19:22:46 GMT",
+    "ROT": 127,
+    "SOG": 11,
+    "TIME": "2026-08-11 11:52:13 GMT",
     "TYPE": 99,
-    "last_seen": "2026-04-04T16:18:21.530344",
-    "received_by_stations": []
+    "last_seen": "2026-04-05T19:22:49.601458",
+    "received_by_stations": [
+      3999,
+      3218,
+      2648
+    ]
   },
-  "last_seen": "2026-04-05T19:22:49.601458"
+  "last_seen": "2026-08-11T11:52:15.976900"
 }
