@@ -16,18 +16,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 93,
     "IMO": 0,
-    "LATITUDE": 51.50784,
+    "LATITUDE": 51.5078,
     "LONGITUDE": -0.07185,
     "MMSI": 205425300,
     "NAME": "POLARREV",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-08-12 08:35:52 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-08-12 10:14:51 GMT",
     "TYPE": 37,
-    "last_seen": "2026-08-12T06:37:59.255169",
+    "last_seen": "2026-08-12T08:36:17.791116",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-12T08:36:17.791116"
+  "last_seen": "2026-08-12T10:16:47.561891"
 }
