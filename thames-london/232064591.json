@@ -14,23 +14,18 @@
     "ETA": "00-00 24:60",
     "HEADING": 288,
     "IMO": 1134523,
-    "LATITUDE": 51.50729,
-    "LONGITUDE": 0.00673,
+    "LATITUDE": 51.50727,
+    "LONGITUDE": 0.00671,
     "MMSI": 232064591,
     "NAME": "SATURN CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-08-12 17:08:51 GMT",
+    "TIME": "2026-08-12 18:04:30 GMT",
     "TYPE": 40,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3218,
-      3999,
-      2103
-    ]
+    "last_seen": "2026-08-12T17:08:59.300822",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-12T17:08:59.300822"
+  "last_seen": "2026-08-12T18:04:38.815459"
 }
