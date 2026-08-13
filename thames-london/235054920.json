@@ -521,7 +521,7 @@
     "B": 1,
     "C": 5,
     "CALLSIGN": "ZISU8",
-    "COG": 300.6,
+    "COG": 23.9,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -529,17 +529,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50126,
-    "LONGITUDE": -0.06237,
+    "LONGITUDE": -0.06239,
     "MMSI": 235054920,
     "NAME": "CITY DELTA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-08-13 08:39:43 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-08-13 10:18:36 GMT",
     "TYPE": 60,
-    "last_seen": "2026-08-13T06:40:34.649784",
+    "last_seen": "2026-08-13T08:39:54.081302",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-13T08:39:54.081302"
+  "last_seen": "2026-08-13T10:18:39.475160"
 }
