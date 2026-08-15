@@ -258,18 +258,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50994,
-    "LONGITUDE": -0.11577,
+    "LATITUDE": 51.50995,
+    "LONGITUDE": -0.11583,
     "MMSI": 232045475,
     "NAME": "GUARD DOG",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-08-15 22:33:33 GMT",
+    "SOG": 0.3,
+    "TIME": "2026-08-15 23:30:33 GMT",
     "TYPE": 0,
-    "last_seen": "2026-08-15T21:31:03.501336",
+    "last_seen": "2026-08-15T22:33:33.623306",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-15T22:33:33.623306"
+  "last_seen": "2026-08-15T23:30:40.181121"
 }
