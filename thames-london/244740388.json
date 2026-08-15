@@ -7,31 +7,25 @@
     "B": 0,
     "C": 2,
     "CALLSIGN": "PF3586",
-    "COG": 319.2,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48769,
-    "LONGITUDE": -0.02305,
+    "LATITUDE": 51.50631,
+    "LONGITUDE": -0.07215,
     "MMSI": 244740388,
     "NAME": "ANDANTE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4.7,
-    "TIME": "2026-08-15 13:38:00 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-08-15 14:32:00 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999,
-      2103,
-      3218,
-      3129
-    ]
+    "last_seen": "2026-08-15T13:38:02.794903",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-15T13:38:02.794903"
+  "last_seen": "2026-08-15T14:34:26.808928"
 }
