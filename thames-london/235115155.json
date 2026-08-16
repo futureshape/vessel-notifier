@@ -378,7 +378,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "",
-    "COG": 360,
+    "COG": 86.8,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 1,
@@ -386,17 +386,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50793,
-    "LONGITUDE": -0.0798,
+    "LONGITUDE": -0.04204,
     "MMSI": 235115155,
     "NAME": "ULTIMATE",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-08-16 10:34:50 GMT",
+    "SOG": 28.2,
+    "TIME": "2026-08-16 11:30:28 GMT",
     "TYPE": 99,
-    "last_seen": "2026-08-16T09:36:44.379766",
+    "last_seen": "2026-08-16T10:34:55.148777",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-16T10:34:55.148777"
+  "last_seen": "2026-08-16T11:30:30.173312"
 }
