@@ -28,7 +28,7 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "MKXM3",
-    "COG": 360,
+    "COG": 111.5,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -36,17 +36,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50708,
-    "LONGITUDE": -0.07124,
+    "LONGITUDE": -0.07114,
     "MMSI": 232040548,
     "NAME": "CHASIN DREAMS",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-08-17 18:52:52 GMT",
+    "SOG": 1,
+    "TIME": "2026-08-17 19:34:40 GMT",
     "TYPE": 37,
-    "last_seen": "2026-08-17T17:38:15.403211",
+    "last_seen": "2026-08-17T18:53:30.966860",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-17T18:53:30.966860"
+  "last_seen": "2026-08-17T19:35:39.706958"
 }
