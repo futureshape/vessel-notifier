@@ -7,31 +7,25 @@
     "B": 6,
     "C": 1,
     "CALLSIGN": "MVXO7",
-    "COG": 103.6,
+    "COG": 360,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50555,
-    "LONGITUDE": -0.07252,
+    "LATITUDE": 51.50711,
+    "LONGITUDE": -0.07125,
     "MMSI": 235023795,
     "NAME": "SWIFTWIND",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 2,
-    "TIME": "2026-08-17 14:38:30 GMT",
+    "SOG": 0,
+    "TIME": "2026-08-17 16:39:30 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2675,
-      3416,
-      2648,
-      2296,
-      3999
-    ]
+    "last_seen": "2026-08-17T14:38:46.242631",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-17T14:38:46.242631"
+  "last_seen": "2026-08-17T16:40:29.159244"
 }
