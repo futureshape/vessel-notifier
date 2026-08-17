@@ -424,7 +424,7 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "PB6045",
-    "COG": 74.2,
+    "COG": 104.2,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1.4,
@@ -432,17 +432,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50762,
-    "LONGITUDE": 0.00256,
+    "LONGITUDE": 0.00257,
     "MMSI": 244690020,
     "NAME": "SCHELDEMOND I",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-08-17 08:55:50 GMT",
+    "SOG": 0,
+    "TIME": "2026-08-17 09:53:01 GMT",
     "TYPE": 33,
-    "last_seen": "2026-08-17T07:12:08.394332",
+    "last_seen": "2026-08-17T08:55:53.013095",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-17T08:55:53.013095"
+  "last_seen": "2026-08-17T09:53:08.475775"
 }
