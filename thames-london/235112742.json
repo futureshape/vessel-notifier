@@ -754,7 +754,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2ITT5",
-    "COG": 21.9,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -762,17 +762,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50724,
-    "LONGITUDE": 0.00656,
+    "LONGITUDE": 0.00657,
     "MMSI": 235112742,
     "NAME": "NEPTUNE CLIPPER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-08-18 17:37:51 GMT",
+    "SOG": 0,
+    "TIME": "2026-08-18 18:51:49 GMT",
     "TYPE": 0,
-    "last_seen": "2026-08-18T16:45:09.298685",
+    "last_seen": "2026-08-18T17:37:54.946898",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-18T17:37:54.946898"
+  "last_seen": "2026-08-18T18:52:15.754253"
 }
