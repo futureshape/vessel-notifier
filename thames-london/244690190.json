@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2026-08-18"
+  ],
+  "last_full_data": {
+    "A": 6,
+    "B": 5,
+    "C": 4,
+    "CALLSIGN": "PB6268",
+    "COG": 292.2,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.50839,
+    "LONGITUDE": -0.03626,
+    "MMSI": 244690190,
+    "NAME": "FLIRT",
+    "NAVSTAT": 15,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 7,
+    "TIME": "2026-08-18 15:41:38 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      2648,
+      3999,
+      4025
+    ]
+  },
+  "last_seen": "2026-08-18T15:42:09.557499"
+}
