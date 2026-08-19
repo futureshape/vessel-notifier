@@ -309,7 +309,7 @@
     "B": 3,
     "C": 4,
     "CALLSIGN": "2EJR5",
-    "COG": 29.1,
+    "COG": 360,
     "D": 1,
     "DEST": "GRAVESEND",
     "DRAUGHT": 1.3,
@@ -317,17 +317,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48394,
-    "LONGITUDE": -0.01591,
+    "LONGITUDE": -0.0159,
     "MMSI": 235085697,
     "NAME": "BARNES",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2026-08-19 13:52:43 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-08-19 14:46:44 GMT",
     "TYPE": 53,
-    "last_seen": "2026-08-19T13:04:39.631821",
+    "last_seen": "2026-08-19T13:53:11.336109",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-19T13:53:11.336109"
+  "last_seen": "2026-08-19T14:47:44.818761"
 }
