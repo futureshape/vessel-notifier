@@ -1,36 +1,32 @@
 {
   "dates_seen": [
-    "2026-08-17"
+    "2026-08-17",
+    "2026-08-19"
   ],
   "last_full_data": {
     "A": 6,
     "B": 6,
     "C": 2,
     "CALLSIGN": "ZIPK5",
-    "COG": 96.5,
+    "COG": 338.7,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48492,
-    "LONGITUDE": -0.01792,
+    "LATITUDE": 51.49199,
+    "LONGITUDE": -0.02717,
     "MMSI": 235005832,
     "NAME": "HELVETIA A",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 12,
-    "TIME": "2026-08-17 07:11:59 GMT",
+    "SOG": 9.5,
+    "TIME": "2026-08-19 13:04:17 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      4025,
-      2648,
-      3999,
-      3416
-    ]
+    "last_seen": "2026-08-17T07:12:08.392761",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-17T07:12:08.392761"
+  "last_seen": "2026-08-19T13:04:39.631083"
 }
