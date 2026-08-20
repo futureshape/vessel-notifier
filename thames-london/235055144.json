@@ -644,7 +644,7 @@
     "B": 21,
     "C": 1,
     "CALLSIGN": "MSET8",
-    "COG": 210.9,
+    "COG": 44.1,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -652,17 +652,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50407,
-    "LONGITUDE": -0.0728,
+    "LONGITUDE": -0.07277,
     "MMSI": 235055144,
     "NAME": "EDWARDIAN",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-08-20 16:17:56 GMT",
+    "SOG": 0,
+    "TIME": "2026-08-20 17:17:35 GMT",
     "TYPE": 60,
-    "last_seen": "2026-08-20T15:19:02.980031",
+    "last_seen": "2026-08-20T16:18:06.256800",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-20T16:18:06.256800"
+  "last_seen": "2026-08-20T17:17:42.293262"
 }
