@@ -8,27 +8,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2FQW7",
-    "COG": 121.8,
+    "COG": 104.2,
     "D": 0,
-    "DEST": "",
-    "DRAUGHT": 0,
+    "DEST": "GREAT YARMOUTH",
+    "DRAUGHT": 0.8,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.46683,
-    "LONGITUDE": -0.21318,
+    "LATITUDE": 51.5078,
+    "LONGITUDE": -0.03802,
     "MMSI": 235093495,
-    "NAME": "VISCOUNT",
+    "NAME": "VICOUNT",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 4.7,
-    "TIME": "2026-08-20 03:26:12 GMT",
-    "TYPE": 0,
-    "last_seen": "2024-11-29T15:28:18.046702",
-    "received_by_stations": [
-      2648
-    ]
+    "SOG": 21.7,
+    "TIME": "2026-08-20 04:21:21 GMT",
+    "TYPE": 49,
+    "last_seen": "2026-08-20T03:26:16.572792",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-20T03:26:16.572792"
+  "last_seen": "2026-08-20T04:21:24.909105"
 }
