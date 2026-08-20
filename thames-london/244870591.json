@@ -18,17 +18,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50774,
-    "LONGITUDE": -0.07216,
+    "LONGITUDE": -0.07217,
     "MMSI": 244870591,
     "NAME": "SEVEN SEAS",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-08-20 04:20:28 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-08-20 05:17:29 GMT",
     "TYPE": 36,
-    "last_seen": "2026-08-20T03:26:16.576909",
+    "last_seen": "2026-08-20T04:21:24.906465",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-20T04:21:24.906465"
+  "last_seen": "2026-08-20T05:18:26.061087"
 }
