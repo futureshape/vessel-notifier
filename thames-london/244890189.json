@@ -7,30 +7,25 @@
     "B": 4,
     "C": 3,
     "CALLSIGN": "PC4661",
-    "COG": 278.3,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 264,
+    "HEADING": 80,
     "IMO": 0,
-    "LATITUDE": 51.48548,
-    "LONGITUDE": -0.01582,
+    "LATITUDE": 51.50744,
+    "LONGITUDE": -0.07162,
     "MMSI": 244890189,
     "NAME": "SKAT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.9,
-    "TIME": "2026-08-21 17:17:20 GMT",
+    "SOG": 0,
+    "TIME": "2026-08-21 19:15:22 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3218,
-      2103,
-      3999
-    ]
+    "last_seen": "2026-08-21T17:17:49.618346",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-21T17:17:49.618346"
+  "last_seen": "2026-08-21T19:17:41.266081"
 }
