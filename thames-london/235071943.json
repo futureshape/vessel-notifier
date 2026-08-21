@@ -108,32 +108,33 @@
     "2026-08-04",
     "2026-08-11",
     "2026-08-17",
-    "2026-08-18"
+    "2026-08-18",
+    "2026-08-21"
   ],
   "last_full_data": {
     "A": 6,
     "B": 8,
     "C": 1,
     "CALLSIGN": "2CD47",
-    "COG": 360,
+    "COG": 223.6,
     "D": 4,
     "DEST": "BUTLERS WHARF",
     "DRAUGHT": 1.2,
     "ETA": "10-08 20:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50759,
-    "LONGITUDE": 0.00232,
+    "LATITUDE": 51.50528,
+    "LONGITUDE": -0.00342,
     "MMSI": 235071943,
     "NAME": "THAMES BOSUN",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-08-18 04:41:35 GMT",
+    "SOG": 5.9,
+    "TIME": "2026-08-21 11:16:59 GMT",
     "TYPE": 52,
-    "last_seen": "2026-08-18T03:53:24.191579",
+    "last_seen": "2026-08-18T04:47:00.150595",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-18T04:47:00.150595"
+  "last_seen": "2026-08-21T11:17:10.654723"
 }
