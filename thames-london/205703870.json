@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-08-18"
+    "2026-08-18",
+    "2026-08-22"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "OQ7038",
-    "COG": 162,
+    "COG": 11.9,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 18,
+    "HEADING": 132,
     "IMO": 0,
-    "LATITUDE": 51.5064,
-    "LONGITUDE": -0.07212,
+    "LATITUDE": 51.5067,
+    "LONGITUDE": -0.07097,
     "MMSI": 205703870,
     "NAME": "KARIBU",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-08-18 15:39:59 GMT",
+    "SOG": 0,
+    "TIME": "2026-08-22 07:18:04 GMT",
     "TYPE": 37,
-    "last_seen": "2026-08-18T14:47:10.561731",
+    "last_seen": "2026-08-18T15:42:07.661519",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-18T15:42:07.661519"
+  "last_seen": "2026-08-22T07:19:33.248450"
 }
