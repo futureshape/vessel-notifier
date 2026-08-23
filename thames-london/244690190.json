@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2026-08-18"
+    "2026-08-18",
+    "2026-08-23"
   ],
   "last_full_data": {
     "A": 6,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 349,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50716,
-    "LONGITUDE": -0.06951,
+    "LATITUDE": 51.50717,
+    "LONGITUDE": -0.06949,
     "MMSI": 244690190,
     "NAME": "FLIRT",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-08-18 16:44:10 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-08-23 07:17:08 GMT",
     "TYPE": 37,
-    "last_seen": "2026-08-18T15:42:09.557499",
+    "last_seen": "2026-08-18T16:45:09.294440",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-18T16:45:09.294440"
+  "last_seen": "2026-08-23T07:20:54.383221"
 }
