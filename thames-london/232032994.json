@@ -4,32 +4,39 @@
     "2025-02-27",
     "2025-04-08",
     "2025-09-09",
-    "2025-09-30"
+    "2025-09-30",
+    "2026-08-25"
   ],
   "last_full_data": {
     "A": 21,
     "B": 6,
     "C": 2,
     "CALLSIGN": "MIPQ5",
-    "COG": 130.6,
+    "COG": 262.6,
     "D": 4,
     "DEST": "RIVER THAMES",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50222,
-    "LONGITUDE": 0.01065,
+    "LATITUDE": 51.50212,
+    "LONGITUDE": -0.05952,
     "MMSI": 232032994,
     "NAME": "DISPENSER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.6,
-    "TIME": "2025-09-30 15:26:27 GMT",
-    "TYPE": 0,
-    "last_seen": "2025-09-30T14:28:53.487756",
-    "received_by_stations": []
+    "SOG": 8.2,
+    "TIME": "2026-08-25 07:26:57 GMT",
+    "TYPE": 80,
+    "last_seen": "2025-09-30T15:26:34.827716",
+    "received_by_stations": [
+      3416,
+      2648,
+      4025,
+      3129,
+      3999
+    ]
   },
-  "last_seen": "2025-09-30T15:26:34.827716"
+  "last_seen": "2026-08-25T07:27:07.808442"
 }

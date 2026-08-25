@@ -681,32 +681,33 @@
     "2026-08-19",
     "2026-08-20",
     "2026-08-21",
-    "2026-08-24"
+    "2026-08-24",
+    "2026-08-25"
   ],
   "last_full_data": {
     "A": 8,
     "B": 14,
     "C": 7,
     "CALLSIGN": "2DGB2",
-    "COG": 112.2,
+    "COG": 0,
     "D": 1,
     "DEST": "THAMES/OPPS",
     "DRAUGHT": 2.2,
     "ETA": "04-17 17:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49613,
-    "LONGITUDE": 0.02217,
+    "LATITUDE": 51.49461,
+    "LONGITUDE": 0.02619,
     "MMSI": 235078634,
     "NAME": "RECOVERY",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 9,
-    "TIME": "2026-08-24 21:17:32 GMT",
+    "SOG": 0,
+    "TIME": "2026-08-25 07:25:38 GMT",
     "TYPE": 52,
-    "last_seen": "2026-08-21T17:17:48.804403",
+    "last_seen": "2026-08-24T21:17:35.798550",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-24T21:17:35.798550"
+  "last_seen": "2026-08-25T07:27:07.818646"
 }
