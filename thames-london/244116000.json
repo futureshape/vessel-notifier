@@ -36,32 +36,33 @@
     "2026-08-10",
     "2026-08-11",
     "2026-08-12",
-    "2026-08-13"
+    "2026-08-13",
+    "2026-08-25"
   ],
   "last_full_data": {
     "A": 100,
     "B": 30,
     "C": 11,
     "CALLSIGN": "PGZK",
-    "COG": 46,
+    "COG": 230.2,
     "D": 11,
-    "DEST": "GBLON",
+    "DEST": "GBL;ON",
     "DRAUGHT": 7.8,
-    "ETA": "08-13 10:00",
-    "HEADING": 285,
+    "ETA": "08-25 21:30",
+    "HEADING": 294,
     "IMO": 9618240,
-    "LATITUDE": 51.49547,
-    "LONGITUDE": 0.02397,
+    "LATITUDE": 51.49572,
+    "LONGITUDE": 0.02174,
     "MMSI": 244116000,
     "NAME": "REIMERSWAAL",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-08-13 19:16:02 GMT",
+    "TIME": "2026-08-25 21:17:23 GMT",
     "TYPE": 33,
-    "last_seen": "2026-08-13T18:05:09.807372",
+    "last_seen": "2026-08-13T19:16:11.814854",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-13T19:16:11.814854"
+  "last_seen": "2026-08-25T21:17:26.180897"
 }
