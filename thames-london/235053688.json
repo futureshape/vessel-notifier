@@ -200,18 +200,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50185,
-    "LONGITUDE": 0.01583,
+    "LATITUDE": 51.50189,
+    "LONGITUDE": 0.01587,
     "MMSI": 235053688,
     "NAME": "GPS RACIA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-08-25 09:20:03 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-08-25 10:17:53 GMT",
     "TYPE": 52,
-    "last_seen": "2026-08-20T19:19:36.359105",
+    "last_seen": "2026-08-25T09:20:12.590630",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-25T09:20:12.590630"
+  "last_seen": "2026-08-25T10:17:58.836225"
 }
