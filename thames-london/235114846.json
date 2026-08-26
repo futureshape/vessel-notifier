@@ -7,7 +7,7 @@
     "B": 2,
     "C": 2,
     "CALLSIGN": "2JCV6",
-    "COG": 312.9,
+    "COG": 133.3,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -15,17 +15,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50806,
-    "LONGITUDE": -0.07276,
+    "LONGITUDE": -0.07283,
     "MMSI": 235114846,
     "NAME": "APOLLO OF LONDON",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-08-26 22:06:39 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-08-26 23:15:39 GMT",
     "TYPE": 37,
-    "last_seen": "2026-08-26T20:59:13.554045",
+    "last_seen": "2026-08-26T22:07:56.670200",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-26T22:07:56.670200"
+  "last_seen": "2026-08-26T23:18:10.226611"
 }
