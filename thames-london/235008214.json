@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-08-24"
+    "2026-08-24",
+    "2026-08-26"
   ],
   "last_full_data": {
     "A": 7,
     "B": 3,
     "C": 2,
     "CALLSIGN": "VQGK6",
-    "COG": 5.8,
+    "COG": 233.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 5,
+    "HEADING": 233,
     "IMO": 0,
-    "LATITUDE": 51.50103,
-    "LONGITUDE": -0.00331,
+    "LATITUDE": 51.50388,
+    "LONGITUDE": -0.05379,
     "MMSI": 235008214,
     "NAME": "MILLY",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 9.6,
-    "TIME": "2026-08-24 12:18:17 GMT",
+    "SOG": 9.1,
+    "TIME": "2026-08-26 11:17:30 GMT",
     "TYPE": 37,
-    "last_seen": "2026-08-24T11:17:29.211331",
+    "last_seen": "2026-08-24T12:18:21.584087",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-24T12:18:21.584087"
+  "last_seen": "2026-08-26T11:17:48.430095"
 }

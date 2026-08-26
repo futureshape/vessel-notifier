@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2026-08-21"
+    "2026-08-21",
+    "2026-08-26"
   ],
   "last_full_data": {
     "A": 8,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 80,
+    "HEADING": 81,
     "IMO": 0,
-    "LATITUDE": 51.50744,
-    "LONGITUDE": -0.07162,
+    "LATITUDE": 51.50746,
+    "LONGITUDE": -0.07158,
     "MMSI": 244890189,
     "NAME": "SKAT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-08-21 19:15:22 GMT",
+    "TIME": "2026-08-26 11:16:55 GMT",
     "TYPE": 37,
-    "last_seen": "2026-08-21T17:17:49.618346",
+    "last_seen": "2026-08-21T19:17:41.266081",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-21T19:17:41.266081"
+  "last_seen": "2026-08-26T11:17:48.425816"
 }
