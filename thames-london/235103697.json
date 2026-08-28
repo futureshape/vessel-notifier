@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2026-08-28"
+  ],
+  "last_full_data": {
+    "A": 11,
+    "B": 21,
+    "C": 7,
+    "CALLSIGN": "2HHL8",
+    "COG": 172.7,
+    "D": 5,
+    "DEST": "LONDON GATEWAY",
+    "DRAUGHT": 5.5,
+    "ETA": "08-29 08:00",
+    "HEADING": 280,
+    "IMO": 9695511,
+    "LATITUDE": 51.48436,
+    "LONGITUDE": -0.01639,
+    "MMSI": 235103697,
+    "NAME": "SVITZER LONDON",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2026-08-28 23:16:25 GMT",
+    "TYPE": 52,
+    "last_seen": null,
+    "received_by_stations": [
+      3218,
+      3999,
+      2648
+    ]
+  },
+  "last_seen": "2026-08-28T23:16:28.436741"
+}
