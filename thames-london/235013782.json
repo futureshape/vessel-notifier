@@ -1,40 +1,33 @@
 {
   "dates_seen": [
     "2023-11-13",
-    "2026-07-06"
+    "2026-07-06",
+    "2026-08-28"
   ],
   "last_full_data": {
     "A": 14,
     "B": 15,
     "C": 4,
     "CALLSIGN": "MCSV5",
-    "COG": 93.1,
+    "COG": 316.9,
     "D": 7,
-    "DEST": "GRAVESEND",
+    "DEST": "TILBURY",
     "DRAUGHT": 5.7,
-    "ETA": "07-06 20:00",
-    "HEADING": 97,
+    "ETA": "08-26 00:30",
+    "HEADING": 137,
     "IMO": 9286683,
-    "LATITUDE": 51.5065,
-    "LONGITUDE": 0.00309,
+    "LATITUDE": 51.5006,
+    "LONGITUDE": 0.01389,
     "MMSI": 235013782,
     "NAME": "SVITZER BOOTLE",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 0,
-    "ROT": 127,
-    "SOG": 5.3,
-    "TIME": "2026-07-06 17:11:55 GMT",
+    "ROT": -127,
+    "SOG": 10.8,
+    "TIME": "2026-08-28 22:24:47 GMT",
     "TYPE": 52,
-    "last_seen": "2023-11-13T14:16:33.767946",
-    "received_by_stations": [
-      3129,
-      2103,
-      3999,
-      2648,
-      3416,
-      3811,
-      2665
-    ]
+    "last_seen": "2026-07-06T17:11:57.993754",
+    "received_by_stations": []
   },
-  "last_seen": "2026-07-06T17:11:57.993754"
+  "last_seen": "2026-08-28T22:24:49.595921"
 }
