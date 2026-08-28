@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-07-06"
+    "2026-07-06",
+    "2026-08-28"
   ],
   "last_full_data": {
     "A": 48,
     "B": 142,
     "C": 12,
     "CALLSIGN": "9HA4909",
-    "COG": 74.6,
+    "COG": 92.4,
     "D": 12,
-    "DEST": "GBEDI",
-    "DRAUGHT": 6,
-    "ETA": "07-08 06:00",
-    "HEADING": 77,
+    "DEST": "GBGRW",
+    "DRAUGHT": 6.1,
+    "ETA": "08-27 16:15",
+    "HEADING": 92,
     "IMO": 9823687,
-    "LATITUDE": 51.5063,
-    "LONGITUDE": 0.00148,
+    "LATITUDE": 51.48422,
+    "LONGITUDE": -0.01487,
     "MMSI": 215001000,
     "NAME": "EVRIMA",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 0,
-    "ROT": 127,
-    "SOG": 5.2,
-    "TIME": "2026-07-06 17:11:55 GMT",
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2026-08-28 01:45:05 GMT",
     "TYPE": 69,
-    "last_seen": "2026-07-06T15:17:04.586089",
+    "last_seen": "2026-07-06T17:11:57.461546",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-06T17:11:57.461546"
+  "last_seen": "2026-08-28T01:48:03.509110"
 }
