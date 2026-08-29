@@ -11,30 +11,25 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "MSBE7",
-    "COG": 354.3,
+    "COG": 292.6,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 1,
+    "HEADING": 295,
     "IMO": 0,
-    "LATITUDE": 51.50281,
-    "LONGITUDE": -0.02873,
+    "LATITUDE": 51.46592,
+    "LONGITUDE": -0.20975,
     "MMSI": 232059540,
     "NAME": "GORKA",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 10.2,
-    "TIME": "2026-08-29 11:16:19 GMT",
+    "SOG": 7,
+    "TIME": "2026-08-29 12:10:45 GMT",
     "TYPE": 37,
-    "last_seen": "2026-05-22T07:30:06.037136",
-    "received_by_stations": [
-      3999,
-      2648,
-      3416,
-      4025
-    ]
+    "last_seen": "2026-08-29T11:16:21.720084",
+    "received_by_stations": []
   },
-  "last_seen": "2026-08-29T11:16:21.720084"
+  "last_seen": "2026-08-29T12:27:21.929116"
 }
