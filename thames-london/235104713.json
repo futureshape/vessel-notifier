@@ -644,7 +644,7 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "2HLV8",
-    "COG": 360,
+    "COG": 162.3,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -652,17 +652,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50295,
-    "LONGITUDE": -0.12053,
+    "LONGITUDE": -0.12094,
     "MMSI": 235104713,
     "NAME": "CAPTAIN ROCKET",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-08-31 15:22:33 GMT",
+    "SOG": 7,
+    "TIME": "2026-08-31 16:23:19 GMT",
     "TYPE": 0,
-    "last_seen": "2026-08-31T14:24:24.016062",
+    "last_seen": "2026-08-31T15:22:36.387359",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-31T15:22:36.387359"
+  "last_seen": "2026-08-31T16:23:24.070183"
 }
