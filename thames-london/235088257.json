@@ -54,27 +54,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2EUL9",
-    "COG": 17.4,
+    "COG": 334.5,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47203,
-    "LONGITUDE": -0.1797,
+    "LATITUDE": 51.50376,
+    "LONGITUDE": -0.06693,
     "MMSI": 235088257,
     "NAME": "SHORELINE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 11.5,
-    "TIME": "2026-09-02 18:27:22 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-02 19:01:23 GMT",
     "TYPE": 33,
-    "last_seen": "2026-04-30T13:46:36.118413",
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2026-09-02T18:27:51.826764",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-02T18:27:51.826764"
+  "last_seen": "2026-09-02T19:18:30.923895"
 }
