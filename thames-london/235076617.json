@@ -51,32 +51,36 @@
     "2025-08-18",
     "2025-08-28",
     "2025-08-29",
-    "2026-05-14"
+    "2026-05-14",
+    "2026-09-02"
   ],
   "last_full_data": {
-    "A": 5,
+    "A": 20,
     "B": 10,
     "C": 2,
     "CALLSIGN": "MDVF2",
     "COG": 360,
     "D": 2,
-    "DEST": "",
-    "DRAUGHT": 0,
-    "ETA": "00-00 00:00",
+    "DEST": "GREENWICH",
+    "DRAUGHT": 1.8,
+    "ETA": "09-02 20:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49839,
-    "LONGITUDE": -0.00612,
+    "LATITUDE": 51.48409,
+    "LONGITUDE": -0.00873,
     "MMSI": 235076617,
     "NAME": "FELAURA",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 1.5,
-    "TIME": "2026-05-14 09:58:25 GMT",
+    "SOG": 0,
+    "TIME": "2026-09-02 23:18:01 GMT",
     "TYPE": 99,
-    "last_seen": "2026-05-14T09:09:08.899566",
-    "received_by_stations": []
+    "last_seen": "2026-05-14T09:58:30.944971",
+    "received_by_stations": [
+      3999,
+      2648
+    ]
   },
-  "last_seen": "2026-05-14T09:58:30.944971"
+  "last_seen": "2026-09-02T23:18:56.632676"
 }
