@@ -7,7 +7,7 @@
     "B": 4,
     "C": 2,
     "CALLSIGN": "2GWH5",
-    "COG": 269.4,
+    "COG": 209.6,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -15,17 +15,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50772,
-    "LONGITUDE": -0.07208,
+    "LONGITUDE": -0.07211,
     "MMSI": 235101058,
     "NAME": "WIZARD",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-09-02 21:16:34 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-02 22:19:32 GMT",
     "TYPE": 37,
-    "last_seen": "2026-09-02T20:22:41.657478",
+    "last_seen": "2026-09-02T21:19:12.836205",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-02T21:19:12.836205"
+  "last_seen": "2026-09-02T22:20:34.275618"
 }
