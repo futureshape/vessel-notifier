@@ -316,20 +316,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 253,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49559,
-    "LONGITUDE": 0.0375,
+    "LATITUDE": 51.49553,
+    "LONGITUDE": 0.03759,
     "MMSI": 232051955,
     "NAME": "BANDIT",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-09-03 10:21:24 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-03 11:17:21 GMT",
     "TYPE": 53,
-    "last_seen": "2026-09-03T08:30:27.516800",
+    "last_seen": "2026-09-03T10:23:16.856912",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-03T10:23:16.856912"
+  "last_seen": "2026-09-03T11:19:13.180802"
 }
