@@ -1,32 +1,36 @@
 {
   "dates_seen": [
     "2025-06-27",
-    "2025-10-17"
+    "2025-10-17",
+    "2026-09-03"
   ],
   "last_full_data": {
     "A": 5,
     "B": 25,
     "C": 4,
     "CALLSIGN": "MFSY9",
-    "COG": 284.8,
+    "COG": 33.9,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49031,
-    "LONGITUDE": -0.12575,
+    "LATITUDE": 51.50717,
+    "LONGITUDE": -0.11785,
     "MMSI": 232004827,
     "NAME": "PENTLAND VENTURE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2025-10-17 14:29:58 GMT",
+    "TIME": "2026-09-03 09:24:18 GMT",
     "TYPE": 60,
-    "last_seen": "2025-10-17T13:35:10.557014",
-    "received_by_stations": []
+    "last_seen": "2025-10-17T14:30:44.644149",
+    "received_by_stations": [
+      2648,
+      3999
+    ]
   },
-  "last_seen": "2025-10-17T14:30:44.644149"
+  "last_seen": "2026-09-03T09:25:33.197546"
 }
