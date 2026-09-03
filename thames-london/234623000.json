@@ -14,7 +14,7 @@
     "ETA": "00-00 24:60",
     "HEADING": 287,
     "IMO": 9261334,
-    "LATITUDE": 51.5067,
+    "LATITUDE": 51.50672,
     "LONGITUDE": -0.08117,
     "MMSI": 234623000,
     "NAME": "HMS SEVERN",
@@ -22,19 +22,10 @@
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-09-03 14:24:05 GMT",
+    "TIME": "2026-09-03 15:24:05 GMT",
     "TYPE": 35,
-    "last_seen": null,
-    "received_by_stations": [
-      2296,
-      3154,
-      2648,
-      2675,
-      2103,
-      3129,
-      3999,
-      2055
-    ]
+    "last_seen": "2026-09-03T14:24:36.962864",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-03T14:24:36.962864"
+  "last_seen": "2026-09-03T15:24:49.752348"
 }
