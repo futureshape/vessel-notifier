@@ -26,17 +26,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50113,
-    "LONGITUDE": -0.0141,
+    "LONGITUDE": -0.01414,
     "MMSI": 319064400,
     "NAME": "WINDQUEST",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-09-03 21:17:25 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-03 22:20:23 GMT",
     "TYPE": 36,
-    "last_seen": "2026-09-03T20:20:50.047945",
+    "last_seen": "2026-09-03T21:20:02.021146",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-03T21:20:02.021146"
+  "last_seen": "2026-09-03T22:20:29.929195"
 }
