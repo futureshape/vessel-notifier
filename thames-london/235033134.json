@@ -9,32 +9,40 @@
     "2025-11-05",
     "2025-12-03",
     "2026-01-13",
-    "2026-02-12"
+    "2026-02-12",
+    "2026-09-04"
   ],
   "last_full_data": {
     "A": 3,
     "B": 9,
     "C": 2,
     "CALLSIGN": "MLMJ8",
-    "COG": 68.1,
+    "COG": 296.4,
     "D": 2,
     "DEST": "ON SURVEY",
     "DRAUGHT": 1.2,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48578,
-    "LONGITUDE": -0.0064,
+    "LATITUDE": 51.4985,
+    "LONGITUDE": 0.01992,
     "MMSI": 235033134,
     "NAME": "SAORSA NA MARA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 12.6,
-    "TIME": "2026-02-12 12:26:53 GMT",
+    "SOG": 10.7,
+    "TIME": "2026-09-04 04:17:35 GMT",
     "TYPE": 55,
-    "last_seen": "2026-02-12T11:26:01.139880",
-    "received_by_stations": []
+    "last_seen": "2026-02-12T12:26:58.755350",
+    "received_by_stations": [
+      3129,
+      2648,
+      3218,
+      3416,
+      3999,
+      2103
+    ]
   },
-  "last_seen": "2026-02-12T12:26:58.755350"
+  "last_seen": "2026-09-04T04:26:18.873752"
 }
