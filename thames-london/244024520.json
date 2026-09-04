@@ -1,0 +1,36 @@
+{
+  "dates_seen": [
+    "2026-09-04"
+  ],
+  "last_full_data": {
+    "A": 20,
+    "B": 2,
+    "C": 1,
+    "CALLSIGN": "PH3519",
+    "COG": 36.8,
+    "D": 4,
+    "DEST": "BOWCREE",
+    "DRAUGHT": 0.9,
+    "ETA": "03-25 23:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.51772,
+    "LONGITUDE": -0.00366,
+    "MMSI": 244024520,
+    "NAME": "FEMMIGJE",
+    "NAVSTAT": 8,
+    "PAC": 1,
+    "ROT": 128,
+    "SOG": 3.5,
+    "TIME": "2026-09-04 05:21:08 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3999,
+      2648,
+      2665,
+      3416
+    ]
+  },
+  "last_seen": "2026-09-04T05:22:05.717041"
+}
