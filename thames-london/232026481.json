@@ -25,28 +25,25 @@
     "B": 10,
     "C": 2,
     "CALLSIGN": "MGV23",
-    "COG": 159.4,
+    "COG": 110.5,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.47466,
-    "LONGITUDE": -0.22459,
+    "LATITUDE": 51.5069,
+    "LONGITUDE": -0.08039,
     "MMSI": 232026481,
     "NAME": "BREDA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.8,
-    "TIME": "2026-09-05 17:15:09 GMT",
+    "SOG": 3.7,
+    "TIME": "2026-09-05 18:21:12 GMT",
     "TYPE": 37,
-    "last_seen": "2026-06-02T13:36:41.020452",
-    "received_by_stations": [
-      2648,
-      2103
-    ]
+    "last_seen": "2026-09-05T17:16:38.810828",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-05T17:16:38.810828"
+  "last_seen": "2026-09-05T18:22:39.607615"
 }
