@@ -1,14 +1,15 @@
 {
   "dates_seen": [
     "2024-05-11",
-    "2026-09-04"
+    "2026-09-04",
+    "2026-09-05"
   ],
   "last_full_data": {
     "A": 31,
     "B": 100,
     "C": 9,
     "CALLSIGN": "FLBP",
-    "COG": 153.4,
+    "COG": 183.5,
     "D": 9,
     "DEST": "GB LON",
     "DRAUGHT": 4.7,
@@ -16,17 +17,17 @@
     "HEADING": 106,
     "IMO": 9814038,
     "LATITUDE": 51.50667,
-    "LONGITUDE": -0.08073,
+    "LONGITUDE": -0.08074,
     "MMSI": 578001100,
     "NAME": "LE CHAMPLAIN",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-09-04 23:16:26 GMT",
+    "TIME": "2026-09-05 01:25:25 GMT",
     "TYPE": 60,
-    "last_seen": "2026-09-04T22:19:44.142134",
+    "last_seen": "2026-09-04T23:18:12.452946",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-04T23:18:12.452946"
+  "last_seen": "2026-09-05T01:26:36.675202"
 }
