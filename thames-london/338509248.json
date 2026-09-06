@@ -2,32 +2,33 @@
   "dates_seen": [
     "2026-09-03",
     "2026-09-04",
-    "2026-09-05"
+    "2026-09-05",
+    "2026-09-06"
   ],
   "last_full_data": {
     "A": 8,
     "B": 8,
     "C": 3,
     "CALLSIGN": "?",
-    "COG": 0,
+    "COG": 137.9,
     "D": 3,
     "DEST": "N. VANCOUVER",
     "DRAUGHT": 1.7,
     "ETA": "08-17 15:30",
     "HEADING": 0,
     "IMO": 0,
-    "LATITUDE": 51.52554,
-    "LONGITUDE": -0.07718,
+    "LATITUDE": 51.52582,
+    "LONGITUDE": -0.07874,
     "MMSI": 338509248,
     "NAME": "PLATERO",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-09-05 23:12:38 GMT",
+    "SOG": 4.3,
+    "TIME": "2026-09-06 09:06:05 GMT",
     "TYPE": 37,
-    "last_seen": "2026-09-05T22:18:11.167091",
+    "last_seen": "2026-09-05T23:17:17.398641",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-05T23:17:17.398641"
+  "last_seen": "2026-09-06T09:20:46.829250"
 }
