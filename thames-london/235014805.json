@@ -2,32 +2,36 @@
   "dates_seen": [
     "2026-06-05",
     "2026-06-06",
-    "2026-06-07"
+    "2026-06-07",
+    "2026-09-06"
   ],
   "last_full_data": {
     "A": 5,
     "B": 3,
     "C": 1,
     "CALLSIGN": "MDPC8",
-    "COG": 196.5,
+    "COG": 358.6,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49534,
-    "LONGITUDE": 0.01802,
+    "LATITUDE": 51.49562,
+    "LONGITUDE": 0.01884,
     "MMSI": 235014805,
     "NAME": "OCEAN WITNESS",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-06-07 16:40:53 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-06 18:19:45 GMT",
     "TYPE": 37,
-    "last_seen": "2026-06-07T13:46:29.955626",
-    "received_by_stations": []
+    "last_seen": "2026-06-07T16:41:10.031680",
+    "received_by_stations": [
+      2648,
+      3999
+    ]
   },
-  "last_seen": "2026-06-07T16:41:10.031680"
+  "last_seen": "2026-09-06T18:22:46.642292"
 }
