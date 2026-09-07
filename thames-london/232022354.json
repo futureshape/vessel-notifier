@@ -20,28 +20,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MFIW9",
-    "COG": 324.8,
+    "COG": 325.3,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 318,
+    "HEADING": 321,
     "IMO": 0,
-    "LATITUDE": 51.50451,
-    "LONGITUDE": 0.01067,
+    "LATITUDE": 51.50641,
+    "LONGITUDE": -0.03081,
     "MMSI": 232022354,
     "NAME": "EMILY-ANNE",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 3.4,
-    "TIME": "2026-09-07 14:23:20 GMT",
+    "SOG": 3.5,
+    "TIME": "2026-09-07 15:20:48 GMT",
     "TYPE": 37,
-    "last_seen": "2025-06-09T11:25:05.783494",
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-09-07T14:23:31.756369",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-07T14:23:31.756369"
+  "last_seen": "2026-09-07T15:21:17.968927"
 }
