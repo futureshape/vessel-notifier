@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2026-08-12",
-    "2026-08-18"
+    "2026-08-18",
+    "2026-09-07"
   ],
   "last_full_data": {
     "A": 10,
     "B": 2,
     "C": 2,
     "CALLSIGN": "OQ4543",
-    "COG": 132.4,
+    "COG": 165,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 147,
+    "HEADING": 191,
     "IMO": 0,
-    "LATITUDE": 51.50623,
-    "LONGITUDE": -0.03297,
+    "LATITUDE": 51.49553,
+    "LONGITUDE": -0.00248,
     "MMSI": 205454370,
     "NAME": "ASTERIA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 6.3,
-    "TIME": "2026-08-18 05:39:55 GMT",
+    "SOG": 7.1,
+    "TIME": "2026-09-07 06:45:14 GMT",
     "TYPE": 36,
-    "last_seen": "2026-08-12T13:38:50.665079",
+    "last_seen": "2026-08-18T05:40:10.305858",
     "received_by_stations": []
   },
-  "last_seen": "2026-08-18T05:40:10.305858"
+  "last_seen": "2026-09-07T06:45:49.918203"
 }
