@@ -351,7 +351,7 @@
     "B": 13,
     "C": 5,
     "CALLSIGN": "MHBA4",
-    "COG": 50.3,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -359,17 +359,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50419,
-    "LONGITUDE": -0.07389,
+    "LONGITUDE": -0.0739,
     "MMSI": 235056226,
     "NAME": "SILVER SOCKEYE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2026-09-07 10:22:04 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-07 11:19:34 GMT",
     "TYPE": 60,
-    "last_seen": "2026-09-07T09:31:12.346092",
+    "last_seen": "2026-09-07T10:23:43.304800",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-07T10:23:43.304800"
+  "last_seen": "2026-09-07T11:20:50.053457"
 }
