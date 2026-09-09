@@ -2,32 +2,33 @@
   "dates_seen": [
     "2026-09-02",
     "2026-09-03",
-    "2026-09-08"
+    "2026-09-08",
+    "2026-09-09"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "MLIH2",
-    "COG": 360,
+    "COG": 49.8,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50693,
-    "LONGITUDE": -0.07131,
+    "LATITUDE": 51.50351,
+    "LONGITUDE": -0.05244,
     "MMSI": 232041493,
     "NAME": "SWEET CHARIOT",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-09-08 21:07:02 GMT",
+    "SOG": 5.9,
+    "TIME": "2026-09-09 11:18:33 GMT",
     "TYPE": 36,
-    "last_seen": "2026-09-08T20:21:35.558777",
+    "last_seen": "2026-09-08T21:17:58.422895",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-08T21:17:58.422895"
+  "last_seen": "2026-09-09T11:20:37.454212"
 }

@@ -14,29 +14,25 @@
     "B": 5,
     "C": 1,
     "CALLSIGN": "2GNQ8",
-    "COG": 161.9,
+    "COG": 283.3,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 161,
+    "HEADING": 18,
     "IMO": 0,
-    "LATITUDE": 51.49401,
-    "LONGITUDE": -0.00291,
+    "LATITUDE": 51.50507,
+    "LONGITUDE": -0.07327,
     "MMSI": 235098997,
     "NAME": "ELVIN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8.8,
-    "TIME": "2026-09-09 10:22:05 GMT",
+    "SOG": 0.8,
+    "TIME": "2026-09-09 11:18:12 GMT",
     "TYPE": 37,
-    "last_seen": "2024-10-22T06:34:18.721414",
-    "received_by_stations": [
-      2648,
-      3999,
-      3218
-    ]
+    "last_seen": "2026-09-09T10:22:42.239287",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-09T10:22:42.239287"
+  "last_seen": "2026-09-09T11:20:36.440365"
 }

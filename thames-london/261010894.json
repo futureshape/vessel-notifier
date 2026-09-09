@@ -7,28 +7,25 @@
     "B": 3,
     "C": 3,
     "CALLSIGN": "SPB2778",
-    "COG": 259.4,
+    "COG": 235.7,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 258,
+    "HEADING": 238,
     "IMO": 0,
-    "LATITUDE": 51.49735,
-    "LONGITUDE": 0.02562,
+    "LATITUDE": 51.49393,
+    "LONGITUDE": -0.03435,
     "MMSI": 261010894,
     "NAME": "CHARISMA",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.4,
-    "TIME": "2026-09-09 10:20:59 GMT",
+    "SOG": 0.7,
+    "TIME": "2026-09-09 11:16:14 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-09-09T10:22:43.203694",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-09T10:22:43.203694"
+  "last_seen": "2026-09-09T11:20:37.456776"
 }
