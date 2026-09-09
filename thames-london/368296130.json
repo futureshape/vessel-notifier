@@ -7,28 +7,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "WDN6116",
-    "COG": 309.4,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50585,
-    "LONGITUDE": 0.00651,
+    "LATITUDE": 51.50103,
+    "LONGITUDE": -0.01358,
     "MMSI": 368296130,
     "NAME": "KHISCO II",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.8,
-    "TIME": "2026-09-09 11:20:34 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-09 12:32:22 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-09-09T11:20:40.057271",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-09T11:20:40.057271"
+  "last_seen": "2026-09-09T12:32:34.256527"
 }
