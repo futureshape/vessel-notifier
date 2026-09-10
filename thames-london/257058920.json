@@ -21,7 +21,7 @@
     "B": 184,
     "C": 14,
     "CALLSIGN": "LAYP7",
-    "COG": 313.5,
+    "COG": 304.4,
     "D": 14,
     "DEST": "GB DVR",
     "DRAUGHT": 6.9,
@@ -29,17 +29,17 @@
     "HEADING": 92,
     "IMO": 9796262,
     "LATITUDE": 51.48427,
-    "LONGITUDE": -0.0145,
+    "LONGITUDE": -0.01451,
     "MMSI": 257058920,
     "NAME": "VIKING JUPITER",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2026-09-10 10:22:17 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-10 11:19:16 GMT",
     "TYPE": 60,
-    "last_seen": "2026-09-10T09:24:18.383922",
+    "last_seen": "2026-09-10T10:22:17.827803",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-10T10:22:17.827803"
+  "last_seen": "2026-09-10T11:20:29.999374"
 }
