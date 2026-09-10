@@ -13,29 +13,25 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "2FHD2",
-    "COG": 27,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48961,
-    "LONGITUDE": -0.12488,
+    "LATITUDE": 51.50629,
+    "LONGITUDE": -0.07212,
     "MMSI": 235091219,
     "NAME": "TOM TIT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 6.7,
-    "TIME": "2026-09-10 13:21:11 GMT",
+    "SOG": 0,
+    "TIME": "2026-09-10 14:19:37 GMT",
     "TYPE": 37,
-    "last_seen": "2025-09-08T11:23:12.339511",
-    "received_by_stations": [
-      2648,
-      3999,
-      3154
-    ]
+    "last_seen": "2026-09-10T13:21:19.895019",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-10T13:21:19.895019"
+  "last_seen": "2026-09-10T14:21:55.722728"
 }
