@@ -12,30 +12,25 @@
     "B": 2,
     "C": 5,
     "CALLSIGN": "MYXD",
-    "COG": 277.8,
+    "COG": 240.6,
     "D": 18,
     "DEST": "ST KATHERINS",
     "DRAUGHT": 0,
     "ETA": "09-10 13:30",
     "HEADING": 511,
     "IMO": 5185324,
-    "LATITUDE": 51.50678,
-    "LONGITUDE": 0.00362,
+    "LATITUDE": 51.49686,
+    "LONGITUDE": -0.02885,
     "MMSI": 235103436,
     "NAME": "KENT",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 8,
-    "TIME": "2026-09-10 11:20:16 GMT",
+    "SOG": 0.5,
+    "TIME": "2026-09-10 12:32:28 GMT",
     "TYPE": 52,
-    "last_seen": "2025-09-08T13:36:56.631330",
-    "received_by_stations": [
-      3129,
-      2648,
-      3999,
-      3218
-    ]
+    "last_seen": "2026-09-10T11:20:30.777136",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-10T11:20:30.777136"
+  "last_seen": "2026-09-10T12:32:29.641541"
 }
