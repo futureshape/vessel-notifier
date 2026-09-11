@@ -2,32 +2,33 @@
   "dates_seen": [
     "2025-09-19",
     "2025-09-20",
-    "2025-09-21"
+    "2025-09-21",
+    "2026-09-11"
   ],
   "last_full_data": {
     "A": 8,
     "B": 0,
     "C": 2,
     "CALLSIGN": "MOZK3",
-    "COG": 64.5,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.4853,
-    "LONGITUDE": -0.0058,
+    "LATITUDE": 51.49563,
+    "LONGITUDE": 0.01905,
     "MMSI": 232054422,
     "NAME": "PHANTOM",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 12.6,
-    "TIME": "2025-09-21 13:28:05 GMT",
+    "SOG": 0,
+    "TIME": "2026-09-11 16:08:01 GMT",
     "TYPE": 40,
-    "last_seen": "2025-09-21T12:49:43.630639",
+    "last_seen": "2025-09-21T13:28:13.418795",
     "received_by_stations": []
   },
-  "last_seen": "2025-09-21T13:28:13.418795"
+  "last_seen": "2026-09-11T16:23:38.588545"
 }
