@@ -35,12 +35,12 @@
     "B": 24,
     "C": 5,
     "CALLSIGN": "MTAO5",
-    "COG": 30.9,
+    "COG": 0,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 291,
+    "HEADING": 289,
     "IMO": 1134523,
     "LATITUDE": 51.50711,
     "LONGITUDE": 0.00664,
@@ -50,10 +50,10 @@
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-09-11 00:46:50 GMT",
+    "TIME": "2026-09-11 03:25:24 GMT",
     "TYPE": 40,
-    "last_seen": "2026-09-10T23:17:46.261868",
+    "last_seen": "2026-09-11T00:53:55.202276",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-11T00:53:55.202276"
+  "last_seen": "2026-09-11T03:25:41.973542"
 }
