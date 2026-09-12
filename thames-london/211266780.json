@@ -2,32 +2,36 @@
   "dates_seen": [
     "2025-08-24",
     "2025-08-25",
-    "2025-08-26"
+    "2025-08-26",
+    "2026-09-12"
   ],
   "last_full_data": {
     "A": 17,
     "B": 1,
     "C": 5,
     "CALLSIGN": "DJGD",
-    "COG": 80.2,
+    "COG": 216.6,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5018,
-    "LONGITUDE": -0.05818,
+    "LATITUDE": 51.4879,
+    "LONGITUDE": -0.00301,
     "MMSI": 211266780,
     "NAME": "GLUECKSBURG",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 5.8,
-    "TIME": "2025-08-26 15:29:31 GMT",
+    "SOG": 6.4,
+    "TIME": "2026-09-12 13:18:02 GMT",
     "TYPE": 36,
-    "last_seen": "2025-08-26T14:30:10.716965",
-    "received_by_stations": []
+    "last_seen": "2025-08-26T15:29:50.639618",
+    "received_by_stations": [
+      3999,
+      2648
+    ]
   },
-  "last_seen": "2025-08-26T15:29:50.639618"
+  "last_seen": "2026-09-12T13:18:14.383336"
 }
