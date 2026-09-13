@@ -11,32 +11,41 @@
     "2025-09-04",
     "2026-06-07",
     "2026-06-08",
-    "2026-06-09"
+    "2026-06-09",
+    "2026-09-13"
   ],
   "last_full_data": {
     "A": 38,
     "B": 202,
     "C": 17,
     "CALLSIGN": "LATY8",
-    "COG": 344.3,
+    "COG": 297.9,
     "D": 16,
-    "DEST": "DOVER",
-    "DRAUGHT": 6.5,
-    "ETA": "06-10 06:30",
-    "HEADING": 340,
+    "DEST": "GREENWICH LONDON",
+    "DRAUGHT": 6.7,
+    "ETA": "09-12 19:30",
+    "HEADING": 297,
     "IMO": 9852432,
-    "LATITUDE": 51.49386,
-    "LONGITUDE": -0.00182,
+    "LATITUDE": 51.50613,
+    "LONGITUDE": 0.00593,
     "MMSI": 257526000,
     "NAME": "VIKING VELA",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 7,
-    "SOG": 5.2,
-    "TIME": "2026-06-09 18:56:51 GMT",
+    "ROT": -25,
+    "SOG": 8.1,
+    "TIME": "2026-09-13 01:01:00 GMT",
     "TYPE": 60,
-    "last_seen": "2026-06-09T17:48:31.196107",
-    "received_by_stations": []
+    "last_seen": "2026-06-09T18:56:56.201935",
+    "received_by_stations": [
+      3416,
+      2648,
+      2665,
+      2103,
+      3129,
+      3999,
+      3218
+    ]
   },
-  "last_seen": "2026-06-09T18:56:56.201935"
+  "last_seen": "2026-09-13T01:01:14.828666"
 }
