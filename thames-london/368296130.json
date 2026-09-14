@@ -2,32 +2,33 @@
   "dates_seen": [
     "2026-09-09",
     "2026-09-10",
-    "2026-09-12"
+    "2026-09-12",
+    "2026-09-14"
   ],
   "last_full_data": {
     "A": 0,
     "B": 0,
     "C": 0,
     "CALLSIGN": "WDN6116",
-    "COG": 360,
+    "COG": 96.8,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50073,
-    "LONGITUDE": -0.01298,
+    "LATITUDE": 51.50127,
+    "LONGITUDE": -0.01331,
     "MMSI": 368296130,
     "NAME": "KHISCO II",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-09-12 15:18:06 GMT",
+    "SOG": 0.7,
+    "TIME": "2026-09-14 15:52:46 GMT",
     "TYPE": 37,
-    "last_seen": "2026-09-12T14:19:37.905434",
+    "last_seen": "2026-09-12T15:18:23.146011",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-12T15:18:23.146011"
+  "last_seen": "2026-09-14T16:22:56.705529"
 }
