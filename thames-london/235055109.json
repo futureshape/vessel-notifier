@@ -208,18 +208,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50119,
-    "LONGITUDE": -0.06232,
+    "LATITUDE": 51.50116,
+    "LONGITUDE": -0.0623,
     "MMSI": 235055109,
     "NAME": "ERASMUS",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-09-15 13:23:45 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-15 14:23:16 GMT",
     "TYPE": 69,
-    "last_seen": "2026-09-15T12:32:17.507460",
+    "last_seen": "2026-09-15T13:23:45.477115",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-15T13:23:45.477115"
+  "last_seen": "2026-09-15T14:23:51.777913"
 }
