@@ -7,30 +7,25 @@
     "B": 3,
     "C": 1,
     "CALLSIGN": "PI6984",
-    "COG": 324.5,
+    "COG": 360,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48877,
-    "LONGITUDE": -0.02445,
+    "LATITUDE": 51.50541,
+    "LONGITUDE": -0.07211,
     "MMSI": 244150452,
     "NAME": "JOHANNA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.9,
-    "TIME": "2026-09-16 13:22:47 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-09-16 14:20:45 GMT",
     "TYPE": 36,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      3999,
-      2648,
-      4025
-    ]
+    "last_seen": "2026-09-16T13:22:50.463340",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-16T13:22:50.463340"
+  "last_seen": "2026-09-16T14:23:39.838484"
 }
