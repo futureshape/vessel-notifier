@@ -7,28 +7,25 @@
     "B": 7,
     "C": 2,
     "CALLSIGN": "",
-    "COG": 277.9,
+    "COG": 317.6,
     "D": 3,
     "DEST": "B 2 A",
     "DRAUGHT": 0,
     "ETA": "01-01 00:00",
-    "HEADING": 277,
+    "HEADING": 14,
     "IMO": 0,
-    "LATITUDE": 51.48537,
-    "LONGITUDE": -0.01429,
+    "LATITUDE": 51.50636,
+    "LONGITUDE": -0.07214,
     "MMSI": 316021681,
     "NAME": "ALGONQUIN",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.1,
-    "TIME": "2026-09-16 14:23:17 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-16 15:19:36 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648,
-      3999
-    ]
+    "last_seen": "2026-09-16T14:23:40.546846",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-16T14:23:40.546846"
+  "last_seen": "2026-09-16T15:21:10.411876"
 }
