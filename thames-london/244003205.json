@@ -17,17 +17,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.4939,
-    "LONGITUDE": -0.03442,
+    "LONGITUDE": -0.0344,
     "MMSI": 244003205,
     "NAME": "ROXY",
     "NAVSTAT": 15,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-09-17 22:18:06 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-17 23:18:04 GMT",
     "TYPE": 37,
-    "last_seen": "2026-09-17T21:20:24.336362",
+    "last_seen": "2026-09-17T22:20:01.636877",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-17T22:20:01.636877"
+  "last_seen": "2026-09-17T23:18:14.955704"
 }
