@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2026-09-18"
+  ],
+  "last_full_data": {
+    "A": 10,
+    "B": 4,
+    "C": 1,
+    "CALLSIGN": "PF 9411",
+    "COG": 256.3,
+    "D": 4,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 511,
+    "IMO": 0,
+    "LATITUDE": 51.49769,
+    "LONGITUDE": 0.0318,
+    "MMSI": 244001262,
+    "NAME": "MERAKI",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 7.2,
+    "TIME": "2026-09-18 15:21:19 GMT",
+    "TYPE": 37,
+    "last_seen": null,
+    "received_by_stations": [
+      3999,
+      2648,
+      3218
+    ]
+  },
+  "last_seen": "2026-09-18T15:21:24.553476"
+}
