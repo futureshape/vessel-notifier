@@ -759,18 +759,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50707,
-    "LONGITUDE": 0.00765,
+    "LATITUDE": 51.50712,
+    "LONGITUDE": 0.00759,
     "MMSI": 235056991,
     "NAME": "METEOR CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-09-22 00:55:20 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-22 01:31:20 GMT",
     "TYPE": 40,
-    "last_seen": "2026-09-21T23:20:39.711925",
+    "last_seen": "2026-09-22T00:55:51.427079",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-22T00:55:51.427079"
+  "last_seen": "2026-09-22T01:31:39.370170"
 }
