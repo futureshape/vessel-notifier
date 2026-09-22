@@ -14,30 +14,25 @@
     "B": 13,
     "C": 5,
     "CALLSIGN": "PECA",
-    "COG": 330.2,
+    "COG": 140,
     "D": 5,
     "DEST": "GB LON",
     "DRAUGHT": 4.8,
     "ETA": "09-22 14:00",
-    "HEADING": 333,
+    "HEADING": 295,
     "IMO": 9185554,
-    "LATITUDE": 51.49004,
-    "LONGITUDE": -0.02698,
+    "LATITUDE": 51.50346,
+    "LONGITUDE": -0.0709,
     "MMSI": 246494000,
     "NAME": "STAD AMSTERDAM",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 4.9,
-    "TIME": "2026-09-22 12:32:12 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-22 13:23:30 GMT",
     "TYPE": 36,
-    "last_seen": "2025-09-28T11:20:36.626829",
-    "received_by_stations": [
-      3999,
-      3416,
-      2648,
-      4025
-    ]
+    "last_seen": "2026-09-22T12:32:19.930315",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-22T12:32:19.930315"
+  "last_seen": "2026-09-22T13:23:32.117894"
 }
