@@ -374,17 +374,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50419,
-    "LONGITUDE": -0.07391,
+    "LONGITUDE": -0.0739,
     "MMSI": 235056226,
     "NAME": "SILVER SOCKEYE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-09-22 10:23:28 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-22 11:20:37 GMT",
     "TYPE": 60,
-    "last_seen": "2026-09-22T09:23:46.687959",
+    "last_seen": "2026-09-22T10:23:55.507290",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-22T10:23:55.507290"
+  "last_seen": "2026-09-22T11:20:49.419540"
 }
