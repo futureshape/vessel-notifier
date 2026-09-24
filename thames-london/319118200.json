@@ -7,31 +7,25 @@
     "B": 29,
     "C": 6,
     "CALLSIGN": "ZGGO7",
-    "COG": 265,
+    "COG": 52.5,
     "D": 6,
     "DEST": "LONDON",
     "DRAUGHT": 3.6,
     "ETA": "09-24 12:30",
-    "HEADING": 262,
+    "HEADING": 281,
     "IMO": 1013092,
-    "LATITUDE": 51.49749,
-    "LONGITUDE": 0.03904,
+    "LATITUDE": 51.50125,
+    "LONGITUDE": -0.01483,
     "MMSI": 319118200,
     "NAME": "LUNASEA",
     "NAVSTAT": 0,
-    "PAC": 0,
-    "ROT": 12,
-    "SOG": 9.1,
-    "TIME": "2026-09-24 11:21:09 GMT",
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 0,
+    "TIME": "2026-09-24 12:33:29 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2665,
-      2648,
-      3218,
-      3999,
-      3129
-    ]
+    "last_seen": "2026-09-24T11:21:22.879786",
+    "received_by_stations": []
   },
-  "last_seen": "2026-09-24T11:21:22.879786"
+  "last_seen": "2026-09-24T12:33:35.506319"
 }
