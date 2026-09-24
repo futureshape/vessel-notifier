@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-09-21"
+    "2026-09-21",
+    "2026-09-24"
   ],
   "last_full_data": {
     "A": 9,
     "B": 9,
     "C": 2,
     "CALLSIGN": "WDP7460",
-    "COG": 133.1,
+    "COG": 260.2,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50626,
-    "LONGITUDE": -0.07218,
+    "LATITUDE": 51.50694,
+    "LONGITUDE": -0.0724,
     "MMSI": 368381970,
     "NAME": "MOONFLEET",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-09-21 07:30:37 GMT",
+    "TIME": "2026-09-24 08:20:51 GMT",
     "TYPE": 37,
-    "last_seen": "2026-09-21T06:47:24.197637",
+    "last_seen": "2026-09-21T07:33:25.795426",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-21T07:33:25.795426"
+  "last_seen": "2026-09-24T08:31:18.029591"
 }
