@@ -484,14 +484,14 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "PH3306",
-    "COG": 128.5,
+    "COG": 0,
     "D": 3,
     "DEST": "REEDS WHARF",
     "DRAUGHT": 0.2,
     "ETA": "12-13 17:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50242,
+    "LATITUDE": 51.50239,
     "LONGITUDE": -0.06994,
     "MMSI": 244770251,
     "NAME": "CORNELIA",
@@ -499,10 +499,10 @@
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-09-25 04:26:38 GMT",
+    "TIME": "2026-09-25 05:23:07 GMT",
     "TYPE": 69,
-    "last_seen": "2026-09-25T03:25:31.449602",
+    "last_seen": "2026-09-25T04:26:58.820118",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-25T04:26:58.820118"
+  "last_seen": "2026-09-25T05:23:09.991273"
 }
