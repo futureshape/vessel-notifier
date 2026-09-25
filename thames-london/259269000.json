@@ -2,32 +2,33 @@
   "dates_seen": [
     "2026-07-21",
     "2026-07-22",
-    "2026-07-23"
+    "2026-07-23",
+    "2026-09-25"
   ],
   "last_full_data": {
     "A": 38,
     "B": 202,
     "C": 17,
     "CALLSIGN": "LAUS8",
-    "COG": 132.3,
+    "COG": 235.2,
     "D": 16,
-    "DEST": "ROSYTH",
-    "DRAUGHT": 6.8,
-    "ETA": "07-25 07:00",
-    "HEADING": 132,
+    "DEST": "GB LON",
+    "DRAUGHT": 6.6,
+    "ETA": "09-25 11:45",
+    "HEADING": 59,
     "IMO": 9852456,
-    "LATITUDE": 51.50479,
-    "LONGITUDE": 0.00796,
+    "LATITUDE": 51.48664,
+    "LONGITUDE": -0.00522,
     "MMSI": 259269000,
     "NAME": "VIKING MIRA",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": 15,
-    "SOG": 6,
-    "TIME": "2026-07-23 19:40:55 GMT",
+    "ROT": 12,
+    "SOG": 3.6,
+    "TIME": "2026-09-25 11:21:11 GMT",
     "TYPE": 60,
-    "last_seen": "2026-07-23T18:37:38.553537",
+    "last_seen": "2026-07-23T19:41:00.719533",
     "received_by_stations": []
   },
-  "last_seen": "2026-07-23T19:41:00.719533"
+  "last_seen": "2026-09-25T11:21:31.094926"
 }
