@@ -13,7 +13,7 @@
     "B": 25,
     "C": 4,
     "CALLSIGN": "MFSY9",
-    "COG": 0,
+    "COG": 307.6,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -21,17 +21,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49086,
-    "LONGITUDE": -0.12509,
+    "LONGITUDE": -0.12508,
     "MMSI": 232004827,
     "NAME": "PENTLAND VENTURE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-09-26 10:18:16 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-26 11:18:15 GMT",
     "TYPE": 60,
-    "last_seen": "2026-09-24T19:19:24.834474",
+    "last_seen": "2026-09-26T10:20:28.910562",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-26T10:20:28.910562"
+  "last_seen": "2026-09-26T11:18:49.385446"
 }
