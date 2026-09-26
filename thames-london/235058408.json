@@ -74,32 +74,33 @@
     "2026-05-09",
     "2026-05-30",
     "2026-09-12",
-    "2026-09-17"
+    "2026-09-17",
+    "2026-09-26"
   ],
   "last_full_data": {
     "A": 17,
     "B": 11,
     "C": 6,
     "CALLSIGN": "MPAX7",
-    "COG": 35,
+    "COG": 295.7,
     "D": 1,
     "DEST": "KINGSTON, JAMAICA",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48055,
-    "LONGITUDE": -0.30165,
+    "LATITUDE": 51.42999,
+    "LONGITUDE": -0.31821,
     "MMSI": 235058408,
     "NAME": "YARMOUTH BELLE",
     "NAVSTAT": 3,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.1,
-    "TIME": "2026-09-17 20:20:56 GMT",
+    "SOG": 4.4,
+    "TIME": "2026-09-26 17:09:18 GMT",
     "TYPE": 99,
-    "last_seen": "2026-09-12T14:19:37.889603",
+    "last_seen": "2026-09-17T20:23:00.411448",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-17T20:23:00.411448"
+  "last_seen": "2026-09-26T17:18:44.400251"
 }
