@@ -383,7 +383,7 @@
     "B": 12,
     "C": 10,
     "CALLSIGN": "MRPS2",
-    "COG": 45.8,
+    "COG": 153.4,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 1.5,
@@ -391,17 +391,17 @@
     "HEADING": 511,
     "IMO": 1076082,
     "LATITUDE": 51.50765,
-    "LONGITUDE": 0.00553,
+    "LONGITUDE": 0.00552,
     "MMSI": 232059441,
     "NAME": "ORBIT CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-09-27 15:19:57 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-27 16:23:17 GMT",
     "TYPE": 60,
-    "last_seen": "2026-09-27T14:20:44.205407",
+    "last_seen": "2026-09-27T15:20:25.332296",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-27T15:20:25.332296"
+  "last_seen": "2026-09-27T16:23:31.090239"
 }
