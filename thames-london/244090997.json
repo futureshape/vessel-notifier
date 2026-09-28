@@ -1,0 +1,39 @@
+{
+  "dates_seen": [
+    "2026-09-28"
+  ],
+  "last_full_data": {
+    "A": 14,
+    "B": 30,
+    "C": 5,
+    "CALLSIGN": "PGBQ",
+    "COG": 321.6,
+    "D": 7,
+    "DEST": "TILBURY",
+    "DRAUGHT": 2,
+    "ETA": "09-02 08:00",
+    "HEADING": 320,
+    "IMO": 9989584,
+    "LATITUDE": 51.50278,
+    "LONGITUDE": 0.01141,
+    "MMSI": 244090997,
+    "NAME": "RIJN",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 9.4,
+    "TIME": "2026-09-28 01:42:28 GMT",
+    "TYPE": 33,
+    "last_seen": null,
+    "received_by_stations": [
+      3218,
+      2103,
+      2648,
+      3999,
+      2665,
+      3811,
+      3129
+    ]
+  },
+  "last_seen": "2026-09-28T01:42:50.928383"
+}
