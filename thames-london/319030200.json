@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2026-09-27",
-    "2026-09-28"
+    "2026-09-28",
+    "2026-09-29"
   ],
   "last_full_data": {
     "A": 12,
     "B": 40,
     "C": 7,
     "CALLSIGN": "ZGUA3",
-    "COG": 289,
+    "COG": 344.3,
     "D": 3,
     "DEST": "GBLON",
     "DRAUGHT": 3.4,
     "ETA": "09-27 11:30",
-    "HEADING": 122,
+    "HEADING": 120,
     "IMO": 1009168,
-    "LATITUDE": 51.5036,
-    "LONGITUDE": -0.07109,
+    "LATITUDE": 51.50363,
+    "LONGITUDE": -0.07106,
     "MMSI": 319030200,
     "NAME": "LADY B",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-09-28 23:21:03 GMT",
+    "TIME": "2026-09-29 01:00:02 GMT",
     "TYPE": 37,
-    "last_seen": "2026-09-28T22:22:19.675153",
+    "last_seen": "2026-09-28T23:21:49.847666",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-28T23:21:49.847666"
+  "last_seen": "2026-09-29T01:01:08.391966"
 }
