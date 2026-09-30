@@ -1,6 +1,7 @@
 {
   "dates_seen": [
-    "2026-09-29"
+    "2026-09-29",
+    "2026-09-30"
   ],
   "last_full_data": {
     "A": 12,
@@ -12,20 +13,20 @@
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 21,
+    "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50702,
-    "LONGITUDE": -0.0714,
+    "LATITUDE": 51.50672,
+    "LONGITUDE": -0.07179,
     "MMSI": 232047494,
     "NAME": "GWENHYFAR 2",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-09-29 17:02:02 GMT",
+    "TIME": "2026-09-30 12:38:00 GMT",
     "TYPE": 36,
-    "last_seen": "2026-09-29T16:27:53.652312",
+    "last_seen": "2026-09-29T17:21:47.396365",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-29T17:21:47.396365"
+  "last_seen": "2026-09-30T12:39:09.514820"
 }
