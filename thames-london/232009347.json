@@ -125,32 +125,33 @@
     "2026-09-24",
     "2026-09-25",
     "2026-09-26",
-    "2026-09-29"
+    "2026-09-29",
+    "2026-09-30"
   ],
   "last_full_data": {
     "A": 23,
     "B": 2,
     "C": 6,
     "CALLSIGN": "2HUB6",
-    "COG": 100.3,
+    "COG": 360,
     "D": 3,
     "DEST": "THAMES TOWAGE OPS",
     "DRAUGHT": 3.2,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48521,
-    "LONGITUDE": -0.0158,
+    "LATITUDE": 51.50159,
+    "LONGITUDE": 0.01604,
     "MMSI": 232009347,
     "NAME": "GPS VINCIA",
     "NAVSTAT": 11,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 7.3,
-    "TIME": "2026-09-29 15:24:42 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-09-30 13:27:02 GMT",
     "TYPE": 31,
-    "last_seen": "2026-09-29T14:24:50.157092",
+    "last_seen": "2026-09-29T15:24:47.217611",
     "received_by_stations": []
   },
-  "last_seen": "2026-09-29T15:24:47.217611"
+  "last_seen": "2026-09-30T13:27:05.701774"
 }
