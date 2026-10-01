@@ -14,20 +14,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.5013,
-    "LONGITUDE": -0.01517,
+    "LATITUDE": 51.50141,
+    "LONGITUDE": -0.01449,
     "MMSI": 983192405,
     "NAME": "T/TLUNASEA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-10-01 10:22:49 GMT",
+    "SOG": 0.3,
+    "TIME": "2026-10-01 12:31:53 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2026-10-01T10:25:23.848787",
+    "received_by_stations": []
   },
-  "last_seen": "2026-10-01T10:25:23.848787"
+  "last_seen": "2026-10-01T12:36:04.433634"
 }
