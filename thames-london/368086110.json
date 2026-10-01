@@ -1,0 +1,35 @@
+{
+  "dates_seen": [
+    "2026-10-01"
+  ],
+  "last_full_data": {
+    "A": 16,
+    "B": 0,
+    "C": 2,
+    "CALLSIGN": "WDK7618",
+    "COG": 334.1,
+    "D": 1,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 00:00",
+    "HEADING": 344,
+    "IMO": 0,
+    "LATITUDE": 51.5058,
+    "LONGITUDE": -0.03035,
+    "MMSI": 368086110,
+    "NAME": "SACAGAWEA",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 7.2,
+    "TIME": "2026-10-01 14:25:48 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2648,
+      4025,
+      3999
+    ]
+  },
+  "last_seen": "2026-10-01T14:26:44.868653"
+}
