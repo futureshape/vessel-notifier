@@ -757,7 +757,7 @@
     "B": 10,
     "C": 4,
     "CALLSIGN": "MRZM2",
-    "COG": 335.7,
+    "COG": 56.3,
     "D": 1,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -765,17 +765,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50704,
-    "LONGITUDE": 0.00786,
+    "LONGITUDE": 0.00789,
     "MMSI": 235057011,
     "NAME": "MONSOON CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-10-02 04:27:47 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-10-02 05:24:17 GMT",
     "TYPE": 40,
-    "last_seen": "2026-10-02T03:28:51.835329",
+    "last_seen": "2026-10-02T04:28:02.503498",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-02T04:28:02.503498"
+  "last_seen": "2026-10-02T05:24:23.968641"
 }
