@@ -15,19 +15,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50726,
-    "LONGITUDE": -0.07062,
+    "LONGITUDE": -0.0706,
     "MMSI": 235073781,
     "NAME": "BRAVO ONE",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-10-05 16:26:01 GMT",
+    "TIME": "2026-10-05 17:19:00 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2648
-    ]
+    "last_seen": "2026-10-05T16:27:50.626871",
+    "received_by_stations": []
   },
-  "last_seen": "2026-10-05T16:27:50.626871"
+  "last_seen": "2026-10-05T17:21:59.505564"
 }
