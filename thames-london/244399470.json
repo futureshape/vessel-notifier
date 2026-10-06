@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-10-01"
+    "2026-10-01",
+    "2026-10-06"
   ],
   "last_full_data": {
     "A": 7,
     "B": 7,
     "C": 1,
     "CALLSIGN": "PH9526",
-    "COG": 310.1,
+    "COG": 77.4,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 21,
+    "HEADING": 77,
     "IMO": 0,
-    "LATITUDE": 51.50638,
-    "LONGITUDE": -0.07207,
+    "LATITUDE": 51.50172,
+    "LONGITUDE": -0.0584,
     "MMSI": 244399470,
     "NAME": " SEDEM",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.7,
-    "TIME": "2026-10-01 15:19:12 GMT",
+    "SOG": 3.9,
+    "TIME": "2026-10-06 09:27:57 GMT",
     "TYPE": 37,
-    "last_seen": "2026-10-01T14:26:43.946534",
+    "last_seen": "2026-10-01T15:24:44.504000",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-01T15:24:44.504000"
+  "last_seen": "2026-10-06T09:28:10.198552"
 }
