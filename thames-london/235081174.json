@@ -468,7 +468,7 @@
     "B": 10,
     "C": 3,
     "CALLSIGN": "2DPL4",
-    "COG": 60,
+    "COG": 246.6,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1.8,
@@ -476,17 +476,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50298,
-    "LONGITUDE": -0.057,
+    "LONGITUDE": -0.05701,
     "MMSI": 235081174,
     "NAME": "HAVEN SUPPORTER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-10-07 21:22:34 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-10-07 22:21:24 GMT",
     "TYPE": 52,
-    "last_seen": "2026-10-07T20:25:43.845302",
+    "last_seen": "2026-10-07T21:23:03.101027",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-07T21:23:03.101027"
+  "last_seen": "2026-10-07T22:21:35.647309"
 }
