@@ -7,14 +7,14 @@
     "B": 10,
     "C": 3,
     "CALLSIGN": "FM3462",
-    "COG": 359.5,
+    "COG": 0,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0.3,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49841,
+    "LATITUDE": 51.4984,
     "LONGITUDE": -0.12114,
     "MMSI": 226001710,
     "NAME": "SCALANJ",
@@ -22,13 +22,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-10-07 13:28:15 GMT",
+    "TIME": "2026-10-07 14:25:26 GMT",
     "TYPE": 79,
-    "last_seen": null,
-    "received_by_stations": [
-      3999,
-      2648
-    ]
+    "last_seen": "2026-10-07T13:28:36.388045",
+    "received_by_stations": []
   },
-  "last_seen": "2026-10-07T13:28:36.388045"
+  "last_seen": "2026-10-07T14:26:04.953256"
 }
