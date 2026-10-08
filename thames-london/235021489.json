@@ -302,7 +302,7 @@
     "B": 11,
     "C": 1,
     "CALLSIGN": "MSVZ3",
-    "COG": 5.9,
+    "COG": 0,
     "D": 7,
     "DEST": "     GBLON",
     "DRAUGHT": 2,
@@ -310,17 +310,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49479,
-    "LONGITUDE": 0.00093,
+    "LONGITUDE": 0.00092,
     "MMSI": 235021489,
     "NAME": "SOPHIA D",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-10-08 12:36:39 GMT",
+    "TIME": "2026-10-08 13:23:40 GMT",
     "TYPE": 40,
-    "last_seen": "2026-10-08T11:24:10.671943",
+    "last_seen": "2026-10-08T12:37:01.648062",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-08T12:37:01.648062"
+  "last_seen": "2026-10-08T13:29:43.680961"
 }

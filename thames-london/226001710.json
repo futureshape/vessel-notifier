@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-10-07"
+    "2026-10-07",
+    "2026-10-08"
   ],
   "last_full_data": {
     "A": 28,
     "B": 10,
     "C": 3,
     "CALLSIGN": "FM3462",
-    "COG": 0,
+    "COG": 63.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0.3,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49846,
-    "LONGITUDE": -0.1211,
+    "LATITUDE": 51.4984,
+    "LONGITUDE": -0.12111,
     "MMSI": 226001710,
     "NAME": "SCALANJ",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-10-07 17:04:08 GMT",
+    "TIME": "2026-10-08 13:29:21 GMT",
     "TYPE": 79,
-    "last_seen": "2026-10-07T16:28:12.465000",
+    "last_seen": "2026-10-07T17:26:49.119365",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-07T17:26:49.119365"
+  "last_seen": "2026-10-08T13:29:43.660237"
 }
