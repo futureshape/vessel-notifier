@@ -1,34 +1,35 @@
 {
   "dates_seen": [
     "2025-02-10",
-    "2026-02-12"
+    "2026-02-12",
+    "2026-10-09"
   ],
   "last_full_data": {
     "A": 12,
     "B": 0,
     "C": 5,
     "CALLSIGN": "MMCS7",
-    "COG": 310.4,
+    "COG": 254.4,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 10,
+    "HEADING": 257,
     "IMO": 0,
-    "LATITUDE": 51.47394,
-    "LONGITUDE": -0.17979,
+    "LATITUDE": 51.46432,
+    "LONGITUDE": -0.19081,
     "MMSI": 232043460,
     "NAME": "AMMONITE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 1,
-    "SOG": 0,
-    "TIME": "2026-02-12 17:26:48 GMT",
+    "SOG": 6.1,
+    "TIME": "2026-10-09 17:16:47 GMT",
     "TYPE": 36,
-    "last_seen": "2025-02-10T18:33:37.540789",
+    "last_seen": "2026-02-12T17:32:27.099404",
     "received_by_stations": [
       2103
     ]
   },
-  "last_seen": "2026-02-12T17:32:27.099404"
+  "last_seen": "2026-10-09T17:21:02.052529"
 }
