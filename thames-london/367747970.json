@@ -22,7 +22,7 @@
     "B": 1,
     "C": 2,
     "CALLSIGN": "WDI9371",
-    "COG": 18.2,
+    "COG": 157.7,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -30,17 +30,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50697,
-    "LONGITUDE": -0.07128,
+    "LONGITUDE": -0.07129,
     "MMSI": 367747970,
     "NAME": "HELACIOUS",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-10-09 15:21:18 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-10-09 16:24:44 GMT",
     "TYPE": 37,
-    "last_seen": "2026-10-09T14:28:41.655262",
+    "last_seen": "2026-10-09T15:23:10.279231",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-09T15:23:10.279231"
+  "last_seen": "2026-10-09T16:25:52.836452"
 }
