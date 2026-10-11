@@ -672,32 +672,33 @@
     "2026-10-07",
     "2026-10-08",
     "2026-10-09",
-    "2026-10-10"
+    "2026-10-10",
+    "2026-10-11"
   ],
   "last_full_data": {
     "A": 19,
     "B": 19,
     "C": 7,
     "CALLSIGN": "MVLW4",
-    "COG": 10.8,
+    "COG": 35,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 9451771,
-    "LATITUDE": 51.50667,
-    "LONGITUDE": 0.00736,
+    "LATITUDE": 51.50698,
+    "LONGITUDE": 0.00802,
     "MMSI": 235056986,
     "NAME": "TYPHOON CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0.4,
-    "TIME": "2026-10-10 23:21:16 GMT",
+    "SOG": 0,
+    "TIME": "2026-10-11 01:07:15 GMT",
     "TYPE": 40,
-    "last_seen": "2026-10-10T22:22:28.213886",
+    "last_seen": "2026-10-10T23:21:19.967301",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-10T23:21:19.967301"
+  "last_seen": "2026-10-11T01:07:40.212936"
 }
