@@ -126,7 +126,7 @@
     "B": 10,
     "C": 8,
     "CALLSIGN": "2FKK6",
-    "COG": 8.3,
+    "COG": 150.1,
     "D": 8,
     "DEST": "",
     "DRAUGHT": 1,
@@ -134,17 +134,17 @@
     "HEADING": 194,
     "IMO": 0,
     "LATITUDE": 51.47294,
-    "LONGITUDE": -0.18026,
+    "LONGITUDE": -0.18021,
     "MMSI": 235092014,
     "NAME": "THAME",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0.1,
-    "TIME": "2026-10-11 14:22:54 GMT",
+    "SOG": 0,
+    "TIME": "2026-10-11 15:21:35 GMT",
     "TYPE": 39,
-    "last_seen": "2026-10-11T13:23:15.301152",
+    "last_seen": "2026-10-11T14:23:13.783447",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-11T14:23:13.783447"
+  "last_seen": "2026-10-11T15:21:55.017022"
 }
