@@ -35,32 +35,33 @@
     "2026-10-07",
     "2026-10-08",
     "2026-10-09",
-    "2026-10-10"
+    "2026-10-10",
+    "2026-10-11"
   ],
   "last_full_data": {
     "A": 20,
     "B": 53,
     "C": 8,
     "CALLSIGN": "GRPM",
-    "COG": 303.4,
+    "COG": 297.4,
     "D": 9,
-    "DEST": "YANTET ANCHORAGE",
+    "DEST": "TOWER PIER",
     "DRAUGHT": 1.9,
-    "ETA": "10-10 22:30",
-    "HEADING": 286,
+    "ETA": "10-11 19:00",
+    "HEADING": 283,
     "IMO": 5386954,
-    "LATITUDE": 51.50758,
-    "LONGITUDE": -0.08049,
+    "LATITUDE": 51.50756,
+    "LONGITUDE": -0.08048,
     "MMSI": 232001540,
     "NAME": "WAVERLEY",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-10-10 20:20:15 GMT",
+    "TIME": "2026-10-11 19:18:57 GMT",
     "TYPE": 69,
-    "last_seen": "2026-10-10T19:19:15.234135",
+    "last_seen": "2026-10-10T20:23:10.267913",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-10T20:23:10.267913"
+  "last_seen": "2026-10-11T19:19:48.468332"
 }
