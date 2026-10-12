@@ -20,7 +20,7 @@
     "B": 90,
     "C": 7,
     "CALLSIGN": "PWBL",
-    "COG": 258.6,
+    "COG": 272.9,
     "D": 7,
     "DEST": "LONDON GBR",
     "DRAUGHT": 6,
@@ -28,17 +28,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50684,
-    "LONGITUDE": -0.08173,
+    "LONGITUDE": -0.08171,
     "MMSI": 710429000,
     "NAME": "BNS BRASIL",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-10-12 17:22:58 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-10-12 18:29:00 GMT",
     "TYPE": 0,
-    "last_seen": "2026-10-12T16:27:07.145893",
+    "last_seen": "2026-10-12T17:24:16.266463",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-12T17:24:16.266463"
+  "last_seen": "2026-10-12T18:30:08.344722"
 }
