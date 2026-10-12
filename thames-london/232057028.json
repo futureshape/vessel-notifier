@@ -145,29 +145,25 @@
     "B": 1,
     "C": 3,
     "CALLSIGN": "MPXH3",
-    "COG": 325,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 332,
+    "HEADING": 71,
     "IMO": 0,
-    "LATITUDE": 51.50334,
-    "LONGITUDE": 0.01166,
+    "LATITUDE": 51.49377,
+    "LONGITUDE": -0.03443,
     "MMSI": 232057028,
     "NAME": "MAROTA",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 7.5,
-    "TIME": "2026-10-12 12:51:15 GMT",
+    "SOG": 0,
+    "TIME": "2026-10-12 13:41:48 GMT",
     "TYPE": 36,
-    "last_seen": "2026-04-10T06:49:48.472369",
-    "received_by_stations": [
-      3218,
-      2648,
-      3999
-    ]
+    "last_seen": "2026-10-12T12:51:30.368158",
+    "received_by_stations": []
   },
-  "last_seen": "2026-10-12T12:51:30.368158"
+  "last_seen": "2026-10-12T13:44:11.936512"
 }
