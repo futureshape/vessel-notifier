@@ -539,7 +539,7 @@
     "B": 8,
     "C": 2,
     "CALLSIGN": "2BWN7",
-    "COG": 253.3,
+    "COG": 333.3,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -547,17 +547,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50707,
-    "LONGITUDE": -0.07107,
+    "LONGITUDE": -0.0711,
     "MMSI": 235069936,
     "NAME": "BLUE SKY",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-10-13 15:24:24 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-10-13 16:27:25 GMT",
     "TYPE": 37,
-    "last_seen": "2026-10-13T14:29:43.242899",
+    "last_seen": "2026-10-13T15:26:37.009021",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-13T15:26:37.009021"
+  "last_seen": "2026-10-13T16:28:01.861444"
 }
