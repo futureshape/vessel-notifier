@@ -559,18 +559,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 5145520,
-    "LATITUDE": 51.50416,
-    "LONGITUDE": -0.06894,
+    "LATITUDE": 51.50417,
+    "LONGITUDE": -0.06899,
     "MMSI": 235067397,
     "NAME": "HEIKO",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-10-13 10:27:40 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-10-13 11:25:00 GMT",
     "TYPE": 80,
-    "last_seen": "2026-10-13T09:31:30.462550",
+    "last_seen": "2026-10-13T10:28:00.047607",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-13T10:28:00.047607"
+  "last_seen": "2026-10-13T11:25:01.335172"
 }
