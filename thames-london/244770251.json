@@ -504,7 +504,7 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "PH3306",
-    "COG": 285,
+    "COG": 0,
     "D": 3,
     "DEST": "REEDS WHARF",
     "DRAUGHT": 0.2,
@@ -514,15 +514,15 @@
     "LATITUDE": 51.50239,
     "LONGITUDE": -0.06996,
     "MMSI": 244770251,
-    "NAME": "BOREFT 4",
+    "NAME": "CORNELIA",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-10-15 06:36:39 GMT",
+    "TIME": "2026-10-15 07:27:38 GMT",
     "TYPE": 69,
-    "last_seen": "2026-10-15T05:22:52.309880",
+    "last_seen": "2026-10-15T06:36:43.904475",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-15T06:36:43.904475"
+  "last_seen": "2026-10-15T07:27:45.192154"
 }
