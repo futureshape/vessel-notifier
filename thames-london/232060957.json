@@ -119,7 +119,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MSAJ6",
-    "COG": 339,
+    "COG": 261.7,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -127,17 +127,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50775,
-    "LONGITUDE": -0.04858,
+    "LONGITUDE": -0.04857,
     "MMSI": 232060957,
     "NAME": "RAPTOR",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.3,
-    "TIME": "2026-10-16 08:29:01 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-10-16 09:24:30 GMT",
     "TYPE": 40,
-    "last_seen": "2026-10-15T16:24:30.131408",
+    "last_seen": "2026-10-16T08:29:34.214402",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-16T08:29:34.214402"
+  "last_seen": "2026-10-16T09:24:34.361531"
 }
