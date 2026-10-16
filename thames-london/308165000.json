@@ -14,7 +14,7 @@
     "ETA": "10-16 13:15",
     "HEADING": 105,
     "IMO": 9034092,
-    "LATITUDE": 51.49554,
+    "LATITUDE": 51.49553,
     "LONGITUDE": 0.02295,
     "MMSI": 308165000,
     "NAME": "ARCO DIJK",
@@ -22,13 +22,10 @@
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-10-16 14:21:42 GMT",
+    "TIME": "2026-10-16 15:15:41 GMT",
     "TYPE": 90,
-    "last_seen": null,
-    "received_by_stations": [
-      3218,
-      2648
-    ]
+    "last_seen": "2026-10-16T14:24:21.878538",
+    "received_by_stations": []
   },
-  "last_seen": "2026-10-16T14:24:21.878538"
+  "last_seen": "2026-10-16T15:21:00.352383"
 }
