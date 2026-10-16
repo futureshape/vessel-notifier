@@ -44,7 +44,7 @@
     "B": 67,
     "C": 8,
     "CALLSIGN": "V7A2834",
-    "COG": 119.8,
+    "COG": 119.1,
     "D": 9,
     "DEST": "GBLON",
     "DRAUGHT": 4.4,
@@ -52,17 +52,17 @@
     "HEADING": 119,
     "IMO": 9881627,
     "LATITUDE": 51.50358,
-    "LONGITUDE": -0.071,
+    "LONGITUDE": -0.07098,
     "MMSI": 538071476,
     "NAME": "KISMET",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2026-10-16 15:18:52 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-10-16 16:21:51 GMT",
     "TYPE": 37,
-    "last_seen": "2026-10-16T14:24:20.633794",
+    "last_seen": "2026-10-16T15:21:00.336517",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-16T15:21:00.336517"
+  "last_seen": "2026-10-16T16:23:35.789474"
 }
