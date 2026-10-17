@@ -1,31 +1,39 @@
 {
   "dates_seen": [
-    "2025-11-02"
+    "2025-11-02",
+    "2026-10-17"
   ],
   "last_full_data": {
     "A": 14,
     "B": 3,
     "C": 3,
     "CALLSIGN": "MRHT5",
-    "COG": 144.4,
+    "COG": 266.6,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 141,
+    "HEADING": 259,
     "IMO": 0,
-    "LATITUDE": 51.48832,
-    "LONGITUDE": -0.02689,
+    "LATITUDE": 51.50899,
+    "LONGITUDE": -0.0403,
     "MMSI": 232058262,
     "NAME": "COMMANDER",
     "NAVSTAT": 0,
     "PAC": 1,
-    "ROT": -18,
-    "SOG": 11.2,
-    "TIME": "2025-11-02 14:26:16 GMT",
+    "ROT": -20,
+    "SOG": 7.9,
+    "TIME": "2026-10-17 10:19:07 GMT",
     "TYPE": 50,
-    "last_seen": "2025-11-02T13:29:10.563407",
-    "received_by_stations": []
+    "last_seen": "2025-11-02T14:26:23.232172",
+    "received_by_stations": [
+      4025,
+      2648,
+      3129,
+      3999,
+      3416,
+      2103
+    ]
   },
-  "last_seen": "2025-11-02T14:26:23.232172"
+  "last_seen": "2026-10-17T10:19:29.689753"
 }
