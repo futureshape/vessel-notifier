@@ -770,32 +770,33 @@
     "2026-10-14",
     "2026-10-15",
     "2026-10-16",
-    "2026-10-17"
+    "2026-10-17",
+    "2026-10-18"
   ],
   "last_full_data": {
     "A": 28,
     "B": 10,
     "C": 5,
     "CALLSIGN": "VSSF6",
-    "COG": 272.1,
+    "COG": 340.9,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 1,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49689,
-    "LONGITUDE": 0.02614,
+    "LATITUDE": 51.50688,
+    "LONGITUDE": 0.00774,
     "MMSI": 235056991,
     "NAME": "METEOR CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 28,
-    "TIME": "2026-10-17 23:16:58 GMT",
+    "SOG": 0,
+    "TIME": "2026-10-18 00:57:26 GMT",
     "TYPE": 40,
-    "last_seen": "2026-10-17T22:18:34.161595",
+    "last_seen": "2026-10-17T23:17:07.149236",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-17T23:17:07.149236"
+  "last_seen": "2026-10-18T00:57:31.195602"
 }
