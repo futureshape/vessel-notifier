@@ -451,32 +451,33 @@
     "2026-10-15",
     "2026-10-17",
     "2026-10-18",
-    "2026-10-19"
+    "2026-10-19",
+    "2026-10-20"
   ],
   "last_full_data": {
     "A": 8,
     "B": 91,
     "C": 16,
     "CALLSIGN": "MLLN8",
-    "COG": 211.3,
+    "COG": 225.4,
     "D": 1,
-    "DEST": "HASTINGS-460",
+    "DEST": "GBCHN",
     "DRAUGHT": 6.4,
-    "ETA": "10-19 23:00",
+    "ETA": "10-20 17:00",
     "HEADING": 106,
     "IMO": 8902278,
     "LATITUDE": 51.49537,
-    "LONGITUDE": 0.02388,
+    "LONGITUDE": 0.02385,
     "MMSI": 232000790,
     "NAME": "CITY OF WESTMINSTER",
     "NAVSTAT": 0,
-    "PAC": 0,
+    "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-10-19 11:21:28 GMT",
+    "TIME": "2026-10-20 17:22:31 GMT",
     "TYPE": 33,
-    "last_seen": "2026-10-19T10:23:53.319198",
+    "last_seen": "2026-10-19T11:21:55.251981",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-19T11:21:55.251981"
+  "last_seen": "2026-10-20T17:22:36.570901"
 }
