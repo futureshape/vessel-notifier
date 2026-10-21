@@ -197,7 +197,7 @@
     "B": 6,
     "C": 4,
     "CALLSIGN": "MNSY6",
-    "COG": 298.6,
+    "COG": 250.7,
     "D": 4,
     "DEST": "GBLON",
     "DRAUGHT": 1.8,
@@ -205,17 +205,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50996,
-    "LONGITUDE": -0.11593,
+    "LONGITUDE": -0.11589,
     "MMSI": 235076403,
     "NAME": "SEADOG",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-10-21 17:19:33 GMT",
+    "SOG": 0,
+    "TIME": "2026-10-21 18:27:13 GMT",
     "TYPE": 39,
-    "last_seen": "2026-10-21T16:23:53.603087",
+    "last_seen": "2026-10-21T17:19:58.746849",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-21T17:19:58.746849"
+  "last_seen": "2026-10-21T18:27:31.746006"
 }
