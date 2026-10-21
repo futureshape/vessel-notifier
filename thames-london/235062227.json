@@ -11,29 +11,25 @@
     "B": 3,
     "C": 1,
     "CALLSIGN": "2AQY2",
-    "COG": 306.7,
+    "COG": 195.5,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 5,
     "ETA": "01-19 14:57",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49965,
-    "LONGITUDE": 0.01773,
+    "LATITUDE": 51.47183,
+    "LONGITUDE": -0.18035,
     "MMSI": 235062227,
     "NAME": "GALLOPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 20.1,
-    "TIME": "2026-10-21 10:23:07 GMT",
+    "SOG": 5.7,
+    "TIME": "2026-10-21 11:22:01 GMT",
     "TYPE": 79,
-    "last_seen": "2026-05-28T15:20:56.291778",
-    "received_by_stations": [
-      3218,
-      2648,
-      3999
-    ]
+    "last_seen": "2026-10-21T10:23:19.485989",
+    "received_by_stations": []
   },
-  "last_seen": "2026-10-21T10:23:19.485989"
+  "last_seen": "2026-10-21T11:22:14.447864"
 }
