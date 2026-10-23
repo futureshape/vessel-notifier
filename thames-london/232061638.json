@@ -401,7 +401,7 @@
     "B": 17,
     "C": 4,
     "CALLSIGN": "MSFS9",
-    "COG": 332.3,
+    "COG": 330,
     "D": 6,
     "DEST": "LONDON",
     "DRAUGHT": 0,
@@ -409,17 +409,17 @@
     "HEADING": 511,
     "IMO": 1067782,
     "LATITUDE": 51.50602,
-    "LONGITUDE": -0.07378,
+    "LONGITUDE": -0.07373,
     "MMSI": 232061638,
     "NAME": "SILVER RAVEN",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-10-23 14:25:58 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-10-23 15:23:09 GMT",
     "TYPE": 60,
-    "last_seen": "2026-10-23T13:23:16.048656",
+    "last_seen": "2026-10-23T14:26:25.889475",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-23T14:26:25.889475"
+  "last_seen": "2026-10-23T15:23:19.643568"
 }
