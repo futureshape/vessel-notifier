@@ -584,7 +584,7 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "MGQJ2",
-    "COG": 360,
+    "COG": 336.2,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
@@ -592,17 +592,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50991,
-    "LONGITUDE": -0.11706,
+    "LONGITUDE": -0.11708,
     "MMSI": 232025941,
     "NAME": "RNLI LIFEBOAT E10",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-10-24 18:24:14 GMT",
+    "SOG": 0.6,
+    "TIME": "2026-10-24 19:16:13 GMT",
     "TYPE": 99,
-    "last_seen": "2026-10-24T17:18:25.781443",
+    "last_seen": "2026-10-24T18:24:24.359520",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-24T18:24:24.359520"
+  "last_seen": "2026-10-24T19:16:30.573778"
 }
