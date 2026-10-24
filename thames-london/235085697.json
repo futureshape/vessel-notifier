@@ -383,17 +383,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.46735,
-    "LONGITUDE": -0.21562,
+    "LONGITUDE": -0.21565,
     "MMSI": 235085697,
     "NAME": "BARNES",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-10-24 10:20:20 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-10-24 11:17:30 GMT",
     "TYPE": 53,
-    "last_seen": "2026-10-24T09:21:30.893022",
+    "last_seen": "2026-10-24T10:20:27.466443",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-24T10:20:27.466443"
+  "last_seen": "2026-10-24T11:18:31.357988"
 }

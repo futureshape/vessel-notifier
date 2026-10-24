@@ -398,14 +398,14 @@
     "B": 13,
     "C": 5,
     "CALLSIGN": "MHBA4",
-    "COG": 1.2,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50417,
+    "LATITUDE": 51.5042,
     "LONGITUDE": -0.07395,
     "MMSI": 235056226,
     "NAME": "SILVER SOCKEYE",
@@ -413,10 +413,10 @@
     "PAC": 1,
     "ROT": 128,
     "SOG": 0.1,
-    "TIME": "2026-10-24 10:20:05 GMT",
+    "TIME": "2026-10-24 11:17:55 GMT",
     "TYPE": 60,
-    "last_seen": "2026-10-24T09:21:30.894532",
+    "last_seen": "2026-10-24T10:20:27.482074",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-24T10:20:27.482074"
+  "last_seen": "2026-10-24T11:18:31.373667"
 }
