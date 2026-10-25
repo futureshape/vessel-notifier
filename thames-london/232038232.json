@@ -277,7 +277,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MP9",
-    "COG": 290.8,
+    "COG": 360,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -285,17 +285,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50268,
-    "LONGITUDE": -0.05788,
+    "LONGITUDE": -0.05789,
     "MMSI": 232038232,
     "NAME": "SIR ROBERT PEEL 3",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.5,
-    "TIME": "2026-10-25 16:21:58 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-10-25 17:15:27 GMT",
     "TYPE": 55,
-    "last_seen": "2026-10-25T15:19:39.053283",
+    "last_seen": "2026-10-25T16:21:58.938467",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-25T16:21:58.938467"
+  "last_seen": "2026-10-25T17:18:24.109141"
 }
