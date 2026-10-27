@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-10-26"
+    "2026-10-26",
+    "2026-10-27"
   ],
   "last_full_data": {
     "A": 31,
     "B": 205,
     "C": 23,
     "CALLSIGN": "MGWT8",
-    "COG": 179.7,
+    "COG": 173.7,
     "D": 8,
     "DEST": "GB TIL>GB LON",
     "DRAUGHT": 7.3,
     "ETA": "10-27 12:00",
     "HEADING": 96,
     "IMO": 9818084,
-    "LATITUDE": 51.48422,
-    "LONGITUDE": -0.0142,
+    "LATITUDE": 51.48424,
+    "LONGITUDE": -0.01421,
     "MMSI": 232026551,
     "NAME": "SPIRIT OF ADVENTURE",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-10-26 23:19:30 GMT",
+    "TIME": "2026-10-27 00:51:24 GMT",
     "TYPE": 0,
-    "last_seen": "2026-10-26T22:23:23.028684",
+    "last_seen": "2026-10-26T23:19:36.924741",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-26T23:19:36.924741"
+  "last_seen": "2026-10-27T00:54:37.590622"
 }
