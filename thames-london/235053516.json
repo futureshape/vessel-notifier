@@ -451,18 +451,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.51004,
-    "LONGITUDE": -0.11556,
+    "LATITUDE": 51.51005,
+    "LONGITUDE": -0.11559,
     "MMSI": 235053516,
     "NAME": "GOLDEN FLAME",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-10-28 11:16:20 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-10-28 12:24:31 GMT",
     "TYPE": 37,
-    "last_seen": "2026-10-28T10:17:20.840629",
+    "last_seen": "2026-10-28T11:16:44.506675",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-28T11:16:44.506675"
+  "last_seen": "2026-10-28T12:24:33.519306"
 }
