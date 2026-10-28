@@ -86,20 +86,20 @@
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 284,
+    "HEADING": 286,
     "IMO": 1134523,
-    "LATITUDE": 51.50711,
-    "LONGITUDE": 0.00747,
+    "LATITUDE": 51.5071,
+    "LONGITUDE": 0.00744,
     "MMSI": 232064591,
     "NAME": "SATURN CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 0,
+    "ROT": 127,
     "SOG": 0,
-    "TIME": "2026-10-28 13:16:40 GMT",
+    "TIME": "2026-10-28 14:17:51 GMT",
     "TYPE": 40,
-    "last_seen": "2026-10-28T12:24:33.522058",
+    "last_seen": "2026-10-28T13:17:13.426983",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-28T13:17:13.426983"
+  "last_seen": "2026-10-28T14:18:00.620989"
 }
