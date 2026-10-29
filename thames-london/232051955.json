@@ -349,7 +349,7 @@
     "B": 6,
     "C": 3,
     "CALLSIGN": "MONX8",
-    "COG": 84.8,
+    "COG": 360,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
@@ -357,17 +357,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49554,
-    "LONGITUDE": 0.03725,
+    "LONGITUDE": 0.03754,
     "MMSI": 232051955,
     "NAME": "BANDIT",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 2.2,
-    "TIME": "2026-10-29 07:18:09 GMT",
+    "SOG": 0,
+    "TIME": "2026-10-29 08:19:40 GMT",
     "TYPE": 53,
-    "last_seen": "2026-10-29T06:27:14.830357",
+    "last_seen": "2026-10-29T07:18:46.201672",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-29T07:18:46.201672"
+  "last_seen": "2026-10-29T08:22:26.563364"
 }
