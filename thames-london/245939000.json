@@ -1,0 +1,40 @@
+{
+  "dates_seen": [
+    "2026-10-30"
+  ],
+  "last_full_data": {
+    "A": 45,
+    "B": 37,
+    "C": 7,
+    "CALLSIGN": "PAUF",
+    "COG": 294.1,
+    "D": 7,
+    "DEST": ".",
+    "DRAUGHT": 4.5,
+    "ETA": "10-07 06:09",
+    "HEADING": 280,
+    "IMO": 9271860,
+    "LATITUDE": 51.50656,
+    "LONGITUDE": 0.00545,
+    "MMSI": 245939000,
+    "NAME": "HNLMS LUYMES",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": -31,
+    "SOG": 7.3,
+    "TIME": "2026-10-30 14:18:15 GMT",
+    "TYPE": 35,
+    "last_seen": null,
+    "received_by_stations": [
+      2103,
+      2648,
+      2665,
+      3129,
+      3218,
+      3416,
+      3811,
+      3999
+    ]
+  },
+  "last_seen": "2026-10-30T14:18:24.320454"
+}
