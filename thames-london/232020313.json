@@ -501,32 +501,33 @@
     "2026-09-30",
     "2026-10-05",
     "2026-10-07",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-30"
   ],
   "last_full_data": {
     "A": 12,
     "B": 7,
     "C": 2,
     "CALLSIGN": "MEPU4",
-    "COG": 155.6,
+    "COG": 230.3,
     "D": 6,
-    "DEST": "LITTLEHAMPTON",
+    "DEST": "LONDON",
     "DRAUGHT": 2.2,
-    "ETA": "08-07 18:00",
+    "ETA": "10-15 23:34",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49941,
-    "LONGITUDE": 0.01904,
+    "LATITUDE": 51.49497,
+    "LONGITUDE": 0.00044,
     "MMSI": 232020313,
     "NAME": "SWS ENDURANCE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 1.7,
-    "TIME": "2026-10-12 12:51:27 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-10-30 15:54:47 GMT",
     "TYPE": 52,
-    "last_seen": "2026-10-07T10:25:23.184590",
+    "last_seen": "2026-10-12T12:51:30.369479",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-12T12:51:30.369479"
+  "last_seen": "2026-10-30T16:18:04.608292"
 }
