@@ -2,32 +2,33 @@
   "dates_seen": [
     "2026-02-07",
     "2026-03-21",
-    "2026-04-25"
+    "2026-04-25",
+    "2026-10-31"
   ],
   "last_full_data": {
     "A": 3,
     "B": 2,
     "C": 1,
     "CALLSIGN": "MSZV7",
-    "COG": 267.6,
+    "COG": 127,
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 267,
+    "HEADING": 127,
     "IMO": 0,
-    "LATITUDE": 51.49718,
-    "LONGITUDE": 0.03299,
+    "LATITUDE": 51.46676,
+    "LONGITUDE": -0.21271,
     "MMSI": 232064475,
     "NAME": "LIMA BRAVO",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 12.4,
-    "TIME": "2026-04-25 15:56:47 GMT",
+    "SOG": 11.6,
+    "TIME": "2026-10-31 09:44:28 GMT",
     "TYPE": 40,
-    "last_seen": "2026-03-21T17:17:37.278110",
+    "last_seen": "2026-04-25T16:22:45.950316",
     "received_by_stations": []
   },
-  "last_seen": "2026-04-25T16:22:45.950316"
+  "last_seen": "2026-10-31T10:13:02.774539"
 }
