@@ -171,18 +171,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 69,
     "IMO": 0,
-    "LATITUDE": 51.49378,
-    "LONGITUDE": -0.03445,
+    "LATITUDE": 51.49379,
+    "LONGITUDE": -0.03443,
     "MMSI": 232057028,
     "NAME": "MAROTA",
     "NAVSTAT": 15,
-    "PAC": 1,
+    "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-10-31 07:11:46 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-10-31 08:14:46 GMT",
     "TYPE": 36,
-    "last_seen": "2026-10-31T06:20:59.510841",
+    "last_seen": "2026-10-31T07:13:27.838698",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-31T07:13:27.838698"
+  "last_seen": "2026-10-31T08:16:53.671721"
 }
