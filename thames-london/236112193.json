@@ -1,0 +1,38 @@
+{
+  "dates_seen": [
+    "2026-10-31"
+  ],
+  "last_full_data": {
+    "A": 8,
+    "B": 9,
+    "C": 5,
+    "CALLSIGN": "ZDPR9",
+    "COG": 266.4,
+    "D": 0,
+    "DEST": "",
+    "DRAUGHT": 2.2,
+    "ETA": "02-19 16:05",
+    "HEADING": 276,
+    "IMO": 0,
+    "LATITUDE": 51.50186,
+    "LONGITUDE": -0.06003,
+    "MMSI": 236112193,
+    "NAME": "DEVONA",
+    "NAVSTAT": 15,
+    "PAC": 0,
+    "ROT": 128,
+    "SOG": 7,
+    "TIME": "2026-10-31 14:12:45 GMT",
+    "TYPE": 36,
+    "last_seen": null,
+    "received_by_stations": [
+      2258,
+      2648,
+      2675,
+      3416,
+      3999,
+      4025
+    ]
+  },
+  "last_seen": "2026-10-31T14:13:08.598799"
+}
