@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-10-16"
+    "2026-10-16",
+    "2026-11-01"
   ],
   "last_full_data": {
     "A": 85,
     "B": 28,
     "C": 5,
     "CALLSIGN": "C6KY7",
-    "COG": 156.6,
+    "COG": 142.4,
     "D": 15,
-    "DEST": "THAMESPORT",
-    "DRAUGHT": 4.6,
-    "ETA": "10-17 01:00",
-    "HEADING": 105,
+    "DEST": "CHARLTON",
+    "DRAUGHT": 6.5,
+    "ETA": "11-01 15:00",
+    "HEADING": 106,
     "IMO": 9034092,
-    "LATITUDE": 51.49553,
-    "LONGITUDE": 0.02294,
+    "LATITUDE": 51.49554,
+    "LONGITUDE": 0.02296,
     "MMSI": 308165000,
     "NAME": "ARCO DIJK",
     "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-10-16 20:21:42 GMT",
+    "TIME": "2026-11-01 15:09:31 GMT",
     "TYPE": 90,
-    "last_seen": "2026-10-16T19:18:35.112836",
+    "last_seen": "2026-10-16T20:21:48.900167",
     "received_by_stations": []
   },
-  "last_seen": "2026-10-16T20:21:48.900167"
+  "last_seen": "2026-11-01T15:12:17.289307"
 }
