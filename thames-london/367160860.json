@@ -2,32 +2,33 @@
   "dates_seen": [
     "2023-12-07",
     "2026-10-31",
-    "2026-11-01"
+    "2026-11-01",
+    "2026-11-02"
   ],
   "last_full_data": {
     "A": 11,
     "B": 1,
     "C": 2,
     "CALLSIGN": "WDI3866",
-    "COG": 348.7,
+    "COG": 270,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50709,
-    "LONGITUDE": -0.07102,
+    "LATITUDE": 51.5071,
+    "LONGITUDE": -0.07103,
     "MMSI": 367160860,
     "NAME": "S/Y ROCKHOPPER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
     "SOG": 0,
-    "TIME": "2026-11-01 23:12:14 GMT",
+    "TIME": "2026-11-02 00:37:23 GMT",
     "TYPE": 36,
-    "last_seen": "2026-11-01T22:12:34.979678",
+    "last_seen": "2026-11-01T23:12:35.981913",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-01T23:12:35.981913"
+  "last_seen": "2026-11-02T00:37:30.820628"
 }
