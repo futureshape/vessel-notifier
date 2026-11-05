@@ -1,0 +1,37 @@
+{
+  "dates_seen": [
+    "2026-11-05"
+  ],
+  "last_full_data": {
+    "A": 16,
+    "B": 8,
+    "C": 4,
+    "CALLSIGN": "FBOA",
+    "COG": 319.5,
+    "D": 3,
+    "DEST": "",
+    "DRAUGHT": 0,
+    "ETA": "00-00 24:60",
+    "HEADING": 281,
+    "IMO": 0,
+    "LATITUDE": 51.5013,
+    "LONGITUDE": -0.01061,
+    "MMSI": 226937000,
+    "NAME": "OYAPOCK",
+    "NAVSTAT": 0,
+    "PAC": 1,
+    "ROT": 0,
+    "SOG": 0.2,
+    "TIME": "2026-11-05 12:21:03 GMT",
+    "TYPE": 35,
+    "last_seen": null,
+    "received_by_stations": [
+      2103,
+      2258,
+      2648,
+      3416,
+      3999
+    ]
+  },
+  "last_seen": "2026-11-05T12:21:12.863740"
+}
