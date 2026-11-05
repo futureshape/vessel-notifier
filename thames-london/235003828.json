@@ -264,18 +264,18 @@
     "ETA": "00-00 24:60",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.48769,
-    "LONGITUDE": -0.00057,
+    "LATITUDE": 51.4877,
+    "LONGITUDE": -0.00062,
     "MMSI": 235003828,
     "NAME": "EMILIA D",
     "NAVSTAT": 3,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-05 05:02:46 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-11-05 21:12:00 GMT",
     "TYPE": 52,
-    "last_seen": "2026-10-29T14:18:41.093130",
+    "last_seen": "2026-11-05T05:15:28.480491",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-05T05:15:28.480491"
+  "last_seen": "2026-11-05T21:12:16.079374"
 }
