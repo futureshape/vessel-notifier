@@ -563,18 +563,18 @@
     "2026-11-06"
   ],
   "last_full_data": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
+    "A": 409,
+    "B": 103,
+    "C": 39,
     "CALLSIGN": "2FSP3",
     "COG": 360,
-    "D": 0,
+    "D": 25,
     "DEST": "GBLON",
     "DRAUGHT": 2.4,
     "ETA": "09-11 21:00",
-    "HEADING": 111,
+    "HEADING": 112,
     "IMO": 0,
-    "LATITUDE": 51.50714,
+    "LATITUDE": 51.50716,
     "LONGITUDE": -0.07842,
     "MMSI": 235093883,
     "NAME": "SHAKEDOG",
@@ -582,10 +582,10 @@
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-11-06 18:18:21 GMT",
+    "TIME": "2026-11-06 18:54:21 GMT",
     "TYPE": 52,
-    "last_seen": "2026-11-06T17:13:22.463364",
+    "last_seen": "2026-11-06T18:18:25.131944",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-06T18:18:25.131944"
+  "last_seen": "2026-11-06T19:12:18.257567"
 }
