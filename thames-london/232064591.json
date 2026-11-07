@@ -83,32 +83,33 @@
     "2026-11-03",
     "2026-11-04",
     "2026-11-05",
-    "2026-11-06"
+    "2026-11-06",
+    "2026-11-07"
   ],
   "last_full_data": {
     "A": 16,
     "B": 24,
     "C": 5,
     "CALLSIGN": "MTAO5",
-    "COG": 98.3,
+    "COG": 0,
     "D": 3,
     "DEST": "LONDON",
     "DRAUGHT": 0,
     "ETA": "00-00 24:60",
-    "HEADING": 284,
+    "HEADING": 288,
     "IMO": 1134523,
-    "LATITUDE": 51.5071,
-    "LONGITUDE": 0.00751,
+    "LATITUDE": 51.50712,
+    "LONGITUDE": 0.00746,
     "MMSI": 232064591,
     "NAME": "SATURN CLIPPER",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-11-06 23:02:20 GMT",
+    "TIME": "2026-11-07 07:13:48 GMT",
     "TYPE": 40,
-    "last_seen": "2026-11-06T22:13:20.569235",
+    "last_seen": "2026-11-06T23:12:10.925693",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-06T23:12:10.925693"
+  "last_seen": "2026-11-07T07:14:20.262510"
 }
