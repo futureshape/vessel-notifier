@@ -138,7 +138,7 @@
     "B": 22,
     "C": 1,
     "CALLSIGN": "ZIWW7",
-    "COG": 109.2,
+    "COG": 59.4,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -146,17 +146,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50695,
-    "LONGITUDE": -0.11796,
+    "LONGITUDE": -0.11795,
     "MMSI": 235054658,
     "NAME": "THAMES PRINCESS",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-08 12:18:18 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-11-08 13:11:38 GMT",
     "TYPE": 60,
-    "last_seen": "2026-11-08T11:12:16.326295",
+    "last_seen": "2026-11-08T12:18:31.916450",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-08T12:18:31.916450"
+  "last_seen": "2026-11-08T13:12:24.482095"
 }

@@ -4,32 +4,41 @@
     "2024-09-26",
     "2024-09-27",
     "2024-09-28",
-    "2024-09-29"
+    "2024-09-29",
+    "2026-11-08"
   ],
   "last_full_data": {
     "A": 14,
     "B": 36,
     "C": 7,
     "CALLSIGN": "PE6851",
-    "COG": 98.1,
+    "COG": 4.6,
     "D": 4,
-    "DEST": "NL AMS",
-    "DRAUGHT": 5.7,
-    "ETA": "09-30 11:00",
-    "HEADING": 93,
+    "DEST": "GB LON",
+    "DRAUGHT": 5.1,
+    "ETA": "11-08 13:30",
+    "HEADING": 3,
     "IMO": 7382902,
-    "LATITUDE": 51.5011,
-    "LONGITUDE": -0.01012,
+    "LATITUDE": 51.49934,
+    "LONGITUDE": -0.02919,
     "MMSI": 244538000,
     "NAME": "ARCTIC SUNRISE",
     "NAVSTAT": 0,
-    "PAC": 0,
-    "ROT": 2,
-    "SOG": 0,
-    "TIME": "2024-09-29 11:21:09 GMT",
-    "TYPE": 90,
-    "last_seen": "2024-09-29T10:27:58.352963",
-    "received_by_stations": []
+    "PAC": 1,
+    "ROT": 13,
+    "SOG": 6.8,
+    "TIME": "2026-11-08 13:12:23 GMT",
+    "TYPE": 97,
+    "last_seen": "2024-09-29T11:21:13.096098",
+    "received_by_stations": [
+      2103,
+      2258,
+      2648,
+      3129,
+      3416,
+      3999,
+      4025
+    ]
   },
-  "last_seen": "2024-09-29T11:21:13.096098"
+  "last_seen": "2026-11-08T13:12:25.222633"
 }
