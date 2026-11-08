@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2026-10-16",
-    "2026-11-01"
+    "2026-11-01",
+    "2026-11-08"
   ],
   "last_full_data": {
     "A": 85,
     "B": 28,
     "C": 5,
     "CALLSIGN": "C6KY7",
-    "COG": 142.4,
+    "COG": 264.3,
     "D": 15,
-    "DEST": "DA 240-X SANDS",
-    "DRAUGHT": 4.6,
-    "ETA": "11-02 09:00",
-    "HEADING": 107,
+    "DEST": "GBLON",
+    "DRAUGHT": 6.5,
+    "ETA": "11-08 10:15",
+    "HEADING": 263,
     "IMO": 9034092,
-    "LATITUDE": 51.49553,
-    "LONGITUDE": 0.02294,
+    "LATITUDE": 51.49681,
+    "LONGITUDE": 0.0377,
     "MMSI": 308165000,
     "NAME": "ARCO DIJK",
-    "NAVSTAT": 5,
+    "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 0,
-    "SOG": 0,
-    "TIME": "2026-11-01 21:09:31 GMT",
+    "SOG": 6.2,
+    "TIME": "2026-11-08 10:12:52 GMT",
     "TYPE": 90,
-    "last_seen": "2026-11-01T20:13:19.696660",
+    "last_seen": "2026-11-01T21:12:16.951353",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-01T21:12:16.951353"
+  "last_seen": "2026-11-08T10:12:53.934392"
 }
