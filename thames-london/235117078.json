@@ -232,17 +232,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49407,
-    "LONGITUDE": 0.0004,
+    "LONGITUDE": 0.00038,
     "MMSI": 235117078,
     "NAME": "GPS IONIA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-10 10:15:41 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-11-10 11:13:22 GMT",
     "TYPE": 52,
-    "last_seen": "2026-11-10T09:16:09.084389",
+    "last_seen": "2026-11-10T10:15:47.680107",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-10T10:15:47.680107"
+  "last_seen": "2026-11-10T11:13:29.040896"
 }

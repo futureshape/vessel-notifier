@@ -847,18 +847,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49816,
-    "LONGITUDE": -0.12146,
+    "LATITUDE": 51.49814,
+    "LONGITUDE": -0.12145,
     "MMSI": 232005583,
     "NAME": "THOMAS DOGGETT",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-10 10:15:42 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-11-10 11:13:11 GMT",
     "TYPE": 99,
-    "last_seen": "2026-11-09T16:16:28.705064",
+    "last_seen": "2026-11-10T10:15:47.666823",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-10T10:15:47.666823"
+  "last_seen": "2026-11-10T11:13:29.022589"
 }
