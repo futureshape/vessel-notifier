@@ -808,7 +808,7 @@
     "B": 5,
     "C": 2,
     "CALLSIGN": "MEIW5",
-    "COG": 360,
+    "COG": 8.5,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 1,
@@ -816,17 +816,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50767,
-    "LONGITUDE": 0.00545,
+    "LONGITUDE": 0.00546,
     "MMSI": 232019499,
     "NAME": "VENUS CLIPPER",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-10 11:13:27 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-11-10 14:15:08 GMT",
     "TYPE": 40,
-    "last_seen": "2026-11-10T10:15:47.680832",
+    "last_seen": "2026-11-10T11:13:29.044623",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-10T11:13:29.044623"
+  "last_seen": "2026-11-10T14:15:26.681994"
 }
