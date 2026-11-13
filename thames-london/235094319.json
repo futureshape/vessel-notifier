@@ -23,18 +23,18 @@
     "ETA": "11-30 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50933,
-    "LONGITUDE": -0.11013,
+    "LATITUDE": 51.50944,
+    "LONGITUDE": -0.11014,
     "MMSI": 235094319,
     "NAME": "DD4",
     "NAVSTAT": 0,
-    "PAC": 0,
-    "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2026-11-13 09:17:11 GMT",
+    "PAC": 1,
+    "ROT": 25,
+    "SOG": 0,
+    "TIME": "2026-11-13 10:15:01 GMT",
     "TYPE": 99,
-    "last_seen": "2026-11-13T08:19:05.850535",
+    "last_seen": "2026-11-13T09:17:25.278548",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-13T09:17:25.278548"
+  "last_seen": "2026-11-13T10:15:21.052402"
 }
