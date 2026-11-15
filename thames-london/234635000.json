@@ -1,37 +1,32 @@
 {
   "dates_seen": [
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-15"
   ],
   "last_full_data": {
-    "A": 409,
-    "B": 103,
-    "C": 39,
+    "A": 0,
+    "B": 0,
+    "C": 0,
     "CALLSIGN": "",
-    "COG": 266.8,
-    "D": 25,
+    "COG": 0,
+    "D": 0,
     "DEST": "",
     "DRAUGHT": 3.2,
-    "ETA": "12-01 01:00",
-    "HEADING": 92,
+    "ETA": "00-00 24:60",
+    "HEADING": 104,
     "IMO": 0,
-    "LATITUDE": 51.48472,
-    "LONGITUDE": -0.01465,
+    "LATITUDE": 51.4843,
+    "LONGITUDE": -0.01549,
     "MMSI": 234635000,
     "NAME": "HMS SOMERSET",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
-    "SOG": 1,
-    "TIME": "2026-11-11 13:14:59 GMT",
+    "SOG": 0,
+    "TIME": "2026-11-15 12:18:33 GMT",
     "TYPE": 35,
-    "last_seen": null,
-    "received_by_stations": [
-      2103,
-      2258,
-      2648,
-      3129,
-      3999
-    ]
+    "last_seen": "2026-11-11T13:15:29.494461",
+    "received_by_stations": []
   },
-  "last_seen": "2026-11-11T13:15:29.494461"
+  "last_seen": "2026-11-15T12:18:40.689681"
 }
