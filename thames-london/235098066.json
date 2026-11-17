@@ -257,21 +257,21 @@
     "D": 5,
     "DEST": "",
     "DRAUGHT": 0,
-    "ETA": "00-00 00:00",
+    "ETA": "11-30 00:00",
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.49414,
-    "LONGITUDE": 0.0003,
+    "LONGITUDE": 0.00029,
     "MMSI": 235098066,
     "NAME": "GPS INDIA",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-17 08:19:04 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-11-17 09:16:53 GMT",
     "TYPE": 52,
-    "last_seen": "2026-11-16T18:17:49.799787",
+    "last_seen": "2026-11-17T08:19:26.907827",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-17T08:19:26.907827"
+  "last_seen": "2026-11-17T09:17:07.822890"
 }
