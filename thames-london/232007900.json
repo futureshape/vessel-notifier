@@ -421,7 +421,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MAZN4",
-    "COG": 360,
+    "COG": 139.9,
     "D": 8,
     "DEST": "GBGVS",
     "DRAUGHT": 1,
@@ -429,17 +429,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48691,
-    "LONGITUDE": -0.22868,
+    "LONGITUDE": -0.22869,
     "MMSI": 232007900,
     "NAME": "CHILIDOG",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-18 22:14:08 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-11-18 23:13:18 GMT",
     "TYPE": 79,
-    "last_seen": "2026-11-18T21:13:55.050533",
+    "last_seen": "2026-11-18T22:14:29.204252",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-18T22:14:29.204252"
+  "last_seen": "2026-11-18T23:13:18.503000"
 }
