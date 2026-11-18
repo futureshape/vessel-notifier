@@ -764,7 +764,7 @@
     "B": 30,
     "C": 1,
     "CALLSIGN": "VSUR3",
-    "COG": 337.5,
+    "COG": 360,
     "D": 4,
     "DEST": "LONDON",
     "DRAUGHT": 0,
@@ -772,17 +772,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.48764,
-    "LONGITUDE": -0.0013,
+    "LONGITUDE": -0.00127,
     "MMSI": 235054307,
     "NAME": "LONDON ROSE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.2,
-    "TIME": "2026-11-18 17:13:22 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-11-18 18:16:11 GMT",
     "TYPE": 60,
-    "last_seen": "2026-11-18T16:15:30.861691",
+    "last_seen": "2026-11-18T17:13:28.003023",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-18T17:13:28.003023"
+  "last_seen": "2026-11-18T18:16:25.263169"
 }
