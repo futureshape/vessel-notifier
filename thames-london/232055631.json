@@ -759,7 +759,7 @@
     "B": 15,
     "C": 6,
     "CALLSIGN": "MPKF9",
-    "COG": 287.3,
+    "COG": 149.7,
     "D": 2,
     "DEST": "LONDON",
     "DRAUGHT": 2,
@@ -767,17 +767,17 @@
     "HEADING": 262,
     "IMO": 1022237,
     "LATITUDE": 51.4946,
-    "LONGITUDE": 0.02771,
+    "LONGITUDE": 0.02773,
     "MMSI": 232055631,
     "NAME": "REBELLE 1",
     "NAVSTAT": 5,
     "PAC": 1,
-    "ROT": 1,
-    "SOG": 0,
-    "TIME": "2026-11-20 02:18:28 GMT",
+    "ROT": 2,
+    "SOG": 0.1,
+    "TIME": "2026-11-20 03:15:30 GMT",
     "TYPE": 1,
-    "last_seen": "2026-11-20T01:14:53.048051",
+    "last_seen": "2026-11-20T02:19:56.255952",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-20T02:19:56.255952"
+  "last_seen": "2026-11-20T03:17:06.797624"
 }
