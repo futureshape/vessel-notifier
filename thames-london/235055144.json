@@ -735,17 +735,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50407,
-    "LONGITUDE": -0.07281,
+    "LONGITUDE": -0.07282,
     "MMSI": 235055144,
     "NAME": "EDWARDIAN",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-20 08:19:05 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-11-20 09:16:25 GMT",
     "TYPE": 60,
-    "last_seen": "2026-11-20T07:17:14.664848",
+    "last_seen": "2026-11-20T08:19:29.893302",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-20T08:19:29.893302"
+  "last_seen": "2026-11-20T09:16:31.725054"
 }
