@@ -754,21 +754,21 @@
     "D": 7,
     "DEST": "",
     "DRAUGHT": 0,
-    "ETA": "11-30 00:00",
+    "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50711,
-    "LONGITUDE": -0.07844,
+    "LATITUDE": 51.48406,
+    "LONGITUDE": -0.0095,
     "MMSI": 235052106,
     "NAME": "MILLENNIUM TIME",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-21 14:14:07 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-11-21 15:12:38 GMT",
     "TYPE": 99,
-    "last_seen": "2026-11-21T13:12:54.065673",
+    "last_seen": "2026-11-21T14:14:19.824096",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-21T14:14:19.824096"
+  "last_seen": "2026-11-21T15:12:38.714181"
 }
