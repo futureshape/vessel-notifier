@@ -226,7 +226,7 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MLD03",
-    "COG": 360,
+    "COG": 245.6,
     "D": 0,
     "DEST": "",
     "DRAUGHT": 0,
@@ -234,17 +234,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50264,
-    "LONGITUDE": -0.05807,
+    "LONGITUDE": -0.05805,
     "MMSI": 232041097,
     "NAME": "GABRIEL FRANKS 3",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.1,
-    "TIME": "2026-11-21 10:13:08 GMT",
+    "SOG": 0.3,
+    "TIME": "2026-11-21 11:10:07 GMT",
     "TYPE": 55,
-    "last_seen": "2026-11-21T09:14:47.299395",
+    "last_seen": "2026-11-21T10:13:58.212511",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-21T10:13:58.212511"
+  "last_seen": "2026-11-21T11:12:34.637735"
 }
