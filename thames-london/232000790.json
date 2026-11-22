@@ -475,32 +475,33 @@
     "2026-11-18",
     "2026-11-19",
     "2026-11-20",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22"
   ],
   "last_full_data": {
     "A": 8,
     "B": 91,
     "C": 16,
     "CALLSIGN": "MLLN8",
-    "COG": 163.3,
+    "COG": 218.2,
     "D": 1,
-    "DEST": "W.THURROCK",
-    "DRAUGHT": 4,
-    "ETA": "11-21 09:30",
+    "DEST": "GBCHN",
+    "DRAUGHT": 6.2,
+    "ETA": "11-22 07:30",
     "HEADING": 105,
     "IMO": 8902278,
     "LATITUDE": 51.49537,
-    "LONGITUDE": 0.02385,
+    "LONGITUDE": 0.02384,
     "MMSI": 232000790,
     "NAME": "CITY OF WESTMINSTER",
-    "NAVSTAT": 0,
+    "NAVSTAT": 5,
     "PAC": 1,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-11-21 08:16:52 GMT",
+    "TIME": "2026-11-22 08:15:04 GMT",
     "TYPE": 33,
-    "last_seen": "2026-11-21T07:14:41.425786",
+    "last_seen": "2026-11-21T08:17:17.520134",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-21T08:17:17.520134"
+  "last_seen": "2026-11-22T08:17:59.953360"
 }

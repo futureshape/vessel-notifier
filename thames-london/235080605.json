@@ -679,21 +679,21 @@
     "D": 1,
     "DEST": "",
     "DRAUGHT": 0,
-    "ETA": "11-30 00:00",
+    "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50967,
-    "LONGITUDE": -0.11714,
+    "LATITUDE": 51.50968,
+    "LONGITUDE": -0.11715,
     "MMSI": 235080605,
     "NAME": "RNLI LIFEBOAT E 07",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-22 07:14:29 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-11-22 08:17:50 GMT",
     "TYPE": 51,
-    "last_seen": "2026-11-22T06:22:28.164599",
+    "last_seen": "2026-11-22T07:14:46.181294",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-22T07:14:46.181294"
+  "last_seen": "2026-11-22T08:17:59.944640"
 }
