@@ -1,32 +1,33 @@
 {
   "dates_seen": [
     "2026-08-07",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
   ],
   "last_full_data": {
     "A": 91,
     "B": 26,
     "C": 3,
     "CALLSIGN": "PGAA",
-    "COG": 192.8,
+    "COG": 165.2,
     "D": 15,
-    "DEST": "DREDGE AREA",
+    "DEST": "NE SPIT",
     "DRAUGHT": 6.4,
-    "ETA": "11-17 01:00",
-    "HEADING": 281,
+    "ETA": "11-21 18:00",
+    "HEADING": 105,
     "IMO": 9285366,
-    "LATITUDE": 51.49556,
-    "LONGITUDE": 0.02467,
+    "LATITUDE": 51.49605,
+    "LONGITUDE": 0.02191,
     "MMSI": 244476000,
     "NAME": "SCELVERINGHE",
     "NAVSTAT": 0,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-11-16 12:28:24 GMT",
+    "TIME": "2026-11-23 09:20:57 GMT",
     "TYPE": 33,
-    "last_seen": "2026-11-16T11:19:49.171727",
+    "last_seen": "2026-11-16T12:28:24.274686",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-16T12:28:24.274686"
+  "last_seen": "2026-11-23T09:21:22.154827"
 }
