@@ -587,18 +587,18 @@
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50707,
-    "LONGITUDE": -0.07107,
+    "LATITUDE": 51.50708,
+    "LONGITUDE": -0.07108,
     "MMSI": 235069936,
     "NAME": "BLUE SKY",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-23 18:15:08 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-11-23 19:12:08 GMT",
     "TYPE": 37,
-    "last_seen": "2026-11-23T17:14:11.069903",
+    "last_seen": "2026-11-23T18:17:19.339550",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-23T18:17:19.339550"
+  "last_seen": "2026-11-23T19:12:29.665451"
 }
