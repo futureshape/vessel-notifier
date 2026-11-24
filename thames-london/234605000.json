@@ -1,0 +1,41 @@
+{
+  "dates_seen": [
+    "2026-11-24"
+  ],
+  "last_full_data": {
+    "A": 24,
+    "B": 56,
+    "C": 7,
+    "CALLSIGN": "GAAD",
+    "COG": 265.2,
+    "D": 7,
+    "DEST": "0",
+    "DRAUGHT": 5,
+    "ETA": "12-01 01:00",
+    "HEADING": 265,
+    "IMO": 9261322,
+    "LATITUDE": 51.48527,
+    "LONGITUDE": -0.01089,
+    "MMSI": 234605000,
+    "NAME": "HMS TYNE",
+    "NAVSTAT": 0,
+    "PAC": 0,
+    "ROT": 0,
+    "SOG": 8.9,
+    "TIME": "2026-11-24 13:15:50 GMT",
+    "TYPE": 35,
+    "last_seen": null,
+    "received_by_stations": [
+      2103,
+      2258,
+      2648,
+      3129,
+      3416,
+      3811,
+      3999,
+      4025,
+      4477
+    ]
+  },
+  "last_seen": "2026-11-24T13:15:51.581230"
+}
