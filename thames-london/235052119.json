@@ -724,21 +724,21 @@
     "D": 7,
     "DEST": "",
     "DRAUGHT": 0,
-    "ETA": "00-00 00:00",
+    "ETA": "11-30 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.50134,
-    "LONGITUDE": -0.12312,
+    "LATITUDE": 51.50127,
+    "LONGITUDE": -0.0585,
     "MMSI": 235052119,
     "NAME": "MILLENIUM OF PEACE",
     "NAVSTAT": 0,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-26 17:13:55 GMT",
+    "SOG": 0.1,
+    "TIME": "2026-11-26 18:18:13 GMT",
     "TYPE": 60,
-    "last_seen": "2026-11-26T16:17:13.731680",
+    "last_seen": "2026-11-26T17:14:04.080581",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-26T17:14:04.080581"
+  "last_seen": "2026-11-26T18:18:37.304051"
 }
