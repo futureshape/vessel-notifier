@@ -1,31 +1,32 @@
 {
   "dates_seen": [
-    "2026-11-25"
+    "2026-11-25",
+    "2026-11-26"
   ],
   "last_full_data": {
     "A": 13,
     "B": 14,
     "C": 3,
     "CALLSIGN": "2JHR8",
-    "COG": 321,
+    "COG": 296.8,
     "D": 9,
     "DEST": "GRAVESENT",
     "DRAUGHT": 2.9,
     "ETA": "11-25 06:00",
     "HEADING": 76,
     "IMO": 9803742,
-    "LATITUDE": 51.48423,
-    "LONGITUDE": -0.00883,
+    "LATITUDE": 51.48424,
+    "LONGITUDE": -0.00884,
     "MMSI": 235116011,
     "NAME": "FORTH WARRIOR",
     "NAVSTAT": 5,
     "PAC": 0,
     "ROT": 0,
     "SOG": 0,
-    "TIME": "2026-11-25 23:11:50 GMT",
+    "TIME": "2026-11-26 00:32:53 GMT",
     "TYPE": 52,
-    "last_seen": "2026-11-25T22:15:11.890375",
+    "last_seen": "2026-11-25T23:13:45.020748",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-25T23:13:45.020748"
+  "last_seen": "2026-11-26T00:34:49.001267"
 }
