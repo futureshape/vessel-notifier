@@ -8,29 +8,25 @@
     "B": 5,
     "C": 5,
     "CALLSIGN": "",
-    "COG": 264,
+    "COG": 234.9,
     "D": 5,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 456,
     "IMO": 0,
-    "LATITUDE": 51.48089,
-    "LONGITUDE": 0.03186,
+    "LATITUDE": 51.48022,
+    "LONGITUDE": 0.03459,
     "MMSI": 260602581,
-    "NAME": "TRACKERTEST1-51%",
+    "NAME": "TRACKERTEST1-50%",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0.4,
-    "TIME": "2026-11-27 21:13:41 GMT",
+    "SOG": 1.3,
+    "TIME": "2026-11-27 22:14:45 GMT",
     "TYPE": 0,
-    "last_seen": "2026-06-04T19:49:17.023132",
-    "received_by_stations": [
-      2648,
-      3999,
-      4477
-    ]
+    "last_seen": "2026-11-27T21:14:05.015967",
+    "received_by_stations": []
   },
-  "last_seen": "2026-11-27T21:14:05.015967"
+  "last_seen": "2026-11-27T22:15:01.562263"
 }
