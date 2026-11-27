@@ -18,7 +18,7 @@
     "B": 5,
     "C": 3,
     "CALLSIGN": "GAAW",
-    "COG": 94.4,
+    "COG": 106.4,
     "D": 3,
     "DEST": "",
     "DRAUGHT": 0,
@@ -26,17 +26,17 @@
     "HEADING": 511,
     "IMO": 0,
     "LATITUDE": 51.50494,
-    "LONGITUDE": -0.07107,
+    "LONGITUDE": -0.07104,
     "MMSI": 232002940,
     "NAME": "HMS PUNCHER",
     "NAVSTAT": 15,
     "PAC": 1,
     "ROT": 128,
-    "SOG": 0,
-    "TIME": "2026-11-27 19:12:06 GMT",
+    "SOG": 0.2,
+    "TIME": "2026-11-27 20:12:06 GMT",
     "TYPE": 35,
-    "last_seen": "2026-11-27T18:17:59.693924",
+    "last_seen": "2026-11-27T19:12:11.609976",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-27T19:12:11.609976"
+  "last_seen": "2026-11-27T20:15:03.402374"
 }
