@@ -7,31 +7,25 @@
     "B": 6,
     "C": 2,
     "CALLSIGN": "MTIL6",
-    "COG": 10.1,
+    "COG": 306.1,
     "D": 2,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
     "HEADING": 511,
     "IMO": 0,
-    "LATITUDE": 51.49975,
-    "LONGITUDE": -0.02891,
+    "LATITUDE": 51.5047,
+    "LONGITUDE": -0.07134,
     "MMSI": 232002689,
     "NAME": "FLYING SQUIRREL",
     "NAVSTAT": 15,
     "PAC": 0,
     "ROT": 128,
-    "SOG": 5.5,
-    "TIME": "2026-11-27 12:21:46 GMT",
+    "SOG": 6.3,
+    "TIME": "2026-11-27 13:14:17 GMT",
     "TYPE": 37,
-    "last_seen": null,
-    "received_by_stations": [
-      2258,
-      2648,
-      3999,
-      4025,
-      4477
-    ]
+    "last_seen": "2026-11-27T12:21:50.073615",
+    "received_by_stations": []
   },
-  "last_seen": "2026-11-27T12:21:50.073615"
+  "last_seen": "2026-11-27T13:14:58.193735"
 }
