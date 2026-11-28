@@ -350,12 +350,12 @@
     "B": 0,
     "C": 0,
     "CALLSIGN": "MPNW8",
-    "COG": 11.1,
+    "COG": 0,
     "D": 4,
     "DEST": "",
     "DRAUGHT": 0,
     "ETA": "00-00 00:00",
-    "HEADING": 127,
+    "HEADING": 131,
     "IMO": 0,
     "LATITUDE": 51.4626,
     "LONGITUDE": -0.31723,
@@ -363,12 +363,12 @@
     "NAME": "CHELSEA",
     "NAVSTAT": 0,
     "PAC": 0,
-    "ROT": 3,
-    "SOG": 0.3,
-    "TIME": "2026-11-28 07:14:21 GMT",
+    "ROT": 12,
+    "SOG": 0,
+    "TIME": "2026-11-28 08:16:33 GMT",
     "TYPE": 99,
-    "last_seen": "2026-11-27T16:16:46.768513",
+    "last_seen": "2026-11-28T07:14:47.106011",
     "received_by_stations": []
   },
-  "last_seen": "2026-11-28T07:14:47.106011"
+  "last_seen": "2026-11-28T08:17:30.937969"
 }
